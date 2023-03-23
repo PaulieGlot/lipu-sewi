@@ -72,3 +72,27 @@ James,5
 3 John,1
 Jude,1
 Revelation,22
+
+
+#Apocrypha
+
+Tobit
+Judith
+Esther Additions
+Wisdom of Solomon
+Sirach
+Baruch
+Epistle of Jeremiah
+Azariah
+Sussana
+Bel and the Dragon
+1 Maccabees
+2 Maccabees
+1 Esdras
+Prayer of Manasseh
+Enoch
+Psalm 151
+3 Maccabees
+2 Esdras
+4 Maccabees
+Jubillees
