@@ -1,6 +1,7 @@
 #!/bin/sh
 let line_number=0
 rm full.md
+let verse_count=0
 while read -r line; do
     let line_number+=1
     # Ignore empty or commented lines.
@@ -27,6 +28,7 @@ while read -r line; do
             printf "### $book $chapter\n\n" >> full.md
             while read -r verse; do
                 printf "$verse\n\n" >> full.md
+                let verse_count+=1
             done <"$file"
             echo >> full.md
             let chapter+=1
@@ -37,3 +39,4 @@ while read -r line; do
     # This is only reachable if the line is not of a known format.
     echo "Error: unrecognised line format: line $line_number: \`$line\`"
 done <chapters.txt
+echo "$verse_count verses completed."
