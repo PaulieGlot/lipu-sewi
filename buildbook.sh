@@ -17,7 +17,7 @@ while read -r line; do
         book=${BASH_REMATCH[1]}
         let chapter=${BASH_REMATCH[2]}
 
-        echo $section $book $chapter
+        echo "In $section: $book, $chapter chapters"
         [[ ! -d "./$section/$book" ]] && mkdir "./$section/$book"
         while [[ $chapter > 0 ]]; do
             touch "./$section/$book/$chapter.txt"
