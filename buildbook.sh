@@ -11,7 +11,7 @@ while read -r line; do
     [[ $line =~ ^#(.*)$ ]] && {
         section=${BASH_REMATCH[1]}
         [[ ! -d "./$section" ]] && mkdir "./$section"
-        printf "# $section\n\n" >> full.md
+        printf "# $section\n\n" >>full.md
         continue
     }
     # Recognise book titles and chapter counts, which are separated by a comma (with no following space).
@@ -19,18 +19,18 @@ while read -r line; do
         book=${BASH_REMATCH[1]}
         let chapters=${BASH_REMATCH[2]}
         echo "In $section: $book, $chapters chapters"
-        printf "## $book\n\n" >> full.md
+        printf "## $book\n\n" >>full.md
         [[ ! -d "./$section/$book" ]] && mkdir "./$section/$book"
         let chapter=1
         while [[ $chapter -le $chapters ]]; do
             file="./$section/$book/$chapter.txt"
             touch "$file"
-            printf "### $book $chapter\n\n" >> full.md
+            printf "### $book $chapter\n\n" >>full.md
             while read -r verse; do
-                printf "$verse\n\n" >> full.md
+                printf "$verse\n\n" >>full.md
                 let verse_count+=1
             done <"$file"
-            echo >> full.md
+            echo >>full.md
             let chapter+=1
         done
         continue
