@@ -3,7 +3,7 @@ nena	| Sijon	| Zion
 ma	| Isale	| Israel
 telo tawa	| Jaten	| Jordan
 ma	| Kusi	| Kush
-ma	| Misa	| Egypt
+ma	| Misalin	| Egypt
 ma	| Kanan	| Canaan
 ma 	| Mopa	| Moab
 ma	| Emowa	| Gomorrah
