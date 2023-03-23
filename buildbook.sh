@@ -13,7 +13,7 @@ while read -r line; do
     }
 
     # Recognise book titles and chapter counts, which are separated by a comma (with no following space).
-    [[ $line =~ ^([^,]*),([0-9]*)$ ]] && {
+    [[ $line =~ ^([^,]*),([0-9]+)$ ]] && {
         book=${BASH_REMATCH[1]}
         let chapter=${BASH_REMATCH[2]}
 
