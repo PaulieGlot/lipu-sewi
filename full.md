@@ -4844,6 +4844,8 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 ### Jude 1
 
+2: pona tawa sina. utala ala en olin o mute.
+
 
 ## Revelation
 
