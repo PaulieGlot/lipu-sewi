@@ -3889,6 +3889,8 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 ### Matthew 7
 
+21: ona li toki e ni tawa mi: lawa o, lawa o! ni la ona ale ala li tawa ma sewi. taso ona li pali e wile pi mama mi lon ma sewi la ona li tawa ma sewi.
+
 
 ### Matthew 8
 
@@ -4055,6 +4057,8 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 ### Mark 15
 
+34: tenpo nanpa 9 la jan Jesu li kalama uta e kalama suli ni: elowi, elowi, lema sapakitani? toki ante la ni: sewi mi o, sewi mi o, sina weka tan mi tan seme?
+
 
 ### Mark 16
 
@@ -4197,6 +4201,10 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 ### Luke 23
 
+ona li toki e ni tawa ona: mi toki e ni lon tawa sina: tenpo suno ni la sina en mi li kama lon ma pona.
+
+pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina la mi pana e kon mi. toki e ni la ona li pana e kon pini.
+
 
 ### Luke 24
 
@@ -4272,6 +4280,8 @@ lawa ale li jaki. pilin ale li wawa lili.
 ### John 19
 
 28: sinpin la jan Jesu li sona e ni: ale li pini.  kama lon pi lipu sewi la ona li toki e ni: mi wile moku e telo.
+
+30: jan Jesu li pini moku e telo nasa ike la, ona li toki e ni: ni li pali pini. ona li anpa e lawa ona, li pana e kon.
 
 
 ### John 20
@@ -4716,6 +4726,8 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 
 ### Hebrews 3
+
+7: tan ni la ni li sama toki pi kon sewi (Holy Spirit): sina kute e kalama ona lon tenpo suno ni la,
 
 
 ### Hebrews 4
