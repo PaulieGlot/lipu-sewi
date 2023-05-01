@@ -21,17 +21,17 @@ while read -r line; do
         echo "In $section: $book, $chapters chapters"
         printf "## $book\n\n" >>full.md
         [[ ! -d "./$section/$book" ]] && mkdir "./$section/$book"
-        let chapter=1
-        while [[ $chapter -le $chapters ]]; do
+        let chaptername=1
+        for chapter in $(seq -f "%04g" 1 $chapters); do
             file="./$section/$book/$chapter.txt"
             touch "$file"
-            printf "### $book $chapter\n\n" >>full.md
+            printf "### $book $chaptername\n\n" >>full.md
             while read -r verse; do
                 printf "$verse\n\n" >>full.md
                 let verse_count+=1
             done <"$file"
             echo >>full.md
-            let chapter+=1
+            let chaptername+=1
         done
         continue
     }
