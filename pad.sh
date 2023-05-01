@@ -23,6 +23,7 @@ while read -r line; do
         for chapter in $(seq -f "%04g" 1 $chapters); do
             file="./$section/$book/$chapter.txt"
             oldfile="./$section/$book/$oldname.txt"
+            echo "renaming '$oldfile' to '$file'"
             mv "$oldfile" "$file"
             let oldname+=1
         done
