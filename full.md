@@ -124,6 +124,10 @@
 12: sewi Jawe li lukin e ma. ona li pakala kin tan ni: ale li pakala e pali ona lon ma.
 
 
+
+14: o pali e tomo tawa telo kepeken kasi kiwen. tomo ni o jo e poka mute. ko pi weka telo o lon selo tomo.
+
+
 ### Genesis 7
 
 
@@ -865,6 +869,8 @@
 
 3: jan lawa li toki lawa tawa kulupu jan e ni: sina lukin e poki pi toki wan pi sewi sina Jawe e jan pali sewi Lewi pi tawa ona la, sina o tawa tan ma awen sina o tawa monsi ona.
 
+
+
 5: jan Jejosuwa li toki tawa kulupu jan e ni: o kama sewi tan ni: tenpo suno kama la, sewi Jawe li pali e pali suli pona lon sina.
 
 6: jan Jejosuwa li toki tawa jan pi pali sewi e ni: o tawa e poki pi toki wan, o tawa sinpin kulupu. ni la, jan pi pali sewi li tawa e poki pi toki wan, li tawa sinpin kulupu.
@@ -885,8 +891,18 @@
 
 14: kulupu li tawa tan tomo ona pi tenpo lili li wile tawa poke ante pi telo tawa Jaten la, jan pali sewi pi tawa e poki pi toki wan li tawa lon sinpin kulupu.
 
+15: jan pi tawa e poki li kama lon telo tawa Jaten la, ona li kama insa linja pini telo. tenpo pi lanpan pan la, telo tawa Jaten li kama suli tawa linja ona.
+
+16: telo pi tawa anpa li awen li kama palisa sewi wan lon ma weka mute ni: ma tomo Atan li lon poka ma tomo Santan. telo li anpa tawa telo suli Alapa anu telo suli pi namako kiwen li pini li kama kipisi. ni la, kulupu jan li tawa lon sinpin ma tomo Jeliko.
+
+17: jan pali sewi li tawa e poki wan pi sewi Jawe li awen lon ma pi telo ala lon insa pi telo tawa Jaten li awen wawa. kulupu Isale li tawa lon ma pi telo ala la, kulupu ale li pini e tawa lon poka ante pi telo tawa Jaten.
+
 
 ### Joshua 4
+
+1: kulupu li pini e tawa lon poka ante pi telo tawa Jaten la, sewi Jawe li toki tawa jan Jejosuwa e ni:
+
+2: o alasa tawa ona e jan 12. jan 12 li jan wan tan kulupu lili wan li jan wan tan kulupu lili ante.
 
 
 ### Joshua 5
@@ -1081,6 +1097,8 @@
 4: tenpo suno pi pana sewi la jan Elekana li pana e kipisi mute tawa meli olin lawa ona Panina tawa jan lili mije pi jan Panina tawa jan lili meli pi jan Panina.
 
 5: taso ona li pana e kipisi wan sin tawa jan Ana tan ni: jan Elekana li olin e jan Ana. taso tenpo pini la sewi Jawe li pini e insa mama meli ona.
+
+6: o alasa tawa ona e jan 12. jan 12 li jan wan tan kulupu lili wan li jan wan tan kulupu lili ante.
 
 
 ### 1 Samuel 2
@@ -3538,6 +3556,8 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 ### Joel 1
 
+9: moku en telo tawa sewi li pini lon tomo pi sewi Jawe. jan pali pi sewi Jawe li pilin ike a. 
+
 
 ### Joel 2
 
@@ -3886,6 +3906,16 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 ### Matthew 6
 
+9: ni la o toki sewi ni: mama sewi mi lon sewi o, nimi sina o sewi.
+
+10: ma sina o kama. wile sina o kama, lon ma sama lon sewi.
+
+11: tenpo ni la o pana tawa mi e pan pi tenpo ni
+
+
+
+13: o lawa ala e mi tawa wile ike. taso o weka e mi tan ike. o awen.
+
 
 ### Matthew 7
 
@@ -4053,6 +4083,12 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 
 ### Mark 14
+
+1: tenpo li kama tawa tenpo musi pi pan kon ala. mute pi jan sewi en jan sona li alasa e ni: ona li jo li moli e jan Jesu.
+
+2: ona mute li toki e ni: tenpo musi la o ala tan ni: pakala nasin pi kulupu jan li kama
+
+3: tomo pi jan jaki Simon pi ma Petani la jan Jesu li awen. Jan meli li kama. Ona li jo e poki pi ko mani mute. ona li pakala e poki la ona li pana e ko tawa lawa pi jan Jesu.
 
 
 ### Mark 15
@@ -4397,6 +4433,12 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 
 ### Romans 4
 
+18: utala e pilin awen la ona li pilin awen. tawa ni la ona li kama mama pi ma lawa ale sama toki ni: mije sin sina li kin.
+
+19: pilin ona li wawa la ona li sona e ni: sijelo ona li sama moli tan tenpo sike 100 anu poka. insa meli li jan Sala li moli kin.
+
+20: taso ona li awen e pilin tawa toki sewi, li wawa e pilin, li pana e suli tawa sewi.
+
 
 ### Romans 5
 
@@ -4479,6 +4521,8 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 
 
 ### 1 Corinthians 15
+
+15: jan sama mi o, mi pana sona e toki pona pi pana mi tawa sina. ona la sina kama jo, li lon wawa.
 
 
 ### 1 Corinthians 16
@@ -4582,6 +4626,10 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 ## Colossians
 
 ### Colossians 1
+
+1: lipu ni li tan jan toki Polo pi jan Jesu, lon wile pi mama Sewi, li tan jan sama mi Temotejo, 
+
+2: li tawa jan sewi lon ma tomo Kolose, tawa jan sama kute pi jan Jesu. pona tawa sina. lape pona pi sewi Mama mi tawa sina.
 
 
 ### Colossians 2
@@ -4729,6 +4777,8 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 
 7: tan ni la ni li sama toki pi kon sewi (Holy Spirit): sina kute e kalama ona lon tenpo suno ni la,
 
+8: o kiwen ala e pilin sina sama weka lon tenpo suno ike lon ma weka
+
 
 ### Hebrews 4
 
@@ -4763,6 +4813,14 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 ## James
 
 ### James 1
+
+1: mi jan Jakopo. mi jan pali pi jan sewi li jan pali pi jan Jesu. mi toki tawa kulupu luka luka tu. ona li lon ma weka mute. toki.
+
+2: sina kama tawa utala la, jan sama mi o jo e pilin pona.
+
+3: o sona e ni: wile sona pi pilin sina li pali e ken awen.
+
+4: o ken e ni: ken awen li pali pi pini pona la, sina pini pona, li pini ale, lon weka pi ijo ala.
 
 
 ### James 2
