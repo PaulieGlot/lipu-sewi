@@ -27,8 +27,10 @@ while read -r line; do
             touch "$file"
             printf "### $book $chaptername\n\n" >>full.md
             while read -r verse; do
-                printf "$verse\n\n" >>full.md
-                let verse_count+=1
+                [[ $verse != "" ]] && {
+                    printf "$verse\n\n" >>full.md
+                    let verse_count+=1
+                }
             done <"$file"
             echo >>full.md
             let chaptername+=1

@@ -123,8 +123,6 @@
 
 12: sewi Jawe li lukin e ma. ona li pakala kin tan ni: ale li pakala e pali ona lon ma.
 
-
-
 14: o pali e tomo tawa telo kepeken kasi kiwen. tomo ni o jo e poka mute. ko pi weka telo o lon selo tomo.
 
 
@@ -868,8 +866,6 @@
 2: tenpo suno tu wan li pini la, jan lawa li tawa lon ma tomo pi awen lili.
 
 3: jan lawa li toki lawa tawa kulupu jan e ni: sina lukin e poki pi toki wan pi sewi sina Jawe e jan pali sewi Lewi pi tawa ona la, sina o tawa tan ma awen sina o tawa monsi ona.
-
-
 
 5: jan Jejosuwa li toki tawa kulupu jan e ni: o kama sewi tan ni: tenpo suno kama la, sewi Jawe li pali e pali suli pona lon sina.
 
@@ -3910,9 +3906,7 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 10: ma sina o kama. wile sina o kama, lon ma sama lon sewi.
 
-11: tenpo ni la o pana tawa mi e pan pi tenpo ni
-
-
+11: tenpo ni la o pana tawa mi e pan pi tenpo ni.
 
 13: o lawa ala e mi tawa wile ike. taso o weka e mi tan ike. o awen.
 
