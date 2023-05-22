@@ -2140,6 +2140,10 @@
 
 ### Psalms 23
 
+1: sewi Jawe li jan mi pi awen soweli. mi o wile ala
+
+2: lon ma kasi laso la ona li anpa e mi. lon poka pi telo lape la ona li nasin e mi. 
+
 
 ### Psalms 24
 
@@ -4516,7 +4520,9 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 
 ### 1 Corinthians 15
 
-15: jan sama mi o, mi pana sona e toki pona pi pana mi tawa sina. ona la sina kama jo, li lon wawa.
+1: jan sama mi o, mi pana sona e toki pona pi pana mi tawa sina. ona la sina kama jo, li lon wawa.
+
+2: sina awen wawa e toki pi pana pona mi tawa sina la sina kama awen kin. sina awen wawa ala la sina pilin tan ala. 
 
 
 ### 1 Corinthians 16
@@ -4624,6 +4630,8 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 1: lipu ni li tan jan toki Polo pi jan Jesu, lon wile pi mama Sewi, li tan jan sama mi Temotejo, 
 
 2: li tawa jan sewi lon ma tomo Kolose, tawa jan sama kute pi jan Jesu. pona tawa sina. lape pona pi sewi Mama mi tawa sina.
+
+3: mi pana e toki pona tawa sewi mama pi lawa Jesu mi. tenpo ale la, mi toki tawa mama sewi tan sina.
 
 
 ### Colossians 2
@@ -4815,6 +4823,8 @@ pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina 
 3: o sona e ni: wile sona pi pilin sina li pali e ken awen.
 
 4: o ken e ni: ken awen li pali pi pini pona la, sina pini pona, li pini ale, lon weka pi ijo ala.
+
+5: jan tan sina mute li jo ala e sona la, ona o toki tawa jan sewi. jan sewi li pana pona tawa ale li toki ike ala tawa ona. sona li kama tawa ona.
 
 
 ### James 2
