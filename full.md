@@ -2633,21 +2633,9 @@
 
 4: kulupu sike li tawa. kulupu sike li kama. taso, ma li sama lon tenpo ale
 
-6: kon li tawa anpa ma
+6: kon li tawa anpa ma li tawa sewi ma. kon li tawa sike li kama sike sin.
 
-li tawa sewi ma.
-
-kon li tawa sike
-
-li kama sike sin.
-
-7: telo linja li tawa lon telo suli.
-
-taso telo suli li ale ala.
-
-tawa ma pi open pi telo linja la
-
-lon la ona li kama sin.
+7: telo linja li tawa lon telo suli. taso telo suli li ale ala. tawa ma pi open pi telo linja la lon la ona li kama sin.
 
 10: ijo li toki e ni: ni li sin. taso, ni li sin ala. jan pi tenpo pini li jo e ni.
 
@@ -2723,11 +2711,7 @@ lon la ona li kama sin.
 
 4: a! ona li pali ike, li jan kulupu pakala, li pan jan ike, li lawa pi jan ante tawa pakala. ona li weka tan sewi Jawe; ona li pali e ni: sewi wan tan ma Isale li pilin utala ona li sinpin e monsi
 
-5: utala li kama tawa sina tan seme?
-
-sina li awen e weka tan lawa
-
-lawa ale li jaki. pilin ale li wawa lili.
+5: utala li kama tawa sina tan seme? sina awen weka tan lawa. lawa ale li jaki. pilin ale li wawa lili.
 
 6: tan anpa supa tawa sewi lawa. ale ni li pakala li jo jaki li jo jaki open li jo ala e misikeke len li jo ala e misikeke telo
 
@@ -4235,9 +4219,7 @@ lawa ale li jaki. pilin ale li wawa lili.
 
 ### Luke 23
 
-ona li toki e ni tawa ona: mi toki e ni lon tawa sina: tenpo suno ni la sina en mi li kama lon ma pona.
-
-pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina la mi pana e kon mi. toki e ni la ona li pana e kon pini.
+43: ona li toki e ni tawa ona: mi toki e ni lon tawa sina: tenpo suno ni la sina en mi li kama lon ma pona.
 
 
 ### Luke 24
