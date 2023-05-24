@@ -74,3 +74,4 @@ jan mije	| Tema	| Demas
 jan mije	| Luka	| Luke
 jan mije	| Isaka	| Isaac
 jan mije | Awalon | Aaron
+jan mije | Lasalo | Lazarus
