@@ -512,6 +512,8 @@
 
 ### Leviticus 17
 
+1: sewi Jawe li toki tawa jan Mose e ni:
+
 
 ### Leviticus 18
 
