@@ -61,7 +61,7 @@ kulupu	| Palisajo	| Pharisees
 jan	| Amita	| Amittai
 ante	| Satan	| Satan
 kulupu jan	| Sepa	| Sabeans
-kulupu jan	| Kasitin	| Chaldeans
+kulupu jan	| Katajan	| Chaldeans
 jan mije	| Polo	| Paul
 jan mije	| Temotejo	| Timothy
 jan mije	| Pilemon	| Philemon
