@@ -1,7 +1,7 @@
 # lipu-sewi
 A long-standing project to translate the Bible into toki pona.
 
-# I'm interested in contributing!
+#I'm interested in contributing!
 That's awesome, but don't try to do it here! <a href="https://discord.gg/THwvq3khFN">Come visit our Discord server and join the conversation.</a>
 
 For security reasons we will not be accepting pull requests outside of a few trusted individuals within the group. All other pull requests will be closed and deleted.
