@@ -25,6 +25,7 @@ while read -r line; do
         for chapter in $(seq -f "%04g" 1 $chapters); do
             file="./$section/$book/$chapter.txt"
             touch "$file"
+            [[ $(tail -c 1 "$file") != "" ]] && echo >> "$file"
             printf "### $book $chaptername\n\n" >>full.md
             while read -r verse; do
                 [[ $verse != "" ]] && {
