@@ -1116,12 +1116,20 @@
 
 19: ona tu li tawa ma tomo Petelen. ona li kama lon ma tomo Petelen la, ma tomo li kalama tan ona, li toki e ni: ni li meli Najomi anu seme?
 
-20: meli li toki tawa ona e ni: o nimi ala e mi meli Najomi. o nimi e mi Mala tan ni: sewi Sata li pakala mute tawa mi.
+20: meli li toki tawa ona e ni: o pana ala tawa mi e nimi pi meli Najomi. o pana tawa mi e nimi Mala tan ni: sewi Sata li pakala mute e mi.
 
-21: mi tawa la, mi suli. sewi Jawe li tawa tan e mi la, mi jo e ala. sina nimi e mi meli Najomi tan seme? sewi Jawi li toki tan tawa mi. sewi Sata li pakala tawa mi.
+21: mi tawa la, mi suli. sewi Jawe li kama sin e mi la, mi jo e ala. tan seme la sina pana tawa mi e nimi Najomi? sewi Jawe li pana e toki lon mi. sewi Sata li pakala e mi.
+
+22: ni la jan Najomi en meli Lu pi mije sin ona tan ma Sete Mowa li kama sin. ona li kama lon ma Petelen lon tenpo open pi alasa pan.
 
 
 ### Ruth 2
+
+4: lon a la, jan Powa li kama tan ma Petelen li toki tawa jan kipisi e ni: sewi Jawe li lon ona. ni la, jan kipisi li toki tawa ona e ni: sewi Jawe o pona e sina.
+
+5: jan pali ona li lukin lawa e jan kipisi la, jan Powa li toki tawa ona e ni: meli lili ni li tan jan seme?
+
+8: jan Powa li toki tawa jan Lu e ni: o tawa ala o alasa ala lon ma kasi ante. kin la, o tawa ala tan ma kasi ni. o awen lon meli pali mi.
 
 
 ### Ruth 3
