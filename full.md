@@ -1125,9 +1125,15 @@
 
 ### Ruth 2
 
+1: meli Najomi li sona e jan tan mije ona. jan ni li jan wawa pona tan kulupu mama pi jan Elimele. nimi ona li jan Powa.
+
+3: ona li tawa li kama li alasa lon ma kasi lon monsi pi jan kipisi. ni li kama: ona li kama lon ma pi jan Powa tan kulupu mama pi jan Elimele.
+
 4: lon a la, jan Powa li kama tan ma Petelen li toki tawa jan kipisi e ni: sewi Jawe li lon ona. ni la, jan kipisi li toki tawa ona e ni: sewi Jawe o pona e sina.
 
 5: jan pali ona li lukin lawa e jan kipisi la, jan Powa li toki tawa ona e ni: meli lili ni li tan jan seme?
+
+7: ona li toki e ni: mi o alasa o jo tan kulupu palisa pan lon monsi pi jan kipisi. tenpo pi kama suno li tawa tenpo ni pi tawa tomo la, ona li kama li awen.
 
 8: jan Powa li toki tawa jan Lu e ni: o tawa ala o alasa ala lon ma kasi ante. kin la, o tawa ala tan ma kasi ni. o awen lon meli pali mi.
 
@@ -3971,7 +3977,13 @@
 
 11: tenpo pi tawa wawa pi ma Papilon la, jan Josija li mama mama pi jan Jekonija li mama mama pi mije sama pi jan Jekonija.
 
-12:jan Papilon li tawa wawa e jan Isale tawa ma Papilon la, jan Jekonija li mama pi jan Sejatije. jan Sejatije li mama pi jan Selupape.
+12: jan Papilon li tawa wawa e jan Isale tawa ma Papilon la, jan Jekonija li mama pi jan Sejatije. jan Sejatije li mama pi jan Selupape.
+
+18: ni ale la jan Jesu li kama lon kepeken nasin ni: mama meli ona Malija en jan Jose li wile kama wan lon tenpo kama li kama ala wan, la jan ante li ken lukin e ni: kon sewi li pana e jan lon insa ona la ona li mama kama.
+
+19: jan Jose li mije ona li jan pona li wile ala e ni: jan ale li sona e pakala pi jan Malija. tan ni la jan Jose li wile weka len e ona.
+
+20: ona li lukin insa e ijo ni la jan toki sewi li suno lon lukin lape ona li toki e ni: mije Jose o! jan lili pi mama Tawi o! sina wan olin e sina tawa meli Malija la o pilin ala monsuta, tan ni: ijo sewi li kama lon ona tan kon.
 
 
 ### Matthew 2
@@ -4085,6 +4097,10 @@
 
 
 ### Matthew 22
+
+37: (jan Jesu) li toki e ni tawa ona: o olin e lawa sewi sina kepeken pilin ale sina, kepeken kon ale sina, kepeken lawa ale sina.
+
+38: ni li lawa suli, li lawa nanpa wan.
 
 
 ### Matthew 23
