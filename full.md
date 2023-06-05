@@ -1359,6 +1359,8 @@
 
 ### 1 Kings 11
 
+3: ona li jo e meli lawa 700 e meli poka 300. taso meli ona li ante e pilin ona.
+
 
 ### 1 Kings 12
 
