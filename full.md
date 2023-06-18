@@ -5106,6 +5106,8 @@
 
 4: taso mi jo e ni lon utala tawa sina: sina weka e olin sina nanpa wan.
 
+15: sama la sina jo e ona ni kin: ona li awen e sona pana pi jan Nikola.
+
 
 ### Revelation 3
 
