@@ -1137,6 +1137,12 @@
 
 8: jan Powa li toki tawa jan Lu e ni: o tawa ala o alasa ala lon ma kasi ante. kin la, o tawa ala tan ma kasi ni. o awen lon meli pali mi.
 
+14: jan Powa li toki tawa ona e ni: tenpo moku li kama la, o kama lon ma ni o moku e pan o pana e pan sina lon telo namako. ni la, ona li supa lon poka pi jan kipisi. mije li pana e pan tawa ona la, ona li moku, li pilin moku ala, li jo e moku awen.
+
+15: ona li tawa noka ona li tawa alasa e pan. jan Powa li toki lawa tawa jan pali ona e ni: ona li ken alasa lon kulupu pan kin. o ike ala e ona.
+
+16: kin la, o pana tan kulupu pan lili. o awen la, ona li alasa. o toki ike ala tawa ona.
+
 
 ### Ruth 3
 
@@ -5107,6 +5113,8 @@
 4: taso mi jo e ni lon utala tawa sina: sina weka e olin sina nanpa wan.
 
 15: sama la sina jo e ona ni kin: ona li awen e sona pana pi jan Nikola.
+
+24: ona li awen pi ma Tasila. ona li alasa ala e nasin ni. ona li toki e nimi ni: anpa pi jan Satan. ona li kama ala sona e nimi ni. mi toki tawa ona ni ale e ni: mi pana ala e ijo suli ike sin tawa ona.
 
 
 ### Revelation 3
