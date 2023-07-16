@@ -482,6 +482,8 @@
 
 ### Leviticus 1
 
+1: sewi Jawe li toki wile tawa jan Mose. ona li toki tawa ona tan tomo sewi pi tenpo lili. sewi Jawe li toki e ni:
+
 
 ### Leviticus 2
 
@@ -833,7 +835,7 @@
 
 3: noka sina li tawa ma la, mi pana e ma ni tawa sina mute. mi toki tawa jan Mose e sama.
 
-4: tan ma seli en ma Lepanon ni tawa telo tawa suli Pulatu. ma Itim ale tawa telo suli. ma pi kama suno li lon linja ma sina.
+4: tan ma seli en ma Lepanon ni tawa telo tawa suli Pulatu. ma Itin ale tawa telo suli. ma pi kama suno li lon linja ma sina.
 
 5: sina lon la, jan ala li awen lon sinpin sina. mi pilin sama tawa sina tawa jan Mose. mi tawa ala tan sina. mi weka ala tan sina.
 
@@ -841,7 +843,7 @@
 
 7: o wawa taso. o awen o pali ale e sona ni: jan pali mi Mose li toki lawa e ona tawa sina. o weka ala tan ni tawa poka wan anu poka ante. ni ale la, sina ken kama sona lon nasin ale sina.
 
-8: lipu sona ni li weka ala e uta sina. tenpo suno en tenpo pimeja la, o pilin sona tawa ona. ni la, sina ken pali ale e sona pi sitelen lon insa ona. ni la, sina kama pona pi nasin sina. ni la, sina kama sona.
+8: lipu sona ni li weka ala tan uta sina. tenpo suno en tenpo pimeja la, o pilin sona tawa ona. ni la, sina ken pali ale e sona pi sitelen lon insa ona. ni la, sina kama pona pi nasin sina. ni la, sina kama sona.
 
 9: mi toki lawa e ni tawa sina. o wawa taso. o pilin ala wawa ala. sewi Jawe sina li lon poka sina lon nasin ale sina.
 
@@ -2266,6 +2268,8 @@
 
 ### Psalms 33
 
+12: pona li tawa kulupu ni: sewi Jawe li sewi ona. kulupu la ona li wile e ona tawa kama jo ona.
+
 
 ### Psalms 34
 
@@ -2662,6 +2666,8 @@
 
 
 ### Proverbs 14
+
+34: pali pona li sewi e kulupu. taso pali pona mute tawa kulupu mute li pali ike.
 
 
 ### Proverbs 15
