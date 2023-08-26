@@ -1,3 +1,4 @@
+# pull a verse from a chapter file
 def get_verse(section, book, chapter, verse):
     filename = "%s/%s/%s.txt" % (section, book, f"{chapter:04}")
     try: file = open(filename)
@@ -12,8 +13,19 @@ def get_verse(section, book, chapter, verse):
 # pull all completed verses and errors when requested verses aren't found (somewhat slower)
 def check_verse_range(section, book, chapter, start_verse, end_verse):
     text = ""
+    errors = []
     for verse in range(start_verse, end_verse+1):
-        text += get_verse(section, book, chapter, verse)
+        checkverse = get_verse(section, book, chapter, verse)
+        if checkverse.startswith("error"):
+            errors.append(verse)
+            continue
+        text += checkverse
+    error = ""
+    if len(errors) > 0:
+        error = "error fetching verses: translations could not be found for verses "
+        for verse in errors:
+            error += "%i " % verse
+    text += error + "\n"
     return text
 
 
@@ -46,4 +58,4 @@ def get_verse_range(section, book, chapter, start_verse, end_verse):
     return text
 
 
-print(check_verse_range("Old Testament", "Genesis", 1, 1, 40))
+print(check_verse_range("Old Testament", "Genesis", 11, 1, 9))
