@@ -34,6 +34,13 @@ def get_verse_range(section, book, chapter, start_verse, end_verse):
     if text == "":
         return "error fetching verse range: chapter file `%s` contains no verses within the range %i - %i.\n\tbe sure you are using the same numbering system as this version, and that translations have been supplied for verses in the requested range." % (filename, start_verse, end_verse)
     return text
+    
+    
+def check_verse_range(section, book, chapter, start_verse, end_verse):
+    text = ""
+    for verse in range(start_verse, end_verse+1):
+        text += get_verse(section, book, chapter, verse)
+    return text
 
 
-print(get_verse_range("Old Testament", "Genesis", 11, 1, 9))
+print(check_verse_range("Old Testament", "Genesis", 11, 1, 9))
