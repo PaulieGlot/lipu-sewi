@@ -60,6 +60,7 @@ def check_verse_range(section, book, chapter, start_verse, end_verse):
     return text
 
 
+# get section name for a book
 def get_section_name(book):
     try: file = open("chapters.txt")
     except FileNotFoundError: return "error finding section name: chapters.txt file does not exist.\n\tmake sure that it is properly named and located!\n" % filename
@@ -70,4 +71,3 @@ def get_section_name(book):
         if line.startswith("%s," % book):
             return section
     return "error finding section name: book `%s` is not listed in chapters.txt.\n\tmake sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!" % book
-    
