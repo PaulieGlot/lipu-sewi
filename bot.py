@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 def get_verse(section, book, chapter, verse):
     filename = "Bible/%s/%s/%s.txt" % (section, book, f"{chapter:04}")
     try: file = open(filename)
-    except FileNotFoundError: return "error fetching verse: chapter file \"%s\" does not exist.\n\tcheck chapters.txt to see if it should!\n" % filename
     for line in file:
         prefix = "%i: " % verse
         if line.startswith(prefix):
