@@ -1,1 +1,3 @@
-bot/.env
+.env
+.venv
+.vscode

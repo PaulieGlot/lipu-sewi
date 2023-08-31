@@ -2,7 +2,7 @@ import os, sys, readline as pyreadline
 
 # pull a verse from a chapter file
 def get_verse(section, book, chapter, verse):
-    filename = "%s/%s/%s.txt" % (section, book, f"{chapter:04}")
+    filename = "Bible/%s/%s/%s.txt" % (section, book, f"{chapter:04}")
     try: file = open(filename)
     except FileNotFoundError: return "error fetching verse: chapter file `%s` does not exist.\n\tcheck chapters.txt to see if it should!\n" % filename
     for line in file:
@@ -14,7 +14,7 @@ def get_verse(section, book, chapter, verse):
 
 # quickly pull all completed verses within a chapter
 def get_chapter(section, book, chapter):
-    filename = "%s/%s/%s.txt" % (section, book, f"{chapter:04}")
+    filename = "Bible/%s/%s/%s.txt" % (section, book, f"{chapter:04}")
     try: file = open(filename)
     except FileNotFoundError: return "error fetching chapter: chapter file `%s` does not exist.\n\tcheck chapters.txt to see if it should!\n" % filename
     text = ""
@@ -25,7 +25,7 @@ def get_chapter(section, book, chapter):
 
 # quickly pull all completed verses within a range
 def get_verse_range(section, book, chapter, start_verse, end_verse):
-    filename = "%s/%s/%s.txt" % (section, book, f"{chapter:04}")
+    filename = "Bible/%s/%s/%s.txt" % (section, book, f"{chapter:04}")
     try: file = open(filename)
     except FileNotFoundError: return "error fetching verse range: chapter file `%s` does not exist.\n\tcheck chapters.txt to see if it should!\n" % filename
     text = ""
@@ -42,7 +42,7 @@ def get_verse_range(section, book, chapter, start_verse, end_verse):
 
 
 # pull all completed verses and errors when requested verses aren't found (somewhat slower)
-def check_verse_range(section, book, chapter, start_verse, end_verse):
+def check_verse_range(section, book, chapter, start_verse: int, end_verse: int):
     text = ""
     errors = []
     for verse in range(start_verse, end_verse+1):
@@ -62,12 +62,52 @@ def check_verse_range(section, book, chapter, start_verse, end_verse):
 
 # get section name for a book
 def get_section_name(book):
-    try: file = open("chapters.txt")
+    try: file = open("Bible/chapters.txt")
     except FileNotFoundError: return "error finding section name: chapters.txt file does not exist.\n\tmake sure that it is properly named and located!\n" % filename
     section = ""
     for line in file:
         if line.startswith("#"):
             section = line.removeprefix("#")
         if line.startswith("%s," % book):
-            return section
+            return section.removesuffix("\n")
     return "error finding section name: book `%s` is not listed in chapters.txt.\n\tmake sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!" % book
+
+
+import discord
+from discord import app_commands
+from dotenv import load_dotenv
+import os
+import random
+
+load_dotenv()
+TOKEN = os.getenv('DISCORD_TOKEN')
+GUILD_ID = os.getenv('GUILD_ID')
+
+intents = discord.Intents.default()
+intents.messages = True
+client = discord.Client(intents=intents)
+tree = app_commands.CommandTree(client)
+
+
+@tree.command(name="verse", description="pull a verse from the translated text", guild=discord.Object(id=GUILD_ID))
+async def verse(ctx, book: str, chapter: int, verse: int):
+    text = get_verse(get_section_name(book), book, chapter, verse)
+    if len(text) > 2000:
+        text = "error crafting message: requested range contains too many characters"
+    await ctx.response.send_message(text)
+
+
+@tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
+async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
+    text = get_verse_range(get_section_name(book), book, chapter, start_verse, end_verse)
+    if len(text) > 2000:
+        text = "error crafting message: requested range contains too many characters"
+    await ctx.response.send_message(text)
+
+
+@client.event
+async def on_ready():
+    await tree.sync(guild=discord.Object(id=GUILD_ID))
+    print("Ready!")
+
+client.run(TOKEN)
