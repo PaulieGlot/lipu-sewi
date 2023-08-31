@@ -3,7 +3,7 @@ from discord import app_commands
 from dotenv import load_dotenv
 
 # pull a verse from a chapter file
-def get_verse(section: str, book: str, chapter: int, verse: int):
+def get_verse(section, book, chapter, verse):
     filename = f"Bible/{section}/{book}/{chapter:04}.txt"
     try: file = open(filename)
     except FileNotFoundError: return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -15,7 +15,7 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
 
 
 # quickly pull all completed verses within a chapter
-def get_chapter(section: str, book: str, chapter: int):
+def get_chapter(section, book, chapter):
     filename = f"Bible/{section}/{book}/{chapter:04}.txt"
     try: file = open(filename)
     except FileNotFoundError: return "error fetching chapter: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -26,7 +26,7 @@ def get_chapter(section: str, book: str, chapter: int):
 
 
 # quickly pull all completed verses within a range
-def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
+def get_verse_range(section, book, chapter, start_verse, end_verse):
     filename = f"Bible/{section}/{book}/{chapter:04}.txt"
     try: file = open(filename)
     except FileNotFoundError: return "error fetching verse range: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -44,7 +44,7 @@ def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end
 
 
 # pull all completed verses and errors when requested verses aren't found (somewhat slower)
-def check_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
+def check_verse_range(section, book, chapter, start_verse, end_verse):
     text = ""
     errors = []
     for verse in range(start_verse, end_verse+1):
@@ -63,7 +63,7 @@ def check_verse_range(section: str, book: str, chapter: int, start_verse: int, e
 
 
 # get section name for a book
-def get_section_name(book: str):
+def get_section_name(book):
     try: file = open("Bible/chapters.txt")
     except FileNotFoundError: return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n" % filename
     section = ""
@@ -86,7 +86,7 @@ tree = app_commands.CommandTree(client)
 
 
 @tree.command(name="verse", description="pull a verse from the translated text", guild=discord.Object(id=GUILD_ID))
-async def verse(ctx, book: str, chapter: int, verse: int):
+async def verse(ctx, book, chapter, verse):
     section = get_section_name(book)
     if section.startswith("error"):
         await ctx.response.send_message(section)
@@ -98,7 +98,7 @@ async def verse(ctx, book: str, chapter: int, verse: int):
 
 
 @tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
-async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
+async def range(ctx, book, chapter, start_verse, end_verse):
     section = get_section_name(book)
     if section.startswith("error"):
         await ctx.response.send_message(section)
