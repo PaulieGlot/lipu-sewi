@@ -1,4 +1,6 @@
-import os, sys
+import os, sys, discord
+from discord import app_commands
+from dotenv import load_dotenv
 
 # pull a verse from a chapter file
 def get_verse(section, book, chapter, verse):
@@ -24,7 +26,7 @@ def get_chapter(section, book, chapter):
 
 
 # quickly pull all completed verses within a range
-def get_verse_range(section, book, chapter, start_verse, end_verse):
+def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
     filename = "Bible/%s/%s/%s.txt" % (section, book, f"{chapter:04}")
     try: file = open(filename)
     except FileNotFoundError: return "error fetching verse range: chapter file `%s` does not exist.\n\tcheck chapters.txt to see if it should!\n" % filename
@@ -42,7 +44,7 @@ def get_verse_range(section, book, chapter, start_verse, end_verse):
 
 
 # pull all completed verses and errors when requested verses aren't found (somewhat slower)
-def check_verse_range(section, book, chapter, start_verse: int, end_verse: int):
+def check_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
     text = ""
     errors = []
     for verse in range(start_verse, end_verse+1):
@@ -72,12 +74,6 @@ def get_section_name(book):
             return section.removesuffix("\n")
     return "error finding section name: book `%s` is not listed in chapters.txt.\n\tmake sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!" % book
 
-
-import discord
-from discord import app_commands
-from dotenv import load_dotenv
-import os
-import random
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
