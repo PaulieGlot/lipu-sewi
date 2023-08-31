@@ -1,4 +1,4 @@
-import os, sys, readline as pyreadline
+import os, sys
 
 # pull a verse from a chapter file
 def get_verse(section, book, chapter, verse):
