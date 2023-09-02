@@ -3846,7 +3846,7 @@
 
 9: sewi Jawe li toki e ni tawa jan Jona: kasi la, pilin ike sina li mute tawa sina anu seme? jan Jona li toki e ni: tawa moli mi la pilin ike mi li mute.
 
-10: sewi Jawe li toki e ni: sina pilin olin tawa kasi ni. taso sina pali ala tawa ona. sina sewi ala e ona. ona li kama kepeken tenpo pimeja wan, li moli kekepeken tenpo pimeja wan.
+10: sewi Jawe li toki e ni: sina pilin olin tawa kasi ni. taso sina pali ala tawa ona. sina sewi ala e ona. ona li kama kepeken tenpo pimeja wan, li moli kepeken tenpo pimeja wan.
 
 11: tan seme la mi o olin ala e ma tomo suli Ninawe ni? ma ni la jan mute li lon, li sona ala e poka wan tan poka ante. ma ni la soweli mute kin li lon.
 
