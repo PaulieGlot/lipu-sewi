@@ -3780,7 +3780,7 @@
 
 ### Jonah 2
 
-1: sewi Jawe li kama e kala suli, tawa ni: kala suli li moku e jan Jona. tenpo suno tu wan en tenpo pimeja tu wan la, ona li lon insa pi kala suli.
+1: sewi Jawe li kama e kala suli, tawa ni: kala suli li moku e jan Jona. tenpo suno tu wan en tenpo pimeja 3 la, ona li lon insa pi kala suli.
 
 2: jan Jona li toki sewi tawa sewi ona Jawe tan insa pi kala suli.
 
@@ -3790,9 +3790,9 @@
 
 5: mi toki e ni: mi kama weka tan lukin sina. taso mi lukin sin tawa tomo sewi sina.
 
-6: telo li lon poka ale mi tawa kon mi kin. lupa li pini lon mi. kasi telo li sike e lawa mi.
+6: telo li lon poka ale mi tawa kon mi. lupa li pini lon mi. kasi telo li sike e lawa mi.
 
-7: mi anpa tawa noka nena. sinpin awen ma li pini lon mi tawa tenpo ale. taso sina sewi e lon mi tan lupa, sewi Jawe mi o.
+7: mi anpa tawa noka nena. sinpin awen ma li pini tawa mi tawa tenpo ale. taso sina sewi e lon mi tan lupa, sewi Jawe mi o.
 
 8: lape li lanpan e mi la, mi sona e sewi Jawe. toki sewi mi li kama tawa sina, li kama tawa tomo sewi sina.
 
@@ -3809,7 +3809,7 @@
 
 2: o tawa ma tomo suli Ninawe, o toki wawa tawa ona e toki mi tawa sina.
 
-3: ni la jan Jona li tawa noka ona, li tawa ma Ninawe, sama toki pi sewi Jawe. ma Ninawe li ma tomo pi suli mute, li lon weka pi sike ma tu wan.
+3: ni la jan Jona li tawa noka ona, li tawa ma Ninawe, sama toki pi sewi Jawe. ma Ninawe li ma tomo suli tawa sewi, li wile e tawa pi tenpo suno 3.
 
 4: jan Jona li open tawa insa pi ma tomo lon tenpo suno wan pi tawa ona, li toki wawa e ni: tenpo suno 40 li kama la, ma Ninawe li pakala.
 
@@ -3817,38 +3817,38 @@
 
 6: toki li kama tawa jan lawa pi ma Ninawe. ona li sewi tan supa monsi ona, li weka e len pona ona, li len e ona kepeken len pi linja kiwen, li anpa lon ko pi seli moli.
 
-7:ona li toki wawa e ni, li toki lawa e ni kepeken lipu nasin pi kulupu lawa: jan en soweli, en kulupu mani en kulupu pi soweli len, o moku ala, o moku ala e telo.
+7: ona li toki wawa e ni, li toki lawa e ni kepeken lipu nasin pi kulupu lawa: jan en soweli, en kulupu mani en kulupu pi soweli len, o moku ala, o moku ala e telo.
 
 8: jan en soweli li len e ona kepeken len pi linja kiwen. ona li toki wawa tawa sewi Jawe, li kama sin tan nasin ike ona, li kama sin tan pakala lon luka ona.
 
 9: jan seme li sona? ona o kama sin o kama pona tawa sewi. ni la, sewi li pilin ala ike la, mi moli ala.
 
-10: sewi Jawe li lukin e pali ona, li sona e ni: kulupu li ante e nasin ike ona. ni la, sewi Jawe li pana ala e pakala pi toki ona. ona li pali ala e ni.
+10: sewi Jawe li lukin e pali ona, li sona e ni: kulupu li ante e nasin ike ona. sewi li weka tan wile pakala pi toki ona. ona li pali ala e ni.
 
 
 ### Jonah 4
 
-1: ni li pana e pilin ike wawa tawa jan Jona. ona li open pilin ike.
+1: pilin ike wawa li kama ike suli tawa jan Jona. ona li open pilin ike.
 
-2: ni la ona li toki sewi tawa sewi Jawe, li toki e ni: a, sewi Jawe o. mi toki ala toki e ni lon ma mi? tan ni la mi weka tawa ma Tasisa lon open. mi sona e ni: sina sewi pona, li wile ala e pakala, li jo e pilin utala lili e pilin pona suli, li wile ala pali e ike.
+2: ona li toki sewi tawa sewi Jawe, li toki e ni: a, sewi Jawe o. mi toki ala toki e ni lon ma mi? tan ni la mi weka tawa ma Tasisa lon open. mi sona e ni: sina sewi pona, li wile ala e pakala, li jo e pilin utala lili e pilin pona suli. li wile ala pali e ike.
 
-3: ni la, sewi Jawe o weka e kon tan mi, tan ni: moli mi li pona tan lon mi.
+3: tenpo ni la, sewi Jawe o weka e kon tan mi, tan ni: moli mi li pona tan lon mi.
 
 4: sewi Jawe li toki e ni: pilin ike li mute ala mute tawa sina?
 
-5: ni la jan Jona li open weka tan ma tomo, li awen lon poka pi suno open pi ma tomo, li pali e tomo ona pi tenpo lili lon ma ni. ona li awen lon pimeja lon anpa pi tomo ni, li awen tawa ni: ona li ken lukin e ijo kama pi ma tomo Ninawe.
+5: ni la jan Jona li open weka tan ma tomo, li awen lon poka pi suno open pi ma tomo, li pali e tomo ona pi tenpo lili lon ma ni. ona li awen lon pimeja lon anpa pi tomo ni, li awen tawa ni: ona li ken lukin e ijo kama pi ma tomo.
 
 6: sewi Jawe li kama e kasi jaki Kikajon, li sewi e ona tawa sewi pi jan Jona, tawa ni: kasi li ken pana e pimeja pona tawa lawa pi jan Jona, li ken weka e ona tan pilin ike ona. ni la jan Jona li pilin pona mute tan kasi.
 
-7: taso suno li kama la, sewi Jawe li kama e pipi linja. pipi linja li pakala e kasi la, kasi li moli.
+7: suno li kama la, sewi Jawe li kama e pipi linja. pipi linja li pakala e kasi la, kasi li moli.
 
-8: suno li sewi la, sewi Jawe li kama e kon wawa tan ma pi open suno. suno li seli wawa lon lawa pi jan Jona, tawa ni: lape li lanpan e ona. ona li wile insa e moli, li toki e ni: lon mi la, moli li pona.
+8: suno li sewi la, sewi Jawe li kama e kon wawa tan ma pi open suno. suno li seli wawa lon lawa pi jan Jona, tawa ni: lape li lanpan e ona. ona li wile insa e moli, li toki e ni: moli mi li pona tan lon mi.
 
 9: sewi Jawe li toki e ni tawa jan Jona: kasi la, pilin ike sina li mute tawa sina anu seme? jan Jona li toki e ni: tawa moli mi la pilin ike mi li mute.
 
-10: taso sewi Jawe li toki e ni: sina pilin olin tawa kasi ni. taso sina pali ala tawa ona. sina sewi ala e ona. ona li kama kepeken tenpo pimeja wan, li moli kekepeken tenpo pimeja wan.
+10: sewi Jawe li toki e ni: sina pilin olin tawa kasi ni. taso sina pali ala tawa ona. sina sewi ala e ona. ona li kama kepeken tenpo pimeja wan, li moli kekepeken tenpo pimeja wan.
 
-11: ni la, tan seme la mi o olin ala e ma tomo suli Ninawe ni? ma ni la jan mute li lon, li sona ala e luka wan tan luka ante. ma ni li jo e soweli mute kin.
+11: tan seme la mi o olin ala e ma tomo suli Ninawe ni? ma ni la jan mute li lon, li sona ala e poka wan tan poka ante. ma ni la soweli mute kin li lon.
 
 
 ## Micah
