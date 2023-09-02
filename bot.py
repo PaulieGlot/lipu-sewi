@@ -109,6 +109,18 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
     await ctx.response.send_message(text)
 
 
+@tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
+async def help(ctx, command: str=None,):
+    if command is None:
+        await ctx.response.send_message("/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses")
+    elif command == "help":
+        await ctx.response.send_message("what... what more do you need")
+    elif command == "verse":
+        await ctx.response.send_message("specify a verse using the command parameters. make sure you're using the same book names as this version!")
+    elif command == "range":
+        await ctx.response.send_message("specify a range of verses using the command parameters. make sure you're using the same book names as this version!")
+
+
 @client.event
 async def on_ready():
     await tree.sync(guild=discord.Object(id=GUILD_ID))
