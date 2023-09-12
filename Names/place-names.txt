@@ -16,3 +16,6 @@ ma	| Japo	| Joppa
 ma	| Sejo	| Sheol
 ma	| Usu	| Uz
 ma	| Pete	| Bethel
+ma | Eten | Eden
+nasin telo | Pison | Pishon
+ma | Awila | Havilah
