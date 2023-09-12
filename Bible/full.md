@@ -75,6 +75,10 @@
 
 4: sewi Jawe li pali e kon sewi e ma kepeken nasin ni. sewi Jawe li pali e kon sewi e ma.
 
+10: nasin telo li tawa tan ma Eten li pana e telo tawa ma kasi. ma ni la, ona li kama nasin telo lili 4.
+
+11: nimi pi nasin telo wan li Pison. ona li lon ma Awila ale. ma ni la, kiwen pi suli mute li lon.
+
 
 ### Genesis 3
 
@@ -3821,7 +3825,7 @@
 
 8: jan en soweli li len e ona kepeken len pi linja kiwen. ona li toki wawa tawa sewi Jawe, li kama sin tan nasin ike ona, li kama sin tan pakala lon luka ona.
 
-9: jan seme li sona? ona o kama sin o kama pona tawa sewi. ni la, sewi li pilin ala ike la, mi moli ala.
+9: jan seme li sona? ken la sewi li kama sin li weka tan pilin ike ona la, mi moli ala.
 
 10: sewi Jawe li lukin e pali ona, li sona e ni: kulupu li ante e nasin ike ona. sewi li weka tan wile pakala pi toki ona. ona li pali ala e ni.
 
