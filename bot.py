@@ -72,7 +72,7 @@ def get_section_name(book: str):
             section = line.removeprefix("#")
         if line.startswith("%s," % book):
             return section.removesuffix("\n")
-    return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!*" % book
+    return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version (these are case-sensitive), and that you have all planned books listed along with their chapter lengths!*" % book
 
 
 load_dotenv()
@@ -85,40 +85,42 @@ client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
 
+def respond(ctx, text):
+    if len(text) > 2000:
+        text = text[:1996] + " ..."
+    return ctx.response.send_message(text)
+
+
 @tree.command(name="verse", description="pull a verse from the translated text", guild=discord.Object(id=GUILD_ID))
 async def verse(ctx, book: str, chapter: int, verse: int):
     section = get_section_name(book)
     if section.startswith("error"):
-        await ctx.response.send_message(section)
+        await respond(ctx, section)
         return
     text = get_verse(section, book, chapter, verse)
-    if len(text) > 2000:
-        text = "error crafting message: requested range contains too many characters.\n\n*jan Poli says: wow, this is a pickle. i really didn't think we'd have a verse this long.*\n"
-    await ctx.response.send_message(text)
+    await respond(ctx, text)
 
 
 @tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
 async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
     section = get_section_name(book)
     if section.startswith("error"):
-        await ctx.response.send_message(section)
+        await respond(ctx, section)
         return
     text = get_verse_range(section, book, chapter, start_verse, end_verse)
-    if len(text) > 2000:
-        text = "error crafting message: requested range contains too many characters.\n\n*jan Poli says: try narrowing your range a bit. surely you don't need every one of those verses all at once, right?*\n"
-    await ctx.response.send_message(text)
+    await respond(ctx, text)
 
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None,):
     if command is None:
-        await ctx.response.send_message("/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses")
+        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses")
     elif command == "help":
-        await ctx.response.send_message("what... what more do you need")
+        await respond(ctx, "what... what more do you need")
     elif command == "verse":
-        await ctx.response.send_message("specify a verse using the command parameters. make sure you're using the same book names as this version!")
+        await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!")
     elif command == "range":
-        await ctx.response.send_message("specify a range of verses using the command parameters. make sure you're using the same book names as this version!")
+        await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!")
 
 
 @client.event
