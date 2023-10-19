@@ -427,6 +427,14 @@
 
 ### Exodus 20
 
+1: sewi li toki e nimi ale ni:
+
+2: mi sewi sina Jawe. mi pana weka e sina tan ma Misalin, tan tomo pi jan pali.
+
+3: sewi ante o lon ala tawa sina lon sinpin mi.
+
+4: o pali ala tawa sina e sitelen, e sitelen ale lon sewi lon sewi, lon ma lon anpa, lon telo lon anpa ma.
+
 
 ### Exodus 21
 
@@ -641,6 +649,10 @@
 
 ### Numbers 15
 
+40: toki lawa mi la, o awen sona e ona, o pali e ona, o sewi tawa sewi sina.
+
+41: mi sewi sina Jawe, li pana weka e sina tan ma Misalin tawa ni: mi sewi tawa sina. mi sewi sina Jawe.
+
 
 ### Numbers 16
 
@@ -727,6 +739,16 @@
 ### Deuteronomy 6
 
 4: kulupu Isale o kute! sewi Jawe li sewi mi. sewi Jawe li wan.
+
+5: o olin e sewi sina Jawe lon ni: pilin ale sina, en kon ale sina, en mute ale sina.
+
+6: nimi ni pi toki lawa mi lon tenpo suno ni o lon pilin sina.
+
+7: o pana e sona awen pi nimi ni tawa jan sin sina. sina awen lon tomo la, sina tawa lon nasin la, sina lon supa la, sina lon noka la, o toki e nimi ni.
+
+8: o wan e nimi ni tawa luka sina. ona o ijo lon meso pi oko tu sina.
+
+9: lon uta pi tomo sina la, lon open pi ma sina la, o sitelen e ona.
 
 
 ### Deuteronomy 7
@@ -2545,6 +2567,22 @@
 
 
 ### Psalms 121
+
+1: kalama musi pi nasin sewi. mi sewi e oko mi tawa nena ma. tan ma seme la, pona mi li kama?
+
+2: pona mi li tan sewi Jawe. ona li pali e kon sewi e ma.
+
+3: ona o tawa ala e pakala tawa noka sina. ona li lape ala, ona li awen sina.
+
+4: lon la, awen pi kulupu Isale li lape lili ala li lape ala.
+
+5: sewi Jawe li awen e sina. sewi Jawe li pimeja pi weka suno tawa luka awen sina.
+
+6: tenpo suno la suno li utala ala e sina. tenpo pimeja la mun li lon
+
+7: sewi Jawe li awen e sina tan ike ale. ona li awen e kon sina.
+
+8: sewi Jawe li awen e weka sina e kama sina tan tenpo ni tawa tenpo ale.
 
 
 ### Psalms 122
