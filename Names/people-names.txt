@@ -76,3 +76,4 @@ jan mije	| Isaka	| Isaac
 jan mije  | Awalon | Aaron
 jan mije  | Lasalo | Lazarus
 jan mije  | Simon Peto  | Simon Peter
+jan mije | Apalan | Abraham
