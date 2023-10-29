@@ -78,3 +78,5 @@ jan mije  | Lasalo | Lazarus
 jan mije  | Simon Peto  | Simon Peter
 jan mije | Awalan | Abram
 jan mije | Alawan | Abraham
+jan meli | Sale | Sarai
+jan meli | Sala | Sarah
