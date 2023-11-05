@@ -161,11 +161,23 @@
 
 ### Genesis 12
 
-1: sewi Jawe li toki e ni tawa jan Apan: "o tawa ma ni tan ma sina tan kulupu sina tan tomo pi mama sina la mi pana e lukin tawa sina.
+1: sewi Jawe li toki e ni tawa jan Awalan: sina la, o tawa weka tan ma sina, tan kama lon sina, tan tomo pi mama mije sina, tawa ma ni: mi pana e ona tawa lukin sina.
 
-2: "mi o pana e ma pona tawa sina o pona sewi e sina. mi o pali e nimi wawa tawa sina la sina o kama lon pona sewi.
+2: mi pali e sina tawa kulupu suli, li pana sewi e sina, li suli e nimi sina. o kama pana sewi.
 
-3: "jan li pona sewi e sina la mi o pona sewi e ona. jan li ike sewi e sina la mi o ike sewi e ona. jan ale lon ma ale li kama jo e pona sewi tan sina."
+3: jan li pana sewi tawa sina la, mi pana sewi tawa ona. jan li pana ike tawa sina la, mi pakala e ona. lon sina la, kulupu mama ale ma li kama pana sewi.
+
+4: jan Awalan li tawa sama toki pi sewi Jawe. jan Lo li tawa lon poka ona. jan Awalan li jo e sike suno 75 lon tenpo pi weka ona tan ma Alan.
+
+5: jan Awalan li kulupu e meli ona Sale, e jan lili pi mije sama ona Lo, e ijo jo ona ale pi kama jo ona, e kon jan pi pali ona lon ma Kalan. ona li open weka tawa ma Kanan. ni la, ona li kama tawa ma Kanan.
+
+6: jan Awalan li tawa lon ma tawa ma Seken, li tawa ma pi kasi suli Mole. tenpo ni la, kulupu Kanan li lon ma ni.
+
+7: sewi Jawe li kama tawa lukin pi jan Awalan, li toki e ni: mi pana e ma ni tawa kili kama sina. ona li pali e supa pi pana sewi lon ma ni tawa sewi Jawe ni: ona li kama tawa lukin pi jan Awalan.
+
+8: tan ma ni la, ona li tawa nena suli lon poka pi kama suno pi ma Pete. ona li pana e tomo len. ma Pete li lon poka ona pi telo suli. ma Aje li lon poka ona pi kama suno. lon ma ni la, ona li pali e supa pi pana sewi tawa sewi Jawe. ona li kalama e nimi pi sewi Jawe.
+
+9: jan Awalan li awen tawa, li awen tawa ma Nekepa.
 
 
 ### Genesis 13
@@ -400,6 +412,22 @@
 
 
 ### Exodus 12
+
+1: sewi Jawe li toki tawa jan Mose tawa jan Awalon e ni lon ma Misalin:
+
+2: tenpo sike mun ni o lawa pi tenpo sike mun tawa sina, o tenpo sike mun nanpa wan tan tenpo sike mun pi tenpo sike suno tawa sina.
+
+3: o toki e ni tawa ale pi kulupu Isale: lon tenpo suno nanpa 10 pi tenpo sike mun ni la, mije ale o kama jo e soweli len lili tawa tomo pi mama mije ona. soweli len lili tawa tomo.
+
+5: soweli len lili sina o jo ala e pakala, o mije pi tenpo sike suno nanpa wan. o kama jo e ona tan soweli len sina anu tan soweli pi noka kiwen.
+
+6: ona o lon awen sina tawa tenpo suno nanpa 14 pi tenpo sike mun ni. kulupu Isale ale o moli e ona lon tenpo pi weka suno.
+
+7: ona o pana e telo loje tawa palisa tu pi uta tomo, tawa palisa lawa pi uta tomo kin lon tomo ni: ona li moku e ona lon tomo ni.
+
+8: ona o moku e soweli lon tenpo pimeja ni. ona o seli e soweli kepeken seli. ona li moku [e ona] la, soweli o lon sewi pi pan supa, o lon sewi pi kasi pi ike uta.
+
+13: telo loje li lon tomo sina la, ni li sitelen tawa sina. mi lukin e telo loje la, mi kama ala tawa sina. mi pakala e ma Misalin la, ike pakala li lon sina ala.
 
 
 ### Exodus 13
