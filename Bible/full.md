@@ -419,6 +419,8 @@
 
 3: o toki e ni tawa ale pi kulupu Isale: lon tenpo suno nanpa 10 pi tenpo sike mun ni la, mije ale o kama jo e soweli len lili tawa tomo pi mama mije ona. soweli len lili tawa tomo.
 
+4: tomo li lili tawa soweli len lili la, ona en jan pi tomo poka ona o kama jo e soweli len lili tawa mute pi kon jan pi tomo ona. jan la, ona  o pini e soweli tawa moku ona.
+
 5: soweli len lili sina o jo ala e pakala, o mije pi tenpo sike suno nanpa wan. o kama jo e ona tan soweli len sina anu tan soweli pi noka kiwen.
 
 6: ona o lon awen sina tawa tenpo suno nanpa 14 pi tenpo sike mun ni. kulupu Isale ale o moli e ona lon tenpo pi weka suno.
@@ -427,7 +429,17 @@
 
 8: ona o moku e soweli lon tenpo pimeja ni. ona o seli e soweli kepeken seli. ona li moku [e ona] la, soweli o lon sewi pi pan supa, o lon sewi pi kasi pi ike uta.
 
+9: o moku ala e ona pi seli moku ala, e ona pi seli telo. ona o seli seli taso. lawa ona o lon sewi pi noka ona, lon sewi pi insa ona.
+
+10: o awen ala e ijo tan ona tawa kama suno. kipisi awen ona la, o seli weka e ona.
+
+11: o moku e ona sama ni. poka sijelo sina li lon insa pi len linja. len noka li lon noka sina. palisa sina li lon luka sina. o moku e ona kepeken tenpo lili. ni li pana sewi Pesa tawa sewi Jawe.
+
+12: mi tawa lon ma Misalin lon tenpo pimeja ni, li pakala e mije sin nanpa wan lon ma Misalin tan jan tawa soweli. tawa sewi ale pi ma Misalin la, mi lukin sona e  kon ona. mi sewi Jawe.
+
 13: telo loje li lon tomo sina la, ni li sitelen tawa sina. mi lukin e telo loje la, mi kama ala tawa sina. mi pakala e ma Misalin la, ike pakala li lon sina ala.
+
+14: tenpo suno ni o awen sona tawa sina. o musi sike e ona tawa ni:  ona li tenpo sike sewi tawa sewi Jawe. tawa jan sin sina la, toki lawa pi tenpo ale la, o musi sike e ona.
 
 
 ### Exodus 13
@@ -435,7 +447,49 @@
 
 ### Exodus 14
 
-14: o awen kiwen la sina ken lukin e pali pi sewi Jawe lon tenpo suno ni. sewi Jawe o kama pali tawa sina! o toki ala. sina o pali ala. // This doesn't look right to me...
+10: lawa Palo li kama lon poka la, kulupu Isale li sewi e oko ona la, a, kulupu Misalin li tawa lon monsi ona. kulupu Isale li pilin monsuta mute, li kalama wawa tawa sewi Jawe.
+
+11: ona li toki e ni tawa jan Mose: lupa moli li lon ala ma Misalin anu seme la, sina weka e mi tawa moli lon ma weka? seme la sina ni tawa mi a, li weka e mi tan ma Misalin?
+
+12: mi toki e ni tawa sina lon ma Misalin anu seme: o weka tan mi tan ni: mi o pali tawa kulupu Misalin. mi pali tawa kulupu Misalin la, ni li pona tawa ni: mi moli lon ma weka.
+
+13: jan Mose li toki e ni tawa kulupu: o monsuta ala. o awen lon o lukin e awen pi sewi Jawe ni: ona li pali e ni tawa sina lon tenpo suno ni. tawa tenpo ale la, sina lukin ala e jan ni: sina lukin e jan pi kulupu Misalin lon tenpo suno ni.
+
+14: sewi Jawe li utala tawa sina. sina o kalama ala.
+
+15: sewi Jawe li toki e ni tawa jan Mose: tan seme la sina kalama wawa tawa mi? o toki tawa kulupu Isale. ona o tawa.
+
+16: sina o sewi e palisa sina, o palisa e luka sina lon telo suli, o tu e ona. kulupu Isale o kama tawa insa pi telo suli lon ma pi telo ala.
+
+17: mi wawa e pilin pi kulupu Misalin tawa ni: ona li tawa lon monsi pi kulupu Isale. ni la, mi wawa tawa lawa Palo, tawa kulupu utala ona, tawa ilo tawa ona, tawa jan ona pi soweli tawa.
+
+18: kulupu Misalin o sona e ni: mi sewi Jawe, li wawa tawa lawa Palo, tawa ilo tawa ona, tawa jan ona pi soweli tawa.
+
+19: jan tawa sewi pi sewi Elowin li tawa, li tawa monsi lon monsi ona. kin la, palisa pi kon telo li tawa tan sinpin ona tawa monsi ona.
+
+20: ona li kama lon meso pi ni tu: ma lape Misalin en ma lape Isale. kon telo en pimeja li lon la, ona li suno e tenpo pimeja. kulupu wan li kama ala lon poka pi kulupu ante lon tenpo pimeja ale.
+
+21: jan Mose li palisa e luka ona lon telo suli. sewi Jawe li tawa e telo suli kepeken kon wawa tan poka pi kama suno lon ale pi tenpo pimeja, li pana e telo tawa ma pi telo ala. telo li kama tu.
+
+22: kulupu Isale li kama tawa insa pi telo suli lon ma pi telo ala. telo li sinpin tawa ona lon poka wan ona, lon poka ante ona.
+
+23: kulupu Misalin li tawa utala tawa monsi ona. soweli tawa ale pi lawa Palo en ilo tawa ona en jan ona pi soweli tawa li kama lon monsi ona, tawa insa pi telo suli.
+
+24: open pi tenpo suno kama la, sewi Jawe li lukin anpa tawa ma lape Misalin tan palisa suli ni: ona li seli li kon telo. ona li pakala e ma lape Misalin.
+
+25: sewi Jawe li weka e sike pi ilo tawa ona tawa ni: ona li lawa ike e ilo tawa. kulupu Misalin li toki e ni: mi o tawa weka tan sinpin pi kulupu Isale tan ni: sewi Jawe li utala e kulupu Misalin tawa ona.
+
+26: sewi Jawe li toki e ni tawa jan Mose: o palisa e luka sina lon telo suli. ni la, telo o kama sin lon kulupu Misalin, lon ilo tawa ona, lon jan ona pi soweli tawa.
+
+27: jan Mose li palisa e luka ona lon telo suli la, telo suli li kama sin pi sijelo ona lon open pi tenpo kama suno. kulupu Misalin li weka monsuta tawa ona la, sewi Jawe li tawa wawa e kulupu Misalin lon insa pi telo suli.
+
+28: telo li kama sin, li len e ilo tawa, e jan pi soweli tawa, e ale pi kulupu utala ni pi lawa Palo: ona li kama tawa monsi ona tawa telo suli. wan ala ona li awen.
+
+29: kulupu Isale li tawa lon ma pi telo ala lon insa pi telo suli. telo li sinpin tawa ona lon poka wan ona, lon poka ante ona.
+
+30: tenpo suno ni la, sewi Jawe li pana weka sewi e kulupu Isale tan luka pi kulupu Misalin. kulupu Isale li lukin e kulupu Misalin moli lon poka pi telo suli.
+
+31: kulupu Isale li lukin e luka suli ni pi sewi Jawe: ona li pali lon ma Misalin. kulupu li pilin monsuta tawa sewi Jawe, li pilin sewi tawa sewi Jawe, tawa jan pali ona Mose.
 
 
 ### Exodus 15
@@ -462,6 +516,12 @@
 3: sewi ante o lon ala tawa sina lon sinpin mi.
 
 4: o pali ala tawa sina e sitelen, e sitelen ale lon sewi lon sewi, lon ma lon anpa, lon telo lon anpa ma.
+
+5: o anpa ala e sina tawa ona, o pali ala tawa ona, tan ni: mi sewi sina Jawe li sewi pi wile mi taso, li kama e ike pi mama mije lon mije sin tawa tenpo jan nanpa 3 tawa tenpo jan nanpa 4 pi jan ike mi.
+
+6: kin la mi pana e pona tawa mute, tawa jan ni: ona li olin e mi li awen e toki lawa mi.
+
+7: o sewi ala e nimi pi sewi sina Jawe tawa ala, tan ni: sewi Jawe li weka ala e ike tan jan ni: jan li sewi e nimi ona tawa ala.
 
 
 ### Exodus 21
