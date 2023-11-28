@@ -8,11 +8,11 @@
 
 2: ma li pimeja pi insa ala. kon pi sewi Jawe li tawa lon sewi telo.
 
-3: sewi Jawe li toki e ni: "suno o lon." suno li lon.
+3: sewi Jawe li toki e ni: "suno o lon." la suno li lon.
 
 4: lukin la, sewi Jawe li sona e ni: suno li pona. sewi Jawe li tu e suno e pimeja.
 
-5: tawa suno la, sewi Jawe pana e nimi pi tenpo suno. tawa pimeja la, ona pana e nimi pi tenpo pimeja. lon tenpo lawa la, lon tenpo pini la, ni li tenpo pi nanpa wan.
+5: tawa suno la, sewi Jawe pana e nimi pi tenpo suno. tawa pimeja la, ona pana e nimi pi tenpo pimeja. lon tenpo lawa la, lon tenpo pini la, ni li tenpo nanpa wan.
 
 6: sewi Jawe toki e ni: "supa o lon insa pi telo tu, o awen e telo sewi tan telo anpa."
 
