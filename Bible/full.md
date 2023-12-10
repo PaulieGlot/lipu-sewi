@@ -355,7 +355,7 @@
 
 1: mije en meli li kama wan. ona tu li jan sin pi jan Lepi.
 
-2: meli li mama e mije sin. meli li lukin e mije sin la, mije sin li lukin pona la, meli pali e ni: mun pi tu wan la, jan li ken ala lukin e mije sin.
+2: meli li kama mama, li mama e mije sin. meli li lukin e mije sin la, mije sin li pona lukin la, tenpo sike mun 3 la meli li len e mije sin tan lukin.
 
 3: meli li ken ala e ni: jan li ken ala lukin e mije sin meli. meli li jo kama e poki pi kasi lipu tawa mije sin li len e poki kepeken ko li tawa e mije sin lon insa poki li tawa e poki lon insa pi kasi linja lon poka pi nasin telo Ni.
 
@@ -493,6 +493,44 @@
 
 
 ### Exodus 15
+
+1: ni la, jan Mose en kulupu Isale li kalama e musi ni tawa sewi Jawe. ona li toki e ni: mi kalama musi tawa sewi Jawe tan ni: ona li sewi a. ona li pana e soweli tawa e jan lawa ona lon telo suli.
+
+2: wawa mi en kalama musi pi sewi Ja. ona li awen pona tawa mi. ni li sewi mi. la mi pali pona e ona. sewi pi mama mi. la mi sewi e ona.
+
+3: sewi Jawe li jan utala. Jawe li nimi ona.
+
+4: ona li pana e ilo tawa pi lawa Palo e kulupu utala ona tawa telo suli. jan lawa ona pi wawa lili li kama moli telo lon telo suli Su.
+
+5: lupa suli li len e ona. ona li tawa anpa lon anpa telo sama kiwen.
+
+6: sewi Jawe o, luka utala sina li kama suli lon wawa. sewi Jawe o, luka utala sina li pakala wawa e jan ike.
+
+7: kepeken mute pi sewi sina la, sina pakala e jan sina ni: ona li sewi lon noka. sina pana wawa e pilin seli sina. ona li moku e jan kepeken nasin ni: ona li moku e kasi pan moli.
+
+8: kin la, kepeken kon pi nena sinpin sina la, telo li kama kulupu, li kama sewi palisa sama palisa telo. lupa suli li kiwen lete lon insa insa pi telo suli.
+
+9: jan ike li toki e ni: mi o tawa utala lon monsi, o tawa wawa tawa sinpin, o kipisi e mani alasa. kon mi o pona ale tan ona. mi o kama e ilo utala mi. luka mi o pakala e kulupu Isale.
+
+10: sina pana wawa e kon sina tan uta. telo suli li len e ona. ona li tawa anpa lon telo wawa sama kiwen wawa.
+
+11: sewi Jawe o, seme li sama sina lon sewi ale? wawa lon sewi la, monsuta lon kalama sewi la, pali pi nasa sewi la, seme li sama sina?
+
+12: sina pana e luka utala sina sama palisa. ma li moku e ona.
+
+13: sina lawa e kulupu ni lon pona sina: sina kama pona e ona. sina lawa lon wawa sina tawa ma pona sewi sina.
+
+14: kulupu li kute li pilin monsuta. pilin ike li pakala e jan pi ma Pelase li sama luka jo.
+
+15: la jan lawa pi ma Eton li kama pilin monsuta. tawa monsuta li luka e jan wawa pi ma Mowa. jan pi ma Kanan li kama weka sama ko.
+
+16: monsuta pilin en monsuta insa li kama tawa ona. kepeken suli pi luka sina la ona li kama kalama ala sama kiwen. ona li pini lon ni: kulupu sina li tawa, sewi Jawe o. ona li pini lon ni: kulupu ni li tawa: sina kama jo e ona.
+
+17: sina tawa e ona, li pana e ona lon nena pi ma pana sina sama kasi. sina pali e ma awen sina, sewi Jawe o. luka sina li pali e tomo sewi pi lawa mi.
+
+18: sewi Jawe li lawa tawa tenpo ale.
+
+19: soweli tawa pi lawa Palo en ilo tawa ona en jan ona pi soweli tawa li tawa lon telo suli. sewi Jawe li tawa sin e telo pi telo suli lon ona. kulupu Isale li tawa lon ma pi telo ala lon insa pi telo suli.
 
 
 ### Exodus 16
