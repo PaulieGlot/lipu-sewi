@@ -31,8 +31,6 @@ def get_chapter(section: str, book: str, chapter: int):
         text += line
     return text
 
-print(get_chapter("Old Testament", "Genesis", 1))
-
 
 # quickly pull all completed verses within a range
 def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
