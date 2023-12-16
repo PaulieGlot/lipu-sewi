@@ -1,4 +1,5 @@
-import os, sys, discord
+import os, sys
+import discord
 from discord import app_commands
 from dotenv import load_dotenv
 
@@ -10,6 +11,9 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
     for line in file:
         prefix = "%i: " % verse
         if line.startswith(prefix):
+            line = line.split(' | ', 1)[0]
+            if not line.endswith('\n'):
+                line += '\n'
             return line
     return "error fetching verse: chapter file `%s` contains no verse numbered %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that a translation has been supplied for the requested verse.*\n" % (filename, verse)
 
@@ -21,8 +25,13 @@ def get_chapter(section: str, book: str, chapter: int):
     except FileNotFoundError: return "error fetching chapter: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
     text = ""
     for line in file:
+        line = line.split(' | ', 1)[0]
+        if not line.endswith('\n'):
+            line += '\n'
         text += line
     return text
+
+print(get_chapter("Old Testament", "Genesis", 1))
 
 
 # quickly pull all completed verses within a range
@@ -35,6 +44,9 @@ def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end
     for line in file:
         prefix = int(line.split(":")[0])
         if prefix >= start_verse:
+            line = line.split(' | ', 1)[0]
+            if not line.endswith('\n'):
+                line += '\n'
             text += line
         if prefix > end_verse:
             break

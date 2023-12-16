@@ -29,7 +29,7 @@ while read -r line; do
             printf "### $book $chaptername\n\n" >>full.md
             while read -r verse; do
                 [[ $verse != "" ]] && {
-                    printf "$verse\n\n" >>full.md
+                    printf "${verse%% |*}\n\n" >>full.md
                     let verse_count+=1
                 }
             done <"$file"
