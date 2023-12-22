@@ -188,6 +188,12 @@
 
 ### Genesis 15
 
+1: ijo ni li pini la, toki pi sewi Jawe li kama tawa jan Awalan lon sitelen insa, li toki e ni: jan Awalan o pilin monsuta ala. mi ilo awen sina. mani kama sina li mute mute.
+
+2: jan Awalan li toki: sewi lawa mi Jawe o, sina pana e seme tawa mi? mi awen li jo ala e jan sin. jan jo kama pi tomo mi li jan Elijese pi ma tomo Tamese.
+
+3: jan Awalan li toki: a, tawa mi la sina pana ala e kili sin. a, jan pi tomo mi li kama jo e jo mi.
+
 
 ### Genesis 16
 
@@ -605,6 +611,20 @@
 
 
 ### Exodus 35
+
+1: jan Mose li kulupu e kulupu ale Isale li toki tawa ona: sewi Jawe li toki lawa e toki ni tawa pali sina.
+
+3: o open ala e seli lon tomo sina lon tenpo sewi pi pali ala.
+
+4: jan Mose li toki e ni tawa kulupu ale Isale: ijo ni li kama toki lawa tan sewi Jawe.
+
+5: tan sina la, o kama jo e ijo pana tawa sewi Jawe. pilin jan li wile pana la, o kama tawa e ijo pana ni tawa sewi Jawe: kiwen jelo en kiwen walo en kiwen loje
+
+7: en selo loje pi soweli pi palisa lawa en selo Tawasin en kiwen kasi Sisin
+
+8: en telo wawa pi ilo suno en namako pi telo wawa sewi en namako pi ko seli suwi
+
+9: en kiwen Sowan en kiwen ni: ona li kama lon len insa suli, lon leko len kin.
 
 
 ### Exodus 36
