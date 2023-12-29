@@ -576,6 +576,16 @@
 
 ### Exodus 23
 
+14: tenpo 3 la, o pali e tenpo sike sewi tawa mi lon tenpo sike suno.
+
+15: o awen e tenpo sike sewi pi pan supa. tenpo suno 7 la o moku e pan supa sama toki lawa mi lon tenpo sike mun pi kasi sin tan ni: tenpo ni la sina kama weka tan ma Misalin. sinpin mi o kama ala lukin e ijo ala.
+
+17: tenpo 3 lon tenpo sike suno la, mije ale sina o kama lon sinpin pi lawa Jawe.
+
+18: lon poka pi pan kon la, o pana ala e telo loje pi moli pana mi. moku pona pi tenpo sike sewi mi o lon ala tawa tenpo suno kama.
+
+19: o tawa e nanpa wan pi kili nanpa wan pi ma sina tawa tomo pi sewi sina Jawe. o seli ala e soweli sin pi noka kiwen lon telo walo pi mama meli ona.
+
 
 ### Exodus 24
 
@@ -614,11 +624,15 @@
 
 1: jan Mose li kulupu e kulupu ale Isale li toki tawa ona: sewi Jawe li toki lawa e toki ni tawa pali sina.
 
+2: tenpo suno 6 li tawa pali. taso tenpo suno nanpa 7 o kama sewi o kama tenpo sewi pi pali ala tawa sina, tawa sewi Jawe. jan ni li wile kama moli: ona li pali lon tenpo suno ni.
+
 3: o open ala e seli lon tomo sina lon tenpo sewi pi pali ala.
 
 4: jan Mose li toki e ni tawa kulupu ale Isale: ijo ni li kama toki lawa tan sewi Jawe.
 
 5: tan sina la, o kama jo e ijo pana tawa sewi Jawe. pilin jan li wile pana la, o kama tawa e ijo pana ni tawa sewi Jawe: kiwen jelo en kiwen walo en kiwen loje
+
+6: en laso sewi en loje laso en loje wawa en linja walo en soweli pi noka kiwen
 
 7: en selo loje pi soweli pi palisa lawa en selo Tawasin en kiwen kasi Sisin
 
