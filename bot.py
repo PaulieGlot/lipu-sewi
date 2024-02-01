@@ -41,13 +41,13 @@ def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end
     current_verse = start_verse
     for line in file:
         prefix = int(line.split(":")[0])
+        if prefix > end_verse:
+            break
         if prefix >= start_verse:
             line = line.split(' | ', 1)[0]
             if not line.endswith('\n'):
                 line += '\n'
             text += line
-        if prefix > end_verse:
-            break
     if text == "":
         return "error fetching verse range: chapter file `%s` contains no verses within the range %i - %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that translations have been supplied for verses in the requested range.*\n" % (filename, start_verse, end_verse)
     return text
