@@ -173,7 +173,7 @@
 
 6: jan Awalan li tawa lon ma tawa ma Seken, li tawa ma pi kasi suli Mole. tenpo ni la, kulupu Kanan li lon ma ni.
 
-7: sewi Jawe li kama tawa lukin pi jan Awalan, li toki e ni: mi pana e ma ni tawa kili kama sina. ona li pali e supa pi pana sewi lon ma ni tawa sewi Jawe ni: ona li kama tawa lukin pi jan Awalan.
+7: sewi Jawe li kama tawa lukin pi jan Awalan, li toki e ni: mi pana e ma ni tawa kili jan sina. ona li pali e supa pi pana sewi lon ma ni tawa sewi Jawe ni: ona li kama tawa lukin pi jan Awalan.
 
 8: tan ma ni la, ona li tawa nena suli lon poka pi kama suno pi ma Pete. ona li pana e tomo len. ma Pete li lon poka ona pi telo suli. ma Aje li lon poka ona pi kama suno. lon ma ni la, ona li pali e supa pi pana sewi tawa sewi Jawe. ona li kalama e nimi pi sewi Jawe.
 
@@ -898,7 +898,7 @@
 
 ### Deuteronomy 6
 
-4: kulupu Isale o kute! sewi Jawe li sewi mi. sewi Jawe li wan.
+4: kulupu Isale o kute! sewi Jawe li sewi mi. sewi Jawe li wan taso.
 
 5: o olin e sewi sina Jawe lon ni: pilin ale sina, en kon ale sina, en mute ale sina.
 
@@ -1339,6 +1339,16 @@
 
 
 ### Ruth 3
+
+1: jan Najomi li mama meli pi mije ona, li toki e ni tawa ona: meli lili mi o, mi o alasa e ma awen tawa sina tawa ni: ni li pona tawa sina.
+
+
+
+3: o telo e sina, o pana e telo pona lon sina, o pana e len pona sina lon sina, o tawa tomo pan. ona li pini ala moku la, o kama ala tawa lukin pi mije ni.
+
+
+
+5:jan Lu li toki e ni tawa jan Najomi: mi pali e ijo ale pi toki sina.
 
 
 ### Ruth 4
@@ -4214,6 +4224,20 @@
 
 ### Matthew 2
 
+1: jan Jesu li kama sin lon ma tomo Petelen pi ma Juta lon tenpo pi jan lawa Eloto la, o lukin! jan pi sona mute li kama tawa ma tomo Jelusalen tan ma pi suno kama.
+
+2: ona li toki e ni: ma seme la jan lawa sin pi kulupu Juta li kama lon. mi lukin e mun kama la mi kama mi wile anpa sewi tawa ona.
+
+3: kute la jan lawa Eloto en jan ale pi kulupu pi ma tomo Jelusalen li pilin nasa.
+
+4: ona li kulupu e jan pi pali sewi e jan sona pi lipu sewi li wile kama sona e ni: ma seme la jan pi telo sewi li kama lon.
+
+5: ona mute li toki tawa ona: lon ma tomo Petelen pi ma Juta. ni li sitelen tan jan toki pi ijo kama.
+
+
+
+12: sitelen lape li toki e ni: o tawa ala jan lawa Eloto. la ona li tawa ma ona kepeken nasin ante.
+
 
 ### Matthew 3
 
@@ -4222,6 +4246,28 @@
 
 
 ### Matthew 5
+
+1: jan Jesu li lukin e mute jan la ona li tawa sewi nena. ona li anpa e monsi tawa ma la jan ona pi kama sona li tawa ona.
+
+2: ona li open e uta ona li pana sona kepeken toki ni:
+
+3: jan ni li pona: ona li jo e ijo lili lon kon. ona li jo e ma lawa sewi.
+
+4: jan ni li pona: ona li pilin anpa. ona li kama pona a.
+
+5: jan ni li pona: ona li utala ala. ona li kama jo e ma sama tan mama
+
+
+
+8: jan ni li pona: insa pilin ona li weka tan ike. ona li kama lukin e sewi.
+
+9: jan ni li pona: ona li weka e utala. jan li kama toki tawa ona: jan lili tan sewi.
+
+10: jan ni li pona: jan li alasa ike e ona tan nasin pona ona. ona li kama jo e ma lawa sewi.
+
+11: ni la sina pona: jan li anpa toki e sina li alasa e sina li toki e toki ike ale tawa sina tan mi
+
+12: o pona. o pilin pona wawa tan ni: ijo esun sina li suli lon sewi. sama la tenpo pini la jan li alasa e jan toki pi ijo kama.
 
 
 ### Matthew 6
