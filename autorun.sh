@@ -8,11 +8,11 @@ function buildbook () {
     git push
 }
 trap "kill $botpid" EXIT
-#
+
 while true; do
     buildbook
     python3.11 "bot.py" &
     botpid=$!
     sleep 24h
-    kill botpid
+    kill $botpid
 done
