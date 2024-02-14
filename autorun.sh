@@ -7,5 +7,12 @@ function buildbook () {
     git commit -m "$message"
     git push
 }
+trap "kill $botpid" EXIT
 
-buildbook
+for (;;) {
+    buildbook
+    python3.11 "bot.py" &
+    botpid=$!
+    sleep 24h
+    kill botpid
+}
