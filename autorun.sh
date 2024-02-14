@@ -9,10 +9,10 @@ function buildbook () {
 }
 trap "kill $botpid" EXIT
 
-for (;;) {
+while true; do
     buildbook
     python3.11 "bot.py" &
     botpid=$!
     sleep 24h
     kill botpid
-}
+done
