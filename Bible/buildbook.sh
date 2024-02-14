@@ -18,7 +18,6 @@ while read -r line; do
     [[ $line =~ ^([^,]*),([0-9]+)$ ]] && {
         book=${BASH_REMATCH[1]}
         let chapters=${BASH_REMATCH[2]}
-        echo "In $section: $book, $chapters chapters"
         printf "## $book\n\n" >>full.md
         [[ ! -d "./$section/$book" ]] && mkdir "./$section/$book"
         let chaptername=1
@@ -42,4 +41,4 @@ while read -r line; do
     # This is only reachable if the line is not of a known format.
     echo "Error: unrecognised line format: line $line_number: \`$line\`"
 done <chapters.txt
-echo "$verse_count verses completed."
+echo "regenerated full.md, $verse_count verses completed."

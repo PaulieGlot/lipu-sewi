@@ -902,7 +902,7 @@
 
 5: o olin e sewi sina Jawe lon ni: pilin ale sina, en kon ale sina, en mute ale sina.
 
-6: nimi ni pi toki lawa mi lon tenpo suno ni o lon pilin sina.
+6: nimi ni pi toki lawa mi pi tenpo suno ni o lon pilin sina.
 
 7: o pana e sona awen pi nimi ni tawa jan sin sina. sina awen lon tomo la, sina tawa lon nasin la, sina lon supa la, sina lon noka la, o toki e nimi ni.
 
@@ -1342,13 +1342,15 @@
 
 1: jan Najomi li mama meli pi mije ona, li toki e ni tawa ona: meli lili mi o, mi o alasa e ma awen tawa sina tawa ni: ni li pona tawa sina.
 
-
+2: jan Powa li tan kulupu mama pi mi mute a! sina lon poka pi meli lili ona a! ona li tawa kon e kasi pan linja lon tomo pan lon tenpo pimeja ni.
 
 3: o telo e sina, o pana e telo pona lon sina, o pana e len pona sina lon sina, o tawa tomo pan. ona li pini ala moku la, o kama ala tawa lukin pi mije ni.
 
+4: ona li kama lape la, sina sona e ma pi lape ona. o tawa ma ni, o weka e len tan noka ona, o lape. ona li toki tawa sina e ken pali sina.
 
+5: jan Lu li toki e ni tawa jan Najomi: mi pali e ijo ale pi toki sina.
 
-5:jan Lu li toki e ni tawa jan Najomi: mi pali e ijo ale pi toki sina.
+7: jan Powa li moku e moku e telo. pilin ona li pona. ona li tawa lape lon monsi pi nena pan. jan Lu li kama kepeken kalama ala li weka e len tan noka ona, li tawa lape.
 
 
 ### Ruth 4
