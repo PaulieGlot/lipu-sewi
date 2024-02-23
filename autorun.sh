@@ -12,7 +12,7 @@ trap "kill $botpid" EXIT
 while true; do
     buildbook
     python3.11 "bot.py" &
-    botpid=$!
+    let botpid=$!
     sleep 24h
     kill $botpid
 done
