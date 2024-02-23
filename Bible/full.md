@@ -2367,6 +2367,10 @@
 
 ### Psalms 2
 
+1: tan seme la kulupu jan li pilin wawa?  tan seme la kulupu jan li toki e ala?
+
+3: mi o kipisi e linja kiwen ona pi anpa lawa o weka wawa e linja ona.
+
 
 ### Psalms 3
 
@@ -2527,6 +2531,8 @@
 
 
 ### Psalms 51
+
+15: lawa mi o, o open e uta mi la uta mi li toki suli e toki pona sina.
 
 
 ### Psalms 52
@@ -2733,6 +2739,8 @@
 ### Psalms 119
 
 11: mi awen e toki sina lon pilin mi. ni la mi ike ala tawa sina.
+
+105: toki sina li ilo suno tawa noka mi li suno tawa nasin mi.
 
 
 ### Psalms 120
@@ -4236,7 +4244,11 @@
 
 5: ona mute li toki tawa ona: lon ma tomo Petelen pi ma Juta. ni li sitelen tan jan toki pi ijo kama.
 
+8: ona li pana e jan pi sona mute tawa ma tomo Petelen la, ona li toki e ni: o tawa o alasa e jan lili. sina lukin e ona la, o toki tawa mi. ni la mi ken anpa sewi tawa ona kin.
 
+9: ona li lukin e mun kama ni la mun ni li lawa e ona li awen lon sewi pi ma pi jan lili.
+
+10: ona li lukin e mun la ona li kama pilin pona wawa a.
 
 12: sitelen lape li toki e ni: o tawa ala jan lawa Eloto. la ona li tawa ma ona kepeken nasin ante.
 
@@ -5015,6 +5027,18 @@
 
 
 ### Philippians 2
+
+4: jan ale o lukin ala e ijo sina taso. taso o lukin e ijo pi jan ante kin!
+
+5: sona ni o lon sina: ona li lon jan Jesu pi telo sewi.
+
+6: ona li lon sijelo sewi la ona li wile ala lanpan e sama sewi.
+
+7: taso ona li ala e ona, li kama lon sijelo pi mani jan, li lukin sama jan.
+
+10: sewi en ma en anpa ma la noka ale o anpa lon nimi pi jan Jesu.
+
+11: uta ale o toki wawa sama e ni: jan Jesu pi telo sewi li lawa, tawa pona pi sewi mama!
 
 
 ### Philippians 3
