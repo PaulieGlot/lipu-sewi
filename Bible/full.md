@@ -2367,9 +2367,15 @@
 
 ### Psalms 2
 
-1: tan seme la kulupu jan li pilin wawa?  tan seme la kulupu jan li toki e ala?
+1: tan seme la kulupu jan li pilin wawa? tan seme la kulupu jan li toki e ala?
+
+2: jan lawa ma li kama. sama wan la jan lawa lili li toki e nasin. nasin ni li utala e sewi Jawe e jan ona pi lawa pi telo sewi.
 
 3: mi o kipisi e linja kiwen ona pi anpa lawa o weka wawa e linja ona.
+
+4: ona li awen lon sewi la ona ni li mu musi. sewi Atona li toki jaki e ona mute.
+
+5: ni la ona li toki tawa ona mute kepeken pillin utala ona. ona li monsuta e ona mute kepeken pilin utala wawa ona.
 
 
 ### Psalms 3
@@ -5035,6 +5041,10 @@
 6: ona li lon sijelo sewi la ona li wile ala lanpan e sama sewi.
 
 7: taso ona li ala e ona, li kama lon sijelo pi mani jan, li lukin sama jan.
+
+8: ona li anpa e ona li kama kute tawa moli, tawa moli palisa kin.
+
+9: ni la sewi li sewi mute e ona, li pana e nimi ni tawa ona: ona li lon sewi pi nimi ale.
 
 10: sewi en ma en anpa ma la noka ale o anpa lon nimi pi jan Jesu.
 
