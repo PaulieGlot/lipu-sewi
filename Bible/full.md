@@ -2364,6 +2364,12 @@
 
 ### Psalms 1
 
+1: jan ni li pona sewi: jan li tawa ala lon nasin pi jan ike, li awen ala lon nasin pi pali ike, li awen ala lon supa monsi pi jan pi toki jaki.
+
+2: ante la wile ona li lon sona lawa pi sewi Jawe. ona li toki insa e lawa sewi ona lon tenpo suno ale lon tenpo pimeja ale.
+
+4: ni li lon ala tawa jan ike. ante la ona li sama selo pi kasi pan. kon tawa li weka e ona.
+
 
 ### Psalms 2
 
@@ -2377,8 +2383,26 @@
 
 5: ni la ona li toki tawa ona mute kepeken pillin utala ona. ona li monsuta e ona mute kepeken pilin utala wawa ona.
 
+6: taso mi a li telo sewi e jan lawa mi lon nena ma sewi mi Sijon.
+
+7: mi toki sona e lawa pi sewi Jawe. ona li toki e ni tawa mi: sina jan lili mije mi. tenpo suno ni la mi kama lon e sina.
+
+8: o toki e wile tawa mi la mi pana tawa sina e kulupu jan lon jo ma mama sina. sama la jo ma sina li tawa selo pi ma ale.
+
+9: sina pakala e ona kepeken palisa kiwen. sina pakala e poki pi kiwen ko la sina pakala tawa kipisi e ona sama ni.
+
+10: ni la jan lawa mute o kama sona. jan pi lawa nasin o kute pona e pilin sina.
+
+11: o pali tawa sewi Jawe kepeken monsuta. o musi suli kepeken tawa wawa insa.
+
 
 ### Psalms 3
+
+1: ni li kalama musi pi jan Tawi lon tenpo ni: ona li tawa weka tan jan lili ona Asalon.
+
+3: mute li toki e ni tawa kon mi: awen li lon ala tawa ona tan sewi Elowin. a Sela.
+
+7: mi monsuta ala tan jan mute mute ni: ona li kama lon poka ale mi.
 
 
 ### Psalms 4
@@ -4250,6 +4274,8 @@
 
 5: ona mute li toki tawa ona: lon ma tomo Petelen pi ma Juta. ni li sitelen tan jan toki pi ijo kama.
 
+6: ma tomo Betlehem pi ma Juta o! lili la sina nanpa wan ala lon ma tomo lawa pi ma Juta. tan sina la jan lawa li kama li awen e kulupu Isale mi.
+
 8: ona li pana e jan pi sona mute tawa ma tomo Petelen la, ona li toki e ni: o tawa o alasa e jan lili. sina lukin e ona la, o toki tawa mi. ni la mi ken anpa sewi tawa ona kin.
 
 9: ona li lukin e mun kama ni la mun ni li lawa e ona li awen lon sewi pi ma pi jan lili.
@@ -4292,13 +4318,15 @@
 
 ### Matthew 6
 
-9: ni la o toki sewi ni: mama sewi mi lon sewi o, nimi sina o sewi.
+9: mama mi o! sina lon sewi. nimi sina o kama sewi.
 
-10: ma sina o kama. wile sina o kama, lon ma sama lon sewi.
+10: nasin lawa sina o kama. wile sina o kama lon sewi. sama la ona o kama lon ma.
 
-11: tenpo ni la o pana tawa mi e pan pi tenpo ni.
+11: tenpo ni la o pana e pan wile mi tawa mi.
 
-13: o lawa ala e mi tawa wile ike. taso o weka e mi tan ike. o awen.
+12: o weka e wile pana mi, sama ni: mi weka e wile pana tan jan ante.
+
+13: o lawa ala e mi tawa utala insa. taso o weka e mi tan ike. <tan ni: sina jo e nasin lawa e wawa e pona lon tenpo ale. ni o lon! (lon a!)>
 
 
 ### Matthew 7
