@@ -2395,6 +2395,8 @@
 
 11: o pali tawa sewi Jawe kepeken monsuta. o musi suli kepeken tawa wawa insa.
 
+12: o uta lili e jan lili mije. ante la ona li kama utala pilin. kin la sina kama weka tan nasin. pilin utala ona li kama la ni. jan li alasa e awen pi pana ona la jan ni li pona sewi.
+
 
 ### Psalms 3
 
