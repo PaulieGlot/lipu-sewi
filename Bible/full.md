@@ -2026,142 +2026,142 @@
 
 ### Esther 1
 
-1: tenpo pi jan Akasewe pi lawa ma 127 pi ma Palata tawa ma Kusi la, ijo li kama.
+1: ? tenpo pi jan Akasewe pi lawa ma 127 pi ma Palata tawa ma Kusi la, ijo li kama.
 
-2: jan Akasewe li lawa e ma tomo kiwen Susa.
+2: ? jan Akasewe li lawa e ma tomo kiwen Susa.
 
-3: sike tenpo 3 pi tenpo ni la, ona li pali e tenpo pi moku musi tawa jan lawa mute pi anpa ona.
+3: ? sike tenpo 3 pi tenpo ni la, ona li pali e tenpo pi moku musi tawa jan lawa mute pi anpa ona.
 
-4: sike suno 180 anu sike mute la, ona wile e ni: jan ale lukin e mani suli pi ma ona e pona suno pi lawa sewi ona.
+4: ? sike suno 180 anu sike mute la, ona wile e ni: jan ale lukin e mani suli pi ma ona e pona suno pi lawa sewi ona.
 
-5: tenpo ni li pini en insa ma kasi lili pi tomo lawa pi jan Akasewe la, ona li pali e tenpo pi moku musi tawa jan ale pi ma tomo kiwen Susa, pi jo mani mute anu pi jo mani ala.
+5: ? tenpo ni li pini en insa ma kasi lili pi tomo lawa pi jan Akasewe la, ona li pali e tenpo pi moku musi tawa jan ale pi ma tomo kiwen Susa, pi jo mani mute anu pi jo mani ala.
 
-7: nasin pi jan lawa la, telo kili nasa pi poki insa jelo ilo pi lukin pona li lon.
+7: ? nasin pi jan lawa la, telo kili nasa pi poki insa jelo ilo pi lukin pona li lon.
 
-8: moku telo la, lawa li lawa ala, tan ni: jan lawa li toki e ni: “o jan pali mi li pali e wile pi jan ale”.
+8: ? moku telo la, lawa li lawa ala, tan ni: jan lawa li toki e ni: “o jan pali mi li pali e wile pi jan ale”.
 
-9: insa tomo lawa la, jan lawa meli Wasi li pali kin e tenpo pi moku musi. tenpo ni li tawa meli.
+9: ? insa tomo lawa la, jan lawa meli Wasi li pali kin e tenpo pi moku musi. tenpo ni li tawa meli.
 
-10: sike suno 7 la, jan lawa li pilin pona li nasa pi telo kili. ona li toki e jan Mejuman e jan Biseta e jan Apona e jan Bita e jan Abata e jan Setawa e jan Kaka. (ona li jan pi unpa ala pi pali tawa jan Akasewe.) jan Akasewe toki e ni:
+10: ? sike suno 7 la, jan lawa li pilin pona li nasa pi telo kili. ona li toki e jan Mejuman e jan Biseta e jan Apona e jan Bita e jan Abata e jan Setawa e jan Kaka. (ona li jan pi unpa ala pi pali tawa jan Akasewe.) jan Akasewe toki e ni:
 
-11: o kama e jan lawa meli Wasi tawa jan lawa mije li len e ona kepeken len lawa pi jan lawa, tan ni: jan ale li ken lukin. ni li tan ni: jan Wasi li meli pi pona lukin.
+11: ? o kama e jan lawa meli Wasi tawa jan lawa mije li len e ona kepeken len lawa pi jan lawa, tan ni: jan ale li ken lukin. ni li tan ni: jan Wasi li meli pi pona lukin.
 
-12: taso, toki pi jan lawa mije kepeken jan pi unpa ala la, jan lawa meli Wasi li kama ala. jan lawa mije li pilin ike suli tan ni, en pilin ni li seli.
+12: ? taso, toki pi jan lawa mije kepeken jan pi unpa ala la, jan lawa meli Wasi li kama ala. jan lawa mije li pilin ike suli tan ni, en pilin ni li seli.
 
-13: jan lawa mije li toki e jan pi sona lawa, tan ni: nasin lawa li toki tawa jan pi sona lawa.
+13: ? jan lawa mije li toki e jan pi sona lawa, tan ni: nasin lawa li toki tawa jan pi sona lawa.
 
-14: jan Kasena en jan Seta en jan Amata en jan Tati en jan Mewe en jan Masena en jan Memukan li jan pi toki ona pi poka mute. jan poka ni li jan lawa lili pi ma Pasi, li jan lawa pi ma Mati, li ken kama e jan lawa suli, li nanpa wan pi ma lawa.
+14: ? jan Kasena en jan Seta en jan Amata en jan Tati en jan Mewe en jan Masena en jan Memukan li jan pi toki ona pi poka mute. jan poka ni li jan lawa lili pi ma Pasi, li jan lawa pi ma Mati, li ken kama e jan lawa suli, li nanpa wan pi ma lawa.
 
-15: jan Akasewe li toki e ni: “jan lawa meli Wasi li kute ala pi jan lawa mije Akasewe kepeken jan pi unpa ala la, o pali e seme tawa ona?”
+15: ? jan Akasewe li toki e ni: “jan lawa meli Wasi li kute ala pi jan lawa mije Akasewe kepeken jan pi unpa ala la, o pali e seme tawa ona?”
 
-16: poki pi jan lawa e jan lawa lili mute la, jan Memukan toki e ni: “jan Wasi li pali ike e jan lawa meli pi taso ala. ona li kin pali ike e jan lawa lili ale e jan ale.”
+16: ? poki pi jan lawa e jan lawa lili mute la, jan Memukan toki e ni: “jan Wasi li pali ike e jan lawa meli pi taso ala. ona li kin pali ike e jan lawa lili ale e jan ale.”
 
-17: “ni li tan ni: pali pi jan lawa meli la, meli ale li pilin ike e mije ona. ona li kama pi toki insa e ni: kin jan Akasewe li toki tawa jan Wasi e kama pi sinpin ona, en jan Wasi kama ala.”
+17: ? “ni li tan ni: pali pi jan lawa meli la, meli ale li pilin ike e mije ona. ona li kama pi toki insa e ni: kin jan Akasewe li toki tawa jan Wasi e kama pi sinpin ona, en jan Wasi kama ala.”
 
-18: “tenpo ni, meli ale pi ma Pasi pi ma Mati li toki e ni tawa jan lawa lili ale, en pilin ike li pini ala.”
+18: ? “tenpo ni, meli ale pi ma Pasi pi ma Mati li toki e ni tawa jan lawa lili ale, en pilin ike li pini ala.”
 
-19: “ni li pona tawa jan lawa la, o sina toki lawa, li sitelen ni lon lawa pi ma Pasi pi ma Mati tawa ni li ken ala ante e ni: jan Wasi li ken ala kama e sinpin jan lawa Akasewe. o pana e nimi lawa tawa meli ante pi mute pona.”
+19: ? “ni li pona tawa jan lawa la, o sina toki lawa, li sitelen ni lon lawa pi ma Pasi pi ma Mati tawa ni li ken ala ante e ni: jan Wasi li ken ala kama e sinpin jan lawa Akasewe. o pana e nimi lawa tawa meli ante pi mute pona.”
 
-20: “ni la, lawa sina li pana e ma suli ale sina, en meli ale, pi wawa anu anpa, li kama pilin anpa mije sina.”
+20: ? “ni la, lawa sina li pana e ma suli ale sina, en meli ale, pi wawa anu anpa, li kama pilin anpa mije sina.”
 
-21: ni la, jan lawa en jan lawa lili ale li pilin pona, en jan lawa pali e sama pi toki jan Memukan.
+21: ? ni la, jan lawa en jan lawa lili ale li pilin pona, en jan lawa pali e sama pi toki jan Memukan.
 
-22: jan lawa li pana e jan toki e ma ale pi jan lawa. ona li kepeken e toki ma ale e nasin sitelen ma ale. ona li toki e ni: mije ale li jo e wawa pi tomo ona li toki e nasin toki pi kulupu ona.
+22: ? jan lawa li pana e jan toki e ma ale pi jan lawa. ona li kepeken e toki ma ale e nasin sitelen ma ale. ona li toki e ni: mije ale li jo e wawa pi tomo ona li toki e nasin toki pi kulupu ona.
 
 
 ### Esther 2
 
-1: tenpo lili tawa pilin ike pi jan Akasewe li pini la, ona li sona e jan Wasi li pilin e pali ona e ijo pi sitelen lawa tawa ona.
+1: ? tenpo lili tawa pilin ike pi jan Akasewe li pini la, ona li sona e jan Wasi li pilin e pali ona e ijo pi sitelen lawa tawa ona.
 
-2: jan pali pi anpa jan lawa li toki e ni: “o alasa e jan meli sin mute pi pona lukin pi unpa ala lon tenpo pini.”
+2: ? jan pali pi anpa jan lawa li toki e ni: “o alasa e jan meli sin mute pi pona lukin pi unpa ala lon tenpo pini.”
 
-3: “o jan lawa li [choose - wile? lawa?] e jan lon ma lili ale pi ma lawa, tawa ni: o kama e jan meli sin ale pi pona lukin tawa ma tomo kiwen Susa. meli ni o kama e tomo meli pi jan lawa, anpa lukin pi jan Eke. (jan Eke li jan pi unpa ala pi jan Akasewe. ona li awen e jan meli.) o pana e ko pi pona lukin tawa meli ni.”
+3: ? “o jan lawa li [choose - wile? lawa?] e jan lon ma lili ale pi ma lawa, tawa ni: o kama e jan meli sin ale pi pona lukin tawa ma tomo kiwen Susa. meli ni o kama e tomo meli pi jan lawa, anpa lukin pi jan Eke. (jan Eke li jan pi unpa ala pi jan Akasewe. ona li awen e jan meli.) o pana e ko pi pona lukin tawa meli ni.”
 
-4: “jan meli pi pona mute tawa jan lawa o kama e jan lawa meli lon weka pi jan Wasi.” jan Akasewe li pilin pona tan toki ni, li pali e ni.
+4: ? “jan meli pi pona mute tawa jan lawa o kama e jan lawa meli lon weka pi jan Wasi.” jan Akasewe li pilin pona tan toki ni, li pali e ni.
 
-5: ma tomo kiwen Susa la, jan Moteka, pi kulupu jan Juta, pi kulupu lili Penjamin, li lon. mama ona li jan Jawi, en mama suli ona li jan Simi, en mama suli mute ona li jan Kisi.
+5: ? ma tomo kiwen Susa la, jan Moteka, pi kulupu jan Juta, pi kulupu lili Penjamin, li lon. mama ona li jan Jawi, en mama suli ona li jan Simi, en mama suli mute ona li jan Kisi.
 
-6: (tenpo pini la, jan lawa Nepukanesa li weka tan ma tomo Jelusalen e kulupu pi jan Kisi e jan lawa Jeconija pi ma Juta.)
+6: ? (tenpo pini la, jan lawa Nepukanesa li weka tan ma tomo Jelusalen e kulupu pi jan Kisi e jan lawa Jeconija pi ma Juta.)
 
-7: jan Moteka li mama kon pi jan Ese (pi nimi Atasa kin) tan ona jo ala e mama. mama mije pi jan Ese li jo e mama sama pi mama jan Moteka. jan meli Ese li jo e sijelo pona, li lukin pona. tenpo pi mama tu ona li moli la, jan Moteka li kama mama tawa ona kepeken nasin sama pi mama sijelo.
+7: ? jan Moteka li mama kon pi jan Ese (pi nimi Atasa kin) tan ona jo ala e mama. mama mije pi jan Ese li jo e mama sama pi mama jan Moteka. jan meli Ese li jo e sijelo pona, li lukin pona. tenpo pi mama tu ona li moli la, jan Moteka li kama mama tawa ona kepeken nasin sama pi mama sijelo.
 
-8: tenpo pi jan lawa li toki en jan meli mute li kama e tomo lawa pi anpa lukin pi jan Eke la, jan li kama jo e jan Ese kin, anpa lukin jan Eke pi awen e meli, tawa tomo lawa.
+8: ? tenpo pi jan lawa li toki en jan meli mute li kama e tomo lawa pi anpa lukin pi jan Eke la, jan li kama jo e jan Ese kin, anpa lukin jan Eke pi awen e meli, tawa tomo lawa.
 
-9: meli ni li pona tawa ona, e ona pilin pona tawa meli. jan Eke li pana tawa jan Ese e kipisi pi moku, e ko pi pona lukin, e jan 7 pi anpa jan Ese pi tomo lawa. insa tomo meli la, jan Eke li pona e Ese e jan anpa ona.
+9: ? meli ni li pona tawa ona, e ona pilin pona tawa meli. jan Eke li pana tawa jan Ese e kipisi pi moku, e ko pi pona lukin, e jan 7 pi anpa jan Ese pi tomo lawa. insa tomo meli la, jan Eke li pona e Ese e jan anpa ona.
 
-10: jan Ese li toki ala lon kulupu jan ona, tan ni: jan Moteka toki e ni: o toki ala lon ni.
+10: ? jan Ese li toki ala lon kulupu jan ona, tan ni: jan Moteka toki e ni: o toki ala lon ni.
 
-11: sike suno ale la, jan Moteka li kama e sinpin pi tomo meli pi jan lawa, tan ni: ona li wile kama sona e ale pi kama tawa jan Ese.
+11: ? sike suno ale la, jan Moteka li kama e sinpin pi tomo meli pi jan lawa, tan ni: ona li wile kama sona e ale pi kama tawa jan Ese.
 
-12: meli li jo e sike tenpo wan tawa kama pona lukin. sike ni li pini la, meli nanpa wan li kama tawa jan lawa. kama ni li pini la, meli nanpa tu li kama tawa jan lawa, en meli ale li kama kepeken nasin ni. (ona li jo e sike wan tawa ni: kipisi sike 6 la, ona li kepeken e telo ko pona, en kipisi 6 ante la, ona li kepeken e kon pona e ko pona ante tawa pona e ona.)
+12: ? meli li jo e sike tenpo wan tawa kama pona lukin. sike ni li pini la, meli nanpa wan li kama tawa jan lawa. kama ni li pini la, meli nanpa tu li kama tawa jan lawa, en meli ale li kama kepeken nasin ni. (ona li jo e sike wan tawa ni: kipisi sike 6 la, ona li kepeken e telo ko pona, en kipisi 6 ante la, ona li kepeken e kon pona e ko pona ante tawa pona e ona.)
 
-13: (tenpo pona ni li pini la, meli li kama tawa jan lawa.) ona li kama tawa jan lawa la, ona li ken kama e ijo ale pi wile ona tan tomo meli.
+13: ? (tenpo pona ni li pini la, meli li kama tawa jan lawa.) ona li kama tawa jan lawa la, ona li ken kama e ijo ale pi wile ona tan tomo meli.
 
-14: meli li tawa tomo lawa lon tenpo pimeja, li tawa tomo meli nanpa tu lon open pi tenpo suno. jan Sasaka pi unpa ala li lawa e tomo meli ni, li awen e meli lawa pi suli ala. jan lawa li wile e meli li toki e nimi ona la, ona li kama tawa jan lawa. jan lawa li wile ala la, meli li kama ala tawa ona.
+14: ? meli li tawa tomo lawa lon tenpo pimeja, li tawa tomo meli nanpa tu lon open pi tenpo suno. jan Sasaka pi unpa ala li lawa e tomo meli ni, li awen e meli lawa pi suli ala. jan lawa li wile e meli li toki e nimi ona la, ona li kama tawa jan lawa. jan lawa li wile ala la, meli li kama ala tawa ona.
 
-15: (jan Ese pi jan Apije la, jan Apije li jan sama tawa mama pi jan Moteka, en jan Moteka li kama mama tawa jan Ese.) tenpo pi jan Ese li kama la, ona li wile ala e ijo namako tan wile pi jan Ekaje. (jan Ekaje li unpa ala li awen e meli.) taso, ona li pana e pilin pona tawa jan lukin ona.
+15: ? (jan Ese pi jan Apije la, jan Apije li jan sama tawa mama pi jan Moteka, en jan Moteka li kama mama tawa jan Ese.) tenpo pi jan Ese li kama la, ona li wile ala e ijo namako tan wile pi jan Ekaje. (jan Ekaje li unpa ala li awen e meli.) taso, ona li pana e pilin pona tawa jan lukin ona.
 
-16: tenpo mun nanpa 10 la, tenpo mun Tewe la, tenpo sike lawa nanpa 7 pi jan lawa Akasewe la, jan li kama e jan Ese tawa jan Akasewe lon tomo lawa ona.
+16: ? tenpo mun nanpa 10 la, tenpo mun Tewe la, tenpo sike lawa nanpa 7 pi jan lawa Akasewe la, jan li kama e jan Ese tawa jan Akasewe lon tomo lawa ona.
 
-17: meli ale la, jan lawa li olin e jan Ese. meli ale pi unpa ala la, pilin pona la, jan Ese li nanpa wan tawa jan lawa. ni la, ona li pana e len lawa pi jan lawa tawa ona, li pali e ni: ona li meli lawa lon weka pi jan Wasi.
+17: ? meli ale la, jan lawa li olin e jan Ese. meli ale pi unpa ala la, pilin pona la, jan Ese li nanpa wan tawa jan lawa. ni la, ona li pana e len lawa pi jan lawa tawa ona, li pali e ni: ona li meli lawa lon weka pi jan Wasi.
 
-18: jan lawa suli li pali e tenpo moku musi suli tawa jan lawa anpa. musi ni li tenpo musi pi jan Ese. ma ale ona la, ona li pali e tenpo musi, li lili e lawa, li pana e ijo pi suli lawa.
+18: ? jan lawa suli li pali e tenpo moku musi suli tawa jan lawa anpa. musi ni li tenpo musi pi jan Ese. ma ale ona la, ona li pali e tenpo musi, li lili e lawa, li pana e ijo pi suli lawa.
 
-19: meli pi unpa ala li kama kulupu lon tenpo nanpa tu la, jan Moteka li awen lon lupa pi tomo lawa.
+19: ? meli pi unpa ala li kama kulupu lon tenpo nanpa tu la, jan Moteka li awen lon lupa pi tomo lawa.
 
-20: sama toki nasin pi jan Moteka la, jan Ese li toki ala e kulupu ona e nasin ona, tan ni: ona li pali e wile pi jan Moteka sama tenpo ni: jan Moteka li lawa e ona.
+20: ? sama toki nasin pi jan Moteka la, jan Ese li toki ala e kulupu ona e nasin ona, tan ni: ona li pali e wile pi jan Moteka sama tenpo ni: jan Moteka li lawa e ona.
 
-21: tenpo ni la, jan Moteka li lon lupa pi tomo lawa la, jan Pitan en jan Tewe li kama pilin utala. (ona li jan pi unpa ala, li awen e lupa pi tomo lawa.) ona li wile pakala e jan lawa Akasewe.
+21: ? tenpo ni la, jan Moteka li lon lupa pi tomo lawa la, jan Pitan en jan Tewe li kama pilin utala. (ona li jan pi unpa ala, li awen e lupa pi tomo lawa.) ona li wile pakala e jan lawa Akasewe.
 
-22: jan Moteka li kama sona e toki ni, li toki lon ni tawa jan lawa Ese. jan Ese li toki e ni tawa jan lawa lon nimi pi jan Moteka.
+22: ? jan Moteka li kama sona e toki ni, li toki lon ni tawa jan lawa Ese. jan Ese li toki e ni tawa jan lawa lon nimi pi jan Moteka.
 
-23: lawa li alasa lon ni, li kama sona e ni: ni li lon. lawa li moli e ona tu lon nasin ni: palisa kasi li jo sewi e ona. lawa li sitelen e ni lon lipu pi kama ale tawa jan lawa.
+23: ? lawa li alasa lon ni, li kama sona e ni: ni li lon. lawa li moli e ona tu lon nasin ni: palisa kasi li jo sewi e ona. lawa li sitelen e ni lon lipu pi kama ale tawa jan lawa.
 
 
 ### Esther 3
 
-1: tenpo pi ale ni li weka la, jan lawa Akasewe li sewi e jan Aman pi jan Ametata pi kulupu Akaki. lawa li wawa e ona, li lawa suli e ona tan jan lawa lili ale.
+1: ? tenpo pi ale ni li weka la, jan lawa Akasewe li sewi e jan Aman pi jan Ametata pi kulupu Akaki. lawa li wawa e ona, li lawa suli e ona tan jan lawa lili ale.
 
-2: jan anpa ale pi jan lawa li anpa lon sinpin pi jan Aman tan ni: jan lawa li toki e ni lon ona. taso, jan Moteka li kama anpa ala.
+2: ? jan anpa ale pi jan lawa li anpa lon sinpin pi jan Aman tan ni: jan lawa li toki e ni lon ona. taso, jan Moteka li kama anpa ala.
 
-3: jan anpa pi jan lawa lon lupa pi tomo lawa li toki tawa jan Moteka e ni: sina pali ala e toki pi jan lawa tan seme?
+3: ? jan anpa pi jan lawa lon lupa pi tomo lawa li toki tawa jan Moteka e ni: sina pali ala e toki pi jan lawa tan seme?
 
-4: suno wan en suno ale ante la, jan anpa li toki tawa jan Moteka, en jan Moteka li kute ala e ona. ona li wile kama sona e awen pi toki pi jan Moteka la, ona li toki e ni tawa jan Aman, tan ni: jan Moteka li toki e ni tawa ona: jan Moteka li lon kulupu Jute.
+4: ? suno wan en suno ale ante la, jan anpa li toki tawa jan Moteka, en jan Moteka li kute ala e ona. ona li wile kama sona e awen pi toki pi jan Moteka la, ona li toki e ni tawa jan Aman, tan ni: jan Moteka li toki e ni tawa ona: jan Moteka li lon kulupu Jute.
 
-5: jan Moteka li anpa ala tawa jan Aman, en jan Aman li lukin e ni la, jan Aman li pilin pi ike seli.
+5: ? jan Moteka li anpa ala tawa jan Aman, en jan Aman li lukin e ni la, jan Aman li pilin pi ike seli.
 
-6: pakala taso tawa jan Moteka li lili ike tawa jan Aman. jan li toki tawa ona e kulupu pi jan Moteka. ni la, ona li wile pakala moli ale e kulupu pi jan Moteka, e kulupu Jute lon ma ale pi jan lawa Akasewe.
+6: ? pakala taso tawa jan Moteka li lili ike tawa jan Aman. jan li toki tawa ona e kulupu pi jan Moteka. ni la, ona li wile pakala moli ale e kulupu pi jan Moteka, e kulupu Jute lon ma ale pi jan lawa Akasewe.
 
-7: tenpo mun nanpa wan la, tenpo mun Nisan la, tenpo sike nanpa 12 pi jan lawa Akasewe la, ijo Puwi li kama lon sinpin pi jan Aman. (ijo Puwi li musi ken.) ijo ni li kama lon sinpin ona tawa tenpo suno ale tawa tenpo mun ale. nasin ni la, tenpo mun nanpa 12 li kama lon musi ken. (tenpo ni li tenpo mun Ata.)
+7: ? tenpo mun nanpa wan la, tenpo mun Nisan la, tenpo sike nanpa 12 pi jan lawa Akasewe la, ijo Puwi li kama lon sinpin pi jan Aman. (ijo Puwi li musi ken.) ijo ni li kama lon sinpin ona tawa tenpo suno ale tawa tenpo mun ale. nasin ni la, tenpo mun nanpa 12 li kama lon musi ken. (tenpo ni li tenpo mun Ata.)
 
-8: jan Aman li toki tawa jan lawa Akasewe e ni: kulupu wan jan li lon poka kulupu jan ale ante li lon ma lili ale pi ma sina. lawa ona li ante tan lawa pi jan ale ante, en ona li kute ala e lawa pi jan lawa. lon ona li ike tawa jan lawa.
+8: ? jan Aman li toki tawa jan lawa Akasewe e ni: kulupu wan jan li lon poka kulupu jan ale ante li lon ma lili ale pi ma sina. lawa ona li ante tan lawa pi jan ale ante, en ona li kute ala e lawa pi jan lawa. lon ona li ike tawa jan lawa.
 
-9: ni li pona tawa jan lawa la, o toki lawa e pakala moli ale tawa ona. sina pali la, mi o pana e ijo mani kiwen 10,000 tawa jan pi poki mani lawa.
+9: ? ni li pona tawa jan lawa la, o toki lawa e pakala moli ale tawa ona. sina pali la, mi o pana e ijo mani kiwen 10,000 tawa jan pi poki mani lawa.
 
-10: ni la, jan lawa li weka e kiwen lawa tan luka ona, li pana e ni tawa jan Aman pi jan Amateta pi ike tawa kulupu Jute.
+10: ? ni la, jan lawa li weka e kiwen lawa tan luka ona, li pana e ni tawa jan Aman pi jan Amateta pi ike tawa kulupu Jute.
 
-11: jan lawa li toki tawa jan Aman e ni: mi pana tawa sina e mani e jan. o pali e wile sina.
+11: ? jan lawa li toki tawa jan Aman e ni: mi pana tawa sina e mani e jan. o pali e wile sina.
 
-12: tenpo suno nanpa 13 pi tenpo mun nanpa wan la, jan sitelen pi jan lawa li kama li sitelen e toki lawa lon nasin pi jan Aman. lawa li tawa jan lawa lili pi ma ale kepeken sitelen ona, li tawa jan lawa lili pi kulupu ale kepeken toki ona. ona li kama lon nimi pi jan lawa Akasewe, li jo e sitelen pi kiwen lawa.
+12: ? tenpo suno nanpa 13 pi tenpo mun nanpa wan la, jan sitelen pi jan lawa li kama li sitelen e toki lawa lon nasin pi jan Aman. lawa li tawa jan lawa lili pi ma ale kepeken sitelen ona, li tawa jan lawa lili pi kulupu ale kepeken toki ona. ona li kama lon nimi pi jan lawa Akasewe, li jo e sitelen pi kiwen lawa.
 
-13: jan tawa li kama e sitelen lawa ni tawa ma ale lawa: o pakala o moli o pakala moli e kulupu Jute ale, e jan sin e jan pi tenpo suli e jan meli. o pali e ni lon suno wan, lon tenpo suno nanpa 13 pi tenpo mun nanpa 12, lon tenpo mun Ata. o lanpan e jo ale ona.
+13: ? jan tawa li kama e sitelen lawa ni tawa ma ale lawa: o pakala o moli o pakala moli e kulupu Jute ale, e jan sin e jan pi tenpo suli e jan meli. o pali e ni lon suno wan, lon tenpo suno nanpa 13 pi tenpo mun nanpa 12, lon tenpo mun Ata. o lanpan e jo ale ona.
 
-14: sitelen lawa ni li wile kama toki lon ma lili ale. ona li kama lon lukin pi jan ale. ni la ona li ken kama pona tawa tenpo suno ni.
+14: ? sitelen lawa ni li wile kama toki lon ma lili ale. ona li kama lon lukin pi jan ale. ni la ona li ken kama pona tawa tenpo suno ni.
 
-15: jan tawa li pali wawa e toki lawa. jan wan li toki e ni lon ma tomo kiwen Susa. jan lawa en jan Aman li awen li moku e telo. taso, jan pi ma tomo Susa li pilin nasa.
+15: ? jan tawa li pali wawa e toki lawa. jan wan li toki e ni lon ma tomo kiwen Susa. jan lawa en jan Aman li awen li moku e telo. taso, jan pi ma tomo Susa li pilin nasa.
 
 
 ### Esther 4
 
-1: sona pi ale ni li kama tawa jan Moteka la, ona li pakala e len ona, li len e ona kepeken len ike kepeken ko tan seli. ona li tawa lon ma tomo, li kalama suli pi pilin ike.
+1: ? sona pi ale ni li kama tawa jan Moteka la, ona li pakala e len ona, li len e ona kepeken len ike kepeken ko tan seli. ona li tawa lon ma tomo, li kalama suli pi pilin ike.
 
-2: ona li tawa lupa pi tomo lawa. taso, jan li kepeken len ike la, ona li ken ala kama lon tomo lawa.
+2: ? ona li tawa lupa pi tomo lawa. taso, jan li kepeken len ike la, ona li ken ala kama lon tomo lawa.
 
-3: ma ale pi toki lawa la, kulupu Jute li pilin ike suli, li moku ala, li pana e telo tan oko, li kalama suli ike, li len e ona kepeken len ike kepeken ko tan seli.
+3: ? ma ale pi toki lawa la, kulupu Jute li pilin ike suli, li moku ala, li pana e telo tan oko, li kalama suli ike, li len e ona kepeken len ike kepeken ko tan seli.
 
-4: jan anpa pi jan Ese li toki e ni tawa ona la, meli lawa li kama pilin ike suli. ona li pana e len tawa jan Moteka, li wile e ni: ona li len ala e ona kepeken len ike. taso, jan Moteka li kute ala.
+4: ? jan anpa pi jan Ese li toki e ni tawa ona la, meli lawa li kama pilin ike suli. ona li pana e len tawa jan Moteka, li wile e ni: ona li len ala e ona kepeken len ike. taso, jan Moteka li kute ala.
 
-5: jan Ese li kama e jan Ataka. (jan Ataka li jan pi unpa ala. jan lawa li pana e ona tawa jan Ese, en ona li pali tawa jan Ese.) jan Ese li tawa jan Moteka e jan Ataka, tan ni: ona li wile sona e ni: seme li lon? ni li kama tan seme?
+5: ? jan Ese li kama e jan Ataka. (jan Ataka li jan pi unpa ala. jan lawa li pana e ona tawa jan Ese, en ona li pali tawa jan Ese.) jan Ese li tawa jan Moteka e jan Ataka, tan ni: ona li wile sona e ni: seme li lon? ni li kama tan seme?
 
 
 ### Esther 5
@@ -2175,7 +2175,7 @@
 
 ### Esther 8
 
-9: tenpo ni la jan li kama e jan sitelen pi jan lawa. tenpo ni li sike mun nanpa 3 (mun Siwan) lon suno nanpa 23. jan mije Moteka li sitelen e lipu lawa tawa ali. lipu lawa ni li toki tan jan pi kulupu Juta tawa jan lawa pi ma mute. ni li ma 127 tan ma Palata tawa ma Kusi. lipu lawa ni li sitelen e toki ma ale. lipu lawa ni li sitelen e toki Iwisi tawa jan pi kulupu Juta.
+9: ? tenpo ni la jan li kama e jan sitelen pi jan lawa. tenpo ni li sike mun nanpa 3 (mun Siwan) lon suno nanpa 23. jan mije Moteka li sitelen e lipu lawa tawa ali. lipu lawa ni li toki tan jan pi kulupu Juta tawa jan lawa pi ma mute. ni li ma 127 tan ma Palata tawa ma Kusi. lipu lawa ni li sitelen e toki ma ale. lipu lawa ni li sitelen e toki Iwisi tawa jan pi kulupu Juta.
 
 
 ### Esther 9
