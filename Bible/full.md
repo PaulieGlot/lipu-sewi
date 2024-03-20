@@ -4,7 +4,7 @@
 
 ### Genesis 1
 
-1: tenpo open la sewi Jawe li pali e kon sewi e ma.
+1: open la, sewi Jawe li lon e sewi e ma.
 
 2: ma li pimeja pi insa ala. kon pi sewi Jawe li tawa lon sewi telo.
 
@@ -125,6 +125,16 @@
 
 ### Genesis 6
 
+1: jan li kama mute lon ma la, meli li kama lon tan jan ni.
+
+2: kulupu pi sewi Elowin li lukin e meli pi kulupu jan la, meli ni li pona lukin. ona li lanpan e meli pi wile ale ona.
+
+3: sewi Jawe li toki e ni: kon mi li awen ala lon jan tawa tenpo ale tan ni: ona li sijelo. tenpo ona li tenpo sike suno 120.
+
+6: ona li pali e jan lon ma la, sewi Jawe li pilin ike. sewi Jawe li pakala lon pilin ona.
+
+8: taso, jan Nowa li kama pona lon lukin pi sewi Jawe.
+
 9: ni li toki e jan kama pi jan Nowa.  jan Nowa li jan pona,  li pakala ala lon tenpo ona.  jan Nowa li tawa lon poka pi sewi Jawe.
 
 10: jan Nowa li mama e mije sin tu wan. ona li jan Sen, li jan An, li jan Japete.
@@ -193,6 +203,12 @@
 2: jan Awalan li toki: sewi lawa mi Jawe o, sina pana e seme tawa mi? mi awen li jo ala e jan sin. jan jo kama pi tomo mi li jan Elijese pi ma tomo Tamese.
 
 3: jan Awalan li toki: a, tawa mi la sina pana ala e kili sin. a, jan pi tomo mi li kama jo e jo mi.
+
+4: a, toki pi sewi Jawe li kama tawa ona, li toki: ona li kama jo ala e jo sina. taso ona ni li kama jo e jo sina: ona li kama tan insa sina.
+
+5: ona li tawa e ona tan tomo, li toki: o lukin tawa kon sewi. sina ken nanpa e mun lili la, o nanpa e ona. ona li toki tawa ona: kili jan sina li kama sama nanpa ni.
+
+6: ona li pilin e lon awen pi sewi Jawe. sewi Jawe li suli e pona sona pi jan Awalan tan nasin pona ona.
 
 
 ### Genesis 16
@@ -566,6 +582,12 @@
 6: kin la mi pana e pona tawa mute, tawa jan ni: ona li olin e mi li awen e toki lawa mi.
 
 7: o sewi ala e nimi pi sewi sina Jawe tawa ala, tan ni: sewi Jawe li weka ala e ike tan jan ni: jan li sewi e nimi ona tawa ala.
+
+8: o awen sona e tenpo suno pi pali ala, tawa ni: ona li sewi.
+
+12: o suli e mama mije sina e mama meli sina, tawa ni: tenpo sina li ken suli lon ma pana ni tan sewi sina Jawe tawa sina.
+
+13: o unpa ala e meli ni: ona en mije ante li wan.
 
 
 ### Exodus 21
@@ -2368,7 +2390,13 @@
 
 2: ante la wile ona li lon sona lawa pi sewi Jawe. ona li toki insa e lawa sewi ona lon tenpo suno ale lon tenpo pimeja ale.
 
+3: ona li kama sama kasi suli li noka lon poka pi linja telo. ona li pana e kili lon tenpo ona. lipu kasi ona li kama ala moli. ijo ale pi pali ona li kama suli.
+
 4: ni li lon ala tawa jan ike. ante la ona li sama selo pi kasi pan. kon tawa li weka e ona.
+
+5: tan ni la jan ike li kama ala awen noka lon utala lawa. kin la pali ike li awen ala lon kulupu pi jan pona.
+
+6: tan ni: sewi Jawe li sona e nasin pi jan pona. taso nasin pi jan ike li kama weka.
 
 
 ### Psalms 2
@@ -2402,12 +2430,32 @@
 
 1: ni li kalama musi pi jan Tawi lon tenpo ni: ona li tawa weka tan jan lili ona Asalon.
 
+2: sewi Jawe o. jan ike utala mi li kama mute a. mute li tawa noka lon utala tawa mi.
+
 3: mute li toki e ni tawa kon mi: awen li lon ala tawa ona tan sewi Elowin. a Sela.
+
+4: kin la sina sewi Jawe. sina ilo awen utala tawa mi. sina suli kon mi. sina ijo ni: ona li tawa sewi e lawa mi.
+
+5: mi kalama e toki mi tawa sewi Jawe.  ona li toki sin tawa mi tan nena ma sewi ona. a Sela.
+
+6: mi supa. mi lape. mi pini e lape. tan ni: sewi Jawe li awen e mi.
 
 7: mi monsuta ala tan jan mute mute ni: ona li kama lon poka ale mi.
 
+8: sewi Jawe o tawa noka. sewi mi o awen e mi a. sina utala luka e poka sinpin pi jan ike ale mi, sina pakala e kiwen uta pi jan ike.
+
+9: awen li lon sewi Jawe. pona sewi pi pana sina li lon kulupu jan sina. a Sela.
+
 
 ### Psalms 4
+
+2: mi kalama e toki la o toki sin tawa mi. sewi pi nasin pona mi o. lon lili la sina suli e lili tawa mi. o weka e sona pi pali ike mi. o kute e toki sewi mi.
+
+3: jan lili jan o. ni li pini lon tenpo seme: suli kon mi li kama jaki. sama la sina olin e ala, sina alasa e ijo pi lon ala? a Sela.
+
+4: kin la o sona e ni: sewi Jawe li weka e jan pi nasin ona tawa ona. mi toki suli tawa sewi Jawe la ona li kama kute.
+
+5: o pilin wawa o pali ala e ike o toki insa lon supa sina o kalama ala. a Sela.
 
 
 ### Psalms 5
@@ -2474,7 +2522,7 @@
 
 ### Psalms 23
 
-1: sewi Jawe li jan mi pi awen soweli. mi o wile ala
+1: sewi Jawe li jan mi pi awen soweli. mi o wile ala.
 
 2: lon ma kasi laso la ona li anpa e mi. lon poka pi telo lape la ona li nasin e mi. 
 
@@ -2843,6 +2891,22 @@
 
 
 ### Psalms 137
+
+1: lon linja telo pi ma Papilin la mi mute li monsi li pana e telo oko kin lon tenpo ni: mi awen sona e ma Sijon.
+
+2: lon ma ni la mi mute li lape e ilo pi kalama musi mi lon kasi suli linja.
+
+4: kepeken seme la mi kalama e musi pi sewi Jawe lon ma pi jan ante?
+
+5: ma Jelusalen o, mi weka e sona sina la luka ilo mi o kama kepeken ala.
+
+6: linja uta mi o awen lon sewi uta mi lon ni: mi awen ala sona e sina. lon ni: mi sewi ala e ma Jelusalen tawa sewi pi musi mi.
+
+7: sewi Jawe o awen sona e tenpo suno pi ma tomo Jelusalen tawa jan lili mije mute pi ma Eton. ona li kalama: o anpa e ona a!  o anpa e ona tawa noka ona.
+
+8: jan lili meli pi ma Papilin o, lanpan li kama tawa sina. jan ni li pona: ona li pana sin e ijo tawa sina, sama ni: sina pana e ijo tawa mi.
+
+9: jan ni li pona sewi: ona li lanpan e jan lili sin sina, li pakala kipisi e ona tawa kiwen ma.
 
 
 ### Psalms 138
