@@ -746,6 +746,8 @@
 
 ### Leviticus 19
 
+28: o open ala e selo sina tawa kon jan. o pana ala e sitelen ni lon selo sina: sina ken ala weka e ona. mi sewi Jawe.
+
 
 ### Leviticus 20
 
@@ -2449,6 +2451,8 @@
 
 ### Psalms 4
 
+1: ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi.
+
 2: mi kalama e toki la o toki sin tawa mi. sewi pi nasin pona mi o. lon lili la sina suli e lili tawa mi. o weka e sona pi pali ike mi. o kute e toki sewi mi.
 
 3: jan lili jan o. ni li pini lon tenpo seme: suli kon mi li kama jaki. sama la sina olin e ala, sina alasa e ijo pi lon ala? a Sela.
@@ -2457,8 +2461,20 @@
 
 5: o pilin wawa o pali ala e ike o toki insa lon supa sina o kalama ala. a Sela.
 
+6: o moli sewi e ijo pana pi weka ike. o pana e pilin awen tawa sewi Jawe.
+
+7: mute li toki e ni: jan seme li ken pana e ijo pona tawa lukin mi? sewi Jawe o. o pana e suno sina pi sinpin lawa lon mi.
+
+8: sina pana e musi tawa pilin mi. ona li kama mute lon tenpo ni: pan ona en telo kili ona li lon.
+
+9: pona wan la mi kama supa, mi lape. tan ni: sina sewi Jawe li taso. lon la sina monsi e mi.
+
 
 ### Psalms 5
+
+2: sewi Jawe o kute e toki mi. o sona e toki insa mi.
+
+4: sewi Jawe o, tenpo pi open suno la, sina kute e kalama mi. tenpo pi open suno la, mi pali e ijo tawa sina, mi awen lukin.
 
 
 ### Psalms 6
@@ -2895,6 +2911,8 @@
 1: lon linja telo pi ma Papilin la mi mute li monsi li pana e telo oko kin lon tenpo ni: mi awen sona e ma Sijon.
 
 2: lon ma ni la mi mute li lape e ilo pi kalama musi mi lon kasi suli linja.
+
+3: tan ni: jan li lanpan e mi, li toki wile e toki pi kalama musi tan mi lon ma ni. jan li ike e mi. musi. o kalama e musi tawa mi tan musi pi ma Sijon.
 
 4: kepeken seme la mi kalama e musi pi sewi Jawe lon ma pi jan ante?
 
