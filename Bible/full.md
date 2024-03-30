@@ -2474,7 +2474,13 @@
 
 2: sewi Jawe o kute e toki mi. o sona e toki insa mi.
 
+3: jan lawa mi o. sewi mi o. o kute e kalama mi pi wile insa. lon ni: mi toki sewi tawa sina.
+
 4: sewi Jawe o, tenpo pi open suno la, sina kute e kalama mi. tenpo pi open suno la, mi pali e ijo tawa sina, mi awen lukin.
+
+5: lon la sina sewi ni ala: ona li wile e ike. ike li lon ala poka sina.
+
+8: mi la lon pona mute sina la mi tawa tomo sina. mi anpa e mi tawa tomo sewi sina lon monsuta sina.
 
 
 ### Psalms 6
@@ -2538,9 +2544,9 @@
 
 ### Psalms 23
 
-1: sewi Jawe li jan mi pi awen soweli. mi o wile ala.
+2: sewi Jawe li jan mi pi awen soweli. mi o wile ala.
 
-2: lon ma kasi laso la ona li anpa e mi. lon poka pi telo lape la ona li nasin e mi. 
+3: lon ma kasi laso la ona li anpa e mi. lon poka pi telo lape la ona li nasin e mi. 
 
 
 ### Psalms 24
