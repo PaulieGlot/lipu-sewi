@@ -39,7 +39,7 @@ def get_chapter(section: str, book: str, chapter: int):
 
 # quickly pull all completed verses within a range
 def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
-filename = f"Bible/{section}/{book}/{chapter:04}.txt"
+    filename = f"Bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     print(url)
     file = requests.get(url)
