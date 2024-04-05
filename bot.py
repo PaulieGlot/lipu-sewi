@@ -7,9 +7,6 @@ from dotenv import load_dotenv
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
     filename = f"Bible/{section}/{book}/{chapter:04}.txt"
-#    try: file = open(filename)
-#    except FileNotFoundError: return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
-
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     print(url)
     file = requests.get(url)
@@ -42,12 +39,16 @@ def get_chapter(section: str, book: str, chapter: int):
 
 # quickly pull all completed verses within a range
 def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
-    filename = f"Bible/{section}/{book}/{chapter:04}.txt"
-    try: file = open(filename)
-    except FileNotFoundError: return "error fetching verse range: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
+filename = f"Bible/{section}/{book}/{chapter:04}.txt"
+    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
+    print(url)
+    file = requests.get(url)
+    if file.status_code != requests.codes.ok:
+        return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
+    
     text = ""
     current_verse = start_verse
-    for line in file:
+    for line in file.text.splitlines():
         prefix = int(line.split(":")[0])
         if prefix > end_verse:
             break
