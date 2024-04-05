@@ -16,7 +16,7 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
     
-    for line in file.splitlines:
+    for line in file.text.splitlines:
         prefix = "%i: " % verse
         if line.startswith(prefix):
             line = line.split(' | ', 1)[0]
