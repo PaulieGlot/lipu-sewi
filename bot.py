@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 def get_verse(section: str, book: str, chapter: int, verse: int):
     filename = f"Bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
-    print(url)
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -41,7 +40,6 @@ def get_chapter(section: str, book: str, chapter: int):
 def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
     filename = f"Bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
-    print(url)
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
