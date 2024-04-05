@@ -11,6 +11,7 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
 #    except FileNotFoundError: return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
 
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/Bible/%s' % filename
+    print(url)
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
