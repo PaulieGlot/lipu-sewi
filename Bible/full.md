@@ -2472,6 +2472,8 @@
 
 ### Psalms 5
 
+1:ni li kalama musi pi jan Tawi tawa jan lawa ilo pi kalama musi.
+
 2: sewi Jawe o kute e toki mi. o sona e toki insa mi.
 
 3: jan lawa mi o. sewi mi o. o kute e kalama mi pi wile insa. lon ni: mi toki sewi tawa sina.
@@ -2480,10 +2482,20 @@
 
 5: lon la sina sewi ni ala: ona li wile e ike. ike li lon ala poka sina.
 
+6: jan pi lawa ike li awen ala lon sinpin sina. sina pilin ike wawa e jan ale pi pali ike.
+
+7: sina weka e jan pali pi lon ala. jan li wile e telo loje li toki e lon ala la sewi Jawe li pilin utala mute e ona.
+
 8: mi la lon pona mute sina la mi tawa tomo sina. mi anpa e mi tawa tomo sewi sina lon monsuta sina.
+
+11: o toki e ike ona, sewi Elowin o. ona o kama anpa tan sona nasin ona. ona li pali e ijo utala mute. ni la o tawa weka e ona tan ni: ona li utala e sina.
+
+12: jan li alasa e awen pi pana sina la ona li pali e musi tawa tenpo pi pini ala. sina pana e awen tawa ona. ona li olin e nimi sina la ona ni li mu musi lon sina.
 
 
 ### Psalms 6
+
+1: ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi kepeken ilo Semini.
 
 
 ### Psalms 7
