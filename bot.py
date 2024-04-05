@@ -83,7 +83,7 @@ def get_section_name(book: str):
     for line in file:
         if line.startswith(b'#'):
             section = line.removeprefix(b'#')
-        if line.startswith(book):
+        if line.startswith(bytes(book)):
             return section.removesuffix("\n")
     return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version (these are case-sensitive), and that you have all planned books listed along with their chapter lengths!*" % book
 
