@@ -1,6 +1,5 @@
 import os, sys
 import discord
-import requests
 from discord import app_commands
 from dotenv import load_dotenv
 
@@ -75,15 +74,13 @@ def check_verse_range(section: str, book: str, chapter: int, start_verse: int, e
 
 # get section name for a book
 def get_section_name(book: str):
-    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/Bible/chapters.txt'
-    file = requests.get(url)
-    if file.status_code != requests.codes.ok:
-        return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n"
+    try: file = open("Bible/chapters.txt")
+    except FileNotFoundError: return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n" % filename
     section = ""
     for line in file:
-        if line.startswith(b'#'):
-            section = line.removeprefix(b'#')
-        if line.startswith(bytes(book, "ascii")):
+        if line.startswith("#"):
+            section = line.removeprefix("#")
+        if line.startswith("%s," % book):
             return section.removesuffix("\n")
     return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version (these are case-sensitive), and that you have all planned books listed along with their chapter lengths!*" % book
 
