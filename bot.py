@@ -81,7 +81,7 @@ def get_section_name(book: str):
         return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n"
     section = ""
     for line in file:
-        if line.startswith('#'):
+        if line.startswith(b'#'):
             section = line.removeprefix("#")
         if line.startswith("%s," % book):
             return section.removesuffix("\n")
