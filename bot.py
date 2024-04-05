@@ -1,5 +1,6 @@
 import os, sys
 import discord
+import requests
 from discord import app_commands
 from dotenv import load_dotenv
 
