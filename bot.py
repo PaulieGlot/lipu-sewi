@@ -74,8 +74,10 @@ def check_verse_range(section: str, book: str, chapter: int, start_verse: int, e
 
 # get section name for a book
 def get_section_name(book: str):
-    try: file = open("Bible/chapters.txt")
-    except FileNotFoundError: return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n" % filename
+    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/Bible/chapters.txt'
+    file = requests.get(url)
+    if file.status_code != requests.codes.ok:
+        return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n"
     section = ""
     for line in file:
         if line.startswith("#"):
