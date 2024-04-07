@@ -6,6 +6,8 @@ That's awesome, but don't try to do it here! <a href="https://discord.gg/THwvq3k
 
 For security reasons we will not be accepting pull requests outside of a few trusted individuals within the group. All other pull requests will be closed and deleted.
 
+# I'm just looking to read...
+No problem! All chapter files and the fulltext file are in the directory `/bible/`. Also check out <a href="https://www.tengg-online.at/blog/">jan Pilipu's blog</a>, where you can find additional commentary and notes on the translation process.
 
 # Our method
 Members of our team are classed into roles:
