@@ -6,7 +6,8 @@ from dotenv import load_dotenv
 
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
-    filename = f"Bible/{section}/{book}/{chapter:04}.txt"
+    book = book.lower()
+    filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
@@ -24,7 +25,7 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
 
 # quickly pull all completed verses within a chapter
 def get_chapter(section: str, book: str, chapter: int):
-    filename = f"Bible/{section}/{book}/{chapter:04}.txt"
+    filename = f"bible/{section}/{book}/{chapter:04}.txt"
     try: file = open(filename)
     except FileNotFoundError: return "error fetching chapter: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
     text = ""
@@ -38,7 +39,8 @@ def get_chapter(section: str, book: str, chapter: int):
 
 # quickly pull all completed verses within a range
 def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
-    filename = f"Bible/{section}/{book}/{chapter:04}.txt"
+    book = book.lower()
+    filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
@@ -81,7 +83,7 @@ def check_verse_range(section: str, book: str, chapter: int, start_verse: int, e
 
 # get section name for a book
 def get_section_name(book: str):
-    try: file = open("Bible/chapters.txt")
+    try: file = open("bible/chapters.txt")
     except FileNotFoundError: return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n" % filename
     section = ""
     for line in file:
