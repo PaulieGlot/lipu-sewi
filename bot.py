@@ -6,8 +6,6 @@ from dotenv import load_dotenv
 
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
-    book = book.lower()
-    print(book)
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
@@ -40,7 +38,6 @@ def get_chapter(section: str, book: str, chapter: int):
 
 # quickly pull all completed verses within a range
 def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
-    book = book.lower()
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
@@ -113,6 +110,7 @@ def respond(ctx, text):
 
 @tree.command(name="verse", description="pull a verse from the translated text", guild=discord.Object(id=GUILD_ID))
 async def verse(ctx, book: str, chapter: int, verse: int):
+    book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
@@ -123,6 +121,7 @@ async def verse(ctx, book: str, chapter: int, verse: int):
 
 @tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
 async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
+    book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
