@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
     book = book.lower()
+    print(book)
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
