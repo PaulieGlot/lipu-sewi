@@ -6,6 +6,7 @@ That's awesome, but don't try to do it here! <a href="https://discord.gg/THwvq3k
 
 For security reasons we will not be accepting pull requests outside of a few trusted individuals within the group. All other pull requests will be closed and deleted.
 
+
 # Our method
 Members of our team are classed into roles:
 <table>
@@ -40,4 +41,4 @@ The translation process begins when a <b>Translator</b> decides to submit an ini
 
 Upon seeing that a new initial translation has been put forth, a <b>Proofreader</b> and an appropriate <b>Biblical Language Specialist</b> join the thread to revise the translation, forming a <b>Translation Crew</b>. The <b>Biblical Language Specialist</b> makes sure that the translation matches the original text as closely as possible, while the <b>Proofreader</b> makes sure that the translation is understandable according to toki pona grammar.
 
-Once a translation has been approved by a <b>Translator</b>, a <b>Proofreader</b>, and an appropriate <b>Biblical Language Specialist</b>, it is finalised. Finalised verses are periodically added to the repo by trusted individuals.
+Once a translation has been approved and sealed by a <b>Translator</b>, a <b>Proofreader</b>, and an appropriate <b>Biblical Language Specialist</b>, it is finalised. Finalised verses are periodically added to the repo by trusted individuals.
