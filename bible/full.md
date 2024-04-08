@@ -1,14 +1,11 @@
-# Old Testament
-
-## Genesis
-
-### Genesis 1
-
+# old testament
+## genesis
+### genesis 1
 1: open la, sewi Jawe li lon e sewi e ma.
 
 2: ma li pimeja pi insa ala. kon pi sewi Jawe li tawa lon sewi telo.
 
-3: sewi Jawe li toki e ni: "suno o lon." suno li lon.
+3: sewi Jawe li toki e ni: "suno o lon." suno li lon. 
 
 4: lukin la, sewi Jawe li sona e ni: suno li pona. sewi Jawe li tu e suno e pimeja.
 
@@ -66,9 +63,7 @@
 
 31: ijo ale pali pi sewi Jawe li pona tawa sewi Jawe. ona ale li pona mute. tenpo pimeja sin li kama lon tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi Jawe li pana e nimi "tenpo suno pi nanpa luka wan".
 
-
-### Genesis 2
-
+### genesis 2
 1: sewi Jawe li pali e kon sewi e ma kepeken nasin ni.
 
 2: tenpo luka tu la, sewi Jawe li pini e pali tan ona li pali e ale.
@@ -79,9 +74,7 @@
 
 11: nimi pi nasin telo wan li Pison. ona li lon ma Awila ale. ma ni la, kiwen pi suli mute li lon.
 
-
-### Genesis 3
-
+### genesis 3
 1: soweli tan pali pi sewi Jawe la, akesi linja li jo e sona mute. ona li toki e ni tawa meli: "lon ala lon la, sewi Jawe li toki e ni: 'o moku ala e kili pi ma kasi'?"
 
 2: meli li toki e ni tawa akesi linja: "mi mute li ken moku e kili pi ma kasi.
@@ -112,19 +105,13 @@
 
 15: mi pali e ni: sina en meli li ike tawa sina tu. jan sin sina en jan sin ona li ike tawa ona mute. jan sin wan meli li pakala e lawa sina. sina pakala e noka ona."
 
-
-### Genesis 4
-
+### genesis 4
 8: jan Kajen li toki tawa jan mije sama ona Epe. ona tu li lon (ma kasi? ma pali?) la, jan Kajen li sewi tawa noka ona, li moli e jan mije sama ona Epe.
 
 9: ni la sewi Jawe li toki e ni tawa jan Kajen: "jan mije sama sina Epe li lon seme?" jan Kajen li toki e ni: "mi sona ala. mi jan awen pi jan mije sama mi, anu seme?"
 
-
-### Genesis 5
-
-
-### Genesis 6
-
+### genesis 5
+### genesis 6
 1: jan li kama mute lon ma la, meli li kama lon tan jan ni.
 
 2: kulupu pi sewi Elowin li lukin e meli pi kulupu jan la, meli ni li pona lukin. ona li lanpan e meli pi wile ale ona.
@@ -145,21 +132,11 @@
 
 14: o pali e tomo tawa telo kepeken kasi kiwen. tomo ni o jo e poka mute. ko pi weka telo o lon selo tomo.
 
-
-### Genesis 7
-
-
-### Genesis 8
-
-
-### Genesis 9
-
-
-### Genesis 10
-
-
-### Genesis 11
-
+### genesis 7
+### genesis 8
+### genesis 9
+### genesis 10
+### genesis 11
 1: ma ale li jo e toki wan e nimi sama.
 
 2: ona li tawa tan ma pi open suno la, ona li kama tawa ma supa anpa lon ma Sinale, li awen lon ma ni.
@@ -168,9 +145,7 @@
 
 4: ona li toki e ni: o kama! mi o pali tawa mi e ma tomo e tomo palisa. lawa tomo o lon sewi. mi o pali tawa mi e nimi. ante la mi pakala weka lon sinpin ale ma.
 
-
-### Genesis 12
-
+### genesis 12
 1: sewi Jawe li toki e ni tawa jan Awalan: sina la, o tawa weka tan ma sina, tan kama lon sina, tan tomo pi mama mije sina, tawa ma ni: mi pana e ona tawa lukin sina.
 
 2: mi pali e sina tawa kulupu suli, li pana sewi e sina, li suli e nimi sina. o kama pana sewi.
@@ -189,15 +164,9 @@
 
 9: jan Awalan li awen tawa, li awen tawa ma Nekepa.
 
-
-### Genesis 13
-
-
-### Genesis 14
-
-
-### Genesis 15
-
+### genesis 13
+### genesis 14
+### genesis 15
 1: ijo ni li pini la, toki pi sewi Jawe li kama tawa jan Awalan lon sitelen insa, li toki e ni: jan Awalan o pilin monsuta ala. mi ilo awen sina. mani kama sina li mute mute.
 
 2: jan Awalan li toki: sewi lawa mi Jawe o, sina pana e seme tawa mi? mi awen li jo ala e jan sin. jan jo kama pi tomo mi li jan Elijese pi ma tomo Tamese.
@@ -210,111 +179,41 @@
 
 6: ona li pilin e lon awen pi sewi Jawe. sewi Jawe li suli e pona sona pi jan Awalan tan nasin pona ona.
 
-
-### Genesis 16
-
-
-### Genesis 17
-
-
-### Genesis 18
-
-
-### Genesis 19
-
-
-### Genesis 20
-
-
-### Genesis 21
-
-
-### Genesis 22
-
-
-### Genesis 23
-
-
-### Genesis 24
-
-
-### Genesis 25
-
-
-### Genesis 26
-
-
-### Genesis 27
-
-
-### Genesis 28
-
-
-### Genesis 29
-
-
-### Genesis 30
-
-
-### Genesis 31
-
-
-### Genesis 32
-
-
-### Genesis 33
-
-
-### Genesis 34
-
-
-### Genesis 35
-
-
-### Genesis 36
-
-
-### Genesis 37
-
-
-### Genesis 38
-
-
-### Genesis 39
-
-
-### Genesis 40
-
-
-### Genesis 41
-
-
-### Genesis 42
-
-
-### Genesis 43
-
-
-### Genesis 44
-
-
-### Genesis 45
-
-
-### Genesis 46
-
-
-### Genesis 47
-
-
-### Genesis 48
-
-
-### Genesis 49
-
-
-### Genesis 50
-
+### genesis 16
+### genesis 17
+### genesis 18
+### genesis 19
+### genesis 20
+### genesis 21
+### genesis 22
+### genesis 23
+### genesis 24
+### genesis 25
+### genesis 26
+### genesis 27
+### genesis 28
+### genesis 29
+### genesis 30
+### genesis 31
+### genesis 32
+### genesis 33
+### genesis 34
+### genesis 35
+### genesis 36
+### genesis 37
+### genesis 38
+### genesis 39
+### genesis 40
+### genesis 41
+### genesis 42
+### genesis 43
+### genesis 44
+### genesis 45
+### genesis 46
+### genesis 47
+### genesis 48
+### genesis 49
+### genesis 50
 1: tenpo ni la jan Jose li tawa sinpin pi mama ona. ona li pana e telo oko lon mama ona li uta olin e mama ona.
 
 2: jan Jose li toki lawa tawa jan misikeke e ni: jan misikeke o awen e mama ona. ona li awen e jan Isale.
@@ -323,12 +222,9 @@
 
 4: tenpo ike li pini la, jan Jose li toki tawa kulupu tomo pi jan lawa, li toki e ni: "sina pilin e pona mi la, o toki tawa jan lawa e ni:
 
-
-## Exodus
-
-### Exodus 1
-
-1: jan sin pi jan Isale li kama tawa ma Misalin lon kulupu pi jan Jose lon kulupu tomo ona. nimi pi ona mute li ni:
+## exodus
+### exodus 1
+1: jan sin pi jan Isale li kama tawa ma Misalin lon kulupu pi jan Jose lon kulupu tomo ona. nimi pi ona mute li ni: 
 
 2: jan Lupen en jan Simon en jan Lewi en jan Juta en
 
@@ -364,7 +260,7 @@
 
 18: mije lawa li kama e ona li toki e ni: "sina pali e ni tan seme? sina moli ala e mije sin tan seme?"
 
-19: meli pi awen mama li toki e ni tawa jan lawa: "meli pi ma Kemete la, meli pi ma Isale li sama ala. meli pi ma Isale li wawa. ona li pali e jan sin la, meli pi awen mama li ken ala kama."
+19: meli pi awen mama li toki e ni tawa jan lawa: "meli pi ma Kemete la, meli pi ma Isale li sama ala. meli pi ma Isale li wawa. ona li pali e jan sin la, meli pi awen mama li ken ala kama." 
 
 20: tan ni la, sewi Jawe li pona tawa meli pi awen mama. jan pi ma Isale li wawa mute.
 
@@ -372,9 +268,7 @@
 
 22: tenpo kama la, jan lawa li toki e ni tawa jan ona: o pana e mije sin pi meli pi ma Isale tawa lon nasin telo. o moli ala e meli sin.
 
-
-### Exodus 2
-
+### exodus 2
 1: mije en meli li kama wan. ona tu li jan sin pi jan Lepi.
 
 2: meli li kama mama, li mama e mije sin. meli li lukin e mije sin la, mije sin li pona lukin la, tenpo sike mun 3 la meli li len e mije sin tan lukin.
@@ -405,36 +299,16 @@
 
 15: mije lawa [lawa Palo?] li kute e ni. ona li wile moli e jan Mose. jan Mose li tawa weka mije lawa. ona li tawa ma Mitijan li awen e ni. ona li awen poka lupa telo.
 
-
-### Exodus 3
-
-
-### Exodus 4
-
-
-### Exodus 5
-
-
-### Exodus 6
-
-
-### Exodus 7
-
-
-### Exodus 8
-
-
-### Exodus 9
-
-
-### Exodus 10
-
-
-### Exodus 11
-
-
-### Exodus 12
-
+### exodus 3
+### exodus 4
+### exodus 5
+### exodus 6
+### exodus 7
+### exodus 8
+### exodus 9
+### exodus 10
+### exodus 11
+### exodus 12
 1: sewi Jawe li toki tawa jan Mose tawa jan Awalon e ni lon ma Misalin:
 
 2: tenpo sike mun ni o lawa pi tenpo sike mun tawa sina, o tenpo sike mun nanpa wan tan tenpo sike mun pi tenpo sike suno tawa sina.
@@ -463,12 +337,8 @@
 
 14: tenpo suno ni o awen sona tawa sina. o musi sike e ona tawa ni:  ona li tenpo sike sewi tawa sewi Jawe. tawa jan sin sina la, toki lawa pi tenpo ale la, o musi sike e ona.
 
-
-### Exodus 13
-
-
-### Exodus 14
-
+### exodus 13
+### exodus 14
 10: lawa Palo li kama lon poka la, kulupu Isale li sewi e oko ona la, a, kulupu Misalin li tawa lon monsi ona. kulupu Isale li pilin monsuta mute, li kalama wawa tawa sewi Jawe.
 
 11: ona li toki e ni tawa jan Mose: lupa moli li lon ala ma Misalin anu seme la, sina weka e mi tawa moli lon ma weka? seme la sina ni tawa mi a, li weka e mi tan ma Misalin?
@@ -513,9 +383,7 @@
 
 31: kulupu Isale li lukin e luka suli ni pi sewi Jawe: ona li pali lon ma Misalin. kulupu li pilin monsuta tawa sewi Jawe, li pilin sewi tawa sewi Jawe, tawa jan pali ona Mose.
 
-
-### Exodus 15
-
+### exodus 15
 1: ni la, jan Mose en kulupu Isale li kalama e musi ni tawa sewi Jawe. ona li toki e ni: mi kalama musi tawa sewi Jawe tan ni: ona li sewi a. ona li pana e soweli tawa e jan lawa ona lon telo suli.
 
 2: wawa mi en kalama musi pi sewi Ja. ona li awen pona tawa mi. ni li sewi mi. la mi pali pona e ona. sewi pi mama mi. la mi sewi e ona.
@@ -554,21 +422,11 @@
 
 19: soweli tawa pi lawa Palo en ilo tawa ona en jan ona pi soweli tawa li tawa lon telo suli. sewi Jawe li tawa sin e telo pi telo suli lon ona. kulupu Isale li tawa lon ma pi telo ala lon insa pi telo suli.
 
-
-### Exodus 16
-
-
-### Exodus 17
-
-
-### Exodus 18
-
-
-### Exodus 19
-
-
-### Exodus 20
-
+### exodus 16
+### exodus 17
+### exodus 18
+### exodus 19
+### exodus 20
 1: sewi li toki e nimi ale ni:
 
 2: mi sewi sina Jawe. mi pana weka e sina tan ma Misalin, tan tomo pi jan pali.
@@ -589,15 +447,9 @@
 
 13: o unpa ala e meli ni: ona en mije ante li wan.
 
-
-### Exodus 21
-
-
-### Exodus 22
-
-
-### Exodus 23
-
+### exodus 21
+### exodus 22
+### exodus 23
 14: tenpo 3 la, o pali e tenpo sike sewi tawa mi lon tenpo sike suno.
 
 15: o awen e tenpo sike sewi pi pan supa. tenpo suno 7 la o moku e pan supa sama toki lawa mi lon tenpo sike mun pi kasi sin tan ni: tenpo ni la sina kama weka tan ma Misalin. sinpin mi o kama ala lukin e ijo ala.
@@ -608,42 +460,18 @@
 
 19: o tawa e nanpa wan pi kili nanpa wan pi ma sina tawa tomo pi sewi sina Jawe. o seli ala e soweli sin pi noka kiwen lon telo walo pi mama meli ona.
 
-
-### Exodus 24
-
-
-### Exodus 25
-
-
-### Exodus 26
-
-
-### Exodus 27
-
-
-### Exodus 28
-
-
-### Exodus 29
-
-
-### Exodus 30
-
-
-### Exodus 31
-
-
-### Exodus 32
-
-
-### Exodus 33
-
-
-### Exodus 34
-
-
-### Exodus 35
-
+### exodus 24
+### exodus 25
+### exodus 26
+### exodus 27
+### exodus 28
+### exodus 29
+### exodus 30
+### exodus 31
+### exodus 32
+### exodus 33
+### exodus 34
+### exodus 35
 1: jan Mose li kulupu e kulupu ale Isale li toki tawa ona: sewi Jawe li toki lawa e toki ni tawa pali sina.
 
 2: tenpo suno 6 li tawa pali. taso tenpo suno nanpa 7 o kama sewi o kama tenpo sewi pi pali ala tawa sina, tawa sewi Jawe. jan ni li wile kama moli: ona li pali lon tenpo suno ni.
@@ -662,266 +490,115 @@
 
 9: en kiwen Sowan en kiwen ni: ona li kama lon len insa suli, lon leko len kin.
 
-
-### Exodus 36
-
-
-### Exodus 37
-
-
-### Exodus 38
-
-
-### Exodus 39
-
-
-### Exodus 40
-
-
-## Leviticus
-
-### Leviticus 1
-
+### exodus 36
+### exodus 37
+### exodus 38
+### exodus 39
+### exodus 40
+## leviticus
+### leviticus 1
 1: sewi Jawe li toki wile tawa jan Mose. ona li toki tawa ona tan tomo sewi pi tenpo lili. sewi Jawe li toki e ni:
 
-
-### Leviticus 2
-
-
-### Leviticus 3
-
-
-### Leviticus 4
-
-
-### Leviticus 5
-
-
-### Leviticus 6
-
-
-### Leviticus 7
-
-
-### Leviticus 8
-
-
-### Leviticus 9
-
-
-### Leviticus 10
-
-
-### Leviticus 11
-
+### leviticus 2
+### leviticus 3
+### leviticus 4
+### leviticus 5
+### leviticus 6
+### leviticus 7
+### leviticus 8
+### leviticus 9
+### leviticus 10
+### leviticus 11
 29: lon akesi ali la ni li jaki kin tawa sina. kijetesantakalu linja, soweli lili, akesi kiwen, en akesi ali.
 
-
-### Leviticus 12
-
-
-### Leviticus 13
-
-
-### Leviticus 14
-
-
-### Leviticus 15
-
-
-### Leviticus 16
-
-
-### Leviticus 17
-
+### leviticus 12
+### leviticus 13
+### leviticus 14
+### leviticus 15
+### leviticus 16
+### leviticus 17
 1: sewi Jawe li toki tawa jan Mose e ni:
 
 2: o toki tawa jan Awalon, tawa mije sin ona, tawa jan ale pi kulupu Isale e ni: sewi Jawe li toki lawa e ijo ni:
 
-
-### Leviticus 18
-
+### leviticus 18
 22: mije li wile ala unpa e mije ante. ni li ike tawa jan mute.
 
-
-### Leviticus 19
-
+### leviticus 19
 28: o open ala e selo sina tawa kon jan. o pana ala e sitelen ni lon selo sina: sina ken ala weka e ona. mi sewi Jawe.
 
-
-### Leviticus 20
-
+### leviticus 20
 13: mije li unpa e mije ante la ona tu li pali e tawa ike tawa jan mute. o moli e ona tu la ni li pakala pi ona tu.
 
 20: mije li unpa e mije ante la ona tu li pali e tawa ike tawa jan mute. o moli e ona tu la ni li pakala pi ona tu.
 
-25: ni la o anu e soweli e waso: ona li ken pona li ken jaki. soweli anu waso anu ijo ante li tawa lon ma la mi pali e ona jaki.
+25: ni la o anu e soweli e waso: ona li ken pona li ken jaki. soweli anu waso anu ijo ante li tawa lon ma la mi pali e ona jaki. 
 
 26: o jaki ala e sina kepeken ona. mi jan sewi. mi anu e sina tan jan ante la mi jo e sina. ni la o pona tawa mi
 
 27: jan toki tawa jan moli anu jan toki e tawa pi tenpo kama la o moli e ona o kepeken e kiwen mute. moli ona li tan ona.
 
-
-### Leviticus 21
-
-
-### Leviticus 22
-
-
-### Leviticus 23
-
-
-### Leviticus 24
-
-
-### Leviticus 25
-
-
-### Leviticus 26
-
+### leviticus 21
+### leviticus 22
+### leviticus 23
+### leviticus 24
+### leviticus 25
+### leviticus 26
 3: sina tawa lon nasin mi, li awen pali e nasin lawa mi la:
 
 4: mi pana anpa e telo tan sewi tawa sina lon tenpo ona. ma li pana e ijo ona. kasi kiwen pi ma kasi li pana e kili ona.
 
-
-### Leviticus 27
-
-
-## Numbers
-
-### Numbers 1
-
-
-### Numbers 2
-
-
-### Numbers 3
-
-
-### Numbers 4
-
-
-### Numbers 5
-
-
-### Numbers 6
-
-
-### Numbers 7
-
-
-### Numbers 8
-
-
-### Numbers 9
-
-
-### Numbers 10
-
-
-### Numbers 11
-
-
-### Numbers 12
-
-
-### Numbers 13
-
-
-### Numbers 14
-
-
-### Numbers 15
-
+### leviticus 27
+## numbers
+### numbers 1
+### numbers 2
+### numbers 3
+### numbers 4
+### numbers 5
+### numbers 6
+### numbers 7
+### numbers 8
+### numbers 9
+### numbers 10
+### numbers 11
+### numbers 12
+### numbers 13
+### numbers 14
+### numbers 15
 40: toki lawa mi la, o awen sona e ona, o pali e ona, o sewi tawa sewi sina.
 
 41: mi sewi sina Jawe, li pana weka e sina tan ma Misalin tawa ni: mi sewi tawa sina. mi sewi sina Jawe.
 
-
-### Numbers 16
-
-
-### Numbers 17
-
-
-### Numbers 18
-
-
-### Numbers 19
-
+### numbers 16
+### numbers 17
+### numbers 18
+### numbers 19
 22: jaki li luka e ijo la, ijo ni li kama jaki. kon jan li luka e ijo ni la ona li kama jaki tawa tenpo weka pi suno ni.
 
-
-### Numbers 20
-
-
-### Numbers 21
-
-
-### Numbers 22
-
-
-### Numbers 23
-
-
-### Numbers 24
-
-
-### Numbers 25
-
-
-### Numbers 26
-
-
-### Numbers 27
-
-
-### Numbers 28
-
-
-### Numbers 29
-
-
-### Numbers 30
-
-
-### Numbers 31
-
-
-### Numbers 32
-
-
-### Numbers 33
-
-
-### Numbers 34
-
-
-### Numbers 35
-
-
-### Numbers 36
-
-
-## Deuteronomy
-
-### Deuteronomy 1
-
-
-### Deuteronomy 2
-
-
-### Deuteronomy 3
-
-
-### Deuteronomy 4
-
-
-### Deuteronomy 5
-
-
-### Deuteronomy 6
-
+### numbers 20
+### numbers 21
+### numbers 22
+### numbers 23
+### numbers 24
+### numbers 25
+### numbers 26
+### numbers 27
+### numbers 28
+### numbers 29
+### numbers 30
+### numbers 31
+### numbers 32
+### numbers 33
+### numbers 34
+### numbers 35
+### numbers 36
+## deuteronomy
+### deuteronomy 1
+### deuteronomy 2
+### deuteronomy 3
+### deuteronomy 4
+### deuteronomy 5
+### deuteronomy 6
 4: kulupu Isale o kute! sewi Jawe li sewi mi. sewi Jawe li wan taso.
 
 5: o olin e sewi sina Jawe lon ni: pilin ale sina, en kon ale sina, en mute ale sina.
@@ -934,96 +611,46 @@
 
 9: lon uta pi tomo sina la, lon open pi ma sina la, o sitelen e ona.
 
-
-### Deuteronomy 7
-
-
-### Deuteronomy 8
-
-
-### Deuteronomy 9
-
-
-### Deuteronomy 10
-
-
-### Deuteronomy 11
-
-
-### Deuteronomy 12
-
+### deuteronomy 7
+### deuteronomy 8
+### deuteronomy 9
+### deuteronomy 10
+### deuteronomy 11
+### deuteronomy 12
 16: taso ala la o moku e telo loje. o weka e ona sama telo lon ma.
 
-
-### Deuteronomy 13
-
-
-### Deuteronomy 14
-
-
-### Deuteronomy 15
-
-
-### Deuteronomy 16
-
-
-### Deuteronomy 17
-
+### deuteronomy 13
+### deuteronomy 14
+### deuteronomy 15
+### deuteronomy 16
+### deuteronomy 17
 15: sewi sina li wile e lawa la sina o jo e jan lawa. jan lawa ni o jan pi kulupu sina. jan lawa li jan pi kulupu ante la sina ken ala jo e jan lawa ni.
 
-
-### Deuteronomy 18
-
-
-### Deuteronomy 19
-
-
-### Deuteronomy 20
-
-
-### Deuteronomy 21
-
-
-### Deuteronomy 22
-
+### deuteronomy 18
+### deuteronomy 19
+### deuteronomy 20
+### deuteronomy 21
+### deuteronomy 22
 5: meli o len ala e len mije. mije o len ala e len meli. sewi sewi li pilin ike tawa jan ni.
 
 30: mije o ike ala tawa mama mije ona la mije li unpa ala e meli poka pi mama mije ona.
 
-
-### Deuteronomy 23
-
+### deuteronomy 23
 1: sike unpa meli li kama ko anu palisa unpa li lon ala tan kipisi la meli li ken ala kulupu li ken ala toki sewi lon kulupi pi sewi sewi.
 
-
-### Deuteronomy 24
-
-
-### Deuteronomy 25
-
-
-### Deuteronomy 26
-
-
-### Deuteronomy 27
-
-
-### Deuteronomy 28
-
-
-### Deuteronomy 29
-
-
-### Deuteronomy 30
-
-
-### Deuteronomy 31
-
+### deuteronomy 24
+### deuteronomy 25
+### deuteronomy 26
+### deuteronomy 27
+### deuteronomy 28
+### deuteronomy 29
+### deuteronomy 30
+### deuteronomy 31
 25: jan Mose li toki lawa tawa kulupu Lewi. kulupu ni li tawa e poki pi toki lon tan sewi Jawe. jan Mose li toki e ni:
 
-26: o jo e lipu lawa ni. o pana e ona lon poka poki pi toki lon tan sewi Jawe sina. ona li lon kulupu sina, li kute.
+26: o jo e lipu lawa ni. o pana e ona lon poka poki pi toki lon tan sewi Jawe sina. ona li lon kulupu sina, li kute. 
 
-27: tan mi sona e wawa sina e kon wawa sina. tan tenpo pi mi lon kulupu sina la, sina pali ike tawa sewi Jawe, li pali sama pi tenpo moli mi.
+27: tan mi sona e wawa sina e kon wawa sina. tan tenpo pi mi lon kulupu sina la, sina pali ike tawa sewi Jawe, li pali sama pi tenpo moli mi. 
 
 28: o kama tawa mi e jan majuna ale pi kulupu sina e jan lawa sina. mi toki tawa kute ona e toki ni. mi lon e kon sewi e ma lon ona.
 
@@ -1031,23 +658,14 @@
 
 30: jan Mose li toki e toki kalama ni tawa pini tawa kute pi kulupu Isale ale.
 
+### deuteronomy 32
+### deuteronomy 33
+### deuteronomy 34
+## joshua
+### joshua 1
+1: moli pi jan Mose, jan pali pi sewi Jawe, li pini la, sewi Jawe li toki tawa jan Jejosuwa Pin Nun, jan pali pi jan Mose, e ni: 
 
-### Deuteronomy 32
-
-
-### Deuteronomy 33
-
-
-### Deuteronomy 34
-
-
-## Joshua
-
-### Joshua 1
-
-1: moli pi jan Mose, jan pali pi sewi Jawe, li pini la, sewi Jawe li toki tawa jan Jejosuwa Pin Nun, jan pali pi jan Mose, e ni:
-
-2: jan Mose li jan pali mi, li moli. tenpo ni la, sina en kulupu jan ale o kama tawa ma lon poka ante pi telo tawa Jaten. mi pana e ma ni tawa sina mute, tawa kulupu jan Isale.
+2: jan Mose li jan pali mi, li moli. tenpo ni la, sina en kulupu jan ale o kama tawa ma lon poka ante pi telo tawa Jaten. mi pana e ma ni tawa sina mute, tawa kulupu jan Isale. 
 
 3: noka sina li tawa ma la, mi pana e ma ni tawa sina mute. mi toki tawa jan Mose e sama.
 
@@ -1081,9 +699,7 @@
 
 18: jan ale li kute ala e uta sina e toki sina e toki lawa sina la, ona li moli. taso o kama wawa, o pilin wawa.
 
-
-### Joshua 2
-
+### joshua 2
 1: jan Jejosuwa li tawa e jan tu pi lanpan sona tan ma Sitin, li kalama ala. jan Jejosuwa li toki e ni tawa ona: o tawa o lukin e ma e ma tomo Jeliko. ona li tawa, li kama tawa tomo pi meli unpa. nimi pi meli ni li Lakapu. ona tu li anpa lon tomo ni.
 
 2: toki li kama tawa jan lawa pi ma tomo Jeliko. toki li ni: jan tu li kama lon ma ni tan kulupu Pene Isale lon tenpo pimeja ni. ona li alasa e sona pi ma ni.
@@ -1122,9 +738,7 @@
 
 24: jan tu li toki tawa jan Jejosuwa e ni: sewi Jawe li pana e ma ale lon luka mi. kin la, jan ale ma li kama weka tan pilin monsuta tan mi.
 
-
-### Joshua 3
-
+### joshua 3
 1: jan Jejosuwa li pini lape lon tenpo lili la, ona mute li tawa tan ma Sisin. ona en kulupu jan Isale ale li kama tawa telo tawa Jaten. ona mute li open ala tawa poka ante la, ona mute li lape lon ma ni.
 
 2: tenpo suno tu wan li pini la, jan lawa li tawa lon ma tomo pi awen lili.
@@ -1157,145 +771,57 @@
 
 17: jan pali sewi li tawa e poki wan pi sewi Jawe li awen lon ma pi telo ala lon insa pi telo tawa Jaten li awen wawa. kulupu Isale li tawa lon ma pi telo ala la, kulupu ale li pini e tawa lon poka ante pi telo tawa Jaten.
 
-
-### Joshua 4
-
+### joshua 4
 1: kulupu li pini e tawa lon poka ante pi telo tawa Jaten la, sewi Jawe li toki tawa jan Jejosuwa e ni:
 
 2: o alasa tawa ona e jan 12. jan 12 li jan wan tan kulupu lili wan li jan wan tan kulupu lili ante.
 
-
-### Joshua 5
-
-
-### Joshua 6
-
-
-### Joshua 7
-
-
-### Joshua 8
-
-
-### Joshua 9
-
-
-### Joshua 10
-
-
-### Joshua 11
-
-
-### Joshua 12
-
-
-### Joshua 13
-
-
-### Joshua 14
-
-
-### Joshua 15
-
-
-### Joshua 16
-
-
-### Joshua 17
-
-
-### Joshua 18
-
-
-### Joshua 19
-
-
-### Joshua 20
-
-
-### Joshua 21
-
-
-### Joshua 22
-
-
-### Joshua 23
-
-
-### Joshua 24
-
-
-## Judges
-
-### Judges 1
-
+### joshua 5
+### joshua 6
+### joshua 7
+### joshua 8
+### joshua 9
+### joshua 10
+### joshua 11
+### joshua 12
+### joshua 13
+### joshua 14
+### joshua 15
+### joshua 16
+### joshua 17
+### joshua 18
+### joshua 19
+### joshua 20
+### joshua 21
+### joshua 22
+### joshua 23
+### joshua 24
+## judges
+### judges 1
 1: kama pi jan mije Jojusawa li moli la, kulupu jan Isale li wile e sewi Jawe: "open la kulupu mi seme li utala e kulupu jan Kanan?"
 
-
-### Judges 2
-
-
-### Judges 3
-
-
-### Judges 4
-
-
-### Judges 5
-
-
-### Judges 6
-
-
-### Judges 7
-
-
-### Judges 8
-
-
-### Judges 9
-
-
-### Judges 10
-
-
-### Judges 11
-
-
-### Judges 12
-
-
-### Judges 13
-
-
-### Judges 14
-
-
-### Judges 15
-
-
-### Judges 16
-
-
-### Judges 17
-
-
-### Judges 18
-
-
-### Judges 19
-
-
-### Judges 20
-
-
-### Judges 21
-
-
-## Ruth
-
-### Ruth 1
-
+### judges 2
+### judges 3
+### judges 4
+### judges 5
+### judges 6
+### judges 7
+### judges 8
+### judges 9
+### judges 10
+### judges 11
+### judges 12
+### judges 13
+### judges 14
+### judges 15
+### judges 16
+### judges 17
+### judges 18
+### judges 19
+### judges 20
+### judges 21
+## ruth
+### ruth 1
 1: tenpo ni li lon: jan lawa suli li lawa la, tenpo pi moku ala li lon ma. mije li tan ma tomo Petelen Juta li tawa ni: li lon ma Sete Mowa. ona en meli ona en jan lili tu ona li tawa.
 
 2: nimi pi mije ni li Elimele. nimi pi meli ona li Najomi. nimi po jan lili tu ona li Majalon li Kilijon. ona ale li tan kulupu jan Epulajem li tan ma tomo Peteleken Juta. ona li kama lon ma Sete Mowa li lon ma ni.
@@ -1340,9 +866,7 @@
 
 22: ni la jan Najomi en meli Lu pi mije sin ona tan ma Sete Mowa li kama sin. ona li kama lon ma Petelen lon tenpo open pi alasa pan.
 
-
-### Ruth 2
-
+### ruth 2
 1: meli Najomi li sona e jan tan mije ona. jan ni li jan wawa pona tan kulupu mama pi jan Elimele. nimi ona li jan Powa.
 
 3: ona li tawa li kama li alasa lon ma kasi lon monsi pi jan kipisi. ni li kama: ona li kama lon ma pi jan Powa tan kulupu mama pi jan Elimele.
@@ -1361,9 +885,7 @@
 
 16: kin la, o pana tan kulupu pan lili. o awen la, ona li alasa. o toki ike ala tawa ona.
 
-
-### Ruth 3
-
+### ruth 3
 1: jan Najomi li mama meli pi mije ona, li toki e ni tawa ona: meli lili mi o, mi o alasa e ma awen tawa sina tawa ni: ni li pona tawa sina.
 
 2: jan Powa li tan kulupu mama pi mi mute a! sina lon poka pi meli lili ona a! ona li tawa kon e kasi pan linja lon tomo pan lon tenpo pimeja ni.
@@ -1376,14 +898,9 @@
 
 7: jan Powa li moku e moku e telo. pilin ona li pona. ona li tawa lape lon monsi pi nena pan. jan Lu li kama kepeken kalama ala li weka e len tan noka ona, li tawa lape.
 
-
-### Ruth 4
-
-
-## 1 Samuel
-
-### 1 Samuel 1
-
+### ruth 4
+## 1 samuel
+### 1 samuel 1
 1: tenpo ni la jan mije pi ma Alamatawin Sopin lon nena mute pi ma Epelawin li lon. nimi ona li jan mije Elekana. jan mije Elekana li jan lili mije pi jan mije Jelowan. jan mije Jelowan li jan lili mije pi jan mije Eliju. jan mije Eliju li jan lili mije pi jan mije Toju. jan mije Toju li jan lili mije pi jan mije Supu. jan mije Supu li jan pi ma Epelawin.
 
 2: ona li jo e meli olin lawa tu. nimi pi meli nanpa wan li jan meli Ana. nimi pi meli nanpa tu li jan meli Panina. jan meli Panina li jo e jan lili mute. taso jan meli Ana li jo ala e jan lili.
@@ -1396,326 +913,118 @@
 
 6: o alasa tawa ona e jan 12. jan 12 li jan wan tan kulupu lili wan li jan wan tan kulupu lili ante.
 
-
-### 1 Samuel 2
-
-
-### 1 Samuel 3
-
-
-### 1 Samuel 4
-
-
-### 1 Samuel 5
-
-
-### 1 Samuel 6
-
-
-### 1 Samuel 7
-
-
-### 1 Samuel 8
-
-
-### 1 Samuel 9
-
-
-### 1 Samuel 10
-
-
-### 1 Samuel 11
-
-
-### 1 Samuel 12
-
-
-### 1 Samuel 13
-
-
-### 1 Samuel 14
-
-
-### 1 Samuel 15
-
-
-### 1 Samuel 16
-
-
-### 1 Samuel 17
-
-
-### 1 Samuel 18
-
-
-### 1 Samuel 19
-
-
-### 1 Samuel 20
-
-
-### 1 Samuel 21
-
-
-### 1 Samuel 22
-
-
-### 1 Samuel 23
-
-
-### 1 Samuel 24
-
-
-### 1 Samuel 25
-
-
-### 1 Samuel 26
-
-
-### 1 Samuel 27
-
-
-### 1 Samuel 28
-
-
-### 1 Samuel 29
-
-
-### 1 Samuel 30
-
-
-### 1 Samuel 31
-
-
-## 2 Samuel
-
-### 2 Samuel 1
-
-
-### 2 Samuel 2
-
-
-### 2 Samuel 3
-
-
-### 2 Samuel 4
-
-
-### 2 Samuel 5
-
-
-### 2 Samuel 6
-
-
-### 2 Samuel 7
-
-
-### 2 Samuel 8
-
-
-### 2 Samuel 9
-
-
-### 2 Samuel 10
-
-
-### 2 Samuel 11
-
-
-### 2 Samuel 12
-
-
-### 2 Samuel 13
-
-
-### 2 Samuel 14
-
-
-### 2 Samuel 15
-
-
-### 2 Samuel 16
-
-
-### 2 Samuel 17
-
-
-### 2 Samuel 18
-
-
-### 2 Samuel 19
-
-
-### 2 Samuel 20
-
-
-### 2 Samuel 21
-
-
-### 2 Samuel 22
-
-
-### 2 Samuel 23
-
-
-### 2 Samuel 24
-
-
-## 1 Kings
-
-### 1 Kings 1
-
-
-### 1 Kings 2
-
-
-### 1 Kings 3
-
-
-### 1 Kings 4
-
-
-### 1 Kings 5
-
-
-### 1 Kings 6
-
-
-### 1 Kings 7
-
-
-### 1 Kings 8
-
-
-### 1 Kings 9
-
-
-### 1 Kings 10
-
-
-### 1 Kings 11
-
+### 1 samuel 2
+### 1 samuel 3
+### 1 samuel 4
+### 1 samuel 5
+### 1 samuel 6
+### 1 samuel 7
+### 1 samuel 8
+### 1 samuel 9
+### 1 samuel 10
+### 1 samuel 11
+### 1 samuel 12
+### 1 samuel 13
+### 1 samuel 14
+### 1 samuel 15
+### 1 samuel 16
+### 1 samuel 17
+### 1 samuel 18
+### 1 samuel 19
+### 1 samuel 20
+### 1 samuel 21
+### 1 samuel 22
+### 1 samuel 23
+### 1 samuel 24
+### 1 samuel 25
+### 1 samuel 26
+### 1 samuel 27
+### 1 samuel 28
+### 1 samuel 29
+### 1 samuel 30
+### 1 samuel 31
+## 2 samuel
+### 2 samuel 1
+### 2 samuel 2
+### 2 samuel 3
+### 2 samuel 4
+### 2 samuel 5
+### 2 samuel 6
+### 2 samuel 7
+### 2 samuel 8
+### 2 samuel 9
+### 2 samuel 10
+### 2 samuel 11
+### 2 samuel 12
+### 2 samuel 13
+### 2 samuel 14
+### 2 samuel 15
+### 2 samuel 16
+### 2 samuel 17
+### 2 samuel 18
+### 2 samuel 19
+### 2 samuel 20
+### 2 samuel 21
+### 2 samuel 22
+### 2 samuel 23
+### 2 samuel 24
+## 1 kings
+### 1 kings 1
+### 1 kings 2
+### 1 kings 3
+### 1 kings 4
+### 1 kings 5
+### 1 kings 6
+### 1 kings 7
+### 1 kings 8
+### 1 kings 9
+### 1 kings 10
+### 1 kings 11
 3: ona li jo e meli lawa 700 e meli poka 300. taso meli ona li ante e pilin ona.
 
-
-### 1 Kings 12
-
-
-### 1 Kings 13
-
-
-### 1 Kings 14
-
-
-### 1 Kings 15
-
-
-### 1 Kings 16
-
-
-### 1 Kings 17
-
-
-### 1 Kings 18
-
-
-### 1 Kings 19
-
-
-### 1 Kings 20
-
-
-### 1 Kings 21
-
-
-### 1 Kings 22
-
-
-## 2 Kings
-
-### 2 Kings 1
-
-
-### 2 Kings 2
-
+### 1 kings 12
+### 1 kings 13
+### 1 kings 14
+### 1 kings 15
+### 1 kings 16
+### 1 kings 17
+### 1 kings 18
+### 1 kings 19
+### 1 kings 20
+### 1 kings 21
+### 1 kings 22
+## 2 kings
+### 2 kings 1
+### 2 kings 2
 23: tan ni la ona li tawa ma Pete. ona li lon nasin la, jan sin lili wan anu tu tan ma tomo suli li kama li toki utala tawa ona, li toki e ni: linja ala o weka! linja ala o weka!
 
 24: ona li lukin e ona, li toki e ike lon ona kepeken nimi pi sewi Jawe. soweli wawa meli tu li kama tan ma pi kasi kiwen, li pakala e jan sin lili.
 
-
-### 2 Kings 3
-
-
-### 2 Kings 4
-
-
-### 2 Kings 5
-
-
-### 2 Kings 6
-
-
-### 2 Kings 7
-
-
-### 2 Kings 8
-
-
-### 2 Kings 9
-
-
-### 2 Kings 10
-
-
-### 2 Kings 11
-
-
-### 2 Kings 12
-
-
-### 2 Kings 13
-
-
-### 2 Kings 14
-
-
-### 2 Kings 15
-
-
-### 2 Kings 16
-
-
-### 2 Kings 17
-
-
-### 2 Kings 18
-
-
-### 2 Kings 19
-
-
-### 2 Kings 20
-
-
-### 2 Kings 21
-
-
-### 2 Kings 22
-
-
-### 2 Kings 23
-
-
-### 2 Kings 24
-
-
-### 2 Kings 25
-
-
-## 1 Chronicles
-
-### 1 Chronicles 1
-
+### 2 kings 3
+### 2 kings 4
+### 2 kings 5
+### 2 kings 6
+### 2 kings 7
+### 2 kings 8
+### 2 kings 9
+### 2 kings 10
+### 2 kings 11
+### 2 kings 12
+### 2 kings 13
+### 2 kings 14
+### 2 kings 15
+### 2 kings 16
+### 2 kings 17
+### 2 kings 18
+### 2 kings 19
+### 2 kings 20
+### 2 kings 21
+### 2 kings 22
+### 2 kings 23
+### 2 kings 24
+### 2 kings 25
+## 1 chronicles
+### 1 chronicles 1
 1: jan mije Atan, jan mije Sese, jan mije Enowaso,
 
 2: jan mije Kenan, jan mije Malalali, jan mije Jalete,
@@ -1732,7 +1041,7 @@
 
 8: jan sin pi jan mije An, li jan mije Kusu li jan mije Misilalin li jan mije Putu li jan mije Kanan.
 
-9: jan sin pi jan mije Kusu li jan mije Sepa li jan mije Awila li jan mije Sapata li jan mije Lama li jan mije Sapateka. jan sin pi jan mije Lama li jan mije Sapa li jan mije Tetan;
+9: jan sin pi jan mije Kusu li jan mije Sepa li jan mije Awila li jan mije Sapata li jan mije Lama li jan mije Sapateka. jan sin pi jan mije Lama li jan mije Sapa li jan mije Tetan; 
 
 10: en jan mije Kusu li mama e jan lawa Ninlo. jan lawa Ninlo li jan suli e tenpo lon ma.
 
@@ -1740,7 +1049,7 @@
 
 12: e kulupu Patalusin e kulupu Kasaluwin (ni li mama e kulupu Pilisiten) e kulupu Kapatolin.
 
-13: jan mije Kanan li mama e jan mije Siton (jan sin nanpa wan) e jan mije Kese,
+13: jan mije Kanan li mama e jan mije Siton (jan sin nanpa wan) e jan mije Kese, 
 
 14: e jan pi kulupu Japusi e jan pi kulupu Emoli e jan pi kulupu Kikasi,
 
@@ -1750,306 +1059,126 @@
 
 17: jan sin pi jan mije Sen li jan mije Elan li jan mije Asu li jan mije Apasata li jan mije Lutu li jan mije Alan li jan mije Usu li jan mije Ulu li jan mije Kete li jan mije Masa.
 
-18: jan Apasate li mama e jan Sala. jan Sala li mama e jan Epe.
+18: jan Apasate li mama e jan Sala. jan Sala li mama e jan Epe. 
 
 19: jan Epe li mama e jan sin tu pi nimi ni: jan Pele [kipisi] en jan Jakatan. tenpo pi jan Pele la ma ale li kipisi. ni la jan Pele li jo e nimi ni.
 
-20: jan Jakatan li mama e jan Amotata e jan Salepe e jan Asamawete e jan Jala
+20: jan Jakatan li mama e jan Amotata e jan Salepe e jan Asamawete e jan Jala 
 
-21: e jan Etolan e jan Usa e jan Tekila
+21: e jan Etolan e jan Usa e jan Tekila 
 
-22: e jan Epa e jan Apimale e jan Sepa
+22: e jan Epa e jan Apimale e jan Sepa 
 
-23:  e jan Opi e jan Awila e jan Jopa. jan ale ni li jan lili pi jan Jokatan.
+23:  e jan Opi e jan Awila e jan Jopa. jan ale ni li jan lili pi jan Jokatan. 
 
-24: jan Sen en jan Apasata en jan Sala
+24: jan Sen en jan Apasata en jan Sala 
 
-25: en jan Epa en jan Pele en jan Lu
+25: en jan Epa en jan Pele en jan Lu 
 
-26: en jan Selu en jan Najo en jan Tala
+26: en jan Selu en jan Najo en jan Tala 
 
 27: en jan Apan (jan ni li jan Apakan).
 
-28: jan sin pi jan Apakan li jan Isaka li jan Isimale.
+28: jan sin pi jan Apakan li jan Isaka li jan Isimale. 
 
 29: jan sin nanpa wan pi jan Isamale li Napajoto. jan sin ante pi jan Isamale li jan Keta li jan Atapatale li jan Mipisan.
 
-30: li jan Misima li jan Tuma li jan Masa li jan Ata li jan Tema
+30: li jan Misima li jan Tuma li jan Masa li jan Ata li jan Tema 
 
 31: li jan Jutu li jan Napisi li jan Ketema. ona li jan sin pi jan Isimale.
 
-
-### 1 Chronicles 2
-
-
-### 1 Chronicles 3
-
-
-### 1 Chronicles 4
-
-
-### 1 Chronicles 5
-
-
-### 1 Chronicles 6
-
-
-### 1 Chronicles 7
-
-
-### 1 Chronicles 8
-
-
-### 1 Chronicles 9
-
-
-### 1 Chronicles 10
-
-
-### 1 Chronicles 11
-
-
-### 1 Chronicles 12
-
-
-### 1 Chronicles 13
-
-
-### 1 Chronicles 14
-
-
-### 1 Chronicles 15
-
-
-### 1 Chronicles 16
-
-
-### 1 Chronicles 17
-
-
-### 1 Chronicles 18
-
-
-### 1 Chronicles 19
-
-
-### 1 Chronicles 20
-
-
-### 1 Chronicles 21
-
-
-### 1 Chronicles 22
-
-
-### 1 Chronicles 23
-
-
-### 1 Chronicles 24
-
-
-### 1 Chronicles 25
-
-
-### 1 Chronicles 26
-
-
-### 1 Chronicles 27
-
-
-### 1 Chronicles 28
-
-
-### 1 Chronicles 29
-
-
-## 2 Chronicles
-
-### 2 Chronicles 1
-
-
-### 2 Chronicles 2
-
-
-### 2 Chronicles 3
-
-
-### 2 Chronicles 4
-
-
-### 2 Chronicles 5
-
-
-### 2 Chronicles 6
-
-
-### 2 Chronicles 7
-
-
-### 2 Chronicles 8
-
-
-### 2 Chronicles 9
-
-
-### 2 Chronicles 10
-
-
-### 2 Chronicles 11
-
-
-### 2 Chronicles 12
-
-
-### 2 Chronicles 13
-
-
-### 2 Chronicles 14
-
-
-### 2 Chronicles 15
-
-
-### 2 Chronicles 16
-
-
-### 2 Chronicles 17
-
-
-### 2 Chronicles 18
-
-
-### 2 Chronicles 19
-
-
-### 2 Chronicles 20
-
-
-### 2 Chronicles 21
-
-
-### 2 Chronicles 22
-
-
-### 2 Chronicles 23
-
-
-### 2 Chronicles 24
-
-
-### 2 Chronicles 25
-
-
-### 2 Chronicles 26
-
-
-### 2 Chronicles 27
-
-
-### 2 Chronicles 28
-
-
-### 2 Chronicles 29
-
-
-### 2 Chronicles 30
-
-
-### 2 Chronicles 31
-
-
-### 2 Chronicles 32
-
-
-### 2 Chronicles 33
-
-
-### 2 Chronicles 34
-
-
-### 2 Chronicles 35
-
-
-### 2 Chronicles 36
-
-
-## Ezra
-
-### Ezra 1
-
-
-### Ezra 2
-
-
-### Ezra 3
-
-
-### Ezra 4
-
-
-### Ezra 5
-
-
-### Ezra 6
-
-
-### Ezra 7
-
-
-### Ezra 8
-
-
-### Ezra 9
-
-
-### Ezra 10
-
-
-## Nehemiah
-
-### Nehemiah 1
-
-
-### Nehemiah 2
-
-
-### Nehemiah 3
-
-
-### Nehemiah 4
-
-
-### Nehemiah 5
-
-
-### Nehemiah 6
-
-
-### Nehemiah 7
-
-
-### Nehemiah 8
-
-
-### Nehemiah 9
-
-
-### Nehemiah 10
-
-
-### Nehemiah 11
-
-
-### Nehemiah 12
-
-
-### Nehemiah 13
-
-
-## Esther
-
-### Esther 1
-
+### 1 chronicles 2
+### 1 chronicles 3
+### 1 chronicles 4
+### 1 chronicles 5
+### 1 chronicles 6
+### 1 chronicles 7
+### 1 chronicles 8
+### 1 chronicles 9
+### 1 chronicles 10
+### 1 chronicles 11
+### 1 chronicles 12
+### 1 chronicles 13
+### 1 chronicles 14
+### 1 chronicles 15
+### 1 chronicles 16
+### 1 chronicles 17
+### 1 chronicles 18
+### 1 chronicles 19
+### 1 chronicles 20
+### 1 chronicles 21
+### 1 chronicles 22
+### 1 chronicles 23
+### 1 chronicles 24
+### 1 chronicles 25
+### 1 chronicles 26
+### 1 chronicles 27
+### 1 chronicles 28
+### 1 chronicles 29
+## 2 chronicles
+### 2 chronicles 1
+### 2 chronicles 2
+### 2 chronicles 3
+### 2 chronicles 4
+### 2 chronicles 5
+### 2 chronicles 6
+### 2 chronicles 7
+### 2 chronicles 8
+### 2 chronicles 9
+### 2 chronicles 10
+### 2 chronicles 11
+### 2 chronicles 12
+### 2 chronicles 13
+### 2 chronicles 14
+### 2 chronicles 15
+### 2 chronicles 16
+### 2 chronicles 17
+### 2 chronicles 18
+### 2 chronicles 19
+### 2 chronicles 20
+### 2 chronicles 21
+### 2 chronicles 22
+### 2 chronicles 23
+### 2 chronicles 24
+### 2 chronicles 25
+### 2 chronicles 26
+### 2 chronicles 27
+### 2 chronicles 28
+### 2 chronicles 29
+### 2 chronicles 30
+### 2 chronicles 31
+### 2 chronicles 32
+### 2 chronicles 33
+### 2 chronicles 34
+### 2 chronicles 35
+### 2 chronicles 36
+## ezra
+### ezra 1
+### ezra 2
+### ezra 3
+### ezra 4
+### ezra 5
+### ezra 6
+### ezra 7
+### ezra 8
+### ezra 9
+### ezra 10
+## nehemiah
+### nehemiah 1
+### nehemiah 2
+### nehemiah 3
+### nehemiah 4
+### nehemiah 5
+### nehemiah 6
+### nehemiah 7
+### nehemiah 8
+### nehemiah 9
+### nehemiah 10
+### nehemiah 11
+### nehemiah 12
+### nehemiah 13
+## esther
+### esther 1
 1: ? tenpo pi jan Akasewe pi lawa ma 127 pi ma Palata tawa ma Kusi la, ijo li kama.
 
 2: ? jan Akasewe li lawa e ma tomo kiwen Susa.
@@ -2092,9 +1221,7 @@
 
 22: ? jan lawa li pana e jan toki e ma ale pi jan lawa. ona li kepeken e toki ma ale e nasin sitelen ma ale. ona li toki e ni: mije ale li jo e wawa pi tomo ona li toki e nasin toki pi kulupu ona.
 
-
-### Esther 2
-
+### esther 2
 1: ? tenpo lili tawa pilin ike pi jan Akasewe li pini la, ona li sona e jan Wasi li pilin e pali ona e ijo pi sitelen lawa tawa ona.
 
 2: ? jan pali pi anpa jan lawa li toki e ni: “o alasa e jan meli sin mute pi pona lukin pi unpa ala lon tenpo pini.”
@@ -2119,7 +1246,7 @@
 
 12: ? meli li jo e sike tenpo wan tawa kama pona lukin. sike ni li pini la, meli nanpa wan li kama tawa jan lawa. kama ni li pini la, meli nanpa tu li kama tawa jan lawa, en meli ale li kama kepeken nasin ni. (ona li jo e sike wan tawa ni: kipisi sike 6 la, ona li kepeken e telo ko pona, en kipisi 6 ante la, ona li kepeken e kon pona e ko pona ante tawa pona e ona.)
 
-13: ? (tenpo pona ni li pini la, meli li kama tawa jan lawa.) ona li kama tawa jan lawa la, ona li ken kama e ijo ale pi wile ona tan tomo meli.
+13: ? (tenpo pona ni li pini la, meli li kama tawa jan lawa.) ona li kama tawa jan lawa la, ona li ken kama e ijo ale pi wile ona tan tomo meli. 
 
 14: ? meli li tawa tomo lawa lon tenpo pimeja, li tawa tomo meli nanpa tu lon open pi tenpo suno. jan Sasaka pi unpa ala li lawa e tomo meli ni, li awen e meli lawa pi suli ala. jan lawa li wile e meli li toki e nimi ona la, ona li kama tawa jan lawa. jan lawa li wile ala la, meli li kama ala tawa ona.
 
@@ -2141,9 +1268,7 @@
 
 23: ? lawa li alasa lon ni, li kama sona e ni: ni li lon. lawa li moli e ona tu lon nasin ni: palisa kasi li jo sewi e ona. lawa li sitelen e ni lon lipu pi kama ale tawa jan lawa.
 
-
-### Esther 3
-
+### esther 3
 1: ? tenpo pi ale ni li weka la, jan lawa Akasewe li sewi e jan Aman pi jan Ametata pi kulupu Akaki. lawa li wawa e ona, li lawa suli e ona tan jan lawa lili ale.
 
 2: ? jan anpa ale pi jan lawa li anpa lon sinpin pi jan Aman tan ni: jan lawa li toki e ni lon ona. taso, jan Moteka li kama anpa ala.
@@ -2174,9 +1299,7 @@
 
 15: ? jan tawa li pali wawa e toki lawa. jan wan li toki e ni lon ma tomo kiwen Susa. jan lawa en jan Aman li awen li moku e telo. taso, jan pi ma tomo Susa li pilin nasa.
 
-
-### Esther 4
-
+### esther 4
 1: ? sona pi ale ni li kama tawa jan Moteka la, ona li pakala e len ona, li len e ona kepeken len ike kepeken ko tan seli. ona li tawa lon ma tomo, li kalama suli pi pilin ike.
 
 2: ? ona li tawa lupa pi tomo lawa. taso, jan li kepeken len ike la, ona li ken ala kama lon tomo lawa.
@@ -2187,36 +1310,21 @@
 
 5: ? jan Ese li kama e jan Ataka. (jan Ataka li jan pi unpa ala. jan lawa li pana e ona tawa jan Ese, en ona li pali tawa jan Ese.) jan Ese li tawa jan Moteka e jan Ataka, tan ni: ona li wile sona e ni: seme li lon? ni li kama tan seme?
 
-
-### Esther 5
-
-
-### Esther 6
-
-
-### Esther 7
-
-
-### Esther 8
-
+### esther 5
+### esther 6
+### esther 7
+### esther 8
 9: ? tenpo ni la jan li kama e jan sitelen pi jan lawa. tenpo ni li sike mun nanpa 3 (mun Siwan) lon suno nanpa 23. jan mije Moteka li sitelen e lipu lawa tawa ali. lipu lawa ni li toki tan jan pi kulupu Juta tawa jan lawa pi ma mute. ni li ma 127 tan ma Palata tawa ma Kusi. lipu lawa ni li sitelen e toki ma ale. lipu lawa ni li sitelen e toki Iwisi tawa jan pi kulupu Juta.
 
-
-### Esther 9
-
-
-### Esther 10
-
-
-## Job
-
-### Job 1
-
+### esther 9
+### esther 10
+## job
+### job 1
 1: jan mije li lon ma Usu. nimi ona li jan Ijopo. jan ni li utala ala, li pona, li pilin monsuta tan sewi Jawe, li wile ala e ike.
 
-2: ona li mama e mije sin pi nanpa luka tu, e meli sin pi nanpa tu wan.
+2: ona li mama e mije sin pi nanpa luka tu, e meli sin pi nanpa tu wan. 
 
-3: ona li jo e soweli len pi nanpa 7000, e soweli nena pi nanpa 3000, e tu pi nanpa 500 pi soweli mani wawa, e soweli tawa meli pi nanpa 500, e kulupu jan tomo suli. jan ale lon ma pi open suno la, ona li nanpa wan.
+3: ona li jo e soweli len pi nanpa 7000, e soweli nena pi nanpa 3000, e tu pi nanpa 500 pi soweli mani wawa, e soweli tawa meli pi nanpa 500, e kulupu jan tomo suli. jan ale lon ma pi open suno la, ona li nanpa wan. 
 
 4: mije sin pi jan Ijopo li tawa, li moku lon tomo ona lon tenpo ona, li kama e meli sama ona tu wan tawa ni: meli sama ona li ken moku lon poka ona.
 
@@ -2230,7 +1338,7 @@
 
 9: ike Satan toki e ni tawa sewi Jawe: jan Ijope li pilin monsuta tan sewi tan ijo ala anu seme?
 
-10: sina awen ala awen lon selo e ona, e tomo ona, e ijo ale ona? sina pona e pali tan luka ona. jo ona li kama suli lon ma.
+10: sina awen ala awen lon selo e ona, e tomo ona, e ijo ale ona? sina pona e pali tan luka ona. jo ona li kama suli lon ma. 
 
 11: taso o pana e luka sina, o pana e luka lon ijo ale ona. ni la ona li pona e sina tawa sinpin sina.*
 
@@ -2256,138 +1364,53 @@
 
 22: ale ni la jan Ijopo li pali ike ala li pana ala ike tawa sewi.
 
-
-### Job 2
-
-1: kin la tenpo suno wan li kama. kulupu jan pi sewi Jawe li tawa sinpin sewi Jawe. ike Satan li kama lon poka ona tawa sinpin sewi Jawe.
+### job 2
+1: kin la tenpo suno wan li kama. kulupu jan pi sewi Jawe li tawa sinpin sewi Jawe. ike Satan li kama lon poka ona tawa sinpin sewi Jawe. 
 
 2: sewi Jawe li toki e ni tawa ike Satan: sina kama tan seme? ike Satan li toki tawa sewi Jawe e ni: mi kama tan tawa lon ma li kama tan noka lon ma.
 
-
-### Job 3
-
-
-### Job 4
-
-
-### Job 5
-
-
-### Job 6
-
-
-### Job 7
-
-
-### Job 8
-
-
-### Job 9
-
-
-### Job 10
-
-
-### Job 11
-
-
-### Job 12
-
-
-### Job 13
-
-
-### Job 14
-
-
-### Job 15
-
-
-### Job 16
-
-
-### Job 17
-
-
-### Job 18
-
-
-### Job 19
-
-
-### Job 20
-
-
-### Job 21
-
-
-### Job 22
-
-
-### Job 23
-
-
-### Job 24
-
-
-### Job 25
-
-
-### Job 26
-
-
-### Job 27
-
-
-### Job 28
-
-
-### Job 29
-
-
-### Job 30
-
-
-### Job 31
-
-
-### Job 32
-
-
-### Job 33
-
-
-### Job 34
-
-
-### Job 35
-
-
-### Job 36
-
-
-### Job 37
-
-
-### Job 38
-
-
-### Job 39
-
-
-### Job 40
-
-
-### Job 41
-
-
-### Job 42
-
-
-## Psalms
-
-### Psalms 1
-
+### job 3
+### job 4
+### job 5
+### job 6
+### job 7
+### job 8
+### job 9
+### job 10
+### job 11
+### job 12
+### job 13
+### job 14
+### job 15
+### job 16
+### job 17
+### job 18
+### job 19
+### job 20
+### job 21
+### job 22
+### job 23
+### job 24
+### job 25
+### job 26
+### job 27
+### job 28
+### job 29
+### job 30
+### job 31
+### job 32
+### job 33
+### job 34
+### job 35
+### job 36
+### job 37
+### job 38
+### job 39
+### job 40
+### job 41
+### job 42
+## psalms
+### psalms 1
 1: jan ni li pona sewi: jan li tawa ala lon nasin pi jan ike, li awen ala lon nasin pi pali ike, li awen ala lon supa monsi pi jan pi toki jaki.
 
 2: ante la wile ona li lon sona lawa pi sewi Jawe. ona li toki insa e lawa sewi ona lon tenpo suno ale lon tenpo pimeja ale.
@@ -2400,9 +1423,7 @@
 
 6: tan ni: sewi Jawe li sona e nasin pi jan pona. taso nasin pi jan ike li kama weka.
 
-
-### Psalms 2
-
+### psalms 2
 1: tan seme la kulupu jan li pilin wawa? tan seme la kulupu jan li toki e ala?
 
 2: jan lawa ma li kama. sama wan la jan lawa lili li toki e nasin. nasin ni li utala e sewi Jawe e jan ona pi lawa pi telo sewi.
@@ -2427,9 +1448,7 @@
 
 12: o uta lili e jan lili mije. ante la ona li kama utala pilin. kin la sina kama weka tan nasin. pilin utala ona li kama la ni. jan li alasa e awen pi pana ona la jan ni li pona sewi.
 
-
-### Psalms 3
-
+### psalms 3
 1: ni li kalama musi pi jan Tawi lon tenpo ni: ona li tawa weka tan jan lili ona Asalon.
 
 2: sewi Jawe o. jan ike utala mi li kama mute a. mute li tawa noka lon utala tawa mi.
@@ -2448,9 +1467,7 @@
 
 9: awen li lon sewi Jawe. pona sewi pi pana sina li lon kulupu jan sina. a Sela.
 
-
-### Psalms 4
-
+### psalms 4
 1: ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi.
 
 2: mi kalama e toki la o toki sin tawa mi. sewi pi nasin pona mi o. lon lili la sina suli e lili tawa mi. o weka e sona pi pali ike mi. o kute e toki sewi mi.
@@ -2469,10 +1486,8 @@
 
 9: pona wan la mi kama supa, mi lape. tan ni: sina sewi Jawe li taso. lon la sina monsi e mi.
 
-
-### Psalms 5
-
-1:ni li kalama musi pi jan Tawi tawa jan lawa ilo pi kalama musi.
+### psalms 5
+1: ni li kalama musi pi jan Tawi tawa jan lawa ilo pi kalama musi.
 
 2: sewi Jawe o kute e toki mi. o sona e toki insa mi.
 
@@ -2492,47 +1507,22 @@
 
 12: jan li alasa e awen pi pana sina la ona li pali e musi tawa tenpo pi pini ala. sina pana e awen tawa ona. ona li olin e nimi sina la ona ni li mu musi lon sina.
 
-
-### Psalms 6
-
+13: lon la sina pona sewi e jan pi lawa pona, sewi Jawe o. sina pana e wile pona lon poka ale ona, sama ilo awen utala suli.
+### psalms 6
 1: ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi kepeken ilo Semini.
 
-
-### Psalms 7
-
-
-### Psalms 8
-
-
-### Psalms 9
-
-
-### Psalms 10
-
-
-### Psalms 11
-
-
-### Psalms 12
-
-
-### Psalms 13
-
-
-### Psalms 14
-
-
-### Psalms 15
-
-
-### Psalms 16
-
-
-### Psalms 17
-
-
-### Psalms 18
-
+### psalms 7
+### psalms 8
+### psalms 9
+### psalms 10
+### psalms 11
+### psalms 12
+### psalms 13
+### psalms 14
+### psalms 15
+### psalms 16
+### psalms 17
+### psalms 18
 31: seme li sewi lon ona ante tan sewi Jawe? seme li kiwen lon ona ante tan sewi mi?
 
 32: sewi li pana e wawa tawa mi, li pona e nasin mi.
@@ -2541,327 +1531,121 @@
 
 34: ona li pana tawa luka mi e sona utala. ni la mi ken pali e ilo utala tan kiwen loje.
 
-
-### Psalms 19
-
-
-### Psalms 20
-
-
-### Psalms 21
-
-
-### Psalms 22
-
-
-### Psalms 23
-
+### psalms 19
+### psalms 20
+### psalms 21
+### psalms 22
+### psalms 23
 2: sewi Jawe li jan mi pi awen soweli. mi o wile ala.
 
 3: lon ma kasi laso la ona li anpa e mi. lon poka pi telo lape la ona li nasin e mi. 
 
-
-### Psalms 24
-
-
-### Psalms 25
-
-
-### Psalms 26
-
-
-### Psalms 27
-
-
-### Psalms 28
-
-
-### Psalms 29
-
-
-### Psalms 30
-
-
-### Psalms 31
-
-
-### Psalms 32
-
-
-### Psalms 33
-
+### psalms 24
+### psalms 25
+### psalms 26
+### psalms 27
+### psalms 28
+### psalms 29
+### psalms 30
+### psalms 31
+### psalms 32
+### psalms 33
 12: pona li tawa kulupu ni: sewi Jawe li sewi ona. kulupu la ona li wile e ona tawa kama jo ona.
 
-
-### Psalms 34
-
-
-### Psalms 35
-
-
-### Psalms 36
-
-
-### Psalms 37
-
-
-### Psalms 38
-
-
-### Psalms 39
-
-
-### Psalms 40
-
-
-### Psalms 41
-
-
-### Psalms 42
-
-
-### Psalms 43
-
-
-### Psalms 44
-
-
-### Psalms 45
-
-
-### Psalms 46
-
-
-### Psalms 47
-
-
-### Psalms 48
-
-
-### Psalms 49
-
-
-### Psalms 50
-
-
-### Psalms 51
-
+### psalms 34
+### psalms 35
+### psalms 36
+### psalms 37
+### psalms 38
+### psalms 39
+### psalms 40
+### psalms 41
+### psalms 42
+### psalms 43
+### psalms 44
+### psalms 45
+### psalms 46
+### psalms 47
+### psalms 48
+### psalms 49
+### psalms 50
+### psalms 51
 15: lawa mi o, o open e uta mi la uta mi li toki suli e toki pona sina.
 
-
-### Psalms 52
-
-
-### Psalms 53
-
-
-### Psalms 54
-
-
-### Psalms 55
-
-
-### Psalms 56
-
-
-### Psalms 57
-
-
-### Psalms 58
-
-
-### Psalms 59
-
-
-### Psalms 60
-
-
-### Psalms 61
-
-
-### Psalms 62
-
-
-### Psalms 63
-
-
-### Psalms 64
-
-
-### Psalms 65
-
-
-### Psalms 66
-
-
-### Psalms 67
-
-
-### Psalms 68
-
-
-### Psalms 69
-
-
-### Psalms 70
-
-
-### Psalms 71
-
-
-### Psalms 72
-
-
-### Psalms 73
-
-
-### Psalms 74
-
-
-### Psalms 75
-
-
-### Psalms 76
-
-
-### Psalms 77
-
-
-### Psalms 78
-
-
-### Psalms 79
-
-
-### Psalms 80
-
-
-### Psalms 81
-
-
-### Psalms 82
-
-
-### Psalms 83
-
-
-### Psalms 84
-
-
-### Psalms 85
-
-
-### Psalms 86
-
-
-### Psalms 87
-
-
-### Psalms 88
-
-
-### Psalms 89
-
-
-### Psalms 90
-
-
-### Psalms 91
-
-
-### Psalms 92
-
-
-### Psalms 93
-
-
-### Psalms 94
-
-
-### Psalms 95
-
-
-### Psalms 96
-
-
-### Psalms 97
-
-
-### Psalms 98
-
-
-### Psalms 99
-
-
-### Psalms 100
-
-
-### Psalms 101
-
-
-### Psalms 102
-
-
-### Psalms 103
-
-
-### Psalms 104
-
-
-### Psalms 105
-
-
-### Psalms 106
-
-
-### Psalms 107
-
-
-### Psalms 108
-
-
-### Psalms 109
-
-
-### Psalms 110
-
-
-### Psalms 111
-
-
-### Psalms 112
-
-
-### Psalms 113
-
-
-### Psalms 114
-
-
-### Psalms 115
-
-
-### Psalms 116
-
-
-### Psalms 117
-
-
-### Psalms 118
-
-
-### Psalms 119
-
+### psalms 52
+### psalms 53
+### psalms 54
+### psalms 55
+### psalms 56
+### psalms 57
+### psalms 58
+### psalms 59
+### psalms 60
+### psalms 61
+### psalms 62
+### psalms 63
+### psalms 64
+### psalms 65
+### psalms 66
+### psalms 67
+### psalms 68
+### psalms 69
+### psalms 70
+### psalms 71
+### psalms 72
+### psalms 73
+### psalms 74
+### psalms 75
+### psalms 76
+### psalms 77
+### psalms 78
+### psalms 79
+### psalms 80
+### psalms 81
+### psalms 82
+### psalms 83
+### psalms 84
+### psalms 85
+### psalms 86
+### psalms 87
+### psalms 88
+### psalms 89
+### psalms 90
+### psalms 91
+### psalms 92
+### psalms 93
+### psalms 94
+### psalms 95
+### psalms 96
+### psalms 97
+### psalms 98
+### psalms 99
+### psalms 100
+### psalms 101
+### psalms 102
+### psalms 103
+### psalms 104
+### psalms 105
+### psalms 106
+### psalms 107
+### psalms 108
+### psalms 109
+### psalms 110
+### psalms 111
+### psalms 112
+### psalms 113
+### psalms 114
+### psalms 115
+### psalms 116
+### psalms 117
+### psalms 118
+### psalms 119
 11: mi awen e toki sina lon pilin mi. ni la mi ike ala tawa sina.
 
 105: toki sina li ilo suno tawa noka mi li suno tawa nasin mi.
 
-
-### Psalms 120
-
-
-### Psalms 121
-
+### psalms 120
+### psalms 121
 1: kalama musi pi nasin sewi. mi sewi e oko mi tawa nena ma. tan ma seme la, pona mi li kama?
 
 2: pona mi li tan sewi Jawe. ona li pali e kon sewi e ma.
@@ -2876,56 +1660,24 @@
 
 7: sewi Jawe li awen e sina tan ike ale. ona li awen e kon sina.
 
-8: sewi Jawe li awen e weka sina e kama sina tan tenpo ni tawa tenpo ale.
+8: sewi Jawe li awen e weka sina e kama sina tan tenpo ni tawa tenpo ale. 
 
-
-### Psalms 122
-
-
-### Psalms 123
-
-
-### Psalms 124
-
-
-### Psalms 125
-
-
-### Psalms 126
-
-
-### Psalms 127
-
-
-### Psalms 128
-
-
-### Psalms 129
-
-
-### Psalms 130
-
-
-### Psalms 131
-
-
-### Psalms 132
-
-
-### Psalms 133
-
-
-### Psalms 134
-
-
-### Psalms 135
-
-
-### Psalms 136
-
-
-### Psalms 137
-
+### psalms 122
+### psalms 123
+### psalms 124
+### psalms 125
+### psalms 126
+### psalms 127
+### psalms 128
+### psalms 129
+### psalms 130
+### psalms 131
+### psalms 132
+### psalms 133
+### psalms 134
+### psalms 135
+### psalms 136
+### psalms 137
 1: lon linja telo pi ma Papilin la mi mute li monsi li pana e telo oko kin lon tenpo ni: mi awen sona e ma Sijon.
 
 2: lon ma ni la mi mute li lape e ilo pi kalama musi mi lon kasi suli linja.
@@ -2944,147 +1696,55 @@
 
 9: jan ni li pona sewi: ona li lanpan e jan lili sin sina, li pakala kipisi e ona tawa kiwen ma.
 
-
-### Psalms 138
-
-
-### Psalms 139
-
-
-### Psalms 140
-
-
-### Psalms 141
-
-
-### Psalms 142
-
-
-### Psalms 143
-
-
-### Psalms 144
-
-
-### Psalms 145
-
-
-### Psalms 146
-
-
-### Psalms 147
-
-
-### Psalms 148
-
-
-### Psalms 149
-
-
-### Psalms 150
-
-
-## Proverbs
-
-### Proverbs 1
-
-
-### Proverbs 2
-
-
-### Proverbs 3
-
-
-### Proverbs 4
-
-
-### Proverbs 5
-
-
-### Proverbs 6
-
-
-### Proverbs 7
-
-
-### Proverbs 8
-
-
-### Proverbs 9
-
-
-### Proverbs 10
-
-
-### Proverbs 11
-
-
-### Proverbs 12
-
-
-### Proverbs 13
-
-
-### Proverbs 14
-
+### psalms 138
+### psalms 139
+### psalms 140
+### psalms 141
+### psalms 142
+### psalms 143
+### psalms 144
+### psalms 145
+### psalms 146
+### psalms 147
+### psalms 148
+### psalms 149
+### psalms 150
+## proverbs
+### proverbs 1
+### proverbs 2
+### proverbs 3
+### proverbs 4
+### proverbs 5
+### proverbs 6
+### proverbs 7
+### proverbs 8
+### proverbs 9
+### proverbs 10
+### proverbs 11
+### proverbs 12
+### proverbs 13
+### proverbs 14
 34: pali pona li sewi e kulupu. taso pali pona mute tawa kulupu mute li pali ike.
 
-
-### Proverbs 15
-
-
-### Proverbs 16
-
-
-### Proverbs 17
-
-
-### Proverbs 18
-
-
-### Proverbs 19
-
-
-### Proverbs 20
-
-
-### Proverbs 21
-
-
-### Proverbs 22
-
-
-### Proverbs 23
-
-
-### Proverbs 24
-
-
-### Proverbs 25
-
-
-### Proverbs 26
-
-
-### Proverbs 27
-
-
-### Proverbs 28
-
-
-### Proverbs 29
-
-
-### Proverbs 30
-
-
-### Proverbs 31
-
-
-## Ecclesiastes
-
-### Ecclesiastes 1
-
+### proverbs 15
+### proverbs 16
+### proverbs 17
+### proverbs 18
+### proverbs 19
+### proverbs 20
+### proverbs 21
+### proverbs 22
+### proverbs 23
+### proverbs 24
+### proverbs 25
+### proverbs 26
+### proverbs 27
+### proverbs 28
+### proverbs 29
+### proverbs 30
+### proverbs 31
+## ecclesiastes
+### ecclesiastes 1
 1: ni li toki pi jan sona, ona li jan sin pi jan Tawi, ona li jan lawa pi ma tomo Jelusalen.
 
 3: jan li seme e pali anpa suno?
@@ -3099,73 +1759,31 @@
 
 11: jan li sona ala e jan pi tenpo pini mute. jan pi tenpo kama mute li sona ala e jan pi tenpo kama.
 
-
-### Ecclesiastes 2
-
-
-### Ecclesiastes 3
-
-
-### Ecclesiastes 4
-
-
-### Ecclesiastes 5
-
-
-### Ecclesiastes 6
-
-
-### Ecclesiastes 7
-
-
-### Ecclesiastes 8
-
-
-### Ecclesiastes 9
-
-
-### Ecclesiastes 10
-
-
-### Ecclesiastes 11
-
-
-### Ecclesiastes 12
-
-
-## Song of Songs
-
-### Song of Songs 1
-
-
-### Song of Songs 2
-
-
-### Song of Songs 3
-
-
-### Song of Songs 4
-
-
-### Song of Songs 5
-
-
-### Song of Songs 6
-
-
-### Song of Songs 7
-
-
-### Song of Songs 8
-
-
-## Isaiah
-
-### Isaiah 1
-
+### ecclesiastes 2
+### ecclesiastes 3
+### ecclesiastes 4
+### ecclesiastes 5
+### ecclesiastes 6
+### ecclesiastes 7
+### ecclesiastes 8
+### ecclesiastes 9
+### ecclesiastes 10
+### ecclesiastes 11
+### ecclesiastes 12
+## song of songs
+### song of songs 1
+### song of songs 2
+### song of songs 3
+### song of songs 4
+### song of songs 5
+### song of songs 6
+### song of songs 7
+### song of songs 8
+## isaiah
+### isaiah 1
 1: mi jan Isajaju1 mi jan lili pi jan Amo2. tenpo lawa pi jan Jotan3, pi jan Asa4, pi jan Esekaja5 la, sewi Jawe li pana e lukin pi ma Jerusalen 6 e lukin pi ma ante ale lon ma Juta7  tawa mi.
 
-2: sewi o kute! ma ale o kute! sewi Jawe li toki: tenpo pini la mi mama li suli e jan lili. taso ona li weka tan mi.
+2: sewi o kute! ma ale o kute! sewi Jawe li toki: tenpo pini la mi mama li suli e jan lili. taso ona li weka tan mi. 
 
 3: soweli mani pali li sona e jan jo ona; soweli pi tawa ijo li sona e moku tan lawa ona taso. ma Isale li sona ala e mi. jan mi li kute ala e sona.
 
@@ -3183,364 +1801,126 @@
 
 11: sina li pana e ijo mute tawa sewi. tan seme? sewi Jawe li toki e ni: mi wile ala e pana sewi pi seli pi soweli pana linja e wawa tan soweli wawa. telo loje tan ni: soweli mani lili en soweli len lili en soweli pi noka kiwen. ni li pona ala tawa mi.
 
-
-### Isaiah 2
-
-
-### Isaiah 3
-
-
-### Isaiah 4
-
-
-### Isaiah 5
-
-
-### Isaiah 6
-
-
-### Isaiah 7
-
-
-### Isaiah 8
-
-
-### Isaiah 9
-
-
-### Isaiah 10
-
-
-### Isaiah 11
-
-
-### Isaiah 12
-
-
-### Isaiah 13
-
-
-### Isaiah 14
-
-
-### Isaiah 15
-
-
-### Isaiah 16
-
-
-### Isaiah 17
-
-
-### Isaiah 18
-
-
-### Isaiah 19
-
-
-### Isaiah 20
-
-
-### Isaiah 21
-
-
-### Isaiah 22
-
-
-### Isaiah 23
-
-
-### Isaiah 24
-
-
-### Isaiah 25
-
-
-### Isaiah 26
-
-
-### Isaiah 27
-
-
-### Isaiah 28
-
-
-### Isaiah 29
-
-
-### Isaiah 30
-
-
-### Isaiah 31
-
-
-### Isaiah 32
-
-
-### Isaiah 33
-
-
-### Isaiah 34
-
-
-### Isaiah 35
-
-
-### Isaiah 36
-
-
-### Isaiah 37
-
-
-### Isaiah 38
-
-
-### Isaiah 39
-
-
-### Isaiah 40
-
-
-### Isaiah 41
-
-
-### Isaiah 42
-
-
-### Isaiah 43
-
-
-### Isaiah 44
-
-
-### Isaiah 45
-
-
-### Isaiah 46
-
-
-### Isaiah 47
-
-
-### Isaiah 48
-
-
-### Isaiah 49
-
-
-### Isaiah 50
-
-
-### Isaiah 51
-
-
-### Isaiah 52
-
-
-### Isaiah 53
-
-
-### Isaiah 54
-
-
-### Isaiah 55
-
-
-### Isaiah 56
-
-
-### Isaiah 57
-
-
-### Isaiah 58
-
-
-### Isaiah 59
-
-
-### Isaiah 60
-
-
-### Isaiah 61
-
-
-### Isaiah 62
-
-
-### Isaiah 63
-
-
-### Isaiah 64
-
-
-### Isaiah 65
-
-
-### Isaiah 66
-
-
-## Jeremiah
-
-### Jeremiah 1
-
-
-### Jeremiah 2
-
-
-### Jeremiah 3
-
-
-### Jeremiah 4
-
-
-### Jeremiah 5
-
-
-### Jeremiah 6
-
-
-### Jeremiah 7
-
-
-### Jeremiah 8
-
-
-### Jeremiah 9
-
-
-### Jeremiah 10
-
-
-### Jeremiah 11
-
-
-### Jeremiah 12
-
-
-### Jeremiah 13
-
-
-### Jeremiah 14
-
-
-### Jeremiah 15
-
-
-### Jeremiah 16
-
-
-### Jeremiah 17
-
-
-### Jeremiah 18
-
-
-### Jeremiah 19
-
-
-### Jeremiah 20
-
-
-### Jeremiah 21
-
-
-### Jeremiah 22
-
-
-### Jeremiah 23
-
-
-### Jeremiah 24
-
-
-### Jeremiah 25
-
-
-### Jeremiah 26
-
-
-### Jeremiah 27
-
-
-### Jeremiah 28
-
-
-### Jeremiah 29
-
-
-### Jeremiah 30
-
-
-### Jeremiah 31
-
-
-### Jeremiah 32
-
-
-### Jeremiah 33
-
-
-### Jeremiah 34
-
-
-### Jeremiah 35
-
-
-### Jeremiah 36
-
-
-### Jeremiah 37
-
-
-### Jeremiah 38
-
-
-### Jeremiah 39
-
-
-### Jeremiah 40
-
-
-### Jeremiah 41
-
-
-### Jeremiah 42
-
-
-### Jeremiah 43
-
-
-### Jeremiah 44
-
-
-### Jeremiah 45
-
-
-### Jeremiah 46
-
-
-### Jeremiah 47
-
-
-### Jeremiah 48
-
-
-### Jeremiah 49
-
-
-### Jeremiah 50
-
-
-### Jeremiah 51
-
-
-### Jeremiah 52
-
-
-## Lamentations
-
-### Lamentations 1
-
+### isaiah 2
+### isaiah 3
+### isaiah 4
+### isaiah 5
+### isaiah 6
+### isaiah 7
+### isaiah 8
+### isaiah 9
+### isaiah 10
+### isaiah 11
+### isaiah 12
+### isaiah 13
+### isaiah 14
+### isaiah 15
+### isaiah 16
+### isaiah 17
+### isaiah 18
+### isaiah 19
+### isaiah 20
+### isaiah 21
+### isaiah 22
+### isaiah 23
+### isaiah 24
+### isaiah 25
+### isaiah 26
+### isaiah 27
+### isaiah 28
+### isaiah 29
+### isaiah 30
+### isaiah 31
+### isaiah 32
+### isaiah 33
+### isaiah 34
+### isaiah 35
+### isaiah 36
+### isaiah 37
+### isaiah 38
+### isaiah 39
+### isaiah 40
+### isaiah 41
+### isaiah 42
+### isaiah 43
+### isaiah 44
+### isaiah 45
+### isaiah 46
+### isaiah 47
+### isaiah 48
+### isaiah 49
+### isaiah 50
+### isaiah 51
+### isaiah 52
+### isaiah 53
+### isaiah 54
+### isaiah 55
+### isaiah 56
+### isaiah 57
+### isaiah 58
+### isaiah 59
+### isaiah 60
+### isaiah 61
+### isaiah 62
+### isaiah 63
+### isaiah 64
+### isaiah 65
+### isaiah 66
+## jeremiah
+### jeremiah 1
+### jeremiah 2
+### jeremiah 3
+### jeremiah 4
+### jeremiah 5
+### jeremiah 6
+### jeremiah 7
+### jeremiah 8
+### jeremiah 9
+### jeremiah 10
+### jeremiah 11
+### jeremiah 12
+### jeremiah 13
+### jeremiah 14
+### jeremiah 15
+### jeremiah 16
+### jeremiah 17
+### jeremiah 18
+### jeremiah 19
+### jeremiah 20
+### jeremiah 21
+### jeremiah 22
+### jeremiah 23
+### jeremiah 24
+### jeremiah 25
+### jeremiah 26
+### jeremiah 27
+### jeremiah 28
+### jeremiah 29
+### jeremiah 30
+### jeremiah 31
+### jeremiah 32
+### jeremiah 33
+### jeremiah 34
+### jeremiah 35
+### jeremiah 36
+### jeremiah 37
+### jeremiah 38
+### jeremiah 39
+### jeremiah 40
+### jeremiah 41
+### jeremiah 42
+### jeremiah 43
+### jeremiah 44
+### jeremiah 45
+### jeremiah 46
+### jeremiah 47
+### jeremiah 48
+### jeremiah 49
+### jeremiah 50
+### jeremiah 51
+### jeremiah 52
+## lamentations
+### lamentations 1
 1: ike a! tenpo wan la, jan mute mute li lon ma tomo Jelusalen. tenpo ni la, jan ala li lon. tenpo wan la, ma tomo Jelusalen li suli tawa ma ale. tenpo ni la, ona li kama sama meli pilin ike tan moli pi mije ona. tenpo wan la, ona li sama meli lawa; ma ante ale li sewi e ona. tenpo ni la, mi mute pi ma tomo Jelusalen li kama sama jan anpa pali.
 
 2: tenpo pimeja la, mi mute li pana ike e telo tan oko. telo oko li lon poka sinpin. jan ala pi jan olin ale li pana e pona tawa mi. tenpo pini la, jan lawa mute pi ma ante li pona tawa mi. tenpo ni la, ona ale li kama jan ike tawa jan ale pi ma tomo Jelusalen.
@@ -3549,7 +1929,7 @@
 
 4: jan ala li lon nasin pi nena Sijon tan ni: lon ma ni la, jan ala li kama li wan e moku suli sewi. jan ala li tawa lupa suli ona pi kama insa. jan sewi ona li mu. meli lili pi ma tomo Jelusalen li pana e telo tan oko tan ni: ona li pilin ike mute.
 
-5: jan ike tawa mi mute li anpa e ma tomo li wawa. sewi Jawe li pana e ike tawa kulupu pi ma tomo Jelusalen tan pali ike ale ona.  jan li lanpan e jan lili pi ma tomo Jelusalen li tawa e ona lon ma ante.
+5: jan ike tawa mi mute li anpa e ma tomo li wawa. sewi Jawe li pana e ike tawa kulupu pi ma tomo Jelusalen tan pali ike ale ona.  jan li lanpan e jan lili pi ma tomo Jelusalen li tawa e ona lon ma ante. 
 
 6: tenpo pini la, ma tomo Jelusalen li ma tomo pi pona lukin mute. tenpo ni la, ona li pona lukin ala. kasi ma li lon ala la, soweli pi palisa lawa li moli tan wile moku; jan lawa pi ma tomo li sama soweli ni. ona li wawa lili. tan ni la, ona li ken ala tawa wawa tan jan ike.
 
@@ -3585,9 +1965,7 @@
 
 22: sewi Jawe o lukin e pali ike pi jan ike o pana e ike tawa ona! sina pana e ike tawa mi tan pali ike mi; nasin sama la, o pana e ike tawa ona! mi toki tawa sina tan ni: mi pilin ike mute; mi mu mute; mi pilin anpa mute.
 
-
-### Lamentations 2
-
+### lamentations 2
 1: sewi Jawe li pilin utala mute tawa mi mute. tan ni la, ona li len e ma tomo Jelusalen kepeken kon telo pimeja. tenpo wan la, ma tomo Jelusalen li ma tomo pi pona lukin. tenpo ni la, ona li kama pakala tan sewi Jawe. sewi Jawe li pana e ike tawa kulupu Isale la, ona li weka tan tomo sewi ona kin lon ma tomo Jelusalen.
 
 2: sewi Jawe li pakala e tomo pi kulupu Juta. ona li pali olin ala. ona li pilin utala mute la, ona li pakala e tomo wawa pi ma Juta. tan ona la, ma mi en jan lawa mi li kama apeja [anu: anpa ike]. sewi Jawe li weka e ona.
@@ -3632,9 +2010,7 @@
 
 22: sama moku suli sewi la, sina kama e jan ike tawa mi mute; tan nasin ale la, ona li utala e mi. tenpo ni la, sina pilin utala mute la, jan ala li weka awen. tenpo wan la, mi mute li awen olin e jan lili; tenpo ni la, jan ike li moli e ona.
 
-
-### Lamentations 3
-
+### lamentations 3
 1: mi ike a! sewi Jawe li pana e ike tawa mi tan ni: sewi Jawe li pilin utala.
 
 2: tan ona la, mi tawa noka lon pimeja suli kepeken suno ala.
@@ -3767,291 +2143,107 @@
 
 66: pilin utala sina la, o alasa e ona, o pakala e ona tan ma.
 
-
-### Lamentations 4
-
-
-### Lamentations 5
-
-
-## Ezekiel
-
-### Ezekiel 1
-
-
-### Ezekiel 2
-
-
-### Ezekiel 3
-
-
-### Ezekiel 4
-
-
-### Ezekiel 5
-
-
-### Ezekiel 6
-
-
-### Ezekiel 7
-
-
-### Ezekiel 8
-
-
-### Ezekiel 9
-
-
-### Ezekiel 10
-
-
-### Ezekiel 11
-
-
-### Ezekiel 12
-
-
-### Ezekiel 13
-
-
-### Ezekiel 14
-
-
-### Ezekiel 15
-
-
-### Ezekiel 16
-
-
-### Ezekiel 17
-
-
-### Ezekiel 18
-
-
-### Ezekiel 19
-
-
-### Ezekiel 20
-
-
-### Ezekiel 21
-
-
-### Ezekiel 22
-
-
-### Ezekiel 23
-
-
-### Ezekiel 24
-
-
-### Ezekiel 25
-
-
-### Ezekiel 26
-
-
-### Ezekiel 27
-
-
-### Ezekiel 28
-
-
-### Ezekiel 29
-
-
-### Ezekiel 30
-
-
-### Ezekiel 31
-
-
-### Ezekiel 32
-
-
-### Ezekiel 33
-
-
-### Ezekiel 34
-
-
-### Ezekiel 35
-
-
-### Ezekiel 36
-
-
-### Ezekiel 37
-
-
-### Ezekiel 38
-
-
-### Ezekiel 39
-
-
-### Ezekiel 40
-
-
-### Ezekiel 41
-
-
-### Ezekiel 42
-
-
-### Ezekiel 43
-
-
-### Ezekiel 44
-
-
-### Ezekiel 45
-
-
-### Ezekiel 46
-
-
-### Ezekiel 47
-
-
-### Ezekiel 48
-
-
-## Daniel
-
-### Daniel 1
-
+### lamentations 4
+### lamentations 5
+## ezekiel
+### ezekiel 1
+### ezekiel 2
+### ezekiel 3
+### ezekiel 4
+### ezekiel 5
+### ezekiel 6
+### ezekiel 7
+### ezekiel 8
+### ezekiel 9
+### ezekiel 10
+### ezekiel 11
+### ezekiel 12
+### ezekiel 13
+### ezekiel 14
+### ezekiel 15
+### ezekiel 16
+### ezekiel 17
+### ezekiel 18
+### ezekiel 19
+### ezekiel 20
+### ezekiel 21
+### ezekiel 22
+### ezekiel 23
+### ezekiel 24
+### ezekiel 25
+### ezekiel 26
+### ezekiel 27
+### ezekiel 28
+### ezekiel 29
+### ezekiel 30
+### ezekiel 31
+### ezekiel 32
+### ezekiel 33
+### ezekiel 34
+### ezekiel 35
+### ezekiel 36
+### ezekiel 37
+### ezekiel 38
+### ezekiel 39
+### ezekiel 40
+### ezekiel 41
+### ezekiel 42
+### ezekiel 43
+### ezekiel 44
+### ezekiel 45
+### ezekiel 46
+### ezekiel 47
+### ezekiel 48
+## daniel
+### daniel 1
 1: tenpo sike suno nanpa 3 pi tenpo lawa pi jan lawa Jejowakin pi ma Jejuta la, jan lawa Nepukanesa pi ma Papelo li tawa ma tomo Jelusalen li awen utala e ona.
 
 2: sewi Atona li pana tawa luka ona e jan lawa Jejowakin pi ma Jejuta e kipisi lili pi ilo tomo pi sewi Elowin. ona li jo e ona tawa tomo pi sewi ona lon ma Sina. ona li jo e ilo tawa tomo mani pi sewi ona.
 
-
-### Daniel 2
-
-
-### Daniel 3
-
-
-### Daniel 4
-
-
-### Daniel 5
-
-
-### Daniel 6
-
-
-### Daniel 7
-
-
-### Daniel 8
-
-
-### Daniel 9
-
-
-### Daniel 10
-
-
-### Daniel 11
-
-
-### Daniel 12
-
-
-## Hosea
-
-### Hosea 1
-
-
-### Hosea 2
-
-
-### Hosea 3
-
-
-### Hosea 4
-
-
-### Hosea 5
-
-
-### Hosea 6
-
-
-### Hosea 7
-
-
-### Hosea 8
-
-
-### Hosea 9
-
-
-### Hosea 10
-
-
-### Hosea 11
-
-
-### Hosea 12
-
-
-### Hosea 13
-
-
-### Hosea 14
-
-
-## Joel
-
-### Joel 1
-
+### daniel 2
+### daniel 3
+### daniel 4
+### daniel 5
+### daniel 6
+### daniel 7
+### daniel 8
+### daniel 9
+### daniel 10
+### daniel 11
+### daniel 12
+## hosea
+### hosea 1
+### hosea 2
+### hosea 3
+### hosea 4
+### hosea 5
+### hosea 6
+### hosea 7
+### hosea 8
+### hosea 9
+### hosea 10
+### hosea 11
+### hosea 12
+### hosea 13
+### hosea 14
+## joel
+### joel 1
 9: moku en telo tawa sewi li pini lon tomo pi sewi Jawe. jan pali pi sewi Jawe li pilin ike a. 
 
-
-### Joel 2
-
-
-### Joel 3
-
-
-## Amos
-
-### Amos 1
-
-
-### Amos 2
-
-
-### Amos 3
-
-
-### Amos 4
-
-
-### Amos 5
-
-
-### Amos 6
-
-
-### Amos 7
-
-
-### Amos 8
-
-
-### Amos 9
-
-
-## Obadiah
-
-### Obadiah 1
-
+### joel 2
+### joel 3
+## amos
+### amos 1
+### amos 2
+### amos 3
+### amos 4
+### amos 5
+### amos 6
+### amos 7
+### amos 8
+### amos 9
+## obadiah
+### obadiah 1
 1: ni li lukin pi jan Opasija. jan Sewi li toki [pi kulupu Eton] e ni [pi kulupu Eton]: mi mute li kute e toki tan sewi Jawe. ona li pana e jan toki tawa ma ante ale. jan toki li toki e ni: “o tawa open! [utala la] o kama suli ante ona [tan utala]!”
 
 2: [+ sewi Jawe li toki e ni: ?] “o lukin! mi [wawa ala / lili] e sina lon poka pi ma ante ale. mi pali e ni: sina ike tawa jan ale.
@@ -4094,11 +2286,8 @@
 
 21: jan utala li tawa nena Sijon li kama jo e ona. [sewi Jawe li kama jo e ma pi jan lawa. / sewi Jawe li kama jan lawa.]
 
-
-## Jonah
-
-### Jonah 1
-
+## jonah
+### jonah 1
 1: toki tan sewi Jawe li kama tawa jan Jona pi jan Amita, li toki e ni:
 
 2: o lon noka sina! o tawa ma tomo suli Ninawe, o toki wawa tawa ona, tan ni: ike ona li kama suli lon lukin mi.
@@ -4131,9 +2320,7 @@
 
 16: kulupu li pilin monsuta mute tan sewi Jawe, li pana tawa sewi Jawe e ijo pana, li toki e pali kama ona.
 
-
-### Jonah 2
-
+### jonah 2
 1: sewi Jawe li kama e kala suli, tawa ni: kala suli li moku e jan Jona. tenpo suno tu wan en tenpo pimeja 3 la, ona li lon insa pi kala suli.
 
 2: jan Jona li toki sewi tawa sewi ona Jawe tan insa pi kala suli.
@@ -4156,9 +2343,7 @@
 
 11: ni la sewi Jawe li toki tawa kala suli. kala suli li pana tan insa ona e jan Jona tawa ma ko.
 
-
-### Jonah 3
-
+### jonah 3
 1: toki pi sewi Jawe li kama sin tawa jan Jona, li toki e ni:
 
 2: o tawa ma tomo suli Ninawe, o toki wawa tawa ona e toki mi tawa sina.
@@ -4179,9 +2364,7 @@
 
 10: sewi Jawe li lukin e pali ona, li sona e ni: kulupu li ante e nasin ike ona. sewi li weka tan wile pakala pi toki ona. ona li pali ala e ni.
 
-
-### Jonah 4
-
+### jonah 4
 1: pilin ike wawa li kama ike suli tawa jan Jona. ona li open pilin ike.
 
 2: ona li toki sewi tawa sewi Jawe, li toki e ni: a, sewi Jawe o. mi toki ala toki e ni lon ma mi? tan ni la mi weka tawa ma Tasisa lon open. mi sona e ni: sina sewi pona, li wile ala e pakala, li jo e pilin utala lili e pilin pona suli. li wile ala pali e ike.
@@ -4204,138 +2387,55 @@
 
 11: tan seme la mi o olin ala e ma tomo suli Ninawe ni? ma ni la jan mute li lon, li sona ala e poka wan tan poka ante. ma ni la soweli mute kin li lon.
 
-
-## Micah
-
-### Micah 1
-
-
-### Micah 2
-
-
-### Micah 3
-
-
-### Micah 4
-
-
-### Micah 5
-
-
-### Micah 6
-
-
-### Micah 7
-
-
-## Nahum
-
-### Nahum 1
-
-
-### Nahum 2
-
-
-### Nahum 3
-
-
-## Habakkuk
-
-### Habakkuk 1
-
-
-### Habakkuk 2
-
-
-### Habakkuk 3
-
-
-## Zephaniah
-
-### Zephaniah 1
-
-
-### Zephaniah 2
-
-
-### Zephaniah 3
-
-
-## Haggai
-
-### Haggai 1
-
-
-### Haggai 2
-
-
-## Zechariah
-
-### Zechariah 1
-
-
-### Zechariah 2
-
-
-### Zechariah 3
-
-
-### Zechariah 4
-
-
-### Zechariah 5
-
-
-### Zechariah 6
-
-
-### Zechariah 7
-
-
-### Zechariah 8
-
-
-### Zechariah 9
-
-
-### Zechariah 10
-
-
-### Zechariah 11
-
-
-### Zechariah 12
-
-
-### Zechariah 13
-
-
-### Zechariah 14
-
-
-## Malachi
-
-### Malachi 1
-
-
-### Malachi 2
-
-
-### Malachi 3
-
-
-### Malachi 4
-
-
-# New Testament
-
-## Matthew
-
-### Matthew 1
-
+## micah
+### micah 1
+### micah 2
+### micah 3
+### micah 4
+### micah 5
+### micah 6
+### micah 7
+## nahum
+### nahum 1
+### nahum 2
+### nahum 3
+## habakkuk
+### habakkuk 1
+### habakkuk 2
+### habakkuk 3
+## zephaniah
+### zephaniah 1
+### zephaniah 2
+### zephaniah 3
+## haggai
+### haggai 1
+### haggai 2
+## zechariah
+### zechariah 1
+### zechariah 2
+### zechariah 3
+### zechariah 4
+### zechariah 5
+### zechariah 6
+### zechariah 7
+### zechariah 8
+### zechariah 9
+### zechariah 10
+### zechariah 11
+### zechariah 12
+### zechariah 13
+### zechariah 14
+## malachi
+### malachi 1
+### malachi 2
+### malachi 3
+### malachi 4
+# new testament
+## matthew
+### matthew 1
 1: jan Jesu li mije sin pi jan Tawi li mije sin pi jan Apajan. lipu ni li toki e jan sama pi jan Jesu:
 
-2: jan Apajan li mama pi jan Isa. jan Isa li mama pi jan Jako. jan Jako li mama pi jan Juta li mama pi mije sama pi jan Juta.
+2: jan Apajan li mama pi jan Isa. jan Isa li mama pi jan Jako. jan Jako li mama pi jan Juta li mama pi mije sama pi jan Juta. 
 
 3: jan Juda li mama pi jan Pele li mama pi jan Sala. jan Pele li mama pi jan Eso. jan Eso li mama pi jan Lan.
 
@@ -4363,9 +2463,7 @@
 
 20: ona li lukin insa e ijo ni la jan toki sewi li suno lon lukin lape ona li toki e ni: mije Jose o! jan lili pi mama Tawi o! sina wan olin e sina tawa meli Malija la o pilin ala monsuta, tan ni: ijo sewi li kama lon ona tan kon.
 
-
-### Matthew 2
-
+### matthew 2
 1: jan Jesu li kama sin lon ma tomo Petelen pi ma Juta lon tenpo pi jan lawa Eloto la, o lukin! jan pi sona mute li kama tawa ma tomo Jelusalen tan ma pi suno kama.
 
 2: ona li toki e ni: ma seme la jan lawa sin pi kulupu Juta li kama lon. mi lukin e mun kama la mi kama mi wile anpa sewi tawa ona.
@@ -4386,15 +2484,9 @@
 
 12: sitelen lape li toki e ni: o tawa ala jan lawa Eloto. la ona li tawa ma ona kepeken nasin ante.
 
-
-### Matthew 3
-
-
-### Matthew 4
-
-
-### Matthew 5
-
+### matthew 3
+### matthew 4
+### matthew 5
 1: jan Jesu li lukin e mute jan la ona li tawa sewi nena. ona li anpa e monsi tawa ma la jan ona pi kama sona li tawa ona.
 
 2: ona li open e uta ona li pana sona kepeken toki ni:
@@ -4417,9 +2509,7 @@
 
 12: o pona. o pilin pona wawa tan ni: ijo esun sina li suli lon sewi. sama la tenpo pini la jan li alasa e jan toki pi ijo kama.
 
-
-### Matthew 6
-
+### matthew 6
 9: mama mi o! sina lon sewi. nimi sina o kama sewi.
 
 10: nasin lawa sina o kama. wile sina o kama lon sewi. sama la ona o kama lon ma.
@@ -4430,29 +2520,15 @@
 
 13: o lawa ala e mi tawa utala insa. taso o weka e mi tan ike. <tan ni: sina jo e nasin lawa e wawa e pona lon tenpo ale. ni o lon! (lon a!)>
 
-
-### Matthew 7
-
+### matthew 7
 21: ona li toki e ni tawa mi: lawa o, lawa o! ni la ona ale ala li tawa ma sewi. taso ona li pali e wile pi mama mi lon ma sewi la ona li tawa ma sewi.
 
-
-### Matthew 8
-
-
-### Matthew 9
-
-
-### Matthew 10
-
-
-### Matthew 11
-
-
-### Matthew 12
-
-
-### Matthew 13
-
+### matthew 8
+### matthew 9
+### matthew 10
+### matthew 11
+### matthew 12
+### matthew 13
 1: tenpo suno ni la, jan Jesu li tawa weka tan tomo, li awen lon poka pi telo suli.
 
 2: jan mute li kama kulupu lon poka ona, tawa ni: jan Jesu li tawa insa pi ilo tawa telo, li anpa. jan ale kulupu li awen lon poka telo.
@@ -4493,66 +2569,33 @@
 
 20: wan ante li kama anpa lon ma kiwen. jan ni li kute e sona, li pilin pona mute tan ona la, ona li lanpan e sona ni.
 
-
-### Matthew 14
-
-
-### Matthew 15
-
-
-### Matthew 16
-
-
-### Matthew 17
-
-
-### Matthew 18
-
-
-### Matthew 19
-
-
-### Matthew 20
-
-
-### Matthew 21
-
-
-### Matthew 22
-
+### matthew 14
+### matthew 15
+### matthew 16
+### matthew 17
+### matthew 18
+### matthew 19
+### matthew 20
+### matthew 21
+### matthew 22
 37: (jan Jesu) li toki e ni tawa ona: o olin e lawa sewi sina kepeken pilin ale sina, kepeken kon ale sina, kepeken lawa ale sina.
 
 38: ni li lawa suli, li lawa nanpa wan.
 
-
-### Matthew 23
-
-
-### Matthew 24
-
-
-### Matthew 25
-
-
-### Matthew 26
-
-
-### Matthew 27
-
+### matthew 23
+### matthew 24
+### matthew 25
+### matthew 26
+### matthew 27
 42: "ona li awen e jan ante. taso ona li ken ala awen e ona. ona li jan lawa pi kulupu Isale. ona o kama anpa tan palisa. ni la mi o kute e sona ona."
 
 46: kipisi nanpa 9 pi tenpo suno li kama la, jan Jesu li pana e kalama wawa ike, li toki wawa e ni: "Eli, Eli, Lema Sawatani?" ni la ona li toki e ni: "sewi mi o! sewi mi o! tan seme la, sina weka tan mi?"
 
 47: jan wan anu tu lon kulupu li kute e ona, li open toki e ni: "jan ni li kalama tawa jan Elija."
 
-
-### Matthew 28
-
-
-## Mark
-
-### Mark 1
-
+### matthew 28
+## mark
+### mark 1
 1: jan Jesu li jan sin pi sewi Jawe. sona sin pona pi jan Jesu li open.
 
 2: jan Jesajaju li sitelen e ni: o lukin. mi pana e jan toki mi. ona li pali e nasin sina.
@@ -4567,75 +2610,36 @@
 
 7: jan Ijowani li toki e ni: tenpo kama la wan li kama. mi wawa lili la ona li wawa mute. mi pona ala ni kin: mi ken weka e linja pi supa noka ona.
 
-
-### Mark 2
-
-
-### Mark 3
-
-
-### Mark 4
-
-
-### Mark 5
-
-
-### Mark 6
-
-
-### Mark 7
-
-
-### Mark 8
-
-
-### Mark 9
-
-
-### Mark 10
-
-
-### Mark 11
-
-
-### Mark 12
-
-
-### Mark 13
-
-
-### Mark 14
-
+### mark 2
+### mark 3
+### mark 4
+### mark 5
+### mark 6
+### mark 7
+### mark 8
+### mark 9
+### mark 10
+### mark 11
+### mark 12
+### mark 13
+### mark 14
 1: tenpo li kama tawa tenpo musi pi pan kon ala. mute pi jan sewi en jan sona li alasa e ni: ona li jo li moli e jan Jesu.
 
 2: ona mute li toki e ni: tenpo musi la o ala tan ni: pakala nasin pi kulupu jan li kama
 
 3: tomo pi jan jaki Simon pi ma Petani la jan Jesu li awen. Jan meli li kama. Ona li jo e poki pi ko mani mute. ona li pakala e poki la ona li pana e ko tawa lawa pi jan Jesu.
 
-
-### Mark 15
-
+### mark 15
 34: tenpo nanpa 9 la jan Jesu li kalama uta e kalama suli ni: elowi, elowi, lema sapakitani? toki ante la ni: sewi mi o, sewi mi o, sina weka tan mi tan seme?
 
-
-### Mark 16
-
-
-## Luke
-
-### Luke 1
-
+### mark 16
+## luke
+### luke 1
 1: taso, ale li ken ala lon poka sewi sewi kin!
 
-
-### Luke 2
-
-
-### Luke 3
-
-
-### Luke 4
-
+### luke 2
+### luke 3
+### luke 4
 21: ona li open toki e ni: tenpo ni la lipu ni lon kute sina li kama lon.
 
 22: jan ale li lukin e ona, li pilin wawa tan nimi pona pi kama sinpin tan uta ona. kulupu li toki e ni: ni li mije sin pi jan Jose, anu seme?
@@ -4644,39 +2648,17 @@
 
 24: ni la, ona li toki e ni: lon la mi toki e ni tawa sina: jan ala pi toki sewi li pona tawa ma mama ona.
 
-
-### Luke 5
-
-
-### Luke 6
-
-
-### Luke 7
-
-
-### Luke 8
-
-
-### Luke 9
-
-
-### Luke 10
-
-
-### Luke 11
-
-
-### Luke 12
-
-
-### Luke 13
-
-
-### Luke 14
-
-
-### Luke 15
-
+### luke 5
+### luke 6
+### luke 7
+### luke 8
+### luke 9
+### luke 10
+### luke 11
+### luke 12
+### luke 13
+### luke 14
+### luke 15
 1: ni la jan ale pi alasa mani en jan ale pi pali ike li kama tawa ona, li kute e ona.
 
 2: ni la kulupu Palisajo en jan pi pali lipu li toki mu, li toki e ni: jan ni li tawa kulupu jan pi pali ike li moku lon poka ona.
@@ -4741,43 +2723,22 @@
 
 32: taso musi li pona lon tenpo ni, tan ni: mije sama ni sina li moli, li lon sin, li weka, li kama sin.
 
-
-### Luke 16
-
-
-### Luke 17
-
-
-### Luke 18
-
-
-### Luke 19
-
-
-### Luke 20
-
-
-### Luke 21
-
-
-### Luke 22
-
-
-### Luke 23
-
+### luke 16
+### luke 17
+### luke 18
+### luke 19
+### luke 20
+### luke 21
+### luke 22
+### luke 23
 43: ona li toki e ni tawa ona: mi toki e ni lon tawa sina: tenpo suno ni la sina en mi li kama lon ma pona.
 
 46: pini kalama e kalama uta suli la, jan Jesu li toki e ni: mama o, tawa luka sina la mi pana e kon mi. toki e ni la ona li pana e kon pini.
 
-
-### Luke 24
-
-
-## John
-
-### John 1
-
-1: open la, nimi li lon. nimi li lon poka sewi Jawe; kin la, nimi li sewi Jawe.
+### luke 24
+## john
+### john 1
+1: open la, nimi li lon. nimi li lon poka sewi Jawe; kin la, nimi li sewi Jawe. 
 
 2: lon poka pi sewi Jawe la, ona li lon open.
 
@@ -4791,81 +2752,38 @@
 
 7: jan pi toki lon la, ona li kama. ona li toki lon e suno tan ni: jan ale li sona pilin e suno.
 
-
-### John 2
-
-
-### John 3
-
+### john 2
+### john 3
 16: mama sewi li olin mute ni e ma la, ona li pana weka e mije sin taso ona, tawa ni: jan li kute e sona ona la, jan ni li kama ala moli, li kama jo e lon pi tenpo ale.
 
-
-### John 4
-
-
-### John 5
-
-
-### John 6
-
-
-### John 7
-
-
-### John 8
-
-
-### John 9
-
-
-### John 10
-
-
-### John 11
-
+### john 4
+### john 5
+### john 6
+### john 7
+### john 8
+### john 9
+### john 10
+### john 11
 35: jan Jesu li pana e telo oko.
 
-
-### John 12
-
-
-### John 13
-
-
-### John 14
-
+### john 12
+### john 13
+### john 14
 6: jan Jesu li toki e ni tawa ona: mi nasin, li ijo lon, li kon lon. ona li kepeken ala e mi la ona li tawa ala mama sewi.
 
-
-### John 15
-
-
-### John 16
-
-
-### John 17
-
-
-### John 18
-
-
-### John 19
-
+### john 15
+### john 16
+### john 17
+### john 18
+### john 19
 28: sinpin la jan Jesu li sona e ni: ale li pini.  kama lon pi lipu sewi la ona li toki e ni: mi wile moku e telo.
 
 30: jan Jesu li pini moku e telo nasa ike la, ona li toki e ni: ni li pali pini. ona li anpa e lawa ona, li pana e kon.
 
-
-### John 20
-
-
-### John 21
-
-
-## Acts
-
-### Acts 1
-
+### john 20
+### john 21
+## acts
+### acts 1
 9: ona li pini toki e ijo ni la, kulupu li lukin la, sewi li kama jo e ona. kon li weka e ona tan lukin kulupu.
 
 10: kulupu li lukin wawa tawa sewi la, ona li weka tawa sewi. tenpo ni sama la, jan mije tu pi len walo li kama lon poka kulupu.
@@ -4874,296 +2792,118 @@
 
 12: ni la ona ale li tawa sin tawa ma tomo Jelusalen tan nena Elejono lon poka pi ma tomo Jelusalen.
 
-
-### Acts 2
-
-
-### Acts 3
-
-
-### Acts 4
-
+### acts 2
+### acts 3
+### acts 4
 26: jan lawa pi ma ale li awen lon noka ona. jan lawa ale li kama lon ma wan, lon utala tawa lawa sewi, lon utala tawa jan sewi ona.
 
-
-### Acts 5
-
-
-### Acts 6
-
-
-### Acts 7
-
-
-### Acts 8
-
-
-### Acts 9
-
-
-### Acts 10
-
-
-### Acts 11
-
-
-### Acts 12
-
-
-### Acts 13
-
-
-### Acts 14
-
-
-### Acts 15
-
-
-### Acts 16
-
-
-### Acts 17
-
-
-### Acts 18
-
-
-### Acts 19
-
-
-### Acts 20
-
-
-### Acts 21
-
-
-### Acts 22
-
-
-### Acts 23
-
-
-### Acts 24
-
-
-### Acts 25
-
-
-### Acts 26
-
-
-### Acts 27
-
-
-### Acts 28
-
-
-## Romans
-
-### Romans 1
-
+### acts 5
+### acts 6
+### acts 7
+### acts 8
+### acts 9
+### acts 10
+### acts 11
+### acts 12
+### acts 13
+### acts 14
+### acts 15
+### acts 16
+### acts 17
+### acts 18
+### acts 19
+### acts 20
+### acts 21
+### acts 22
+### acts 23
+### acts 24
+### acts 25
+### acts 26
+### acts 27
+### acts 28
+## romans
+### romans 1
 26: tan sewi sewi la jan pi wile sewi ala li ken pali e tawa unpa ike tan wile mute ona. tan ni la meli mute li unpa ala e mije poka la meli mute li unpa e meli ante.
 
 27: sama ni la mije mute li unpa ala e meli poka la ona mute li unpa e mije ante. ni li ike tawa kulupu. tan ni la, sewi sewi li pana e ike tawa sijelo ona ale. ona ale o wile e ni tan ni: lon ala la ona ale li pilin e ni: sewi sewi o ike ala tawa ona tan tawa ona.
 
-
-### Romans 2
-
-
-### Romans 3
-
-
-### Romans 4
-
+### romans 2
+### romans 3
+### romans 4
 18: utala e pilin awen la ona li pilin awen. tawa ni la ona li kama mama pi ma lawa ale sama toki ni: mije sin sina li kin.
 
 19: pilin ona li wawa la ona li sona e ni: sijelo ona li sama moli tan tenpo sike 100 anu poka. insa meli li jan Sala li moli kin.
 
 20: taso ona li awen e pilin tawa toki sewi, li wawa e pilin, li pana e suli tawa sewi.
 
-
-### Romans 5
-
-
-### Romans 6
-
-
-### Romans 7
-
-
-### Romans 8
-
-
-### Romans 9
-
-
-### Romans 10
-
-
-### Romans 11
-
-
-### Romans 12
-
-
-### Romans 13
-
-
-### Romans 14
-
-
-### Romans 15
-
-
-### Romans 16
-
-
-## 1 Corinthians
-
-### 1 Corinthians 1
-
-
-### 1 Corinthians 2
-
-
-### 1 Corinthians 3
-
+### romans 5
+### romans 6
+### romans 7
+### romans 8
+### romans 9
+### romans 10
+### romans 11
+### romans 12
+### romans 13
+### romans 14
+### romans 15
+### romans 16
+## 1 corinthians
+### 1 corinthians 1
+### 1 corinthians 2
+### 1 corinthians 3
 9: mi jan pali pi ona sewi; sina ma pi ona sewi, li tomo pi ona sewi.
 
+### 1 corinthians 4
+### 1 corinthians 5
+### 1 corinthians 6
+### 1 corinthians 7
+### 1 corinthians 8
+### 1 corinthians 9
+### 1 corinthians 10
+### 1 corinthians 11
+### 1 corinthians 12
+### 1 corinthians 13
+1: mi toki kepeken toki jan anu toki kon, li jo ala e olin la, mi kama kiwen kalama anu ilo kalama. 
 
-### 1 Corinthians 4
-
-
-### 1 Corinthians 5
-
-
-### 1 Corinthians 6
-
-
-### 1 Corinthians 7
-
-
-### 1 Corinthians 8
-
-
-### 1 Corinthians 9
-
-
-### 1 Corinthians 10
-
-
-### 1 Corinthians 11
-
-
-### 1 Corinthians 12
-
-
-### 1 Corinthians 13
-
-1: mi toki kepeken toki jan anu toki kon, li jo ala e olin la, mi kama kiwen kalama anu ilo kalama.
-
-
-### 1 Corinthians 14
-
-
-### 1 Corinthians 15
-
+### 1 corinthians 14
+### 1 corinthians 15
 1: jan sama mi o, mi pana sona e toki pona pi pana mi tawa sina. ona la sina kama jo, li lon wawa.
 
 2: sina awen wawa e toki pi pana pona mi tawa sina la sina kama awen kin. sina awen wawa ala la sina pilin tan ala. 
 
-
-### 1 Corinthians 16
-
-
-## 2 Corinthians
-
-### 2 Corinthians 1
-
-
-### 2 Corinthians 2
-
-
-### 2 Corinthians 3
-
-
-### 2 Corinthians 4
-
-
-### 2 Corinthians 5
-
-
-### 2 Corinthians 6
-
-
-### 2 Corinthians 7
-
-
-### 2 Corinthians 8
-
-
-### 2 Corinthians 9
-
-
-### 2 Corinthians 10
-
-
-### 2 Corinthians 11
-
-
-### 2 Corinthians 12
-
-
-### 2 Corinthians 13
-
-
-## Galatians
-
-### Galatians 1
-
-
-### Galatians 2
-
-
-### Galatians 3
-
-
-### Galatians 4
-
-
-### Galatians 5
-
-
-### Galatians 6
-
-
-## Ephesians
-
-### Ephesians 1
-
-
-### Ephesians 2
-
-
-### Ephesians 3
-
-
-### Ephesians 4
-
-
-### Ephesians 5
-
-
-### Ephesians 6
-
-
-## Philippians
-
-### Philippians 1
-
-
-### Philippians 2
-
+### 1 corinthians 16
+## 2 corinthians
+### 2 corinthians 1
+### 2 corinthians 2
+### 2 corinthians 3
+### 2 corinthians 4
+### 2 corinthians 5
+### 2 corinthians 6
+### 2 corinthians 7
+### 2 corinthians 8
+### 2 corinthians 9
+### 2 corinthians 10
+### 2 corinthians 11
+### 2 corinthians 12
+### 2 corinthians 13
+## galatians
+### galatians 1
+### galatians 2
+### galatians 3
+### galatians 4
+### galatians 5
+### galatians 6
+## ephesians
+### ephesians 1
+### ephesians 2
+### ephesians 3
+### ephesians 4
+### ephesians 5
+### ephesians 6
+## philippians
+### philippians 1
+### philippians 2
 4: jan ale o lukin ala e ijo sina taso. taso o lukin e ijo pi jan ante kin!
 
 5: sona ni o lon sina: ona li lon jan Jesu pi telo sewi.
@@ -5180,125 +2920,62 @@
 
 11: uta ale o toki wawa sama e ni: jan Jesu pi telo sewi li lawa, tawa pona pi sewi mama!
 
-
-### Philippians 3
-
-
-### Philippians 4
-
-
-## Colossians
-
-### Colossians 1
-
+### philippians 3
+### philippians 4
+## colossians
+### colossians 1
 1: lipu ni li tan jan toki Polo pi jan Jesu, lon wile pi mama Sewi, li tan jan sama mi Temotejo, 
 
 2: li tawa jan sewi lon ma tomo Kolose, tawa jan sama kute pi jan Jesu. pona tawa sina. lape pona pi sewi Mama mi tawa sina.
 
 3: mi pana e toki pona tawa sewi mama pi lawa Jesu mi. tenpo ale la, mi toki tawa mama sewi tan sina.
 
-
-### Colossians 2
-
-
-### Colossians 3
-
-
-### Colossians 4
-
-
-## 1 Thessalonians
-
-### 1 Thessalonians 1
-
-
-### 1 Thessalonians 2
-
-
-### 1 Thessalonians 3
-
-
-### 1 Thessalonians 4
-
-
-### 1 Thessalonians 5
-
-
-## 2 Thessalonians
-
-### 2 Thessalonians 1
-
-
-### 2 Thessalonians 2
-
-
-### 2 Thessalonians 3
-
-
-## 1 Timothy
-
-### 1 Timothy 1
-
-
-### 1 Timothy 2
-
-
-### 1 Timothy 3
-
-
-### 1 Timothy 4
-
-
-### 1 Timothy 5
-
-
-### 1 Timothy 6
-
-
-## 2 Timothy
-
-### 2 Timothy 1
-
-
-### 2 Timothy 2
-
-
-### 2 Timothy 3
-
-
-### 2 Timothy 4
-
-
-## Titus
-
-### Titus 1
-
-
-### Titus 2
-
-
-### Titus 3
-
-
-## Philemon
-
-### Philemon 1
-
+### colossians 2
+### colossians 3
+### colossians 4
+## 1 thessalonians
+### 1 thessalonians 1
+### 1 thessalonians 2
+### 1 thessalonians 3
+### 1 thessalonians 4
+### 1 thessalonians 5
+## 2 thessalonians
+### 2 thessalonians 1
+### 2 thessalonians 2
+### 2 thessalonians 3
+## 1 timothy
+### 1 timothy 1
+### 1 timothy 2
+### 1 timothy 3
+### 1 timothy 4
+### 1 timothy 5
+### 1 timothy 6
+## 2 timothy
+### 2 timothy 1
+### 2 timothy 2
+### 2 timothy 3
+### 2 timothy 4
+## titus
+### titus 1
+### titus 2
+### titus 3
+## philemon
+### philemon 1
 1: jan awen Polo pi jan Jesu en jan sama Temotejo li toki e ni tawa jan pali poka Pilemon olin mi,
 
-2: e ni tawa meli sama Apija, e ni tawa jan utala poka Akipo mi, e ni tawa tomo sewi lon tomo sina:
+2: e ni tawa meli sama Apija, e ni tawa jan utala poka Akipo mi, e ni tawa tomo sewi lon tomo sina: 
 
-3: pilin pona en pilin awen o tawa sina tan mama sewi mi, o tawa sina tan jan lawa Jesu.
+3: pilin pona en pilin awen o tawa sina tan mama sewi mi, o tawa sina tan jan lawa Jesu. 
 
 4: tenpo ale la mi pana e pona tawa sewi mi. mi toki e sina lon toki sewi mi.
 
-5: mi kute e olin sina e pilin wawa sina tawa jan lawa Jesu, e pilin wawa sina tawa jan sewi ale,
+5: mi kute e olin sina e pilin wawa sina tawa jan lawa Jesu, e pilin wawa sina tawa jan sewi ale, 
 
 6: tawa ni: kulupu sina pi pilin wawa li kama wawa lon sona pi ijo pona ale mi lon jan Jesu.
 
 7: mi jo e pilin pona suli e pilin wawa tan olin sina, tan ni: pilin pi jan sewi li kama lon sin kepeken sina, sama o.
 
-8: ni la, mi jo e pilin wawa tan jan Jesu pi mute ni: mi ken toki lawa tawa sina e pali pona.
+8: ni la, mi jo e pilin wawa tan jan Jesu pi mute ni: mi ken toki lawa tawa sina e pali pona. 
 
 9: taso tawa olin la mi toki lawa tawa sina. mi Polo pi sin ala li jan awen pi jan Jesu.
 
@@ -5316,11 +2993,11 @@
 
 16: ni la ona li jan pali ala, li suli mute tan jan pali, li jan sama olin. ona li ni tawa mi, li ni mute tawa sina. sijelo en jan lawa la ona li ni.
 
-18: taso nasin ale la ona li ike e sina, anu pana ala e wile sina, o pana e ike lon mi.
+18: taso nasin ale la ona li ike e sina, anu pana ala e wile sina, o pana e ike lon mi. 
 
 19: mi Polo li sitelen e ni kepeken luka mi. mi pana sin e ona. taso mi toki ala e ni tawa sina: sina o pana e sina tawa mi.
 
-20: lon a, sama mi o. sina la mi o jo e pilin pona kepeken sewi. o sin e pilin mi kepeken jan Jesu.
+20: lon a, sama mi o. sina la mi o jo e pilin pona kepeken sewi. o sin e pilin mi kepeken jan Jesu. 
 
 21: mi pilin wawa e ni: sina pali e wile mi. ni la mi sitelen tawa sina. mi sona e ni: toki mi kin la sina pali mute.
 
@@ -5332,58 +3009,28 @@
 
 25: pilin wawa pi jan lawa Jesu o lon kon sina. o awen.
 
-
-## Hebrews
-
-### Hebrews 1
-
-
-### Hebrews 2
-
-
-### Hebrews 3
-
+## hebrews
+### hebrews 1
+### hebrews 2
+### hebrews 3
 7: tan ni la ni li sama toki pi kon sewi (Holy Spirit): sina kute e kalama ona lon tenpo suno ni la,
 
 8: o kiwen ala e pilin sina sama weka lon tenpo suno ike lon ma weka
 
-
-### Hebrews 4
-
-
-### Hebrews 5
-
-
-### Hebrews 6
-
-
-### Hebrews 7
-
-
-### Hebrews 8
-
-
-### Hebrews 9
-
+### hebrews 4
+### hebrews 5
+### hebrews 6
+### hebrews 7
+### hebrews 8
+### hebrews 9
 28: sama la, tenpo wan taso la jan Jesu li kama pana tawa pali ike pi jan mute. taso tenpo nanpa tu li kama ala lon pali ike ona, li pana e weka ike tawa jan ni: ona li wile e kama pi jan Jesu.
 
-
-### Hebrews 10
-
-
-### Hebrews 11
-
-
-### Hebrews 12
-
-
-### Hebrews 13
-
-
-## James
-
-### James 1
-
+### hebrews 10
+### hebrews 11
+### hebrews 12
+### hebrews 13
+## james
+### james 1
 1: mi jan Jakopo. mi jan pali pi jan sewi li jan pali pi jan Jesu. mi toki tawa kulupu luka luka tu. ona li lon ma weka mute. toki.
 
 2: sina kama tawa utala la, jan sama mi o jo e pilin pona.
@@ -5394,70 +3041,30 @@
 
 5: jan tan sina mute li jo ala e sona la, ona o toki tawa jan sewi. jan sewi li pana pona tawa ale li toki ike ala tawa ona. sona li kama tawa ona.
 
-
-### James 2
-
-
-### James 3
-
-
-### James 4
-
-
-### James 5
-
-
-## 1 Peter
-
-### 1 Peter 1
-
-
-### 1 Peter 2
-
-
-### 1 Peter 3
-
-
-### 1 Peter 4
-
-
-### 1 Peter 5
-
-
-## 2 Peter
-
-### 2 Peter 1
-
-
-### 2 Peter 2
-
-
-### 2 Peter 3
-
-
-## 1 John
-
-### 1 John 1
-
-
-### 1 John 2
-
+### james 2
+### james 3
+### james 4
+### james 5
+## 1 peter
+### 1 peter 1
+### 1 peter 2
+### 1 peter 3
+### 1 peter 4
+### 1 peter 5
+## 2 peter
+### 2 peter 1
+### 2 peter 2
+### 2 peter 3
+## 1 john
+### 1 john 1
+### 1 john 2
 16: tan ni: ale lon ma, en wile sijelo, en wile oko, en pilin suli tan lon, li kama ala tan mama sewi, li kama tan ma.
 
-
-### 1 John 3
-
-
-### 1 John 4
-
-
-### 1 John 5
-
-
-## 2 John
-
-### 2 John 1
-
+### 1 john 3
+### 1 john 4
+### 1 john 5
+## 2 john
+### 2 john 1
 1: mi jan pi sin ala li toki e ni tawa meli wile tawa jan lili ona. mi olin mute e sina. mi taso ala li olin e sina. jan ale pi sona lon li olin e sina
 
 2: tan ni: sona lon li awen lon mi mute li wile lon mi mute lon tenpo ale.
@@ -5476,11 +3083,8 @@
 
 12: mi wile sitelen e ijo mute tawa sina. taso mi wile ala kepeken e lipu e telo sitelen. ante la, mi wile kama tawa sina li wile toki lon sinpin/poka sina tan ni: mi mute li jo e pilin pona ale.
 
-
-## 3 John
-
-### 3 John 1
-
+## 3 john
+### 3 john 1
 1: jan sin ala li pana e lipu ni tawa jan pona Kajo. lon la, sina pona tawa mi.
 
 2: jan pona o! mi wile e ni: o jo e sijelo pona e kon pona.
@@ -5511,29 +3115,21 @@
 
 15: pona o lon sina. jan pona li toki tawa sina. o toki e nimi pi jan pona ni.
 
-
-## Jude
-
-### Jude 1
-
+## jude
+### jude 1
 2: pona tawa sina. utala ala en olin o mute.
 
 3: jan olin mi o, mi pali wawa tawa ni: mi sitelen tawa sina e awen pi mi ale. taso mi wile sitelen tawa sina e wile ni: sina o utala tawa nasin sewi ni: pini la ona li kama tawa jan pi nasin sewi.
 
-
-## Revelation
-
-### Revelation 1
-
+## revelation
+### revelation 1
 1: li pana e sona tawa jan Jesu tan ni: jan Jesu li pana e sitelen pi tenpo kama tawa jan pali. ona li pana e [angel] tawa jan Ijowani tan n lai,
 
 2: jan Jowanan li toki e toki (God) e nimi pi jan Jesu.
 
 3: sina toki e nimi pi tenpo kama la, sina li pona sewi. sina kute e nimi pi tenpo kama la, sina li kin tan ni: pini tempo li tenpo lili.
 
-
-### Revelation 2
-
+### revelation 2
 1: o sitelen e ni tawa jan toki tawa kulupu  jan Epeso: ona li jo e mun lili luka tu lon luka pona ona, li tawa lon ilo seli luka tu pi kule suno. ona li toki e ni:
 
 2: mi sona e pali sina. mi sona e wawa sina e awen sina. mi sona e ni: sina wile ala e jan ike. mi sona e ni: sina lukin e jan. ona li toki e ni: mi jan sewi. taso ona li jan sewi ala. mi sona e ni: sina sona e lon ala ona.
@@ -5546,1185 +3142,409 @@
 
 24: ona li awen pi ma Tasila. ona li alasa ala e nasin ni. ona li toki e nimi ni: anpa pi jan Satan. ona li kama ala sona e nimi ni. mi toki tawa ona ni ale e ni: mi pana ala e ijo suli ike sin tawa ona.
 
-
-### Revelation 3
-
-
-### Revelation 4
-
-
-### Revelation 5
-
-
-### Revelation 6
-
-
-### Revelation 7
-
-
-### Revelation 8
-
-
-### Revelation 9
-
-
-### Revelation 10
-
-
-### Revelation 11
-
-
-### Revelation 12
-
-
-### Revelation 13
-
-
-### Revelation 14
-
-
-### Revelation 15
-
-
-### Revelation 16
-
-
-### Revelation 17
-
-
-### Revelation 18
-
-
-### Revelation 19
-
-
-### Revelation 20
-
-
-### Revelation 21
-
+### revelation 3
+### revelation 4
+### revelation 5
+### revelation 6
+### revelation 7
+### revelation 8
+### revelation 9
+### revelation 10
+### revelation 11
+### revelation 12
+### revelation 13
+### revelation 14
+### revelation 15
+### revelation 16
+### revelation 17
+### revelation 18
+### revelation 19
+### revelation 20
+### revelation 21
 4: sewi Jawe li weka e telo ale tan oko ona. moli li kama ala sin. kalama moli en kalama ike en pilin ike li kama ala sin, tan ni: ijo pi tenpo pini li pini.
 
-
-### Revelation 22
-
-
-# Apocrypha
-
-## Tobit
-
-### Tobit 1
-
+### revelation 22
+# apocrypha
+## tobit
+### tobit 1
 1: lipu ni li jo e toki pi jan Topi. jan Topije li mama e ona. jan Ananije li mama pi jan Topije. jan Atuje li mama pi jan Ananije. jan Kapaje li mama pi jan Atuje. jan Lapaje li mama pi jan Kapaje. jan Lakuje li mama pi jan Lapaje. mama ale pi jan Lakuje li tan kulupu mama pu jan Asije. jan Asije li tan kulupu mama pi jan Napetali.
 
 2: jan Enemesalo li jan lawa pi ma Asu la ona li lanpan e jan Topi tan ma Tipe. ma Tipe li lon sewi pi ma Kitiso Netalen li lon anpa pi ma Asepe li lon sewi pi ma Poko. ma Kitiso Netalen li lon sewi pi ma Kalile.
 
 3: jan Topi. tenpo suno mi ale la mi kepeken nasin sewi li pana e ijo mute tawa kulupu mama mi en kulupu jan ni: ona li lanpan lon poka mi tawa ma tomo Nimepa lon ma Asu.
 
-
-### Tobit 2
-
-
-### Tobit 3
-
-
-### Tobit 4
-
-
-### Tobit 5
-
-
-### Tobit 6
-
-
-### Tobit 7
-
-
-### Tobit 8
-
-
-### Tobit 9
-
-
-### Tobit 10
-
-
-### Tobit 11
-
-
-### Tobit 12
-
-
-### Tobit 13
-
-
-### Tobit 14
-
-
-## Judith
-
-### Judith 1
-
-
-### Judith 2
-
-
-### Judith 3
-
-
-### Judith 4
-
-
-### Judith 5
-
-
-### Judith 6
-
-
-### Judith 7
-
-
-### Judith 8
-
-
-### Judith 9
-
-
-### Judith 10
-
-
-### Judith 11
-
-
-### Judith 12
-
-
-### Judith 13
-
-
-### Judith 14
-
-
-### Judith 15
-
-
-### Judith 16
-
-
-## Esther Additions
-
-### Esther Additions 1
-
-
-### Esther Additions 2
-
-
-### Esther Additions 3
-
-
-### Esther Additions 4
-
-
-### Esther Additions 5
-
-
-### Esther Additions 6
-
-
-### Esther Additions 7
-
-
-## Wisdom of Solomon
-
-### Wisdom of Solomon 1
-
-
-### Wisdom of Solomon 2
-
-
-### Wisdom of Solomon 3
-
-
-### Wisdom of Solomon 4
-
-
-### Wisdom of Solomon 5
-
-
-### Wisdom of Solomon 6
-
-
-### Wisdom of Solomon 7
-
-
-### Wisdom of Solomon 8
-
-
-### Wisdom of Solomon 9
-
-
-### Wisdom of Solomon 10
-
-
-### Wisdom of Solomon 11
-
-
-### Wisdom of Solomon 12
-
-
-### Wisdom of Solomon 13
-
-
-### Wisdom of Solomon 14
-
-
-### Wisdom of Solomon 15
-
-
-### Wisdom of Solomon 16
-
-
-### Wisdom of Solomon 17
-
-
-### Wisdom of Solomon 18
-
-
-### Wisdom of Solomon 19
-
-
-## Sirach
-
-### Sirach 1
-
-
-### Sirach 2
-
-
-### Sirach 3
-
-
-### Sirach 4
-
-
-### Sirach 5
-
-
-### Sirach 6
-
-
-### Sirach 7
-
-
-### Sirach 8
-
-
-### Sirach 9
-
-
-### Sirach 10
-
-
-### Sirach 11
-
-
-### Sirach 12
-
-
-### Sirach 13
-
-
-### Sirach 14
-
-
-### Sirach 15
-
-
-### Sirach 16
-
-
-### Sirach 17
-
-
-### Sirach 18
-
-
-### Sirach 19
-
-
-### Sirach 20
-
-
-### Sirach 21
-
-
-### Sirach 22
-
-
-### Sirach 23
-
-
-### Sirach 24
-
-
-### Sirach 25
-
-
-### Sirach 26
-
-
-### Sirach 27
-
-
-### Sirach 28
-
-
-### Sirach 29
-
-
-### Sirach 30
-
-
-### Sirach 31
-
-
-### Sirach 32
-
-
-### Sirach 33
-
-
-### Sirach 34
-
-
-### Sirach 35
-
-
-### Sirach 36
-
-
-### Sirach 37
-
-
-### Sirach 38
-
-
-### Sirach 39
-
-
-### Sirach 40
-
-
-### Sirach 41
-
-
-### Sirach 42
-
-
-### Sirach 43
-
-
-### Sirach 44
-
-
-### Sirach 45
-
-
-### Sirach 46
-
-
-### Sirach 47
-
-
-### Sirach 48
-
-
-### Sirach 49
-
-
-### Sirach 50
-
-
-### Sirach 51
-
-
-## Baruch
-
-### Baruch 1
-
-
-### Baruch 2
-
-
-### Baruch 3
-
-
-### Baruch 4
-
-
-### Baruch 5
-
-
-## Epistle of Jeremiah
-
-### Epistle of Jeremiah 1
-
-
-## Azariah
-
-### Azariah 1
-
-
-## Susanna
-
-### Susanna 1
-
-
-## Bel and the Dragon
-
-### Bel and the Dragon 1
-
-
-## 1 Maccabees
-
-### 1 Maccabees 1
-
-
-### 1 Maccabees 2
-
-
-### 1 Maccabees 3
-
-
-### 1 Maccabees 4
-
-
-### 1 Maccabees 5
-
-
-### 1 Maccabees 6
-
-
-### 1 Maccabees 7
-
-
-### 1 Maccabees 8
-
-
-### 1 Maccabees 9
-
-
-### 1 Maccabees 10
-
-
-### 1 Maccabees 11
-
-
-### 1 Maccabees 12
-
-
-### 1 Maccabees 13
-
-
-### 1 Maccabees 14
-
-
-### 1 Maccabees 15
-
-
-### 1 Maccabees 16
-
-
-## 2 Maccabees
-
-### 2 Maccabees 1
-
-
-### 2 Maccabees 2
-
-
-### 2 Maccabees 3
-
-
-### 2 Maccabees 4
-
-
-### 2 Maccabees 5
-
-
-### 2 Maccabees 6
-
-
-### 2 Maccabees 7
-
-
-### 2 Maccabees 8
-
-
-### 2 Maccabees 9
-
-
-### 2 Maccabees 10
-
-
-### 2 Maccabees 11
-
-
-### 2 Maccabees 12
-
-
-### 2 Maccabees 13
-
-
-### 2 Maccabees 14
-
-
-### 2 Maccabees 15
-
-
-## 1 Esdras
-
-### 1 Esdras 1
-
-
-### 1 Esdras 2
-
-
-### 1 Esdras 3
-
-
-### 1 Esdras 4
-
-
-### 1 Esdras 5
-
-
-### 1 Esdras 6
-
-
-### 1 Esdras 7
-
-
-### 1 Esdras 8
-
-
-### 1 Esdras 9
-
-
-## Prayer of Manasseh
-
-### Prayer of Manasseh 1
-
-
-## Enoch
-
-### Enoch 1
-
-
-### Enoch 2
-
-
-### Enoch 3
-
-
-### Enoch 4
-
-
-### Enoch 5
-
-
-### Enoch 6
-
-
-### Enoch 7
-
-
-### Enoch 8
-
-
-### Enoch 9
-
-
-### Enoch 10
-
-
-### Enoch 11
-
-
-### Enoch 12
-
-
-### Enoch 13
-
-
-### Enoch 14
-
-
-### Enoch 15
-
-
-### Enoch 16
-
-
-### Enoch 17
-
-
-### Enoch 18
-
-
-### Enoch 19
-
-
-### Enoch 20
-
-
-### Enoch 21
-
-
-### Enoch 22
-
-
-### Enoch 23
-
-
-### Enoch 24
-
-
-### Enoch 25
-
-
-### Enoch 26
-
-
-### Enoch 27
-
-
-### Enoch 28
-
-
-### Enoch 29
-
-
-### Enoch 30
-
-
-### Enoch 31
-
-
-### Enoch 32
-
-
-### Enoch 33
-
-
-### Enoch 34
-
-
-### Enoch 35
-
-
-### Enoch 36
-
-
-### Enoch 37
-
-
-### Enoch 38
-
-
-### Enoch 39
-
-
-### Enoch 40
-
-
-### Enoch 41
-
-
-### Enoch 42
-
-
-### Enoch 43
-
-
-### Enoch 44
-
-
-### Enoch 45
-
-
-### Enoch 46
-
-
-### Enoch 47
-
-
-### Enoch 48
-
-
-### Enoch 49
-
-
-### Enoch 50
-
-
-### Enoch 51
-
-
-### Enoch 52
-
-
-### Enoch 53
-
-
-### Enoch 54
-
-
-### Enoch 55
-
-
-### Enoch 56
-
-
-### Enoch 57
-
-
-### Enoch 58
-
-
-### Enoch 59
-
-
-### Enoch 60
-
-
-### Enoch 61
-
-
-### Enoch 62
-
-
-### Enoch 63
-
-
-### Enoch 64
-
-
-### Enoch 65
-
-
-### Enoch 66
-
-
-### Enoch 67
-
-
-### Enoch 68
-
-
-### Enoch 69
-
-
-### Enoch 70
-
-
-### Enoch 71
-
-
-### Enoch 72
-
-
-### Enoch 73
-
-
-### Enoch 74
-
-
-### Enoch 75
-
-
-### Enoch 76
-
-
-### Enoch 77
-
-
-### Enoch 78
-
-
-### Enoch 79
-
-
-### Enoch 80
-
-
-### Enoch 81
-
-
-### Enoch 82
-
-
-### Enoch 83
-
-
-### Enoch 84
-
-
-### Enoch 85
-
-
-### Enoch 86
-
-
-### Enoch 87
-
-
-### Enoch 88
-
-
-### Enoch 89
-
-
-### Enoch 90
-
-
-### Enoch 91
-
-
-### Enoch 92
-
-
-### Enoch 93
-
-
-### Enoch 94
-
-
-### Enoch 95
-
-
-### Enoch 96
-
-
-### Enoch 97
-
-
-### Enoch 98
-
-
-### Enoch 99
-
-
-### Enoch 100
-
-
-### Enoch 101
-
-
-### Enoch 102
-
-
-### Enoch 103
-
-
-### Enoch 104
-
-
-### Enoch 105
-
-
-### Enoch 106
-
-
-### Enoch 107
-
-
-### Enoch 108
-
-
-## Psalm 151
-
-### Psalm 151 1
-
-
-## 3 Maccabees
-
-### 3 Maccabees 1
-
-
-### 3 Maccabees 2
-
-
-### 3 Maccabees 3
-
-
-### 3 Maccabees 4
-
-
-### 3 Maccabees 5
-
-
-### 3 Maccabees 6
-
-
-### 3 Maccabees 7
-
-
-## 2 Esdras
-
-### 2 Esdras 1
-
-
-### 2 Esdras 2
-
-
-### 2 Esdras 3
-
-
-### 2 Esdras 4
-
-
-### 2 Esdras 5
-
-
-### 2 Esdras 6
-
-
-### 2 Esdras 7
-
-
-### 2 Esdras 8
-
-
-### 2 Esdras 9
-
-
-### 2 Esdras 10
-
-
-### 2 Esdras 11
-
-
-### 2 Esdras 12
-
-
-### 2 Esdras 13
-
-
-### 2 Esdras 14
-
-
-### 2 Esdras 15
-
-
-### 2 Esdras 16
-
-
-## 4 Maccabees
-
-### 4 Maccabees 1
-
-
-### 4 Maccabees 2
-
-
-### 4 Maccabees 3
-
-
-### 4 Maccabees 4
-
-
-### 4 Maccabees 5
-
-
-### 4 Maccabees 6
-
-
-### 4 Maccabees 7
-
-
-### 4 Maccabees 8
-
-
-### 4 Maccabees 9
-
-
-### 4 Maccabees 10
-
-
-### 4 Maccabees 11
-
-
-### 4 Maccabees 12
-
-
-### 4 Maccabees 13
-
-
-### 4 Maccabees 14
-
-
-### 4 Maccabees 15
-
-
-### 4 Maccabees 16
-
-
-### 4 Maccabees 17
-
-
-### 4 Maccabees 18
-
-
-## Jubilees
-
-### Jubilees 1
-
-
-### Jubilees 2
-
-
-### Jubilees 3
-
-
-### Jubilees 4
-
-
-### Jubilees 5
-
-
-### Jubilees 6
-
-
-### Jubilees 7
-
-
-### Jubilees 8
-
-
-### Jubilees 9
-
-
-### Jubilees 10
-
-
-### Jubilees 11
-
-
-### Jubilees 12
-
-
-### Jubilees 13
-
-
-### Jubilees 14
-
-
-### Jubilees 15
-
-
-### Jubilees 16
-
-
-### Jubilees 17
-
-
-### Jubilees 18
-
-
-### Jubilees 19
-
-
-### Jubilees 20
-
-
-### Jubilees 21
-
-
-### Jubilees 22
-
-
-### Jubilees 23
-
-
-### Jubilees 24
-
-
-### Jubilees 25
-
-
-### Jubilees 26
-
-
-### Jubilees 27
-
-
-### Jubilees 28
-
-
-### Jubilees 29
-
-
-### Jubilees 30
-
-
-### Jubilees 31
-
-
-### Jubilees 32
-
-
-### Jubilees 33
-
-
-### Jubilees 34
-
-
-### Jubilees 35
-
-
-### Jubilees 36
-
-
-### Jubilees 37
-
-
-### Jubilees 38
-
-
-### Jubilees 39
-
-
-### Jubilees 40
-
-
-### Jubilees 41
-
-
-### Jubilees 42
-
-
-### Jubilees 43
-
-
-### Jubilees 44
-
-
-### Jubilees 45
-
-
-### Jubilees 46
-
-
-### Jubilees 47
-
-
-### Jubilees 48
-
-
-### Jubilees 49
-
-
-### Jubilees 50
-
-
+### tobit 2
+### tobit 3
+### tobit 4
+### tobit 5
+### tobit 6
+### tobit 7
+### tobit 8
+### tobit 9
+### tobit 10
+### tobit 11
+### tobit 12
+### tobit 13
+### tobit 14
+## judith
+### judith 1
+### judith 2
+### judith 3
+### judith 4
+### judith 5
+### judith 6
+### judith 7
+### judith 8
+### judith 9
+### judith 10
+### judith 11
+### judith 12
+### judith 13
+### judith 14
+### judith 15
+### judith 16
+## esther additions
+### esther additions 1
+### esther additions 2
+### esther additions 3
+### esther additions 4
+### esther additions 5
+### esther additions 6
+### esther additions 7
+## wisdom of solomon
+### wisdom of solomon 1
+### wisdom of solomon 2
+### wisdom of solomon 3
+### wisdom of solomon 4
+### wisdom of solomon 5
+### wisdom of solomon 6
+### wisdom of solomon 7
+### wisdom of solomon 8
+### wisdom of solomon 9
+### wisdom of solomon 10
+### wisdom of solomon 11
+### wisdom of solomon 12
+### wisdom of solomon 13
+### wisdom of solomon 14
+### wisdom of solomon 15
+### wisdom of solomon 16
+### wisdom of solomon 17
+### wisdom of solomon 18
+### wisdom of solomon 19
+## sirach
+### sirach 1
+### sirach 2
+### sirach 3
+### sirach 4
+### sirach 5
+### sirach 6
+### sirach 7
+### sirach 8
+### sirach 9
+### sirach 10
+### sirach 11
+### sirach 12
+### sirach 13
+### sirach 14
+### sirach 15
+### sirach 16
+### sirach 17
+### sirach 18
+### sirach 19
+### sirach 20
+### sirach 21
+### sirach 22
+### sirach 23
+### sirach 24
+### sirach 25
+### sirach 26
+### sirach 27
+### sirach 28
+### sirach 29
+### sirach 30
+### sirach 31
+### sirach 32
+### sirach 33
+### sirach 34
+### sirach 35
+### sirach 36
+### sirach 37
+### sirach 38
+### sirach 39
+### sirach 40
+### sirach 41
+### sirach 42
+### sirach 43
+### sirach 44
+### sirach 45
+### sirach 46
+### sirach 47
+### sirach 48
+### sirach 49
+### sirach 50
+### sirach 51
+## baruch
+### baruch 1
+### baruch 2
+### baruch 3
+### baruch 4
+### baruch 5
+## epistle of jeremiah
+### epistle of jeremiah 1
+## azariah
+### azariah 1
+## susanna
+### susanna 1
+## bel and the dragon
+### bel and the dragon 1
+## 1 maccabees
+### 1 maccabees 1
+### 1 maccabees 2
+### 1 maccabees 3
+### 1 maccabees 4
+### 1 maccabees 5
+### 1 maccabees 6
+### 1 maccabees 7
+### 1 maccabees 8
+### 1 maccabees 9
+### 1 maccabees 10
+### 1 maccabees 11
+### 1 maccabees 12
+### 1 maccabees 13
+### 1 maccabees 14
+### 1 maccabees 15
+### 1 maccabees 16
+## 2 maccabees
+### 2 maccabees 1
+### 2 maccabees 2
+### 2 maccabees 3
+### 2 maccabees 4
+### 2 maccabees 5
+### 2 maccabees 6
+### 2 maccabees 7
+### 2 maccabees 8
+### 2 maccabees 9
+### 2 maccabees 10
+### 2 maccabees 11
+### 2 maccabees 12
+### 2 maccabees 13
+### 2 maccabees 14
+### 2 maccabees 15
+## 1 esdras
+### 1 esdras 1
+### 1 esdras 2
+### 1 esdras 3
+### 1 esdras 4
+### 1 esdras 5
+### 1 esdras 6
+### 1 esdras 7
+### 1 esdras 8
+### 1 esdras 9
+## prayer of manasseh
+### prayer of manasseh 1
+## enoch
+### enoch 1
+### enoch 2
+### enoch 3
+### enoch 4
+### enoch 5
+### enoch 6
+### enoch 7
+### enoch 8
+### enoch 9
+### enoch 10
+### enoch 11
+### enoch 12
+### enoch 13
+### enoch 14
+### enoch 15
+### enoch 16
+### enoch 17
+### enoch 18
+### enoch 19
+### enoch 20
+### enoch 21
+### enoch 22
+### enoch 23
+### enoch 24
+### enoch 25
+### enoch 26
+### enoch 27
+### enoch 28
+### enoch 29
+### enoch 30
+### enoch 31
+### enoch 32
+### enoch 33
+### enoch 34
+### enoch 35
+### enoch 36
+### enoch 37
+### enoch 38
+### enoch 39
+### enoch 40
+### enoch 41
+### enoch 42
+### enoch 43
+### enoch 44
+### enoch 45
+### enoch 46
+### enoch 47
+### enoch 48
+### enoch 49
+### enoch 50
+### enoch 51
+### enoch 52
+### enoch 53
+### enoch 54
+### enoch 55
+### enoch 56
+### enoch 57
+### enoch 58
+### enoch 59
+### enoch 60
+### enoch 61
+### enoch 62
+### enoch 63
+### enoch 64
+### enoch 65
+### enoch 66
+### enoch 67
+### enoch 68
+### enoch 69
+### enoch 70
+### enoch 71
+### enoch 72
+### enoch 73
+### enoch 74
+### enoch 75
+### enoch 76
+### enoch 77
+### enoch 78
+### enoch 79
+### enoch 80
+### enoch 81
+### enoch 82
+### enoch 83
+### enoch 84
+### enoch 85
+### enoch 86
+### enoch 87
+### enoch 88
+### enoch 89
+### enoch 90
+### enoch 91
+### enoch 92
+### enoch 93
+### enoch 94
+### enoch 95
+### enoch 96
+### enoch 97
+### enoch 98
+### enoch 99
+### enoch 100
+### enoch 101
+### enoch 102
+### enoch 103
+### enoch 104
+### enoch 105
+### enoch 106
+### enoch 107
+### enoch 108
+## psalm 151
+### psalm 151 1
+## 3 maccabees
+### 3 maccabees 1
+### 3 maccabees 2
+### 3 maccabees 3
+### 3 maccabees 4
+### 3 maccabees 5
+### 3 maccabees 6
+### 3 maccabees 7
+## 2 esdras
+### 2 esdras 1
+### 2 esdras 2
+### 2 esdras 3
+### 2 esdras 4
+### 2 esdras 5
+### 2 esdras 6
+### 2 esdras 7
+### 2 esdras 8
+### 2 esdras 9
+### 2 esdras 10
+### 2 esdras 11
+### 2 esdras 12
+### 2 esdras 13
+### 2 esdras 14
+### 2 esdras 15
+### 2 esdras 16
+## 4 maccabees
+### 4 maccabees 1
+### 4 maccabees 2
+### 4 maccabees 3
+### 4 maccabees 4
+### 4 maccabees 5
+### 4 maccabees 6
+### 4 maccabees 7
+### 4 maccabees 8
+### 4 maccabees 9
+### 4 maccabees 10
+### 4 maccabees 11
+### 4 maccabees 12
+### 4 maccabees 13
+### 4 maccabees 14
+### 4 maccabees 15
+### 4 maccabees 16
+### 4 maccabees 17
+### 4 maccabees 18
+## jubilees
+### jubilees 1
+### jubilees 2
+### jubilees 3
+### jubilees 4
+### jubilees 5
+### jubilees 6
+### jubilees 7
+### jubilees 8
+### jubilees 9
+### jubilees 10
+### jubilees 11
+### jubilees 12
+### jubilees 13
+### jubilees 14
+### jubilees 15
+### jubilees 16
+### jubilees 17
+### jubilees 18
+### jubilees 19
+### jubilees 20
+### jubilees 21
+### jubilees 22
+### jubilees 23
+### jubilees 24
+### jubilees 25
+### jubilees 26
+### jubilees 27
+### jubilees 28
+### jubilees 29
+### jubilees 30
+### jubilees 31
+### jubilees 32
+### jubilees 33
+### jubilees 34
+### jubilees 35
+### jubilees 36
+### jubilees 37
+### jubilees 38
+### jubilees 39
+### jubilees 40
+### jubilees 41
+### jubilees 42
+### jubilees 43
+### jubilees 44
+### jubilees 45
+### jubilees 46
+### jubilees 47
+### jubilees 48
+### jubilees 49
+### jubilees 50
