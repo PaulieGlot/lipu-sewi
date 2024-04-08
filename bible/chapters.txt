@@ -1,5 +1,4 @@
 #old testament
-
 genesis,50
 exodus,40
 leviticus,27
@@ -39,10 +38,7 @@ zephaniah,3
 haggai,2
 zechariah,14
 malachi,4
-
-
 #new testament
-
 matthew,28
 mark,16
 luke,24
@@ -70,10 +66,7 @@ james,5
 3 john,1
 jude,1
 revelation,22
-
-
 #apocrypha
-
 tobit,14
 judith,16
 esther additions,7

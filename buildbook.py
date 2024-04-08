@@ -3,7 +3,7 @@ import os
 
 line_number = 0
 verse_count = 0
-bible_dir = '.'
+bible_dir = 'bible'
 books_file_path = '%s/chapters.txt' % bible_dir
 fulltext_file_path = '%s/full.md' % bible_dir
 books_file = open(books_file_path, 'r')
