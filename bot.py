@@ -4,12 +4,12 @@ import requests
 from discord import app_commands
 from dotenv import load_dotenv
 
-repo = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/'
+repo = 'PaulieGlot/lipu-sewi/master'
 
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
-    url = '%s%s' % (repo, filename)
+    url = 'https://raw.githubusercontent.com/%s/%s' % (repo, filename)
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -147,7 +147,7 @@ async def help(ctx, command: str=None,):
 
 @tree.command(name="repo", description="get a link to the repo", guild=discord.Object(id=GUILD_ID))
 async def help(ctx):
-    await respond(ctx, repo)
+    await respond(ctx, "https://github.com/%s" % repo)
 
 @client.event
 async def on_ready():
