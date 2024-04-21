@@ -1503,6 +1503,10 @@
 
 8: mi la lon pona mute sina la mi tawa tomo sina. mi anpa e mi tawa tomo sewi sina lon monsuta sina.
 
+9: sewi Jawe o. o lawa e mi kepeken nasin pona sina tan ni: jan ike mi li lon. o supa e nasin sina lon sinpin mi.
+
+10: tan ni: uta ona li jo ala e lon. insa sijelo ona li wile pakala. monsi uta ona li lupa moli open. kepeken linja uta ona la ona li sama ko.
+
 11: o toki e ike ona, sewi Elowin o. ona o kama anpa tan sona nasin ona. ona li pali e ijo utala mute. ni la o tawa weka e ona tan ni: ona li utala e sina.
 
 12: jan li alasa e awen pi pana sina la ona li pali e musi tawa tenpo pi pini ala. sina pana e awen tawa ona. ona li olin e nimi sina la ona ni li mu musi lon sina.
@@ -1511,6 +1515,25 @@
 ### psalms 6
 1: ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi kepeken ilo Semini.
 
+2: sewi Jawe o. o pona ala e sona mi kepeken wawa lon pilin ike sina, o awen ala pakala e mi lon pilin utala sina.
+
+3: sewi Jawe o weka e pali ike mi, tan ni: mi kama wawa ala. sewi Jawe o pona e sijelo mi, tan ni: kiwen sijelo insa mi li pilin monsuta.
+
+4: kin la lon mi li pilin monsuta mute. sina sewi Jawe. tawa tenpo seme?
+
+5: sewi Jawe o kama sin. o weka e mi tawa awen. o awen e mi tan ni: sina pona.
+
+6: moli la awen sona sina li ala. lon ma moli la jan seme li toki e pona tawa sina?
+
+7: mi wawa ala tan mu ike mi. tenpo pimeja ale la mi tawa telo e supa lape mi. mi telo e supa mi kepeken telo oko mi.
+
+8: pilin ike li ko e oko mi. ona li kama pakala tan jan ike mi ale.
+
+9: jan ale pi pali ike o tawa weka tan mi. tan ni: sewi Jawe li kute e kalama pi telo oko mi.
+
+10: sewi Jawe li kute e toki mi pi wile suli. sewi Jawe li kama jo e toki sewi mi.
+
+11: jan ike mi ale o pilin anpa o pilin monsuta mute. ona o tawa monsi, o pilin anpa, kepeken tenpo lili.
 ### psalms 7
 ### psalms 8
 ### psalms 9
@@ -1772,6 +1795,7 @@
 ### ecclesiastes 12
 ## song of songs
 ### song of songs 1
+2: ona o uta e mi kepeken uta olin tan uta ona, lon ni: telo kili nasa la olin sina li suwi mute.
 ### song of songs 2
 ### song of songs 3
 ### song of songs 4

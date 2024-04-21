@@ -4,10 +4,12 @@ import requests
 from discord import app_commands
 from dotenv import load_dotenv
 
+repo = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/'
+
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
-    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
+    url = '%s%s' % (repo, filename)
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -133,14 +135,19 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None,):
     if command is None:
-        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses")
+        await respond(ctx, "/help - display this help text\n/help <command> - display additional info about a particular  command\n/verse - fetch a specified verse\n/range - fetch a specified range of verses\n/repo - get a link to the repo")
     elif command == "help":
         await respond(ctx, "what... what more do you need")
     elif command == "verse":
         await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!")
     elif command == "range":
         await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!")
+    elif command == "repo":
+        await respond(ctx, "get a link to the repo from which this bot is pulling verses")
 
+@tree.command(name="repo", description="get a link to the repo", guild=discord.Object(id=GUILD_ID))
+async def help(ctx, command: str=None,):
+    await respond(ctx, repo)
 
 @client.event
 async def on_ready():
