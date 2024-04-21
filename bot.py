@@ -133,13 +133,15 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None,):
     if command is None:
-        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses", post=False)
+        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses\n/repo - get a link to the repo", post=False)
     elif command == "help":
         await respond(ctx, "what... what more do you need", post=False)
     elif command == "verse":
         await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!", post=False)
     elif command == "range":
         await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post=False)
+    elif command == "repo":
+        await respond(ctx, "get a link to the repo from which this bot is pulling verses", post=False)
 
 
 @tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=GUILD_ID))
