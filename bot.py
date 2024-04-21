@@ -4,12 +4,10 @@ import requests
 from discord import app_commands
 from dotenv import load_dotenv
 
-repo = 'PaulieGlot/lipu-sewi'
-
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
-    url = 'https://raw.githubusercontent.com/%s/master/%s' % (repo, filename)
+    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -104,51 +102,45 @@ client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
 
-def respond(ctx, text: str, post: bool):
+def respond(ctx, text):
     if len(text) > 2000:
         text = text[:1996] + " ..."
-    return ctx.response.send_message(text, ephemeral=not post)
+    return ctx.response.send_message(text)
 
 
 @tree.command(name="verse", description="pull a verse from the translated text", guild=discord.Object(id=GUILD_ID))
-async def verse(ctx, book: str, chapter: int, verse: int, post: bool = True):
+async def verse(ctx, book: str, chapter: int, verse: int):
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
         return
     text = get_verse(section, book, chapter, verse)
-    await respond(ctx, text, post)
+    await respond(ctx, text)
 
 
 @tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
-async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, post: bool = True):
+async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
         return
     text = get_verse_range(section, book, chapter, start_verse, end_verse)
-    await respond(ctx, text, post)
+    await respond(ctx, text)
 
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None,):
-    post = False
     if command is None:
-        await respond(ctx, "/help - display this help text\n/help <command> - display additional info about a particular  command\n/verse - fetch a specified verse\n/range - fetch a specified range of verses\n/repo - get a link to the repo", post)
+        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses")
     elif command == "help":
-        await respond(ctx, "what... what more do you need", post)
+        await respond(ctx, "what... what more do you need")
     elif command == "verse":
-        await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!", post)
+        await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!")
     elif command == "range":
-        await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post)
-    elif command == "repo":
-        await respond(ctx, "get a link to the repo from which this bot is pulling verses", post)
+        await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!")
 
-@tree.command(name="repo", description="get a link to the repo", guild=discord.Object(id=GUILD_ID))
-async def repo(ctx, post: bool = True):
-    await respond(ctx, "https://github.com/%s" % repo, post)
 
 @client.event
 async def on_ready():
