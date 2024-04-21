@@ -102,44 +102,44 @@ client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
 
-def respond(ctx, text):
+def respond(ctx, text: str, post: bool):
     if len(text) > 2000:
         text = text[:1996] + " ..."
-    return ctx.response.send_message(text)
+    return ctx.response.send_message(text, ephemeral=not post)
 
 
 @tree.command(name="verse", description="pull a verse from the translated text", guild=discord.Object(id=GUILD_ID))
-async def verse(ctx, book: str, chapter: int, verse: int):
+async def verse(ctx, book: str, chapter: int, verse: int, post: bool=False):
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
         return
     text = get_verse(section, book, chapter, verse)
-    await respond(ctx, text)
+    await respond(ctx, text, post)
 
 
 @tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
-async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int):
+async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, post: bool=False):
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
         return
     text = get_verse_range(section, book, chapter, start_verse, end_verse)
-    await respond(ctx, text)
+    await respond(ctx, text, post)
 
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None,):
     if command is None:
-        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses")
+        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses", post=False)
     elif command == "help":
-        await respond(ctx, "what... what more do you need")
+        await respond(ctx, "what... what more do you need", post=False)
     elif command == "verse":
-        await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!")
+        await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!", post=False)
     elif command == "range":
-        await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!")
+        await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post=False)
 
 
 @client.event
