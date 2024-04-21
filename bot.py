@@ -142,6 +142,11 @@ async def help(ctx, command: str=None,):
         await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post=False)
 
 
+@tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=GUILD_ID))
+async def repo(ctx, post: bool=False):
+    await respond(ctx, "https://github.com/PaulieGlot/lipu-sewi/tree/master", post)
+
+
 @client.event
 async def on_ready():
     await tree.sync(guild=discord.Object(id=GUILD_ID))
