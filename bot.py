@@ -146,7 +146,7 @@ async def help(ctx, command: str=None,):
         await respond(ctx, "get a link to the repo from which this bot is pulling verses")
 
 @tree.command(name="repo", description="get a link to the repo", guild=discord.Object(id=GUILD_ID))
-async def help(ctx, command: str=None,):
+async def help(ctx):
     await respond(ctx, repo)
 
 @client.event
