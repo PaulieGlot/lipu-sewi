@@ -102,7 +102,7 @@ client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
 
-def respond(ctx, text: str, post: bool):
+def respond(ctx, text, post: bool):
     if len(text) > 2000:
         text = text[:1996] + " ..."
     return ctx.response.send_message(text, ephemeral=not post)
