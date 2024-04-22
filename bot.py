@@ -4,10 +4,12 @@ import requests
 from discord import app_commands
 from dotenv import load_dotenv
 
+repo = "PaulieGlot/lipu-sewi"
+
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
-    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
+    url = 'https://raw.githubusercontent.com/%s/master/%s' % (repo, filename)
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -39,7 +41,7 @@ def get_chapter(section: str, book: str, chapter: int):
 # quickly pull all completed verses within a range
 def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
-    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
+    url = 'https://raw.githubusercontent.com/%s/master/%s' % (repo, filename)
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
         return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -146,7 +148,7 @@ async def help(ctx, command: str=None, post: bool=False):
 
 @tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=GUILD_ID))
 async def repo(ctx, post: bool=False):
-    await respond(ctx, "https://github.com/PaulieGlot/lipu-sewi/tree/master", post)
+    await respond(ctx, "https://github.com/%s/tree/master" % repo, post)
 
 
 @client.event
