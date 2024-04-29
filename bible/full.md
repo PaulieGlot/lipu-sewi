@@ -1535,6 +1535,13 @@
 
 11: jan ike mi ale o pilin anpa o pilin monsuta mute. ona o tawa monsi, o pilin anpa, kepeken tenpo lili.
 ### psalms 7
+2: sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
+
+4: sewi mi Jawe o, mi pali e ni la, ike pali li lon luka mi la,
+
+5: mi pana e ike tawa jan pona mi la, mi pana e weka tawa jan ike pi utala mi tawa ala la,
+
+6: jan ike o alasa e lon mi, o kama. ona o noka supa e lon mi tawa ma, o pana e suli mi tawa ko ma. a Sela.
 ### psalms 8
 ### psalms 9
 ### psalms 10
@@ -1795,7 +1802,13 @@
 ### ecclesiastes 12
 ## song of songs
 ### song of songs 1
+1: kalama musi pi kalama musi tan jan Selomo
+
 2: ona o uta e mi kepeken uta olin tan uta ona, lon ni: telo kili nasa la olin sina li suwi mute.
+
+3: kon pi ko telo sijelo sina li pona tawa nena. nimi sina li pana suwi sama ko telo.  ni la meli sin li olin e sina.
+
+8: sina o! sina pona lukin lon meli ale. sina sona ala la o tawa lon nasin noka soweli, o pana e moku tawa soweli lili sina lon poka pi ma pi jan pali soweli.
 ### song of songs 2
 ### song of songs 3
 ### song of songs 4
