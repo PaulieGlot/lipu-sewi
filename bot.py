@@ -5,7 +5,7 @@ from discord import app_commands
 from dotenv import load_dotenv
 
 # pull a verse from a chapter file
-def get_verse(section: str, book: str, chapter: int, verse: int):
+def get_verse(section: str, book: str, chapter: int, verse: int, euphemise: bool):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
@@ -18,12 +18,14 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
             line = line.split(' | ', 1)[0]
             if not line.endswith('\n'):
                 line += '\n'
+            if euphemise:
+                line = re.sub(r"\bJawe\b", "Nimi", line)
             return line
     return "error fetching verse: chapter file `%s` contains no verse numbered %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that a translation has been supplied for the requested verse.*\n" % (filename, verse)
 
 
 # quickly pull all completed verses within a chapter
-def get_chapter(section: str, book: str, chapter: int):
+def get_chapter(section: str, book: str, chapter: int): 
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     try: file = open(filename)
     except FileNotFoundError: return "error fetching chapter: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
@@ -37,7 +39,7 @@ def get_chapter(section: str, book: str, chapter: int):
 
 
 # quickly pull all completed verses within a range
-def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
+def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int, euphemise: bool):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
@@ -57,6 +59,8 @@ def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end
             text += line
     if text == "":
         return "error fetching verse range: chapter file `%s` contains no verses within the range %i - %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that translations have been supplied for verses in the requested range.*\n" % (filename, start_verse, end_verse)
+    if euphemise:
+        text = re.sub(r"\bJawe\b", "Nimi", text)
     return text
 
 
@@ -109,24 +113,24 @@ def respond(ctx, text, post: bool):
 
 
 @tree.command(name="verse", description="pull a verse from the translated text", guild=discord.Object(id=GUILD_ID))
-async def verse(ctx, book: str, chapter: int, verse: int, post: bool=False):
+async def verse(ctx, book: str, chapter: int, verse: int, euphemise: bool=True, post: bool=False):
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
         return
-    text = get_verse(section, book, chapter, verse)
+    text = get_verse(section, book, chapter, verse, euphemise)
     await respond(ctx, text, post)
 
 
 @tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
-async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, post: bool=False):
+async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, euphemise: bool=True, post: bool=False):
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
         await respond(ctx, section)
         return
-    text = get_verse_range(section, book, chapter, start_verse, end_verse)
+    text = get_verse_range(section, book, chapter, start_verse, end_verse, euphemise)
     await respond(ctx, text, post)
 
 
