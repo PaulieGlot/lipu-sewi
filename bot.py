@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, re
 import discord
 import requests
 from discord import app_commands
