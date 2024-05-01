@@ -19,7 +19,7 @@ def get_verse(section: str, book: str, chapter: int, verse: int, euphemise: bool
             if not line.endswith('\n'):
                 line += '\n'
             if euphemise:
-                line = re.sub(r"\bJawe\b", "Nimi", line)
+                line = re.sub(r"\bJawe\b", "**Nimi**", line)
             return line
     return "error fetching verse: chapter file `%s` contains no verse numbered %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that a translation has been supplied for the requested verse.*\n" % (filename, verse)
 
@@ -60,7 +60,7 @@ def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end
     if text == "":
         return "error fetching verse range: chapter file `%s` contains no verses within the range %i - %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that translations have been supplied for verses in the requested range.*\n" % (filename, start_verse, end_verse)
     if euphemise:
-        text = re.sub(r"\bJawe\b", "Nimi", text)
+        text = re.sub(r"\bJawe\b", "**Nimi**", text)
     return text
 
 
