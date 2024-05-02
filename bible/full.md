@@ -1535,6 +1535,8 @@
 
 11: jan ike mi ale o pilin anpa o pilin monsuta mute. ona o tawa monsi, o pilin anpa, kepeken tenpo lili.
 ### psalms 7
+1: ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Pinjamin.
+
 2: sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
 
 4: sewi mi Jawe o, mi pali e ni la, ike pali li lon luka mi la,
@@ -1668,6 +1670,8 @@
 ### psalms 115
 ### psalms 116
 ### psalms 117
+2: tan ni: pona ona li anpa e mi. sewi Jawe li nasin pona lon tenpo ale. o pana e pona sewi tawa sewi Jawe!
+
 ### psalms 118
 ### psalms 119
 11: mi awen e toki sina lon pilin mi. ni la mi ike ala tawa sina.
@@ -1807,6 +1811,8 @@
 2: ona o uta e mi kepeken uta olin tan uta ona, lon ni: telo kili nasa la olin sina li suwi mute.
 
 3: kon pi ko telo sijelo sina li pona tawa nena. nimi sina li pana suwi sama ko telo.  ni la meli sin li olin e sina.
+
+7: mi olin wawa e sina, ni la o toki tawa mi. lon ma seme la sina alasa e moku? lon ma seme la sina pali e lape lon tenpo pi suno sewi? tan seme la mi o tawa anpa tawa kulupu soweli pi kulupu jan sina?
 
 8: sina o! sina pona lukin lon meli ale. sina sona ala la o tawa lon nasin noka soweli, o pana e moku tawa soweli lili sina lon poka pi ma pi jan pali soweli.
 ### song of songs 2
