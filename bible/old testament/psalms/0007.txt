@@ -1,5 +1,5 @@
-1: ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Pinjamin.
-2: sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
-4: sewi mi Jawe o, mi pali e ni la, ike pali li lon luka mi la,
-5: mi pana e ike tawa jan pona mi la, mi pana e weka tawa jan ike pi utala mi tawa ala la,
-6: jan ike o alasa e lon mi, o kama. ona o noka supa e lon mi tawa ma, o pana e suli mi tawa ko ma. a Sela.
+1: ! ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Pinjamin.
+2: ! sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
+4: ! sewi mi Jawe o, mi pali e ni la, ike pali li lon luka mi la,
+5: ! mi pana e ike tawa jan pona mi la, mi pana e weka tawa jan ike pi utala mi tawa ala la,
+6: ! jan ike o alasa e lon mi, o kama. ona o noka supa e lon mi tawa ma, o pana e suli mi tawa ko ma. a Sela.
