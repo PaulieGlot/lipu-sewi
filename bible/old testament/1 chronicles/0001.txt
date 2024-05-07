@@ -1,31 +1,31 @@
-1: jan mije Atan, jan mije Sese, jan mije Enowaso,
-2: jan mije Kenan, jan mije Malalali, jan mije Jalete,
-3: jan mije Enoko, jan mije Mesusale, jan mije Lameke,
-4: jan mije Nowa, jan sin ona li jan mije Sen, li jan mije An, li jan mije Jepete.
-5: jan sin pi jan mije Jepete li jan mije Kome li jan mije Mokuku li jan mije Mate li jan mije Jawan li jan mije Tupa li jan mije Meseke li jan mije Silasa.
-6: jan sin pi jan mije Kome li jan mije Asakanasa li jan mije Lipa li jan mije Tokama
-7: jan sin pi jan mije Jawan li jan mije Elisa li jan mije Tasisa li jan mije Kisin li jan mije Lotanin
-8: jan sin pi jan mije An, li jan mije Kusu li jan mije Misilalin li jan mije Putu li jan mije Kanan.
-9: jan sin pi jan mije Kusu li jan mije Sepa li jan mije Awila li jan mije Sapata li jan mije Lama li jan mije Sapateka. jan sin pi jan mije Lama li jan mije Sapa li jan mije Tetan; 
-10: en jan mije Kusu li mama e jan lawa Ninlo. jan lawa Ninlo li jan suli e tenpo lon ma.
-11: jan mije Misilalin li mama e jan mije Lusin e jan mije Anamin e jan mije Lejapin e jan mije Napatuwin
-12: e kulupu Patalusin e kulupu Kasaluwin (ni li mama e kulupu Pilisiten) e kulupu Kapatolin.
-13: jan mije Kanan li mama e jan mije Siton (jan sin nanpa wan) e jan mije Kese, 
-14: e jan pi kulupu Japusi e jan pi kulupu Emoli e jan pi kulupu Kikasi,
-15: e jan pi kulupu Iwi e jan pi kulupu Alaki e jan pi kulupu Sini
-16: e jan pi kulupu Awasi e jan pi kulupu Samali e jan pi kulupu Amasi
-17: jan sin pi jan mije Sen li jan mije Elan li jan mije Asu li jan mije Apasata li jan mije Lutu li jan mije Alan li jan mije Usu li jan mije Ulu li jan mije Kete li jan mije Masa.
-18: jan Apasate li mama e jan Sala. jan Sala li mama e jan Epe. 
-19: jan Epe li mama e jan sin tu pi nimi ni: jan Pele [kipisi] en jan Jakatan. tenpo pi jan Pele la ma ale li kipisi. ni la jan Pele li jo e nimi ni.
-20: jan Jakatan li mama e jan Amotata e jan Salepe e jan Asamawete e jan Jala 
-21: e jan Etolan e jan Usa e jan Tekila 
-22: e jan Epa e jan Apimale e jan Sepa 
-23:  e jan Opi e jan Awila e jan Jopa. jan ale ni li jan lili pi jan Jokatan. 
-24: jan Sen en jan Apasata en jan Sala 
-25: en jan Epa en jan Pele en jan Lu 
-26: en jan Selu en jan Najo en jan Tala 
-27: en jan Apan (jan ni li jan Apakan).
-28: jan sin pi jan Apakan li jan Isaka li jan Isimale. 
-29: jan sin nanpa wan pi jan Isamale li Napajoto. jan sin ante pi jan Isamale li jan Keta li jan Atapatale li jan Mipisan.
-30: li jan Misima li jan Tuma li jan Masa li jan Ata li jan Tema 
-31: li jan Jutu li jan Napisi li jan Ketema. ona li jan sin pi jan Isimale.
+1: ? jan mije Atan, jan mije Sese, jan mije Enowaso,
+2: ? jan mije Kenan, jan mije Malalali, jan mije Jalete,
+3: ? jan mije Enoko, jan mije Mesusale, jan mije Lameke,
+4: ? jan mije Nowa, jan sin ona li jan mije Sen, li jan mije An, li jan mije Jepete.
+5: ? jan sin pi jan mije Jepete li jan mije Kome li jan mije Mokuku li jan mije Mate li jan mije Jawan li jan mije Tupa li jan mije Meseke li jan mije Silasa.
+6: ? jan sin pi jan mije Kome li jan mije Asakanasa li jan mije Lipa li jan mije Tokama
+7: ? jan sin pi jan mije Jawan li jan mije Elisa li jan mije Tasisa li jan mije Kisin li jan mije Lotanin
+8: ? jan sin pi jan mije An, li jan mije Kusu li jan mije Misilalin li jan mije Putu li jan mije Kanan.
+9: ? jan sin pi jan mije Kusu li jan mije Sepa li jan mije Awila li jan mije Sapata li jan mije Lama li jan mije Sapateka. jan sin pi jan mije Lama li jan mije Sapa li jan mije Tetan; 
+10: ? en jan mije Kusu li mama e jan lawa Ninlo. jan lawa Ninlo li jan suli e tenpo lon ma.
+11: ? jan mije Misilalin li mama e jan mije Lusin e jan mije Anamin e jan mije Lejapin e jan mije Napatuwin
+12: ? e kulupu Patalusin e kulupu Kasaluwin (ni li mama e kulupu Pilisiten) e kulupu Kapatolin.
+13: ? jan mije Kanan li mama e jan mije Siton (jan sin nanpa wan) e jan mije Kese, 
+14: ? e jan pi kulupu Japusi e jan pi kulupu Emoli e jan pi kulupu Kikasi,
+15: ? e jan pi kulupu Iwi e jan pi kulupu Alaki e jan pi kulupu Sini
+16: ? e jan pi kulupu Awasi e jan pi kulupu Samali e jan pi kulupu Amasi
+17: ? jan sin pi jan mije Sen li jan mije Elan li jan mije Asu li jan mije Apasata li jan mije Lutu li jan mije Alan li jan mije Usu li jan mije Ulu li jan mije Kete li jan mije Masa.
+18: ? jan Apasate li mama e jan Sala. jan Sala li mama e jan Epe. 
+19: ? jan Epe li mama e jan sin tu pi nimi ni: jan Pele [kipisi] en jan Jakatan. tenpo pi jan Pele la ma ale li kipisi. ni la jan Pele li jo e nimi ni.
+20: ? jan Jakatan li mama e jan Amotata e jan Salepe e jan Asamawete e jan Jala 
+21: ? e jan Etolan e jan Usa e jan Tekila 
+22: ? e jan Epa e jan Apimale e jan Sepa 
+23: ? e jan Opi e jan Awila e jan Jopa. jan ale ni li jan lili pi jan Jokatan. 
+24: ? jan Sen en jan Apasata en jan Sala 
+25: ? en jan Epa en jan Pele en jan Lu 
+26: ? en jan Selu en jan Najo en jan Tala 
+27: ? en jan Apan (jan ni li jan Apakan).
+28: ? jan sin pi jan Apakan li jan Isaka li jan Isimale. 
+29: ? jan sin nanpa wan pi jan Isamale li Napajoto. jan sin ante pi jan Isamale li jan Keta li jan Atapatale li jan Mipisan.
+30: ? li jan Misima li jan Tuma li jan Masa li jan Ata li jan Tema 
+31: ? li jan Jutu li jan Napisi li jan Ketema. ona li jan sin pi jan Isimale.
