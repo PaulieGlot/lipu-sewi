@@ -309,156 +309,158 @@
 ### exodus 10
 ### exodus 11
 ### exodus 12
-1: sewi Jawe li toki tawa jan Mose tawa jan Awalon e ni lon ma Misalin:
+1: ! sewi Jawe li toki tawa jan Mose tawa jan Awalon e ni lon ma Misalin:
 
-2: tenpo sike mun ni o lawa pi tenpo sike mun tawa sina, o tenpo sike mun nanpa wan tan tenpo sike mun pi tenpo sike suno tawa sina.
+2: ! tenpo sike mun ni o lawa pi tenpo sike mun tawa sina, o tenpo sike mun nanpa wan tan tenpo sike mun pi tenpo sike suno tawa sina.
 
-3: o toki e ni tawa ale pi kulupu Isale: lon tenpo suno nanpa 10 pi tenpo sike mun ni la, mije ale o kama jo e soweli len lili tawa tomo pi mama mije ona. soweli len lili tawa tomo.
+3: ! o toki e ni tawa ale pi kulupu Isale: lon tenpo suno nanpa 10 pi tenpo sike mun ni la, mije ale o kama jo e soweli len lili tawa tomo pi mama mije ona. soweli len lili tawa tomo.
 
-4: tomo li lili tawa soweli len lili la, ona en jan pi tomo poka ona o kama jo e soweli len lili tawa mute pi kon jan pi tomo ona. jan la, ona  o pini e soweli tawa moku ona.
+4: ! tomo li lili tawa soweli len lili la, ona en jan pi tomo poka ona o kama jo e soweli len lili tawa mute pi kon jan pi tomo ona. jan la, ona  o pini e soweli tawa moku ona.
 
-5: soweli len lili sina o jo ala e pakala, o mije pi tenpo sike suno nanpa wan. o kama jo e ona tan soweli len sina anu tan soweli pi noka kiwen.
+5: ! soweli len lili sina o jo ala e pakala, o mije pi tenpo sike suno nanpa wan. o kama jo e ona tan soweli len sina anu tan soweli pi noka kiwen.
 
-6: ona o lon awen sina tawa tenpo suno nanpa 14 pi tenpo sike mun ni. kulupu Isale ale o moli e ona lon tenpo pi weka suno.
+6: ! ona o lon awen sina tawa tenpo suno nanpa 14 pi tenpo sike mun ni. kulupu Isale ale o moli e ona lon tenpo pi weka suno.
 
-7: ona o pana e telo loje tawa palisa tu pi uta tomo, tawa palisa lawa pi uta tomo kin lon tomo ni: ona li moku e ona lon tomo ni.
+7: ! ona o pana e telo loje tawa palisa tu pi uta tomo, tawa palisa lawa pi uta tomo kin lon tomo ni: ona li moku e ona lon tomo ni.
 
-8: ona o moku e soweli lon tenpo pimeja ni. ona o seli e soweli kepeken seli. ona li moku [e ona] la, soweli o lon sewi pi pan supa, o lon sewi pi kasi pi ike uta.
+8: ! ona o moku e soweli lon tenpo pimeja ni. ona o seli e soweli kepeken seli. ona li moku [e ona] la, soweli o lon sewi pi pan supa, o lon sewi pi kasi pi ike uta.
 
-9: o moku ala e ona pi seli moku ala, e ona pi seli telo. ona o seli seli taso. lawa ona o lon sewi pi noka ona, lon sewi pi insa ona.
+9: ! o moku ala e ona pi seli moku ala, e ona pi seli telo. ona o seli seli taso. lawa ona o lon sewi pi noka ona, lon sewi pi insa ona.
 
-10: o awen ala e ijo tan ona tawa kama suno. kipisi awen ona la, o seli weka e ona.
+10: ! o awen ala e ijo tan ona tawa kama suno. kipisi awen ona la, o seli weka e ona.
 
-11: o moku e ona sama ni. poka sijelo sina li lon insa pi len linja. len noka li lon noka sina. palisa sina li lon luka sina. o moku e ona kepeken tenpo lili. ni li pana sewi Pesa tawa sewi Jawe.
+11: ! o moku e ona sama ni. poka sijelo sina li lon insa pi len linja. len noka li lon noka sina. palisa sina li lon luka sina. o moku e ona kepeken tenpo lili. ni li pana sewi Pesa tawa sewi Jawe.
 
-12: mi tawa lon ma Misalin lon tenpo pimeja ni, li pakala e mije sin nanpa wan lon ma Misalin tan jan tawa soweli. tawa sewi ale pi ma Misalin la, mi lukin sona e  kon ona. mi sewi Jawe.
+12: ! mi tawa lon ma Misalin lon tenpo pimeja ni, li pakala e mije sin nanpa wan lon ma Misalin tan jan tawa soweli. tawa sewi ale pi ma Misalin la, mi lukin sona e  kon ona. mi sewi Jawe.
 
-13: telo loje li lon tomo sina la, ni li sitelen tawa sina. mi lukin e telo loje la, mi kama ala tawa sina. mi pakala e ma Misalin la, ike pakala li lon sina ala.
+13: ! telo loje li lon tomo sina la, ni li sitelen tawa sina. mi lukin e telo loje la, mi kama ala tawa sina. mi pakala e ma Misalin la, ike pakala li lon sina ala.
 
-14: tenpo suno ni o awen sona tawa sina. o musi sike e ona tawa ni:  ona li tenpo sike sewi tawa sewi Jawe. tawa jan sin sina la, toki lawa pi tenpo ale la, o musi sike e ona.
+14: ! tenpo suno ni o awen sona tawa sina. o musi sike e ona tawa ni:  ona li tenpo sike sewi tawa sewi Jawe. tawa jan sin sina la, toki lawa pi tenpo ale la, o musi sike e ona.
 
 ### exodus 13
 ### exodus 14
-10: lawa Palo li kama lon poka la, kulupu Isale li sewi e oko ona la, a, kulupu Misalin li tawa lon monsi ona. kulupu Isale li pilin monsuta mute, li kalama wawa tawa sewi Jawe.
+10: ! lawa Palo li kama lon poka la, kulupu Isale li sewi e oko ona la, a, kulupu Misalin li tawa lon monsi ona. kulupu Isale li pilin monsuta mute, li kalama wawa tawa sewi Jawe.
 
-11: ona li toki e ni tawa jan Mose: lupa moli li lon ala ma Misalin anu seme la, sina weka e mi tawa moli lon ma weka? seme la sina ni tawa mi a, li weka e mi tan ma Misalin?
+11: ! ona li toki e ni tawa jan Mose: lupa moli li lon ala ma Misalin anu seme la, sina weka e mi tawa moli lon ma weka? seme la sina ni tawa mi a, li weka e mi tan ma Misalin?
 
-12: mi toki e ni tawa sina lon ma Misalin anu seme: o weka tan mi tan ni: mi o pali tawa kulupu Misalin. mi pali tawa kulupu Misalin la, ni li pona tawa ni: mi moli lon ma weka.
+12: ! mi toki e ni tawa sina lon ma Misalin anu seme: o weka tan mi tan ni: mi o pali tawa kulupu Misalin. mi pali tawa kulupu Misalin la, ni li pona tawa ni: mi moli lon ma weka.
 
-13: jan Mose li toki e ni tawa kulupu: o monsuta ala. o awen lon o lukin e awen pi sewi Jawe ni: ona li pali e ni tawa sina lon tenpo suno ni. tawa tenpo ale la, sina lukin ala e jan ni: sina lukin e jan pi kulupu Misalin lon tenpo suno ni.
+13: ! jan Mose li toki e ni tawa kulupu: o monsuta ala. o awen lon o lukin e awen pi sewi Jawe ni: ona li pali e ni tawa sina lon tenpo suno ni. tawa tenpo ale la, sina lukin ala e jan ni: sina lukin e jan pi kulupu Misalin lon tenpo suno ni.
 
-14: sewi Jawe li utala tawa sina. sina o kalama ala.
+14: ! sewi Jawe li utala tawa sina. sina o kalama ala.
 
-15: sewi Jawe li toki e ni tawa jan Mose: tan seme la sina kalama wawa tawa mi? o toki tawa kulupu Isale. ona o tawa.
+15: ! sewi Jawe li toki e ni tawa jan Mose: tan seme la sina kalama wawa tawa mi? o toki tawa kulupu Isale. ona o tawa.
 
-16: sina o sewi e palisa sina, o palisa e luka sina lon telo suli, o tu e ona. kulupu Isale o kama tawa insa pi telo suli lon ma pi telo ala.
+16: ! sina o sewi e palisa sina, o palisa e luka sina lon telo suli, o tu e ona. kulupu Isale o kama tawa insa pi telo suli lon ma pi telo ala.
 
-17: mi wawa e pilin pi kulupu Misalin tawa ni: ona li tawa lon monsi pi kulupu Isale. ni la, mi wawa tawa lawa Palo, tawa kulupu utala ona, tawa ilo tawa ona, tawa jan ona pi soweli tawa.
+17: ! mi wawa e pilin pi kulupu Misalin tawa ni: ona li tawa lon monsi pi kulupu Isale. ni la, mi wawa tawa lawa Palo, tawa kulupu utala ona, tawa ilo tawa ona, tawa jan ona pi soweli tawa.
 
-18: kulupu Misalin o sona e ni: mi sewi Jawe, li wawa tawa lawa Palo, tawa ilo tawa ona, tawa jan ona pi soweli tawa.
+18: ! kulupu Misalin o sona e ni: mi sewi Jawe, li wawa tawa lawa Palo, tawa ilo tawa ona, tawa jan ona pi soweli tawa.
 
-19: jan tawa sewi pi sewi Elowin li tawa, li tawa monsi lon monsi ona. kin la, palisa pi kon telo li tawa tan sinpin ona tawa monsi ona.
+19: ! jan tawa sewi pi sewi Elowin li tawa, li tawa monsi lon monsi ona. kin la, palisa pi kon telo li tawa tan sinpin ona tawa monsi ona.
 
-20: ona li kama lon meso pi ni tu: ma lape Misalin en ma lape Isale. kon telo en pimeja li lon la, ona li suno e tenpo pimeja. kulupu wan li kama ala lon poka pi kulupu ante lon tenpo pimeja ale.
+20: ! ona li kama lon meso pi ni tu: ma lape Misalin en ma lape Isale. kon telo en pimeja li lon la, ona li suno e tenpo pimeja. kulupu wan li kama ala lon poka pi kulupu ante lon tenpo pimeja ale.
 
-21: jan Mose li palisa e luka ona lon telo suli. sewi Jawe li tawa e telo suli kepeken kon wawa tan poka pi kama suno lon ale pi tenpo pimeja, li pana e telo tawa ma pi telo ala. telo li kama tu.
+21: ! jan Mose li palisa e luka ona lon telo suli. sewi Jawe li tawa e telo suli kepeken kon wawa tan poka pi kama suno lon ale pi tenpo pimeja, li pana e telo tawa ma pi telo ala. telo li kama tu.
 
-22: kulupu Isale li kama tawa insa pi telo suli lon ma pi telo ala. telo li sinpin tawa ona lon poka wan ona, lon poka ante ona.
+22: ! kulupu Isale li kama tawa insa pi telo suli lon ma pi telo ala. telo li sinpin tawa ona lon poka wan ona, lon poka ante ona.
 
-23: kulupu Misalin li tawa utala tawa monsi ona. soweli tawa ale pi lawa Palo en ilo tawa ona en jan ona pi soweli tawa li kama lon monsi ona, tawa insa pi telo suli.
+23: ! kulupu Misalin li tawa utala tawa monsi ona. soweli tawa ale pi lawa Palo en ilo tawa ona en jan ona pi soweli tawa li kama lon monsi ona, tawa insa pi telo suli.
 
-24: open pi tenpo suno kama la, sewi Jawe li lukin anpa tawa ma lape Misalin tan palisa suli ni: ona li seli li kon telo. ona li pakala e ma lape Misalin.
+24: ! open pi tenpo suno kama la, sewi Jawe li lukin anpa tawa ma lape Misalin tan palisa suli ni: ona li seli li kon telo. ona li pakala e ma lape Misalin.
 
-25: sewi Jawe li weka e sike pi ilo tawa ona tawa ni: ona li lawa ike e ilo tawa. kulupu Misalin li toki e ni: mi o tawa weka tan sinpin pi kulupu Isale tan ni: sewi Jawe li utala e kulupu Misalin tawa ona.
+25: ! sewi Jawe li weka e sike pi ilo tawa ona tawa ni: ona li lawa ike e ilo tawa. kulupu Misalin li toki e ni: mi o tawa weka tan sinpin pi kulupu Isale tan ni: sewi Jawe li utala e kulupu Misalin tawa ona.
 
-26: sewi Jawe li toki e ni tawa jan Mose: o palisa e luka sina lon telo suli. ni la, telo o kama sin lon kulupu Misalin, lon ilo tawa ona, lon jan ona pi soweli tawa.
+26: ! sewi Jawe li toki e ni tawa jan Mose: o palisa e luka sina lon telo suli. ni la, telo o kama sin lon kulupu Misalin, lon ilo tawa ona, lon jan ona pi soweli tawa.
 
-27: jan Mose li palisa e luka ona lon telo suli la, telo suli li kama sin pi sijelo ona lon open pi tenpo kama suno. kulupu Misalin li weka monsuta tawa ona la, sewi Jawe li tawa wawa e kulupu Misalin lon insa pi telo suli.
+27: ! jan Mose li palisa e luka ona lon telo suli la, telo suli li kama sin pi sijelo ona lon open pi tenpo kama suno. kulupu Misalin li weka monsuta tawa ona la, sewi Jawe li tawa wawa e kulupu Misalin lon insa pi telo suli.
 
-28: telo li kama sin, li len e ilo tawa, e jan pi soweli tawa, e ale pi kulupu utala ni pi lawa Palo: ona li kama tawa monsi ona tawa telo suli. wan ala ona li awen.
+28: ! telo li kama sin, li len e ilo tawa, e jan pi soweli tawa, e ale pi kulupu utala ni pi lawa Palo: ona li kama tawa monsi ona tawa telo suli. wan ala ona li awen.
 
-29: kulupu Isale li tawa lon ma pi telo ala lon insa pi telo suli. telo li sinpin tawa ona lon poka wan ona, lon poka ante ona.
+29: ! kulupu Isale li tawa lon ma pi telo ala lon insa pi telo suli. telo li sinpin tawa ona lon poka wan ona, lon poka ante ona.
 
-30: tenpo suno ni la, sewi Jawe li pana weka sewi e kulupu Isale tan luka pi kulupu Misalin. kulupu Isale li lukin e kulupu Misalin moli lon poka pi telo suli.
+30: ! tenpo suno ni la, sewi Jawe li pana weka sewi e kulupu Isale tan luka pi kulupu Misalin. kulupu Isale li lukin e kulupu Misalin moli lon poka pi telo suli.
 
-31: kulupu Isale li lukin e luka suli ni pi sewi Jawe: ona li pali lon ma Misalin. kulupu li pilin monsuta tawa sewi Jawe, li pilin sewi tawa sewi Jawe, tawa jan pali ona Mose.
+31: ! kulupu Isale li lukin e luka suli ni pi sewi Jawe: ona li pali lon ma Misalin. kulupu li pilin monsuta tawa sewi Jawe, li pilin sewi tawa sewi Jawe, tawa jan pali ona Mose.
 
 ### exodus 15
-1: ni la, jan Mose en kulupu Isale li kalama e musi ni tawa sewi Jawe. ona li toki e ni: mi kalama musi tawa sewi Jawe tan ni: ona li sewi a. ona li pana e soweli tawa e jan lawa ona lon telo suli.
+1: ! ni la, jan Mose en kulupu Isale li kalama e musi ni tawa sewi Jawe. ona li toki e ni: mi kalama musi tawa sewi Jawe tan ni: ona li sewi a. ona li pana e soweli tawa e jan lawa ona lon telo suli.
 
-2: wawa mi en kalama musi pi sewi Ja. ona li awen pona tawa mi. ni li sewi mi. la mi pali pona e ona. sewi pi mama mi. la mi sewi e ona.
+2: ! wawa mi en kalama musi pi sewi Ja. ona li awen pona tawa mi. ni li sewi mi. la mi pali pona e ona. sewi pi mama mi. la mi sewi e ona.
 
-3: sewi Jawe li jan utala. Jawe li nimi ona.
+3: ! sewi Jawe li jan utala. Jawe li nimi ona.
 
-4: ona li pana e ilo tawa pi lawa Palo e kulupu utala ona tawa telo suli. jan lawa ona pi wawa lili li kama moli telo lon telo suli Su.
+4: ! ona li pana e ilo tawa pi lawa Palo e kulupu utala ona tawa telo suli. jan lawa ona pi wawa lili li kama moli telo lon telo suli Su.
 
-5: lupa suli li len e ona. ona li tawa anpa lon anpa telo sama kiwen.
+5: ! lupa suli li len e ona. ona li tawa anpa lon anpa telo sama kiwen.
 
-6: sewi Jawe o, luka utala sina li kama suli lon wawa. sewi Jawe o, luka utala sina li pakala wawa e jan ike.
+6: ! sewi Jawe o, luka utala sina li kama suli lon wawa. sewi Jawe o, luka utala sina li pakala wawa e jan ike.
 
-7: kepeken mute pi sewi sina la, sina pakala e jan sina ni: ona li sewi lon noka. sina pana wawa e pilin seli sina. ona li moku e jan kepeken nasin ni: ona li moku e kasi pan moli.
+7: ! kepeken mute pi sewi sina la, sina pakala e jan sina ni: ona li sewi lon noka. sina pana wawa e pilin seli sina. ona li moku e jan kepeken nasin ni: ona li moku e kasi pan moli.
 
-8: kin la, kepeken kon pi nena sinpin sina la, telo li kama kulupu, li kama sewi palisa sama palisa telo. lupa suli li kiwen lete lon insa insa pi telo suli.
+8: ! kin la, kepeken kon pi nena sinpin sina la, telo li kama kulupu, li kama sewi palisa sama palisa telo. lupa suli li kiwen lete lon insa insa pi telo suli.
 
-9: jan ike li toki e ni: mi o tawa utala lon monsi, o tawa wawa tawa sinpin, o kipisi e mani alasa. kon mi o pona ale tan ona. mi o kama e ilo utala mi. luka mi o pakala e kulupu Isale.
+9: ! jan ike li toki e ni: mi o tawa utala lon monsi, o tawa wawa tawa sinpin, o kipisi e mani alasa. kon mi o pona ale tan ona. mi o kama e ilo utala mi. luka mi o pakala e kulupu Isale.
 
-10: sina pana wawa e kon sina tan uta. telo suli li len e ona. ona li tawa anpa lon telo wawa sama kiwen wawa.
+10: ! sina pana wawa e kon sina tan uta. telo suli li len e ona. ona li tawa anpa lon telo wawa sama kiwen wawa.
 
-11: sewi Jawe o, seme li sama sina lon sewi ale? wawa lon sewi la, monsuta lon kalama sewi la, pali pi nasa sewi la, seme li sama sina?
+11: ! sewi Jawe o, seme li sama sina lon sewi ale? wawa lon sewi la, monsuta lon kalama sewi la, pali pi nasa sewi la, seme li sama sina?
 
-12: sina pana e luka utala sina sama palisa. ma li moku e ona.
+12: ! sina pana e luka utala sina sama palisa. ma li moku e ona.
 
-13: sina lawa e kulupu ni lon pona sina: sina kama pona e ona. sina lawa lon wawa sina tawa ma pona sewi sina.
+13: ! sina lawa e kulupu ni lon pona sina: sina kama pona e ona. sina lawa lon wawa sina tawa ma pona sewi sina.
 
-14: kulupu li kute li pilin monsuta. pilin ike li pakala e jan pi ma Pelase li sama luka jo.
+14: ! kulupu li kute li pilin monsuta. pilin ike li pakala e jan pi ma Pelase li sama luka jo.
 
-15: la jan lawa pi ma Eton li kama pilin monsuta. tawa monsuta li luka e jan wawa pi ma Mowa. jan pi ma Kanan li kama weka sama ko.
+15: ! la jan lawa pi ma Eton li kama pilin monsuta. tawa monsuta li luka e jan wawa pi ma Mowa. jan pi ma Kanan li kama weka sama ko.
 
-16: monsuta pilin en monsuta insa li kama tawa ona. kepeken suli pi luka sina la ona li kama kalama ala sama kiwen. ona li pini lon ni: kulupu sina li tawa, sewi Jawe o. ona li pini lon ni: kulupu ni li tawa: sina kama jo e ona.
+16: ! monsuta pilin en monsuta insa li kama tawa ona. kepeken suli pi luka sina la ona li kama kalama ala sama kiwen. ona li pini lon ni: kulupu sina li tawa, sewi Jawe o. ona li pini lon ni: kulupu ni li tawa: sina kama jo e ona.
 
-17: sina tawa e ona, li pana e ona lon nena pi ma pana sina sama kasi. sina pali e ma awen sina, sewi Jawe o. luka sina li pali e tomo sewi pi lawa mi.
+17: ! sina tawa e ona, li pana e ona lon nena pi ma pana sina sama kasi. sina pali e ma awen sina, sewi Jawe o. luka sina li pali e tomo sewi pi lawa mi.
 
-18: sewi Jawe li lawa tawa tenpo ale.
+18: ! sewi Jawe li lawa tawa tenpo ale.
 
-19: soweli tawa pi lawa Palo en ilo tawa ona en jan ona pi soweli tawa li tawa lon telo suli. sewi Jawe li tawa sin e telo pi telo suli lon ona. kulupu Isale li tawa lon ma pi telo ala lon insa pi telo suli.
+19: ! soweli tawa pi lawa Palo en ilo tawa ona en jan ona pi soweli tawa li tawa lon telo suli. sewi Jawe li tawa sin e telo pi telo suli lon ona. kulupu Isale li tawa lon ma pi telo ala lon insa pi telo suli.
 
 ### exodus 16
 ### exodus 17
 ### exodus 18
 ### exodus 19
 ### exodus 20
-1: sewi li toki e nimi ale ni:
+1: ! sewi li toki e nimi ale ni:
 
-2: mi sewi sina Jawe. mi pana weka e sina tan ma Misalin, tan tomo pi jan pali.
+2: ! mi sewi sina Jawe. mi pana weka e sina tan ma Misalin, tan tomo pi jan pali.
 
-3: sewi ante o lon ala tawa sina lon sinpin mi.
+3: ! sewi ante o lon ala tawa sina lon sinpin mi.
 
-4: o pali ala tawa sina e sitelen, e sitelen ale lon sewi lon sewi, lon ma lon anpa, lon telo lon anpa ma.
+4: ! o pali ala tawa sina e sitelen, e sitelen ale lon sewi lon sewi, lon ma lon anpa, lon telo lon anpa ma.
 
-5: o anpa ala e sina tawa ona, o pali ala tawa ona, tan ni: mi sewi sina Jawe li sewi pi wile mi taso, li kama e ike pi mama mije lon mije sin tawa tenpo jan nanpa 3 tawa tenpo jan nanpa 4 pi jan ike mi.
+5: ! o anpa ala e sina tawa ona, o pali ala tawa ona, tan ni: mi sewi sina Jawe li sewi pi wile mi taso, li kama e ike pi mama mije lon mije sin tawa tenpo jan nanpa 3 tawa tenpo jan nanpa 4 pi jan ike mi.
 
-6: kin la mi pana e pona tawa mute, tawa jan ni: ona li olin e mi li awen e toki lawa mi.
+6: ! kin la mi pana e pona tawa mute, tawa jan ni: ona li olin e mi li awen e toki lawa mi.
 
-7: o sewi ala e nimi pi sewi sina Jawe tawa ala, tan ni: sewi Jawe li weka ala e ike tan jan ni: jan li sewi e nimi ona tawa ala.
+7: ! o sewi ala e nimi pi sewi sina Jawe tawa ala, tan ni: sewi Jawe li weka ala e ike tan jan ni: jan li sewi e nimi ona tawa ala.
 
-8: o awen sona e tenpo suno pi pali ala, tawa ni: ona li sewi.
+8: ! o awen sona e tenpo suno pi pali ala, tawa ni: ona li sewi.
 
-12: o suli e mama mije sina e mama meli sina, tawa ni: tenpo sina li ken suli lon ma pana ni tan sewi sina Jawe tawa sina.
+12: ! o suli e mama mije sina e mama meli sina, tawa ni: tenpo sina li ken suli lon ma pana ni tan sewi sina Jawe tawa sina.
 
-13: o unpa ala e meli ni: ona en mije ante li wan.
+13: ! o moli ala e jan.
+
+14: ! o unpa ala e meli ni: ona en mije ante li wan.
 
 ### exodus 21
 ### exodus 22
 ### exodus 23
-14: tenpo 3 la, o pali e tenpo sike sewi tawa mi lon tenpo sike suno.
+14: ! tenpo 3 la, o pali e tenpo sike sewi tawa mi lon tenpo sike suno.
 
-15: o awen e tenpo sike sewi pi pan supa. tenpo suno 7 la o moku e pan supa sama toki lawa mi lon tenpo sike mun pi kasi sin tan ni: tenpo ni la sina kama weka tan ma Misalin. sinpin mi o kama ala lukin e ijo ala.
+15: ! o awen e tenpo sike sewi pi pan supa. tenpo suno 7 la o moku e pan supa sama toki lawa mi lon tenpo sike mun pi kasi sin tan ni: tenpo ni la sina kama weka tan ma Misalin. sinpin mi o kama ala lukin e ijo ala.
 
-17: tenpo 3 lon tenpo sike suno la, mije ale sina o kama lon sinpin pi lawa Jawe.
+17: ! tenpo 3 lon tenpo sike suno la, mije ale sina o kama lon sinpin pi lawa Jawe.
 
-18: lon poka pi pan kon la, o pana ala e telo loje pi moli pana mi. moku pona pi tenpo sike sewi mi o lon ala tawa tenpo suno kama.
+18: ! lon poka pi pan kon la, o pana ala e telo loje pi moli pana mi. moku pona pi tenpo sike sewi mi o lon ala tawa tenpo suno kama.
 
-19: o tawa e nanpa wan pi kili nanpa wan pi ma sina tawa tomo pi sewi sina Jawe. o seli ala e soweli sin pi noka kiwen lon telo walo pi mama meli ona.
+19: ! o tawa e nanpa wan pi kili nanpa wan pi ma sina tawa tomo pi sewi sina Jawe. o seli ala e soweli sin pi noka kiwen lon telo walo pi mama meli ona.
 
 ### exodus 24
 ### exodus 25
@@ -472,23 +474,23 @@
 ### exodus 33
 ### exodus 34
 ### exodus 35
-1: jan Mose li kulupu e kulupu ale Isale li toki tawa ona: sewi Jawe li toki lawa e toki ni tawa pali sina.
+1: ! jan Mose li kulupu e kulupu ale Isale li toki tawa ona: sewi Jawe li toki lawa e toki ni tawa pali sina.
 
-2: tenpo suno 6 li tawa pali. taso tenpo suno nanpa 7 o kama sewi o kama tenpo sewi pi pali ala tawa sina, tawa sewi Jawe. jan ni li wile kama moli: ona li pali lon tenpo suno ni.
+2: ! tenpo suno 6 li tawa pali. taso tenpo suno nanpa 7 o kama sewi o kama tenpo sewi pi pali ala tawa sina, tawa sewi Jawe. jan ni li wile kama moli: ona li pali lon tenpo suno ni.
 
-3: o open ala e seli lon tomo sina lon tenpo sewi pi pali ala.
+3: ! o open ala e seli lon tomo sina lon tenpo sewi pi pali ala.
 
-4: jan Mose li toki e ni tawa kulupu ale Isale: ijo ni li kama toki lawa tan sewi Jawe.
+4: ! jan Mose li toki e ni tawa kulupu ale Isale: ijo ni li kama toki lawa tan sewi Jawe.
 
-5: tan sina la, o kama jo e ijo pana tawa sewi Jawe. pilin jan li wile pana la, o kama tawa e ijo pana ni tawa sewi Jawe: kiwen jelo en kiwen walo en kiwen loje
+5: ! tan sina la, o kama jo e ijo pana tawa sewi Jawe. pilin jan li wile pana la, o kama tawa e ijo pana ni tawa sewi Jawe: kiwen jelo en kiwen walo en kiwen loje
 
-6: en laso sewi en loje laso en loje wawa en linja walo en soweli pi noka kiwen
+6: ! en laso sewi en loje laso en loje wawa en linja walo en soweli pi noka kiwen
 
-7: en selo loje pi soweli pi palisa lawa en selo Tawasin en kiwen kasi Sisin
+7: ! en selo loje pi soweli pi palisa lawa en selo Tawasin en kiwen kasi Sisin
 
-8: en telo wawa pi ilo suno en namako pi telo wawa sewi en namako pi ko seli suwi
+8: ! en telo wawa pi ilo suno en namako pi telo wawa sewi en namako pi ko seli suwi
 
-9: en kiwen Sowan en kiwen ni: ona li kama lon len insa suli, lon leko len kin.
+9: ! en kiwen Sowan en kiwen ni: ona li kama lon len insa suli, lon leko len kin.
 
 ### exodus 36
 ### exodus 37
@@ -497,7 +499,7 @@
 ### exodus 40
 ## leviticus
 ### leviticus 1
-1: sewi Jawe li toki wile tawa jan Mose. ona li toki tawa ona tan tomo sewi pi tenpo lili. sewi Jawe li toki e ni:
+1: ! sewi Jawe li toki wile tawa jan Mose. ona li toki tawa ona tan tomo sewi pi tenpo lili. sewi Jawe li toki e ni:
 
 ### leviticus 2
 ### leviticus 3
@@ -525,7 +527,7 @@
 22: mije li wile ala unpa e mije ante. ni li ike tawa jan mute.
 
 ### leviticus 19
-28: o open ala e selo sina tawa kon jan. o pana ala e sitelen ni lon selo sina: sina ken ala weka e ona. mi sewi Jawe.
+28: ! o open ala e selo sina tawa kon jan. o pana ala e sitelen ni lon selo sina: sina ken ala weka e ona. mi sewi Jawe.
 
 ### leviticus 20
 13: mije li unpa e mije ante la ona tu li pali e tawa ike tawa jan mute. o moli e ona tu la ni li pakala pi ona tu.
@@ -565,9 +567,9 @@
 ### numbers 13
 ### numbers 14
 ### numbers 15
-40: toki lawa mi la, o awen sona e ona, o pali e ona, o sewi tawa sewi sina.
+40: ! toki lawa mi la, o awen sona e ona, o pali e ona, o sewi tawa sewi sina.
 
-41: mi sewi sina Jawe, li pana weka e sina tan ma Misalin tawa ni: mi sewi tawa sina. mi sewi sina Jawe.
+41: ! mi sewi sina Jawe, li pana weka e sina tan ma Misalin tawa ni: mi sewi tawa sina. mi sewi sina Jawe.
 
 ### numbers 16
 ### numbers 17
@@ -601,15 +603,15 @@
 ### deuteronomy 6
 4: kulupu Isale o kute! sewi Jawe li sewi mi. sewi Jawe li wan taso.
 
-5: o olin e sewi sina Jawe lon ni: pilin ale sina, en kon ale sina, en mute ale sina.
+5: ! o olin e sewi sina Jawe lon ni: pilin ale sina, en kon ale sina, en mute ale sina.
 
-6: nimi ni pi toki lawa mi pi tenpo suno ni o lon pilin sina.
+6: ! nimi ni pi toki lawa mi pi tenpo suno ni o lon pilin sina.
 
-7: o pana e sona awen pi nimi ni tawa jan sin sina. sina awen lon tomo la, sina tawa lon nasin la, sina lon supa la, sina lon noka la, o toki e nimi ni.
+7: ! o pana e sona awen pi nimi ni tawa jan sin sina. sina awen lon tomo la, sina tawa lon nasin la, sina lon supa la, sina lon noka la, o toki e nimi ni.
 
-8: o wan e nimi ni tawa luka sina. ona o ijo lon meso pi oko tu sina.
+8: ! o wan e nimi ni tawa luka sina. ona o ijo lon meso pi oko tu sina.
 
-9: lon uta pi tomo sina la, lon open pi ma sina la, o sitelen e ona.
+9: ! lon uta pi tomo sina la, lon open pi ma sina la, o sitelen e ona.
 
 ### deuteronomy 7
 ### deuteronomy 8
@@ -659,6 +661,9 @@
 30: jan Mose li toki e toki kalama ni tawa pini tawa kute pi kulupu Isale ale.
 
 ### deuteronomy 32
+8: ! sewi Elijon li pana e kulupu jan la, ona li kipisi e kulupu jan la, ona li pana e selo tawa kulupu Isale sama nanpa ona.
+
+9: ! kipisi pi sewi Jawe li kulupu ona. jan Jawako li kipisi pi jo ona.
 ### deuteronomy 33
 ### deuteronomy 34
 ## joshua
@@ -886,17 +891,19 @@
 16: kin la, o pana tan kulupu pan lili. o awen la, ona li alasa. o toki ike ala tawa ona.
 
 ### ruth 3
-1: jan Najomi li mama meli pi mije ona, li toki e ni tawa ona: meli lili mi o, mi o alasa e ma awen tawa sina tawa ni: ni li pona tawa sina.
+1: ! jan Najomi li mama meli pi mije ona, li toki e ni tawa ona: meli lili mi o, mi o alasa e ma awen tawa sina tawa ni: ni li pona tawa sina.
 
-2: jan Powa li tan kulupu mama pi mi mute a! sina lon poka pi meli lili ona a! ona li tawa kon e kasi pan linja lon tomo pan lon tenpo pimeja ni.
+2: ! jan Powa li tan kulupu mama pi mi mute a! sina lon poka pi meli lili ona a! ona li tawa kon e kasi pan linja lon tomo pan lon tenpo pimeja ni.
 
-3: o telo e sina, o pana e telo pona lon sina, o pana e len pona sina lon sina, o tawa tomo pan. ona li pini ala moku la, o kama ala tawa lukin pi mije ni.
+3: ! o telo e sina, o pana e telo pona lon sina, o pana e len pona sina lon sina, o tawa tomo pan. ona li pini ala moku la, o kama ala tawa lukin pi mije ni.
 
-4: ona li kama lape la, sina sona e ma pi lape ona. o tawa ma ni, o weka e len tan noka ona, o lape. ona li toki tawa sina e ken pali sina.
+4: ! ona li kama lape la, sina sona e ma pi lape ona. o tawa ma ni, o weka e len tan noka ona, o lape. ona li toki tawa sina e ken pali sina.
 
-5: jan Lu li toki e ni tawa jan Najomi: mi pali e ijo ale pi toki sina.
+5: ! jan Lu li toki e ni tawa jan Najomi: mi pali e ijo ale pi toki sina.
 
-7: jan Powa li moku e moku e telo. pilin ona li pona. ona li tawa lape lon monsi pi nena pan. jan Lu li kama kepeken kalama ala li weka e len tan noka ona, li tawa lape.
+6: ! ona li tawa supa pi pakala pan, li pali e toki lawa ale pi mama meli pi mije ona.
+
+7: ! jan Powa li moku e moku e telo. pilin ona li pona. ona li tawa lape lon monsi pi nena pan. jan Lu li kama kepeken kalama ala li weka e len tan noka ona, li tawa lape.
 
 ### ruth 4
 ## 1 samuel
@@ -1411,139 +1418,139 @@
 ### job 42
 ## psalms
 ### psalms 1
-1: jan ni li pona sewi: jan li tawa ala lon nasin pi jan ike, li awen ala lon nasin pi pali ike, li awen ala lon supa monsi pi jan pi toki jaki.
+1: ! jan ni li pona sewi: jan li tawa ala lon nasin pi jan ike, li awen ala lon nasin pi pali ike, li awen ala lon supa monsi pi jan pi toki jaki.
 
-2: ante la wile ona li lon sona lawa pi sewi Jawe. ona li toki insa e lawa sewi ona lon tenpo suno ale lon tenpo pimeja ale.
+2: ! ante la wile ona li lon sona lawa pi sewi Jawe. ona li toki insa e lawa sewi ona lon tenpo suno ale lon tenpo pimeja ale.
 
-3: ona li kama sama kasi suli li noka lon poka pi linja telo. ona li pana e kili lon tenpo ona. lipu kasi ona li kama ala moli. ijo ale pi pali ona li kama suli.
+3: ! ona li kama sama kasi suli li noka lon poka pi linja telo. ona li pana e kili lon tenpo ona. lipu kasi ona li kama ala moli. ijo ale pi pali ona li kama suli.
 
-4: ni li lon ala tawa jan ike. ante la ona li sama selo pi kasi pan. kon tawa li weka e ona.
+4: ! ni li lon ala tawa jan ike. ante la ona li sama selo pi kasi pan. kon tawa li weka e ona.
 
-5: tan ni la jan ike li kama ala awen noka lon utala lawa. kin la pali ike li awen ala lon kulupu pi jan pona.
+5: ! tan ni la jan ike li kama ala awen noka lon utala lawa. kin la pali ike li awen ala lon kulupu pi jan pona.
 
-6: tan ni: sewi Jawe li sona e nasin pi jan pona. taso nasin pi jan ike li kama weka.
+6: ! tan ni: sewi Jawe li sona e nasin pi jan pona. taso nasin pi jan ike li kama weka.
 
 ### psalms 2
-1: tan seme la kulupu jan li pilin wawa? tan seme la kulupu jan li toki e ala?
+1: ! tan seme la kulupu jan li pilin wawa? tan seme la kulupu jan li toki e ala?
 
-2: jan lawa ma li kama. sama wan la jan lawa lili li toki e nasin. nasin ni li utala e sewi Jawe e jan ona pi lawa pi telo sewi.
+2: ! jan lawa ma li kama. sama wan la jan lawa lili li toki e nasin. nasin ni li utala e sewi Jawe e jan ona pi lawa pi telo sewi.
 
-3: mi o kipisi e linja kiwen ona pi anpa lawa o weka wawa e linja ona.
+3: ! mi o kipisi e linja kiwen ona pi anpa lawa o weka wawa e linja ona.
 
-4: ona li awen lon sewi la ona ni li mu musi. sewi Atona li toki jaki e ona mute.
+4: ! ona li awen lon sewi la ona ni li mu musi. sewi Atona li toki jaki e ona mute.
 
-5: ni la ona li toki tawa ona mute kepeken pillin utala ona. ona li monsuta e ona mute kepeken pilin utala wawa ona.
+5: ! ni la ona li toki tawa ona mute kepeken pillin utala ona. ona li monsuta e ona mute kepeken pilin utala wawa ona.
 
-6: taso mi a li telo sewi e jan lawa mi lon nena ma sewi mi Sijon.
+6: ! taso mi a li telo sewi e jan lawa mi lon nena ma sewi mi Sijon.
 
-7: mi toki sona e lawa pi sewi Jawe. ona li toki e ni tawa mi: sina jan lili mije mi. tenpo suno ni la mi kama lon e sina.
+7: ! mi toki sona e lawa pi sewi Jawe. ona li toki e ni tawa mi: sina jan lili mije mi. tenpo suno ni la mi kama lon e sina.
 
-8: o toki e wile tawa mi la mi pana tawa sina e kulupu jan lon jo ma mama sina. sama la jo ma sina li tawa selo pi ma ale.
+8: ! o toki e wile tawa mi la mi pana tawa sina e kulupu jan lon jo ma mama sina. sama la jo ma sina li tawa selo pi ma ale.
 
-9: sina pakala e ona kepeken palisa kiwen. sina pakala e poki pi kiwen ko la sina pakala tawa kipisi e ona sama ni.
+9: ! sina pakala e ona kepeken palisa kiwen. sina pakala e poki pi kiwen ko la sina pakala tawa kipisi e ona sama ni.
 
-10: ni la jan lawa mute o kama sona. jan pi lawa nasin o kute pona e pilin sina.
+10: ! ni la jan lawa mute o kama sona. jan pi lawa nasin o kute pona e pilin sina.
 
-11: o pali tawa sewi Jawe kepeken monsuta. o musi suli kepeken tawa wawa insa.
+11: ! o pali tawa sewi Jawe kepeken monsuta. o musi suli kepeken tawa wawa insa.
 
-12: o uta lili e jan lili mije. ante la ona li kama utala pilin. kin la sina kama weka tan nasin. pilin utala ona li kama la ni. jan li alasa e awen pi pana ona la jan ni li pona sewi.
+12: ! o uta lili e jan lili mije. ante la ona li kama utala pilin. kin la sina kama weka tan nasin. pilin utala ona li kama la ni. jan li alasa e awen pi pana ona la jan ni li pona sewi.
 
 ### psalms 3
-1: ni li kalama musi pi jan Tawi lon tenpo ni: ona li tawa weka tan jan lili ona Asalon.
+1: ! ni li kalama musi pi jan Tawi lon tenpo ni: ona li tawa weka tan jan lili ona Asalon.
 
-2: sewi Jawe o. jan ike utala mi li kama mute a. mute li tawa noka lon utala tawa mi.
+2: ! sewi Jawe o. jan ike utala mi li kama mute a. mute li tawa noka lon utala tawa mi.
 
-3: mute li toki e ni tawa kon mi: awen li lon ala tawa ona tan sewi Elowin. a Sela.
+3: ! mute li toki e ni tawa kon mi: awen li lon ala tawa ona tan sewi Elowin. a Sela.
 
-4: kin la sina sewi Jawe. sina ilo awen utala tawa mi. sina suli kon mi. sina ijo ni: ona li tawa sewi e lawa mi.
+4: ! kin la sina sewi Jawe. sina ilo awen utala tawa mi. sina suli kon mi. sina ijo ni: ona li tawa sewi e lawa mi.
 
-5: mi kalama e toki mi tawa sewi Jawe.  ona li toki sin tawa mi tan nena ma sewi ona. a Sela.
+5: ! mi kalama e toki mi tawa sewi Jawe.  ona li toki sin tawa mi tan nena ma sewi ona. a Sela.
 
-6: mi supa. mi lape. mi pini e lape. tan ni: sewi Jawe li awen e mi.
+6: ! mi supa. mi lape. mi pini e lape. tan ni: sewi Jawe li awen e mi.
 
-7: mi monsuta ala tan jan mute mute ni: ona li kama lon poka ale mi.
+7: ! mi monsuta ala tan jan mute mute ni: ona li kama lon poka ale mi.
 
-8: sewi Jawe o tawa noka. sewi mi o awen e mi a. sina utala luka e poka sinpin pi jan ike ale mi, sina pakala e kiwen uta pi jan ike.
+8: ! sewi Jawe o tawa noka. sewi mi o awen e mi a. sina utala luka e poka sinpin pi jan ike ale mi, sina pakala e kiwen uta pi jan ike.
 
-9: awen li lon sewi Jawe. pona sewi pi pana sina li lon kulupu jan sina. a Sela.
+9: ! awen li lon sewi Jawe. pona sewi pi pana sina li lon kulupu jan sina. a Sela.
 
 ### psalms 4
-1: ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi.
+1: ! ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi.
 
-2: mi kalama e toki la o toki sin tawa mi. sewi pi nasin pona mi o. lon lili la sina suli e lili tawa mi. o weka e sona pi pali ike mi. o kute e toki sewi mi.
+2: ! mi kalama e toki la o toki sin tawa mi. sewi pi nasin pona mi o. lon lili la sina suli e lili tawa mi. o weka e sona pi pali ike mi. o kute e toki sewi mi.
 
-3: jan lili jan o. ni li pini lon tenpo seme: suli kon mi li kama jaki. sama la sina olin e ala, sina alasa e ijo pi lon ala? a Sela.
+3: ! jan lili jan o. ni li pini lon tenpo seme: suli kon mi li kama jaki. sama la sina olin e ala, sina alasa e ijo pi lon ala? a Sela.
 
-4: kin la o sona e ni: sewi Jawe li weka e jan pi nasin ona tawa ona. mi toki suli tawa sewi Jawe la ona li kama kute.
+4: ! kin la o sona e ni: sewi Jawe li weka e jan pi nasin ona tawa ona. mi toki suli tawa sewi Jawe la ona li kama kute.
 
-5: o pilin wawa o pali ala e ike o toki insa lon supa sina o kalama ala. a Sela.
+5: ! o pilin wawa o pali ala e ike o toki insa lon supa sina o kalama ala. a Sela.
 
-6: o moli sewi e ijo pana pi weka ike. o pana e pilin awen tawa sewi Jawe.
+6: ! o moli sewi e ijo pana pi weka ike. o pana e pilin awen tawa sewi Jawe.
 
-7: mute li toki e ni: jan seme li ken pana e ijo pona tawa lukin mi? sewi Jawe o. o pana e suno sina pi sinpin lawa lon mi.
+7: ! mute li toki e ni: jan seme li ken pana e ijo pona tawa lukin mi? sewi Jawe o. o pana e suno sina pi sinpin lawa lon mi.
 
-8: sina pana e musi tawa pilin mi. ona li kama mute lon tenpo ni: pan ona en telo kili ona li lon.
+8: ! sina pana e musi tawa pilin mi. ona li kama mute lon tenpo ni: pan ona en telo kili ona li lon.
 
-9: pona wan la mi kama supa, mi lape. tan ni: sina sewi Jawe li taso. lon la sina monsi e mi.
+9: ! pona wan la mi kama supa, mi lape. tan ni: sina sewi Jawe li taso. lon la sina monsi e mi.
 
 ### psalms 5
-1: ni li kalama musi pi jan Tawi tawa jan lawa ilo pi kalama musi.
+1: ! ni li kalama musi pi jan Tawi tawa jan lawa ilo pi kalama musi.
 
-2: sewi Jawe o kute e toki mi. o sona e toki insa mi.
+2: ! sewi Jawe o kute e toki mi. o sona e toki insa mi.
 
-3: jan lawa mi o. sewi mi o. o kute e kalama mi pi wile insa. lon ni: mi toki sewi tawa sina.
+3: ! jan lawa mi o. sewi mi o. o kute e kalama mi pi wile insa. lon ni: mi toki sewi tawa sina.
 
-4: sewi Jawe o, tenpo pi open suno la, sina kute e kalama mi. tenpo pi open suno la, mi pali e ijo tawa sina, mi awen lukin.
+4: ! sewi Jawe o, tenpo pi open suno la, sina kute e kalama mi. tenpo pi open suno la, mi pali e ijo tawa sina, mi awen lukin.
 
-5: lon la sina sewi ni ala: ona li wile e ike. ike li lon ala poka sina.
+5: ! lon la sina sewi ni ala: ona li wile e ike. ike li lon ala poka sina.
 
-6: jan pi lawa ike li awen ala lon sinpin sina. sina pilin ike wawa e jan ale pi pali ike.
+6: ! jan pi lawa ike li awen ala lon sinpin sina. sina pilin ike wawa e jan ale pi pali ike.
 
-7: sina weka e jan pali pi lon ala. jan li wile e telo loje li toki e lon ala la sewi Jawe li pilin utala mute e ona.
+7: ! sina weka e jan pali pi lon ala. jan li wile e telo loje li toki e lon ala la sewi Jawe li pilin utala mute e ona.
 
-8: mi la lon pona mute sina la mi tawa tomo sina. mi anpa e mi tawa tomo sewi sina lon monsuta sina.
+8: ! mi la lon pona mute sina la mi tawa tomo sina. mi anpa e mi tawa tomo sewi sina lon monsuta sina.
 
-9: sewi Jawe o. o lawa e mi kepeken nasin pona sina tan ni: jan ike mi li lon. o supa e nasin sina lon sinpin mi.
+9: ! sewi Jawe o. o lawa e mi kepeken nasin pona sina tan ni: jan ike mi li lon. o supa e nasin sina lon sinpin mi.
 
-10: tan ni: uta ona li jo ala e lon. insa sijelo ona li wile pakala. monsi uta ona li lupa moli open. kepeken linja uta ona la ona li sama ko.
+10: ! tan ni: uta ona li jo ala e lon. insa sijelo ona li wile pakala. monsi uta ona li lupa moli open. kepeken linja uta ona la ona li sama ko.
 
-11: o toki e ike ona, sewi Elowin o. ona o kama anpa tan sona nasin ona. ona li pali e ijo utala mute. ni la o tawa weka e ona tan ni: ona li utala e sina.
+11: ! o toki e ike ona, sewi Elowin o. ona o kama anpa tan sona nasin ona. ona li pali e ijo utala mute. ni la o tawa weka e ona tan ni: ona li utala e sina.
 
-12: jan li alasa e awen pi pana sina la ona li pali e musi tawa tenpo pi pini ala. sina pana e awen tawa ona. ona li olin e nimi sina la ona ni li mu musi lon sina.
+12: ! jan li alasa e awen pi pana sina la ona li pali e musi tawa tenpo pi pini ala. sina pana e awen tawa ona. ona li olin e nimi sina la ona ni li mu musi lon sina.
 
-13: lon la sina pona sewi e jan pi lawa pona, sewi Jawe o. sina pana e wile pona lon poka ale ona, sama ilo awen utala suli.
+13: ! lon la sina pona sewi e jan pi lawa pona, sewi Jawe o. sina pana e wile pona lon poka ale ona, sama ilo awen utala suli.
 ### psalms 6
-1: ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi kepeken ilo Semini.
+1: ! ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi kepeken ilo Semini.
 
-2: sewi Jawe o. o pona ala e sona mi kepeken wawa lon pilin ike sina, o awen ala pakala e mi lon pilin utala sina.
+2: ! sewi Jawe o. o pona ala e sona mi kepeken wawa lon pilin ike sina, o awen ala pakala e mi lon pilin utala sina.
 
-3: sewi Jawe o weka e pali ike mi, tan ni: mi kama wawa ala. sewi Jawe o pona e sijelo mi, tan ni: kiwen sijelo insa mi li pilin monsuta.
+3: ! sewi Jawe o weka e pali ike mi, tan ni: mi kama wawa ala. sewi Jawe o pona e sijelo mi, tan ni: kiwen sijelo insa mi li pilin monsuta.
 
-4: kin la lon mi li pilin monsuta mute. sina sewi Jawe. tawa tenpo seme?
+4: ! kin la lon mi li pilin monsuta mute. sina sewi Jawe. tawa tenpo seme?
 
-5: sewi Jawe o kama sin. o weka e mi tawa awen. o awen e mi tan ni: sina pona.
+5: ! sewi Jawe o kama sin. o weka e mi tawa awen. o awen e mi tan ni: sina pona.
 
-6: moli la awen sona sina li ala. lon ma moli la jan seme li toki e pona tawa sina?
+6: ! moli la awen sona sina li ala. lon ma moli la jan seme li toki e pona tawa sina?
 
-7: mi wawa ala tan mu ike mi. tenpo pimeja ale la mi tawa telo e supa lape mi. mi telo e supa mi kepeken telo oko mi.
+7: ! mi wawa ala tan mu ike mi. tenpo pimeja ale la mi tawa telo e supa lape mi. mi telo e supa mi kepeken telo oko mi.
 
-8: pilin ike li ko e oko mi. ona li kama pakala tan jan ike mi ale.
+8: ! pilin ike li ko e oko mi. ona li kama pakala tan jan ike mi ale.
 
-9: jan ale pi pali ike o tawa weka tan mi. tan ni: sewi Jawe li kute e kalama pi telo oko mi.
+9: ! jan ale pi pali ike o tawa weka tan mi. tan ni: sewi Jawe li kute e kalama pi telo oko mi.
 
-10: sewi Jawe li kute e toki mi pi wile suli. sewi Jawe li kama jo e toki sewi mi.
+10: ! sewi Jawe li kute e toki mi pi wile suli. sewi Jawe li kama jo e toki sewi mi.
 
-11: jan ike mi ale o pilin anpa o pilin monsuta mute. ona o tawa monsi, o pilin anpa, kepeken tenpo lili.
+11: ! jan ike mi ale o pilin anpa o pilin monsuta mute. ona o tawa monsi, o pilin anpa, kepeken tenpo lili.
 ### psalms 7
-1: ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Pinjamin.
+1: ! ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Pinjamin.
 
-2: sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
+2: ! sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
 
-4: sewi mi Jawe o, mi pali e ni la, ike pali li lon luka mi la,
+4: ! sewi mi Jawe o, mi pali e ni la, ike pali li lon luka mi la,
 
-5: mi pana e ike tawa jan pona mi la, mi pana e weka tawa jan ike pi utala mi tawa ala la,
+5: ! mi pana e ike tawa jan pona mi la, mi pana e weka tawa jan ike pi utala mi tawa ala la,
 
-6: jan ike o alasa e lon mi, o kama. ona o noka supa e lon mi tawa ma, o pana e suli mi tawa ko ma. a Sela.
+6: ! jan ike o alasa e lon mi, o kama. ona o noka supa e lon mi tawa ma, o pana e suli mi tawa ko ma. a Sela.
 ### psalms 8
 ### psalms 9
 ### psalms 10
@@ -1582,7 +1589,7 @@
 ### psalms 31
 ### psalms 32
 ### psalms 33
-12: pona li tawa kulupu ni: sewi Jawe li sewi ona. kulupu la ona li wile e ona tawa kama jo ona.
+12: ! pona li tawa kulupu ni: sewi Jawe li sewi ona. kulupu la ona li wile e ona tawa kama jo ona.
 
 ### psalms 34
 ### psalms 35
@@ -1670,31 +1677,31 @@
 ### psalms 115
 ### psalms 116
 ### psalms 117
-2: tan ni: pona ona li anpa e mi. sewi Jawe li nasin pona lon tenpo ale. o pana e pona sewi tawa sewi Jawe!
+2: ! tan ni: pona ona li anpa e mi. sewi Jawe li nasin pona lon tenpo ale. o pana e pona sewi tawa sewi Jawe!
 
 ### psalms 118
 ### psalms 119
 11: mi awen e toki sina lon pilin mi. ni la mi ike ala tawa sina.
 
-105: toki sina li ilo suno tawa noka mi li suno tawa nasin mi.
+105: ! toki sina li ilo suno tawa noka mi li suno tawa nasin mi.
 
 ### psalms 120
 ### psalms 121
-1: kalama musi pi nasin sewi. mi sewi e oko mi tawa nena ma. tan ma seme la, pona mi li kama?
+1: ! kalama musi pi nasin sewi. mi sewi e oko mi tawa nena ma. tan ma seme la, pona mi li kama?
 
-2: pona mi li tan sewi Jawe. ona li pali e kon sewi e ma.
+2: ! pona mi li tan sewi Jawe. ona li pali e kon sewi e ma.
 
-3: ona o tawa ala e pakala tawa noka sina. ona li lape ala, ona li awen sina.
+3: ! ona o tawa ala e pakala tawa noka sina. ona li lape ala, ona li awen sina.
 
-4: lon la, awen pi kulupu Isale li lape lili ala li lape ala.
+4: ! lon la, awen pi kulupu Isale li lape lili ala li lape ala.
 
-5: sewi Jawe li awen e sina. sewi Jawe li pimeja pi weka suno tawa luka awen sina.
+5: ! sewi Jawe li awen e sina. sewi Jawe li pimeja pi weka suno tawa luka awen sina.
 
-6: tenpo suno la suno li utala ala e sina. tenpo pimeja la mun li lon
+6: ! tenpo suno la suno li utala ala e sina. tenpo pimeja la mun li lon
 
-7: sewi Jawe li awen e sina tan ike ale. ona li awen e kon sina.
+7: ! sewi Jawe li awen e sina tan ike ale. ona li awen e kon sina.
 
-8: sewi Jawe li awen e weka sina e kama sina tan tenpo ni tawa tenpo ale. 
+8: ! sewi Jawe li awen e weka sina e kama sina tan tenpo ni tawa tenpo ale. 
 
 ### psalms 122
 ### psalms 123
@@ -1712,23 +1719,23 @@
 ### psalms 135
 ### psalms 136
 ### psalms 137
-1: lon linja telo pi ma Papilin la mi mute li monsi li pana e telo oko kin lon tenpo ni: mi awen sona e ma Sijon.
+1: ! lon linja telo pi ma Papilin la mi mute li monsi li pana e telo oko kin lon tenpo ni: mi awen sona e ma Sijon.
 
-2: lon ma ni la mi mute li lape e ilo pi kalama musi mi lon kasi suli linja.
+2: ! lon ma ni la mi mute li lape e ilo pi kalama musi mi lon kasi suli linja.
 
-3: tan ni: jan li lanpan e mi, li toki wile e toki pi kalama musi tan mi lon ma ni. jan li ike e mi. musi. o kalama e musi tawa mi tan musi pi ma Sijon.
+3: ! tan ni: jan li lanpan e mi, li toki wile e toki pi kalama musi tan mi lon ma ni. jan li ike e mi. musi. o kalama e musi tawa mi tan musi pi ma Sijon.
 
-4: kepeken seme la mi kalama e musi pi sewi Jawe lon ma pi jan ante?
+4: ! kepeken seme la mi kalama e musi pi sewi Jawe lon ma pi jan ante?
 
-5: ma Jelusalen o, mi weka e sona sina la luka ilo mi o kama kepeken ala.
+5: ! ma Jelusalen o, mi weka e sona sina la luka ilo mi o kama kepeken ala.
 
-6: linja uta mi o awen lon sewi uta mi lon ni: mi awen ala sona e sina. lon ni: mi sewi ala e ma Jelusalen tawa sewi pi musi mi.
+6: ! linja uta mi o awen lon sewi uta mi lon ni: mi awen ala sona e sina. lon ni: mi sewi ala e ma Jelusalen tawa sewi pi musi mi.
 
-7: sewi Jawe o awen sona e tenpo suno pi ma tomo Jelusalen tawa jan lili mije mute pi ma Eton. ona li kalama: o anpa e ona a!  o anpa e ona tawa noka ona.
+7: ! sewi Jawe o awen sona e tenpo suno pi ma tomo Jelusalen tawa jan lili mije mute pi ma Eton. ona li kalama: o anpa e ona a!  o anpa e ona tawa noka ona.
 
-8: jan lili meli pi ma Papilin o, lanpan li kama tawa sina. jan ni li pona: ona li pana sin e ijo tawa sina, sama ni: sina pana e ijo tawa mi.
+8: ! jan lili meli pi ma Papilin o, lanpan li kama tawa sina. jan ni li pona: ona li pana sin e ijo tawa sina, sama ni: sina pana e ijo tawa mi.
 
-9: jan ni li pona sewi: ona li lanpan e jan lili sin sina, li pakala kipisi e ona tawa kiwen ma.
+9: ! jan ni li pona sewi: ona li lanpan e jan lili sin sina, li pakala kipisi e ona tawa kiwen ma.
 
 ### psalms 138
 ### psalms 139
@@ -1758,7 +1765,7 @@
 ### proverbs 12
 ### proverbs 13
 ### proverbs 14
-34: pali pona li sewi e kulupu. taso pali pona mute tawa kulupu mute li pali ike.
+34: ! pali pona li sewi e kulupu. taso pali pona mute tawa kulupu mute li pali ike.
 
 ### proverbs 15
 ### proverbs 16
@@ -1806,15 +1813,23 @@
 ### ecclesiastes 12
 ## song of songs
 ### song of songs 1
-1: kalama musi pi kalama musi tan jan Selomo
+1: ! kalama musi pi kalama musi tan jan Selomo
 
-2: ona o uta e mi kepeken uta olin tan uta ona, lon ni: telo kili nasa la olin sina li suwi mute.
+2: ! ona o uta e mi kepeken uta olin tan uta ona, lon ni: telo kili nasa la olin sina li suwi mute.
 
-3: kon pi ko telo sijelo sina li pona tawa nena. nimi sina li pana suwi sama ko telo.  ni la meli sin li olin e sina.
+3: ! kon pi ko telo sijelo sina li pona tawa nena. nimi sina li pana suwi sama ko telo.  ni la meli sin li olin e sina.
 
-7: mi olin wawa e sina, ni la o toki tawa mi. lon ma seme la sina alasa e moku? lon ma seme la sina pali e lape lon tenpo pi suno sewi? tan seme la mi o tawa anpa tawa kulupu soweli pi kulupu jan sina?
+4: ! o tawa e mi tawa monsi pi tawa sina. mi tu li tawa noka wawa. jan lawa suli li kama e mi tawa insa tomo ona. lon sina la mi pilin e pilin pona e pilin musi wawa. telo kili nasa la mi awen sona e pali olin sina. ona ale li olin e sina kepeken pali lili.
 
-8: sina o! sina pona lukin lon meli ale. sina sona ala la o tawa lon nasin noka soweli, o pana e moku tawa soweli lili sina lon poka pi ma pi jan pali soweli.
+6: ! o awen ala lukin e mi tan kule pimeja mi, tan ni: suno li pimeja e mi. mije lili pi mama meli mi li pilin utala tawa mi. ona li lon e ni: mi awen e ma kili. mi awen ala e ma kili mi.
+
+7: ! mi olin wawa e sina, ni la o toki tawa mi. lon ma seme la sina alasa e moku? lon ma seme la sina pali e lape lon tenpo pi suno sewi? tan seme la mi o tawa anpa tawa kulupu soweli pi kulupu jan sina?
+
+8: ! sina o! sina pona lukin lon meli ale. sina sona ala la o tawa lon nasin noka soweli, o pana e moku tawa soweli lili sina lon poka pi ma pi jan pali soweli.
+
+10: ! poka pi sinpin lawa sina li pona lukin, kepeken ijo namako. sama la kulupu pi kiwen suwi li sike lon anpa lawa sina.
+
+11: ! mi pali e ijo namako pi kiwen mani jelo tawa sina. ona li jo e nena pi kiwen mani walo.
 ### song of songs 2
 ### song of songs 3
 ### song of songs 4
@@ -1964,227 +1979,227 @@
 ### jeremiah 52
 ## lamentations
 ### lamentations 1
-1: ike a! tenpo wan la, jan mute mute li lon ma tomo Jelusalen. tenpo ni la, jan ala li lon. tenpo wan la, ma tomo Jelusalen li suli tawa ma ale. tenpo ni la, ona li kama sama meli pilin ike tan moli pi mije ona. tenpo wan la, ona li sama meli lawa; ma ante ale li sewi e ona. tenpo ni la, mi mute pi ma tomo Jelusalen li kama sama jan anpa pali.
+1: ? ike a! tenpo wan la, jan mute mute li lon ma tomo Jelusalen. tenpo ni la, jan ala li lon. tenpo wan la, ma tomo Jelusalen li suli tawa ma ale. tenpo ni la, ona li kama sama meli pilin ike tan moli pi mije ona. tenpo wan la, ona li sama meli lawa; ma ante ale li sewi e ona. tenpo ni la, mi mute pi ma tomo Jelusalen li kama sama jan anpa pali.
 
-2: tenpo pimeja la, mi mute li pana ike e telo tan oko. telo oko li lon poka sinpin. jan ala pi jan olin ale li pana e pona tawa mi. tenpo pini la, jan lawa mute pi ma ante li pona tawa mi. tenpo ni la, ona ale li kama jan ike tawa jan ale pi ma tomo Jelusalen.
+2: ? tenpo pimeja la, mi mute li pana ike e telo tan oko. telo oko li lon poka sinpin. jan ala pi jan olin ale li pana e pona tawa mi. tenpo pini la, jan lawa mute pi ma ante li pona tawa mi. tenpo ni la, ona ale li kama jan ike tawa jan ale pi ma tomo Jelusalen.
 
-3: jan li tawa weka e kulupu Juta. ona li jan anpa pali li pilin ike mute. ona li lon ma ante li ken ala jo e awen pona. jan ike ona li lanpan e ona. ona li ken ala weka.
+3: ? jan li tawa weka e kulupu Juta. ona li jan anpa pali li pilin ike mute. ona li lon ma ante li ken ala jo e awen pona. jan ike ona li lanpan e ona. ona li ken ala weka.
 
-4: jan ala li lon nasin pi nena Sijon tan ni: lon ma ni la, jan ala li kama li wan e moku suli sewi. jan ala li tawa lupa suli ona pi kama insa. jan sewi ona li mu. meli lili pi ma tomo Jelusalen li pana e telo tan oko tan ni: ona li pilin ike mute.
+4: ? jan ala li lon nasin pi nena Sijon tan ni: lon ma ni la, jan ala li kama li wan e moku suli sewi. jan ala li tawa lupa suli ona pi kama insa. jan sewi ona li mu. meli lili pi ma tomo Jelusalen li pana e telo tan oko tan ni: ona li pilin ike mute.
 
-5: jan ike tawa mi mute li anpa e ma tomo li wawa. sewi Jawe li pana e ike tawa kulupu pi ma tomo Jelusalen tan pali ike ale ona.  jan li lanpan e jan lili pi ma tomo Jelusalen li tawa e ona lon ma ante. 
+5: ? jan ike tawa mi mute li anpa e ma tomo li wawa. sewi Jawe li pana e ike tawa kulupu pi ma tomo Jelusalen tan pali ike ale ona.  jan li lanpan e jan lili pi ma tomo Jelusalen li tawa e ona lon ma ante. 
 
-6: tenpo pini la, ma tomo Jelusalen li ma tomo pi pona lukin mute. tenpo ni la, ona li pona lukin ala. kasi ma li lon ala la, soweli pi palisa lawa li moli tan wile moku; jan lawa pi ma tomo li sama soweli ni. ona li wawa lili. tan ni la, ona li ken ala tawa wawa tan jan ike.
+6: ? tenpo pini la, ma tomo Jelusalen li ma tomo pi pona lukin mute. tenpo ni la, ona li pona lukin ala. kasi ma li lon ala la, soweli pi palisa lawa li moli tan wile moku; jan lawa pi ma tomo li sama soweli ni. ona li wawa lili. tan ni la, ona li ken ala tawa wawa tan jan ike.
 
-7: kulupu jan pi ma tomo Jelusalen li pilin ike li tawa kepeken nasin mute li toki insa e ni: tenpo pini la, ma tomo mi li suli. taso tenpo ni la, jan ike tawa mi mute li lanpan e ma tomo. jan ala li pana e pona tawa kulupu jan. jan ike li pakala e ma tomo li pana e kalama uta musi.
+7: ? kulupu jan pi ma tomo Jelusalen li pilin ike li tawa kepeken nasin mute li toki insa e ni: tenpo pini la, ma tomo mi li suli. taso tenpo ni la, jan ike tawa mi mute li lanpan e ma tomo. jan ala li pana e pona tawa kulupu jan. jan ike li pakala e ma tomo li pana e kalama uta musi.
 
-8: jan pi ma tomo Jelusalen li pali ike mute. nasin ni la, ma tomo li kama sama len jaki. tenpo pini la, jan li sewi e ma tomo. tenpo ni la, ona li ike mute tawa jan sama. jan sama li lukin e ni: ma tomo li kama anpa ike. tenpo ni la, jan pi ma tomo li mu li len e sinpin ona tan ni: ona li apeja mute.
+8: ? jan pi ma tomo Jelusalen li pali ike mute. nasin ni la, ma tomo li kama sama len jaki. tenpo pini la, jan li sewi e ma tomo. tenpo ni la, ona li ike mute tawa jan sama. jan sama li lukin e ni: ma tomo li kama anpa ike. tenpo ni la, jan pi ma tomo li mu li len e sinpin ona tan ni: ona li apeja mute.
 
-9: ma tomo li kama jaki tan ni: jan ona li pali ike. jan ona li wile ala sona e ni: ma tomo li kama seme. tenpo ni la, ma tomo li pakala. jan ala li pana e pona tawa kulupu jan. kulupu jan li toki wawa e ni: sewi Jawe o lukin e ni: mi mute li pilin ike tan ni: jan ike li anpa e mi.
+9: ? ma tomo li kama jaki tan ni: jan ona li pali ike. jan ona li wile ala sona e ni: ma tomo li kama seme. tenpo ni la, ma tomo li pakala. jan ala li pana e pona tawa kulupu jan. kulupu jan li toki wawa e ni: sewi Jawe o lukin e ni: mi mute li pilin ike tan ni: jan ike li anpa e mi.
 
-10: jan ike li lanpan e mani ale, e ijo pona ale pi mi mute. mi lukin e jan utala pi ma ante. ona li olin sewi ala e sewi Jawe li tawa insa pi tomo sewi. jan pi ma ante o tawa ala insa pi tomo ni!
+10: ? jan ike li lanpan e mani ale, e ijo pona ale pi mi mute. mi lukin e jan utala pi ma ante. ona li olin sewi ala e sewi Jawe li tawa insa pi tomo sewi. jan pi ma ante o tawa ala insa pi tomo ni!
 
-11: jan pi ma tomo li mu li alasa e moku. ona li pana esun e ijo pona tan ni: ona li wile e moku li wile moli ala. ona li toki e ni: sewi Jawe o lukin e mi mute; mi ike tawa jan ale.
+11: ? jan pi ma tomo li mu li alasa e moku. ona li pana esun e ijo pona tan ni: ona li wile e moku li wile moli ala. ona li toki e ni: sewi Jawe o lukin e mi mute; mi ike tawa jan ale.
 
-12: jan pi nasin poka o! lukin la, sina wile ala sona e pakala pi mi mute. sina lukin lon ale la, jan ante ala li pilin ike sama mi. sewi Jawe li pana e ike tawa mi tan ni: ona li pilin utala tawa mi.
+12: ? jan pi nasin poka o! lukin la, sina wile ala sona e pakala pi mi mute. sina lukin lon ale la, jan ante ala li pilin ike sama mi. sewi Jawe li pana e ike tawa mi tan ni: ona li pilin utala tawa mi.
 
-13: ona li pana e seli tan kon sewi. seli ni li seli lon insa pi mi mute. supa ma la, ona li pana e ilo alasa tawa noka mi, li weka e ken mi pi tawa noka. ona li weka tan mi. tenpo suno ale la, mi wawa lili.
+13: ? ona li pana e seli tan kon sewi. seli ni li seli lon insa pi mi mute. supa ma la, ona li pana e ilo alasa tawa noka mi, li weka e ken mi pi tawa noka. ona li weka tan mi. tenpo suno ale la, mi wawa lili.
 
-14: sewi Jawe li kama e ni: pali ike pi mi mute li kama suli tawa mi. ona li wan e pali ike lon anpa lawa mi. tenpo pini la, mi wawa. sewi Jawe li kama e ni: mi kama wawa lili. ona li ken e ni: jan utala li lanpan e mi mute. taso mi ken ala utala e ona.
+14: ? sewi Jawe li kama e ni: pali ike pi mi mute li kama suli tawa mi. ona li wan e pali ike lon anpa lawa mi. tenpo pini la, mi wawa. sewi Jawe li kama e ni: mi kama wawa lili. ona li ken e ni: jan utala li lanpan e mi mute. taso mi ken ala utala e ona.
 
-15: sewi Jawe li lukin e jan utala wawa pi mi mute li pana e kalama uta musi tawa ona. ona li kama e kulupu suli pi jan utala tan ni: ona li pakala e jan utala lili mi. jan li pali e telo loje nasa la, ona li pakala noka e kili lili lon lupa. nasin sama la, sewi Jawe li pakala noka e kulupu Juta.
+15: ? sewi Jawe li lukin e jan utala wawa pi mi mute li pana e kalama uta musi tawa ona. ona li kama e kulupu suli pi jan utala tan ni: ona li pakala e jan utala lili mi. jan li pali e telo loje nasa la, ona li pakala noka e kili lili lon lupa. nasin sama la, sewi Jawe li pakala noka e kulupu Juta.
 
-16: ni ale la, mi pana e telo tan oko. oko mi li pana e telo mute. jan ala li pana e pona tawa mi. poka mi la, jan ala li pana e wile tawa mi. jan ike tawa mi mute li anpa e mi. tenpo kama la, jan lili mi li jo ala e ijo pona.
+16: ? ni ale la, mi pana e telo tan oko. oko mi li pana e telo mute. jan ala li pana e pona tawa mi. poka mi la, jan ala li pana e wile tawa mi. jan ike tawa mi mute li anpa e mi. tenpo kama la, jan lili mi li jo ala e ijo pona.
 
-17: kulupu pi ma tomo Jelusalen li open e luka li wile e pana pona la, jan ala li pana e pona tawa mi. kulupu pi jan Jako la, sewi Jawe li kama wile e ni: ma lon poka la, jan li kama ike tawa mi li lukin e ma tomo Jelusalen sama len jaki.
+17: ? kulupu pi ma tomo Jelusalen li open e luka li wile e pana pona la, jan ala li pana e pona tawa mi. kulupu pi jan Jako la, sewi Jawe li kama wile e ni: ma lon poka la, jan li kama ike tawa mi li lukin e ma tomo Jelusalen sama len jaki.
 
-18: sewi Jawe li pali tawa mi la, ale li pona tan ni: mi kute ala e toki lawa pi sewi Jawe. jan ale lon ale o kute e mi o lukin e ni: mi mute li pilin ike mute. tenpo pini la, mi jo e mije lili mute e meli lili mute. tenpo ni la, jan li lanpan e ona li tawa e ona lon ma weka.
+18: ? sewi Jawe li pali tawa mi la, ale li pona tan ni: mi kute ala e toki lawa pi sewi Jawe. jan ale lon ale o kute e mi o lukin e ni: mi mute li pilin ike mute. tenpo pini la, mi jo e mije lili mute e meli lili mute. tenpo ni la, jan li lanpan e ona li tawa e ona lon ma weka.
 
-19: mi mute li toki wile tawa jan pona e ni: o pana e pona tawa mi. taso ona li wile ala pana pona. jan sewi mi en jan lawa mi li lukin e moku la, ona li moli tan wile moku.
+19: ? mi mute li toki wile tawa jan pona e ni: o pana e pona tawa mi. taso ona li wile ala pana pona. jan sewi mi en jan lawa mi li lukin e moku la, ona li moli tan wile moku.
 
-20: sewi Jawe o lukin e ni: mi mute li pilin ike mute. insa mi li pilin pakala. mi pilin anpa tan ni: mi kute ala e sina. nasin pi ma tomo la, jan ike li moli e jan kepeken palisa utala. jan li moli tan wile moku.
+20: ? sewi Jawe o lukin e ni: mi mute li pilin ike mute. insa mi li pilin pakala. mi pilin anpa tan ni: mi kute ala e sina. nasin pi ma tomo la, jan ike li moli e jan kepeken palisa utala. jan li moli tan wile moku.
 
-21: mi mute li mu la, jan li kute e mi. taso jan ala li kama pana e pona tawa mi. sewi Jawe o, mi pakala tan sina. jan ike li pilin pona tan ni: ona li lukin e pali sina. taso o kama e tenpo pi wile sina. jan ike tawa mi o pilin ike sama mi!
+21: ? mi mute li mu la, jan li kute e mi. taso jan ala li kama pana e pona tawa mi. sewi Jawe o, mi pakala tan sina. jan ike li pilin pona tan ni: ona li lukin e pali sina. taso o kama e tenpo pi wile sina. jan ike tawa mi o pilin ike sama mi!
 
-22: sewi Jawe o lukin e pali ike pi jan ike o pana e ike tawa ona! sina pana e ike tawa mi tan pali ike mi; nasin sama la, o pana e ike tawa ona! mi toki tawa sina tan ni: mi pilin ike mute; mi mu mute; mi pilin anpa mute.
+22: ? sewi Jawe o lukin e pali ike pi jan ike o pana e ike tawa ona! sina pana e ike tawa mi tan pali ike mi; nasin sama la, o pana e ike tawa ona! mi toki tawa sina tan ni: mi pilin ike mute; mi mu mute; mi pilin anpa mute.
 
 ### lamentations 2
-1: sewi Jawe li pilin utala mute tawa mi mute. tan ni la, ona li len e ma tomo Jelusalen kepeken kon telo pimeja. tenpo wan la, ma tomo Jelusalen li ma tomo pi pona lukin. tenpo ni la, ona li kama pakala tan sewi Jawe. sewi Jawe li pana e ike tawa kulupu Isale la, ona li weka tan tomo sewi ona kin lon ma tomo Jelusalen.
+1: ? sewi Jawe li pilin utala mute tawa mi mute. tan ni la, ona li len e ma tomo Jelusalen kepeken kon telo pimeja. tenpo wan la, ma tomo Jelusalen li ma tomo pi pona lukin. tenpo ni la, ona li kama pakala tan sewi Jawe. sewi Jawe li pana e ike tawa kulupu Isale la, ona li weka tan tomo sewi ona kin lon ma tomo Jelusalen.
 
-2: sewi Jawe li pakala e tomo pi kulupu Juta. ona li pali olin ala. ona li pilin utala mute la, ona li pakala e tomo wawa pi ma Juta. tan ona la, ma mi en jan lawa mi li kama apeja [anu: anpa ike]. sewi Jawe li weka e ona.
+2: ? sewi Jawe li pakala e tomo pi kulupu Juta. ona li pali olin ala. ona li pilin utala mute la, ona li pakala e tomo wawa pi ma Juta. tan ona la, ma mi en jan lawa mi li kama apeja [anu: anpa ike]. sewi Jawe li weka e ona.
 
-3: sewi Jawe li pilin utala mute la, ona li anpa e kulupu Isale. jan ike li utala e mi mute la, sewi Jawe li wile ala awen e mi. seli wawa li pakala e ale; nasin sama la, sewi Jawe li pakala e kulupu Isale.
+3: ? sewi Jawe li pilin utala mute la, ona li anpa e kulupu Isale. jan ike li utala e mi mute la, sewi Jawe li wile ala awen e mi. seli wawa li pakala e ale; nasin sama la, sewi Jawe li pakala e kulupu Isale.
 
-4: ona li sike lili e ilo alasa, li wile moli e mi mute kepeken palisa utala lili; mi sama jan ike tawa ona. ona li kama moli e jan olin pi mi mute e kulupu mama mi. ona li pilin utala mute tawa jan pi ma tomo Jelusalen. pilin utala ona li sama seli.
+4: ? ona li sike lili e ilo alasa, li wile moli e mi mute kepeken palisa utala lili; mi sama jan ike tawa ona. ona li kama moli e jan olin pi mi mute e kulupu mama mi. ona li pilin utala mute tawa jan pi ma tomo Jelusalen. pilin utala ona li sama seli.
 
-5: sewi Jawe li kama sama jan ike tawa kulupu Isale, li pakala e tomo suli pi mi mute e tomo wawa. ona li weka e jan mute pi ma tomo Jelusalen. tan ona la, mi pilin ike tan weka pi jan moli, mi pana e telo tan oko.
+5: ? sewi Jawe li kama sama jan ike tawa kulupu Isale, li pakala e tomo suli pi mi mute e tomo wawa. ona li weka e jan mute pi ma tomo Jelusalen. tan ona la, mi pilin ike tan weka pi jan moli, mi pana e telo tan oko.
 
-6: tan ona la, tomo sewi ona li kama pakala sama tomo lili lon ma kasi. tan ona la, mi mute li weka e sona pi tenpo ale sewi e sona pi tenpo suno wan sewi. tan ona la, jan li weka wawa e jan lawa mi e jan sewi mi, tan ni: sewi Jawe li pilin utala mute tawa ona.
+6: ? tan ona la, tomo sewi ona li kama pakala sama tomo lili lon ma kasi. tan ona la, mi mute li weka e sona pi tenpo ale sewi e sona pi tenpo suno wan sewi. tan ona la, jan li weka wawa e jan lawa mi e jan sewi mi, tan ni: sewi Jawe li pilin utala mute tawa ona.
 
-7: sewi Jawe li weka wawa tan supa sewi ona tan tomo sewi ona. ona li ken e ni: jan ike pi mi mute li pakala e sinpin pi tomo sewi mi e sinpin pi tomo suli mi. tenpo wan la, mi kalama wawa pona lon tenpo sewi. nasin sama la, jan ike li kalama wawa pona lon tomo sewi pi sewi Jawe.
+7: ? sewi Jawe li weka wawa tan supa sewi ona tan tomo sewi ona. ona li ken e ni: jan ike pi mi mute li pakala e sinpin pi tomo sewi mi e sinpin pi tomo suli mi. tenpo wan la, mi kalama wawa pona lon tenpo sewi. nasin sama la, jan ike li kalama wawa pona lon tomo sewi pi sewi Jawe.
 
-8: sewi Jawe li wile e ni: sinpin pi ma tomo mi o kama pakala. lukin la, ona li nanpa e sinpin, li pakala e sinpin. lukin la, tan ona la, tomo suli palisa en sinpin li pana e telo oko.
+8: ? sewi Jawe li wile e ni: sinpin pi ma tomo mi o kama pakala. lukin la, ona li nanpa e sinpin, li pakala e sinpin. lukin la, tan ona la, tomo suli palisa en sinpin li pana e telo oko.
 
-9: ma tomo la, lupa suli pi kama insa en palisa pi pake lupa li pakala. jan lawa en jan ona pi pana sona li tawa ma ante. tenpo ni la, jan ala li pana e sona pi lawa sewi tawa kulupu jan. tenpo ni la, jan pi toki sewi li kama ala jo e sitelen insa sewi; sewi Jawe li pana ala e sitelen insa tawa ona.
+9: ? ma tomo la, lupa suli pi kama insa en palisa pi pake lupa li pakala. jan lawa en jan ona pi pana sona li tawa ma ante. tenpo ni la, jan ala li pana e sona pi lawa sewi tawa kulupu jan. tenpo ni la, jan pi toki sewi li kama ala jo e sitelen insa sewi; sewi Jawe li pana ala e sitelen insa tawa ona.
 
-10: ma tomo Jelusalen la, jan mije pi tenpo suli li awen lon ma anpa, li toki ala. ona li jo e len ike pi linja kasi wawa, li pana e ko lon lawa. ma tomo Jelusalen la, jan meli lili li anpa; sinpin ona li anpa tawa ma.
+10: ? ma tomo Jelusalen la, jan mije pi tenpo suli li awen lon ma anpa, li toki ala. ona li jo e len ike pi linja kasi wawa, li pana e ko lon lawa. ma tomo Jelusalen la, jan meli lili li anpa; sinpin ona li anpa tawa ma.
 
-11: oko mi li wawa ala tan telo oko. mi pilin ike mute lon kon insa. jan mi mute li moli la, mi pilin ike, mi wawa ala. jan lili kin en jan sin kin li moli lon nasin tan wile moku.
+11: ? oko mi li wawa ala tan telo oko. mi pilin ike mute lon kon insa. jan mi mute li moli la, mi pilin ike, mi wawa ala. jan lili kin en jan sin kin li moli lon nasin tan wile moku.
 
-12: ona li kalama wawa tawa mama e ni: mi wile e moku e telo! nasin pi ma tomo la, ona li kama anpa sama jan pi pakala sijelo. tenpo en tenpo en tenpo la, ona li moli lon luka mama.
+12: ? ona li kalama wawa tawa mama e ni: mi wile e moku e telo! nasin pi ma tomo la, ona li kama anpa sama jan pi pakala sijelo. tenpo en tenpo en tenpo la, ona li moli lon luka mama.
 
-13: jan pi ma tomo Jelusalen o! mi ken ala toki e ijo tawa pona sina. jan ala li pilin ike sama sina. mi sona ala e ni: mi o pali e seme tawa pona sina. pakala sina li suli sama telo suli suli. jan ala li ken pona e ma tomo sina.
+13: ? jan pi ma tomo Jelusalen o! mi ken ala toki e ijo tawa pona sina. jan ala li pilin ike sama sina. mi sona ala e ni: mi o pali e seme tawa pona sina. pakala sina li suli sama telo suli suli. jan ala li ken pona e ma tomo sina.
 
-14: jan sina pi toki sewi li toki e ni: mi lukin e sitelen insa tan sewi Jawe. ona li toki e lon ala e ike. ona li toki ala e pali ike sina la, ona li awen ala e sina tan tawa weka. ona li ike e sina kepeken toki ona tan ni: toki ona li lon ala.
+14: ? jan sina pi toki sewi li toki e ni: mi lukin e sitelen insa tan sewi Jawe. ona li toki e lon ala e ike. ona li toki ala e pali ike sina la, ona li awen ala e sina tan tawa weka. ona li ike e sina kepeken toki ona tan ni: toki ona li lon ala.
 
-15: jan ale li tawa lon poka sina la, ona li musi ike tawa sina, li tawa wawa e lawa ona, li toki ike tawa sina. ona li toki e ni: “ni li ma tomo suli Jelusalen anu seme? ma tomo ale la, ni li ma tomo pona mute anu seme? tan ma tomo ni la, jan pi ma ale li pilin anu pilin pona a?
+15: ? jan ale li tawa lon poka sina la, ona li musi ike tawa sina, li tawa wawa e lawa ona, li toki ike tawa sina. ona li toki e ni: “ni li ma tomo suli Jelusalen anu seme? ma tomo ale la, ni li ma tomo pona mute anu seme? tan ma tomo ni la, jan pi ma ale li pilin anu pilin pona a?
 
-16: tenpo ni la, jan ike tawa mi mute li musi ike tawa sina, li toki ike, li kalama ike kepeken kiwen uta. ona li toki e ni: “mi pakala e ona! mi wile mute e ni; tenpo ni la, wile mi li kama!”
+16: ? tenpo ni la, jan ike tawa mi mute li musi ike tawa sina, li toki ike, li kalama ike kepeken kiwen uta. ona li toki e ni: “mi pakala e ona! mi wile mute e ni; tenpo ni la, wile mi li kama!”
 
-17: sewi Jawe li pali e wile ona. tenpo suli pini la, ona li toki e ni: mi wile pakala e sina. tenpo ni la, ona li pali e wile ona. ona li pakala e ma tomo, li pana pona ala. ona li ken e jan ike la, jan ike li anpa e sina. ona li ken e jan ike la, jan ike li wawa.
+17: ? sewi Jawe li pali e wile ona. tenpo suli pini la, ona li toki e ni: mi wile pakala e sina. tenpo ni la, ona li pali e wile ona. ona li pakala e ma tomo, li pana pona ala. ona li ken e jan ike la, jan ike li anpa e sina. ona li ken e jan ike la, jan ike li wawa.
 
-18: mi wile e ni: sinpin pi ma Jelusalen o kalama wawa tawa sewi Jawe! tenpo ale la, jan pi ma Jelusalen o pana e telo tan oko! telo oko sina o telo sama linja telo tawa! o pini ala e pilin ike; o pini ala e pana telo tan oko!
+18: ? mi wile e ni: sinpin pi ma Jelusalen o kalama wawa tawa sewi Jawe! tenpo ale la, jan pi ma Jelusalen o pana e telo tan oko! telo oko sina o telo sama linja telo tawa! o pini ala e pilin ike; o pini ala e pana telo tan oko!
 
-19: tenpo pimeja ale la, o kama sewi lon noka, o kalama wawa e pilin sina tawa sewi Jawe. o sewi e luka sina, o toki wile tawa ona. sewi Jawe o pana e pona tawa jan lili mi pi kama moli. leko nasin la, ona li kama anpa tan wile moku.
+19: ? tenpo pimeja ale la, o kama sewi lon noka, o kalama wawa e pilin sina tawa sewi Jawe. o sewi e luka sina, o toki wile tawa ona. sewi Jawe o pana e pona tawa jan lili mi pi kama moli. leko nasin la, ona li kama anpa tan wile moku.
 
-20: sewi Jawe o lukin o toki insa lon ni: tenpo seme la, sina ike e jan sama ni? tenpo wan la, mama meli li awen olin e jan lili ona; tenpo ni la, mama meli li moku e jan lili ona.
+20: ? sewi Jawe o lukin o toki insa lon ni: tenpo seme la, sina ike e jan sama ni? tenpo wan la, mama meli li awen olin e jan lili ona; tenpo ni la, mama meli li moku e jan lili ona.
 
-21: jan moli pi suli ale li lon nasin. palisa utala pi jan ike li moli e jan mije lili e jan meli lili; sijelo moli ona li lon nasin. sina pilin utala mute la, ona li kama moli tan sina. sina moli e ona sama soweli. sina pana e pona ala tawa ona.
+21: ? jan moli pi suli ale li lon nasin. palisa utala pi jan ike li moli e jan mije lili e jan meli lili; sijelo moli ona li lon nasin. sina pilin utala mute la, ona li kama moli tan sina. sina moli e ona sama soweli. sina pana e pona ala tawa ona.
 
-22: sama moku suli sewi la, sina kama e jan ike tawa mi mute; tan nasin ale la, ona li utala e mi. tenpo ni la, sina pilin utala mute la, jan ala li weka awen. tenpo wan la, mi mute li awen olin e jan lili; tenpo ni la, jan ike li moli e ona.
+22: ? sama moku suli sewi la, sina kama e jan ike tawa mi mute; tan nasin ale la, ona li utala e mi. tenpo ni la, sina pilin utala mute la, jan ala li weka awen. tenpo wan la, mi mute li awen olin e jan lili; tenpo ni la, jan ike li moli e ona.
 
 ### lamentations 3
-1: mi ike a! sewi Jawe li pana e ike tawa mi tan ni: sewi Jawe li pilin utala.
+1: ? mi ike a! sewi Jawe li pana e ike tawa mi tan ni: sewi Jawe li pilin utala.
 
-2: tan ona la, mi tawa noka lon pimeja suli kepeken suno ala.
+2: ? tan ona la, mi tawa noka lon pimeja suli kepeken suno ala.
 
-3: tenpo suno ale la, tenpo mute la, ona li pana e ike tawa mi.
+3: ? tenpo suno ale la, tenpo mute la, ona li pana e ike tawa mi.
 
-4: tan ona la, selo mi en sijelo mi kama pakala sama ijo pi tenpo suli.
+4: ? tan ona la, selo mi en sijelo mi kama pakala sama ijo pi tenpo suli.
 
-5: tan poka ale la, ona li pana e pilin ike kon e pilin ike sijelo tawa mi.
+5: ? tan poka ale la, ona li pana e pilin ike kon e pilin ike sijelo tawa mi.
 
-6: ona li pana anpa e mi lon pimeja. mi sama jan moli pi tenpo suli lon lupa.
+6: ? ona li pana anpa e mi lon pimeja. mi sama jan moli pi tenpo suli lon lupa.
 
-7: ona li pali e sinpin sike, li pana e linja kiwen suli lon mi la, mi ken ala weka.
+7: ? ona li pali e sinpin sike, li pana e linja kiwen suli lon mi la, mi ken ala weka.
 
-8: mi kalama wawa, mi toki wile tawa ona. taso ona li kute ala e toki mi.
+8: ? mi kalama wawa, mi toki wile tawa ona. taso ona li kute ala e toki mi.
 
-9: ona li pake e nasin mi kepeken kiwen, li nasa e nasin mi.
+9: ? ona li pake e nasin mi kepeken kiwen, li nasa e nasin mi.
 
-10: ona li awen tan ni: sama soweli wawa la, ona li wile alasa e mi sama soweli ante.
+10: ? ona li awen tan ni: sama soweli wawa la, ona li wile alasa e mi sama soweli ante.
 
-11: ona li weka e mi tan nasin, li pakala wawa e mi, li weka tan mi. jan ala li lon poka mi.
+11: ? ona li weka e mi tan nasin, li pakala wawa e mi, li weka tan mi. jan ala li lon poka mi.
 
-12: ona li sike lili e ilo alasa, li pana wawa e palisa utala lili tawa mi.
+12: ? ona li sike lili e ilo alasa, li pana wawa e palisa utala lili tawa mi.
 
-13: palisa pi poki ona li kama lon insa suli pi sijelo mi.
+13: ? palisa pi poki ona li kama lon insa suli pi sijelo mi.
 
-14: jan ale mi li kalama uta musi tan mi. tenpo ale la, ona li kalama e kalama musi ike tawa mi.
+14: ? jan ale mi li kalama uta musi tan mi. tenpo ale la, ona li kalama e kalama musi ike tawa mi.
 
-15: sewi Jawe li pana e ike suli tawa mi. mi sama jan pi moku pi telo jaki a!
+15: ? sewi Jawe li pana e ike suli tawa mi. mi sama jan pi moku pi telo jaki a!
 
-16: ona li pakala e kiwen uta mi kepeken ma kiwen. ona li pakala noka e mi.
+16: ? ona li pakala e kiwen uta mi kepeken ma kiwen. ona li pakala noka e mi.
 
-17: tenpo ni la, ale li pona ala tawa mi. pona li weka tan sona mimi awen sona ala e awen pona mi.
+17: ? tenpo ni la, ale li pona ala tawa mi. pona li weka tan sona mimi awen sona ala e awen pona mi.
 
-18: mi toki insa e ni: tenpo ni la, mi wile ala lon tenpo suli. mi wile ala kama jo e pona tan sewi Jawe!
+18: ? mi toki insa e ni: tenpo ni la, mi wile ala lon tenpo suli. mi wile ala kama jo e pona tan sewi Jawe!
 
-19: mi toki insa e ike mi e weka mi la, mi moku e telo ike mute.
+19: ? mi toki insa e ike mi e weka mi la, mi moku e telo ike mute.
 
-20: mi awen sona e ike mi li pilin anpa mute.
+20: ? mi awen sona e ike mi li pilin anpa mute.
 
-21: taso mi pilin e ni: pona li kama. mi ni tan ni:
+21: ? taso mi pilin e ni: pona li kama. mi ni tan ni:
 
-22: tenpo ala la, sewi Jawe li pini e olin tawa mi mute. tenpo ala la, ona li pini e pana pona tawa mi.
+22: ? tenpo ala la, sewi Jawe li pini e olin tawa mi mute. tenpo ala la, ona li pini e pana pona tawa mi.
 
-23: tenpo ale la, mi mute li sona pi pona ona. tenpo suno open ale la, ona li pana e pona tawa mi.
+23: ? tenpo ale la, mi mute li sona pi pona ona. tenpo suno open ale la, ona li pana e pona tawa mi.
 
-24: ni la, mi toki insa e ni: mi wile e sewi Jawe taso. pona la, mi awen tawa kama ona.
+24: ? ni la, mi toki insa e ni: mi wile e sewi Jawe taso. pona la, mi awen tawa kama ona.
 
-25: sewi Jawe li pona tawa ale wile ona tawa ale wile pona ona.
+25: ? sewi Jawe li pona tawa ale wile ona tawa ale wile pona ona.
 
-26: mi mute o awen tawa  kama pi sewi Jawe; ona li awen e mi.
+26: ? mi mute o awen tawa  kama pi sewi Jawe; ona li awen e mi.
 
-27: mi mute li jan pi tenpo lili la, ike la, mi mute o awen.
+27: ? mi mute li jan pi tenpo lili la, ike la, mi mute o awen.
 
-28: jan o awen pi wan taso kepeken toki ala. tan sewi Jawe la, ona li pilin ike.
+28: ? jan o awen pi wan taso kepeken toki ala. tan sewi Jawe la, ona li pilin ike.
 
-29: ona o awen supa lon ko ma; sinpin ona o anpa tawa ma. tenpo ni kin la, ona li ken jo e pilin pi kama pona.
+29: ? ona o awen supa lon ko ma; sinpin ona o anpa tawa ma. tenpo ni kin la, ona li ken jo e pilin pi kama pona.
 
-30: jan li utala e mi mute lon poka sinpin la, mi o pana e poka sinpin ante tawa utala ona. jan li toki ike tawa mi, mi o awen tan ike.
+30: ? jan li utala e mi mute lon poka sinpin la, mi o pana e poka sinpin ante tawa utala ona. jan li toki ike tawa mi, mi o awen tan ike.
 
-31: sewi Jawe li weka ala lon tenpo ale.
+31: ? sewi Jawe li weka ala lon tenpo ale.
 
-32: tenpo la, ona li pana e ike tawa mi mute. taso tenpo la, ona li pana pona tan ni: tenpo ale la, ona li olin e mi.
+32: ? tenpo la, ona li pana e ike tawa mi mute. taso tenpo la, ona li pana pona tan ni: tenpo ale la, ona li olin e mi.
 
-33: ona li pana e ike tawa jan la, jan li pilin ike la, ona li pilin pona ala.
+33: ? ona li pana e ike tawa jan la, jan li pilin ike la, ona li pilin pona ala.
 
-34: jan li pakala e jan anpa la,
+34: ? jan li pakala e jan anpa la,
 
-35: jan li kute ala e lawa pi sewi Jawe la,
+35: ? jan li kute ala e lawa pi sewi Jawe la,
 
-36: jan li ike e jan suli pi nasin lawa la, sewi Jawe li lukin e ijo ale ni anu seme?
+36: ? jan li ike e jan suli pi nasin lawa la, sewi Jawe li lukin e ijo ale ni anu seme?
 
-37: sewi Atona li lon ala e ijo la, jan li ken ala lon e ijo.
+37: ? sewi Atona li lon ala e ijo la, jan li ken ala lon e ijo.
 
-38: pona en ike li kama ala kama tan uta pi sewi Elowin?
+38: ? pona en ike li kama ala kama tan uta pi sewi Elowin?
 
-39: tan seme la, jan lon li pali ike la, ona li toki ike e ni: pana ike li lon tawa ona?
+39: ? tan seme la, jan lon li pali ike la, ona li toki ike e ni: pana ike li lon tawa ona?
 
-40: mi mute o alasa o lukin e nasin insa pi mi mute, o kama sin tawa sewi Jawe.
+40: ? mi mute o alasa o lukin e nasin insa pi mi mute, o kama sin tawa sewi Jawe.
 
-41: mi mute o sewi e pilin e luka tawa sewi Elu.
+41: ? mi mute o sewi e pilin e luka tawa sewi Elu.
 
-42: mi mute li kute ala e sina, li pali ike. sina weka ala e pali ike mi.
+42: ? mi mute li kute ala e sina, li pali ike. sina weka ala e pali ike mi.
 
-43: sina len e sina lon pilin utala. sina alasa e mi mute. sina moli ike e mi; sina pana pona ala tawa mi.
+43: ? sina len e sina lon pilin utala. sina alasa e mi mute. sina moli ike e mi; sina pana pona ala tawa mi.
 
-44: kon telo la, sina len e sina tawa ni: sina kute ala e toki sewi pi mi mute.
+44: ? kon telo la, sina len e sina tawa ni: sina kute ala e toki sewi pi mi mute.
 
-45: sina pali e ni: mi mute li jaki tawa jan ante.
+45: ? sina pali e ni: mi mute li jaki tawa jan ante.
 
-46: jan ike ale li toki ike lon mi.
+46: ? jan ike ale li toki ike lon mi.
 
-47: mi mute li pilin monsuta, li lon ilo alasa. pakala li kama tawa mi.
+47: ? mi mute li pilin monsuta, li lon ilo alasa. pakala li kama tawa mi.
 
-48: tan oko mi la, telo linja li telo tan ni: meli lili pi kulupu jan mi li pakala.
+48: ? tan oko mi la, telo linja li telo tan ni: meli lili pi kulupu jan mi li pakala.
 
-49: telo tan oko mi li pini ala e telo, tawa tenpo ni:
+49: ? telo tan oko mi li pini ala e telo, tawa tenpo ni:
 
-50: sewi Jawe li lukin anpa tan sewi.
+50: ? sewi Jawe li lukin anpa tan sewi.
 
-51: oko mi li pana e pilin ike mute tawa mi tan meli pi ma tomo mi.
+51: ? oko mi li pana e pilin ike mute tawa mi tan meli pi ma tomo mi.
 
-52: tan ala la, jan ike li alasa e mi sama waso.
+52: ? tan ala la, jan ike li alasa e mi sama waso.
 
-53: ona li pana wawa e mi lon lupa suli, li pana wawa e kiwen mute tawa lawa mi.
+53: ? ona li pana wawa e mi lon lupa suli, li pana wawa e kiwen mute tawa lawa mi.
 
-54: telo li kama tawa sewi pi lawa mi. mi toki e ni: mi weka.
+54: ? telo li kama tawa sewi pi lawa mi. mi toki e ni: mi weka.
 
-55: sewi Jawe o! tan anpa pi lupa suli la, mi kalama e nimi sina.
+55: ? sewi Jawe o! tan anpa pi lupa suli la, mi kalama e nimi sina.
 
-56: sina kute e toki mi ni: mi toki wile e pana pona sina la, o pini ala e kute sina.
+56: ? sina kute e toki mi ni: mi toki wile e pana pona sina la, o pini ala e kute sina.
 
-57: tenpo suno pi kalama mi la, sina kama lon poka mi, sina toki e ni: o pilin ala monsuta!
+57: ? tenpo suno pi kalama mi la, sina kama lon poka mi, sina toki e ni: o pilin ala monsuta!
 
-58: sewi Jawe o, sina awen toki e mi, sina awen e lon mi.
+58: ? sewi Jawe o, sina awen toki e mi, sina awen e lon mi.
 
-59: sina lukin e pali ike tawa mi. o pana e nasin lawa pona tawa mi.
+59: ? sina lukin e pali ike tawa mi. o pana e nasin lawa pona tawa mi.
 
-60: sina lukin ale e ni: jan ike li wile pali ike tawa mi.
+60: ? sina lukin ale e ni: jan ike li wile pali ike tawa mi.
 
-61: sewi Jawe o, ona li toki ike tawa mi, li wile pali ike tawa mi la, sina kute ale e ona.
+61: ? sewi Jawe o, ona li toki ike tawa mi, li wile pali ike tawa mi la, sina kute ale e ona.
 
-62: tempo ale la, uta pi jan ike li toki ike pi  kalama lili lon mi.
+62: ? tempo ale la, uta pi jan ike li toki ike pi  kalama lili lon mi.
 
-63: o lukin e ona! ona li awen monsi, li awen noka la, ona li kalama e kalama musi ike tawa mi.
+63: ? o lukin e ona! ona li awen monsi, li awen noka la, ona li kalama e kalama musi ike tawa mi.
 
-64: ona li pana e ike tawa mi; o pana e ike sama tawa ona.
+64: ? ona li pana e ike tawa mi; o pana e ike sama tawa ona.
 
-65: o pana e wawa ala pi pilin insa tawa ona. o pana e wawa ike tawa ona.
+65: ? o pana e wawa ala pi pilin insa tawa ona. o pana e wawa ike tawa ona.
 
-66: pilin utala sina la, o alasa e ona, o pakala e ona tan ma.
+66: ? pilin utala sina la, o alasa e ona, o pakala e ona tan ma.
 
 ### lamentations 4
 ### lamentations 5
@@ -2239,9 +2254,9 @@
 ### ezekiel 48
 ## daniel
 ### daniel 1
-1: tenpo sike suno nanpa 3 pi tenpo lawa pi jan lawa Jejowakin pi ma Jejuta la, jan lawa Nepukanesa pi ma Papelo li tawa ma tomo Jelusalen li awen utala e ona.
+1: ! tenpo sike suno nanpa 3 pi tenpo lawa pi jan lawa Jejowakin pi ma Jejuta la, jan lawa Nepukanesa pi ma Papelo li tawa ma tomo Jelusalen li awen utala e ona.
 
-2: sewi Atona li pana tawa luka ona e jan lawa Jejowakin pi ma Jejuta e kipisi lili pi ilo tomo pi sewi Elowin. ona li jo e ona tawa tomo pi sewi ona lon ma Sina. ona li jo e ilo tawa tomo mani pi sewi ona.
+2: ! sewi Atona li pana tawa luka ona e jan lawa Jejowakin pi ma Jejuta e kipisi lili pi ilo tomo pi sewi Elowin. ona li jo e ona tawa tomo pi sewi ona lon ma Sina. ona li jo e ilo tawa tomo mani pi sewi ona.
 
 ### daniel 2
 ### daniel 3
@@ -2331,7 +2346,7 @@
 
 ## jonah
 ### jonah 1
-1: toki tan sewi Jawe li kama tawa jan Jona pi jan Amita, li toki e ni:
+1: ! toki pi sewi Jawe li kama tawa jan Jona pi jan Amita, li toki e ni:
 
 2: o lon noka sina! o tawa ma tomo suli Ninawe, o toki wawa tawa ona, tan ni: ike ona li kama suli lon lukin mi.
 
