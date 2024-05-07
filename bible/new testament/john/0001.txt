@@ -1,7 +1,7 @@
-1: open la, nimi li lon. nimi li lon poka sewi Jawe; kin la, nimi li sewi Jawe. 
-2: lon poka pi sewi Jawe la, ona li lon open.
-3: tan ona la, ale li kama lon. tan ona ala la, ala pi ijo kama li kama lon.
-4: lon ona la, kon ale li lon. en la, kon ni li suno jan.
-5: suno li suno lon pimeja. pimeja li anpa ala e ona.
-6: sewi Jawe li pana e jan tawa ma. nimi ona li jan Jowanan.
-7: jan pi toki lon la, ona li kama. ona li toki lon e suno tan ni: jan ale li sona pilin e suno.
+1: ? open la, nimi li lon. nimi li lon poka sewi Jawe; kin la, nimi li sewi Jawe. 
+2: ? lon poka pi sewi Jawe la, ona li lon open.
+3: ? tan ona la, ale li kama lon. tan ona ala la, ala pi ijo kama li kama lon.
+4: ? lon ona la, kon ale li lon. en la, kon ni li suno jan.
+5: ? suno li suno lon pimeja. pimeja li anpa ala e ona.
+6: ? sewi Jawe li pana e jan tawa ma. nimi ona li jan Jowanan.
+7: ? jan pi toki lon la, ona li kama. ona li toki lon e suno tan ni: jan ale li sona pilin e suno.
