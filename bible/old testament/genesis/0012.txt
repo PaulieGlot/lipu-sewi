@@ -1,9 +1,9 @@
-1: sewi Jawe li toki e ni tawa jan Awalan: sina la, o tawa weka tan ma sina, tan kama lon sina, tan tomo pi mama mije sina, tawa ma ni: mi pana e ona tawa lukin sina.
-2: mi pali e sina tawa kulupu suli, li pana sewi e sina, li suli e nimi sina. o kama pana sewi.
-3: jan li pana sewi tawa sina la, mi pana sewi tawa ona. jan li pana ike tawa sina la, mi pakala e ona. lon sina la, kulupu mama ale ma li kama pana sewi.
-4: jan Awalan li tawa sama toki pi sewi Jawe. jan Lo li tawa lon poka ona. jan Awalan li jo e sike suno 75 lon tenpo pi weka ona tan ma Alan.
-5: jan Awalan li kulupu e meli ona Sale, e jan lili pi mije sama ona Lo, e ijo jo ona ale pi kama jo ona, e kon jan pi pali ona lon ma Kalan. ona li open weka tawa ma Kanan. ni la, ona li kama tawa ma Kanan.
-6: jan Awalan li tawa lon ma tawa ma Seken, li tawa ma pi kasi suli Mole. tenpo ni la, kulupu Kanan li lon ma ni.
-7: sewi Jawe li kama tawa lukin pi jan Awalan, li toki e ni: mi pana e ma ni tawa kili jan sina. ona li pali e supa pi pana sewi lon ma ni tawa sewi Jawe ni: ona li kama tawa lukin pi jan Awalan.
-8: tan ma ni la, ona li tawa nena suli lon poka pi kama suno pi ma Pete. ona li pana e tomo len. ma Pete li lon poka ona pi telo suli. ma Aje li lon poka ona pi kama suno. lon ma ni la, ona li pali e supa pi pana sewi tawa sewi Jawe. ona li kalama e nimi pi sewi Jawe.
-9: jan Awalan li awen tawa, li awen tawa ma Nekepa.
+1: ! sewi Jawe li toki e ni tawa jan Awalan: sina la, o tawa weka tan ma sina, tan kama lon sina, tan tomo pi mama mije sina, tawa ma ni: mi pana e ona tawa lukin sina.
+2: ! mi pali e sina tawa kulupu suli, li pana sewi e sina, li suli e nimi sina. o kama pana sewi.
+3: ! jan li pana sewi tawa sina la, mi pana sewi tawa ona. jan li pana ike tawa sina la, mi pakala e ona. lon sina la, kulupu mama ale ma li kama pana sewi.
+4: ! jan Awalan li tawa sama toki pi sewi Jawe. jan Lo li tawa lon poka ona. jan Awalan li jo e sike suno 75 lon tenpo pi weka ona tan ma Alan.
+5: ! jan Awalan li kulupu e meli ona Sale, e jan lili pi mije sama ona Lo, e ijo jo ona ale pi kama jo ona, e kon jan pi pali ona lon ma Kalan. ona li open weka tawa ma Kanan. ni la, ona li kama tawa ma Kanan.
+6: ! jan Awalan li tawa lon ma tawa ma Seken, li tawa ma pi kasi suli Mole. tenpo ni la, kulupu Kanan li lon ma ni.
+7: ! sewi Jawe li kama tawa lukin pi jan Awalan, li toki e ni: mi pana e ma ni tawa kili jan sina. ona li pali e supa pi pana sewi lon ma ni tawa sewi Jawe ni: ona li kama tawa lukin pi jan Awalan.
+8: ! tan ma ni la, ona li tawa nena suli lon poka pi kama suno pi ma Pete. ona li pana e tomo len. ma Pete li lon poka ona pi telo suli. ma Aje li lon poka ona pi kama suno. lon ma ni la, ona li pali e supa pi pana sewi tawa sewi Jawe. ona li kalama e nimi pi sewi Jawe.
+9: ! jan Awalan li awen tawa, li awen tawa ma Nekepa.
