@@ -1,5 +1,5 @@
 1: ! open la, sewi Jawe li lon e sewi e ma.
-2: ma li pimeja pi insa ala. kon pi sewi Jawe li tawa lon sewi telo.
+2: ? ma li pimeja pi insa ala. kon pi sewi Jawe li tawa lon sewi telo.
 3: ! sewi Elowin li toki. suno o lon. la suno li lon.
 4: ? lukin la, sewi Jawe li sona e ni: suno li pona. sewi Jawe li tu e suno e pimeja.
 5: ? tawa suno la, sewi Jawe pana e nimi pi tenpo suno. tawa pimeja la, ona pana e nimi pi tenpo pimeja. lon tenpo lawa la, lon tenpo pini la, ni li tenpo pi nanpa wan.
