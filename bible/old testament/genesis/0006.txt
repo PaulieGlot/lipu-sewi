@@ -3,8 +3,8 @@
 3: ! sewi Jawe li toki e ni: kon mi li awen ala lon jan tawa tenpo ale tan ni: ona li sijelo. tenpo ona li tenpo sike suno 120.
 6: ! ona li pali e jan lon ma la, sewi Jawe li pilin ike. sewi Jawe li pakala lon pilin ona.
 8: ! taso, jan Nowa li kama pona lon lukin pi sewi Jawe.
-9: ni li toki e jan kama pi jan Nowa.  jan Nowa li jan pona,  li pakala ala lon tenpo ona.  jan Nowa li tawa lon poka pi sewi Jawe.
-10: jan Nowa li mama e mije sin tu wan. ona li jan Sen, li jan An, li jan Japete.
-11: ma li pakala lon lukin sewi, li jo e utala taso.
-12: sewi Jawe li lukin e ma. ona li pakala kin tan ni: ale li pakala e pali ona lon ma.
-14: o pali e tomo tawa telo kepeken kasi kiwen. tomo ni o jo e poka mute. ko pi weka telo o lon selo tomo.
+9: ? ni li toki e jan kama pi jan Nowa.  jan Nowa li jan pona,  li pakala ala lon tenpo ona.  jan Nowa li tawa lon poka pi sewi Jawe.
+10: ? jan Nowa li mama e mije sin tu wan. ona li jan Sen, li jan An, li jan Japete.
+11: ? ma li pakala lon lukin sewi, li jo e utala taso.
+12: ? sewi Jawe li lukin e ma. ona li pakala kin tan ni: ale li pakala e pali ona lon ma.
+14: ? o pali e tomo tawa telo kepeken kasi kiwen. tomo ni o jo e poka mute. ko pi weka telo o lon selo tomo.
