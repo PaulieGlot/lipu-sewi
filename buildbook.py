@@ -51,6 +51,8 @@ for line in book_lines:
                         cobweb_count += 1
                     elif sealed_pattern.match(verse):
                         sealed_count += 1
+                    else:
+                        print(chapter_path)
         continue
     print("Error: line %d: unrecognised format" % line_number)
 print("regenerated full.md, %d verses completed (%d sealed, %d cobwebs)." % (verse_count, sealed_count, cobweb_count))
