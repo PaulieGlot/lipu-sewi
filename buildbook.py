@@ -3,6 +3,10 @@ import os
 
 line_number = 0
 verse_count = 0
+sealed_count = 0
+sealed_pattern = re.compile(r"[0-9]+: !")
+cobweb_count = 0
+cobweb_pattern = re.compile(r"[0-9]+: \?")
 bible_dir = 'bible'
 books_file_path = '%s/chapters.txt' % bible_dir
 fulltext_file_path = '%s/full.md' % bible_dir
@@ -43,6 +47,10 @@ for line in book_lines:
                 if verse != "":
                     fulltext_file.write("%s\n" % verse)
                     verse_count += 1
+                    if cobweb_pattern.match(verse):
+                        cobweb_count += 1
+                    elif sealed_pattern.match(verse):
+                        sealed_count += 1
         continue
     print("Error: line %d: unrecognised format" % line_number)
-print("regenerated full.md, %d verses completed." % verse_count)
+print("regenerated full.md, %d verses completed (%d sealed, %d cobwebs)." % (verse_count, sealed_count, cobweb_count))
