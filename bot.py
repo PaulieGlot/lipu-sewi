@@ -133,6 +133,18 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, 
     text = get_verse_range(section, book, chapter, start_verse, end_verse, euphemise)
     await respond(ctx, text, post)
 
+async def cite(ctx, citation: str, euphemise: bool=True, post: bool=False):
+    verse_pattern = re.compile(r"(.*)\s+(\d+):(\d+)$")
+    range_pattern = re.compile(r"(.*)\s+(\d+):(\d+)\-(\d+)$")
+    verse_citation = verse_pattern.match(citation)
+    range_citation = range_pattern.match(citation)
+
+    if verse_citation is not None:
+        verse(ctx, verse_citation[1], verse_citation[2], verse_citation[3], euphemise, post)
+    elif range_citation is not None:
+        verse(ctx, verse_citation[1], verse_citation[2], verse_citation[3], verse_citation[4], euphemise, post)
+    else:
+        respond(ctx, "error parsing citation: `%s` does not seem to be formatted as a proper citation.", post)
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None, post: bool=False):
