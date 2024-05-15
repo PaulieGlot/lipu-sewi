@@ -168,6 +168,8 @@ async def help(ctx, command: str=None, post: bool=False):
         await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!", post)
     elif command == "range":
         await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post)
+    elif command == "cite":
+        await respond(ctx, "specify a verse or range using the traditional biblical citation format. make sure you're using the same book names as this version!", post)
     elif command == "repo":
         await respond(ctx, "get a link to the repo from which this bot is pulling verses", post)
 
