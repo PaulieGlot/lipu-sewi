@@ -133,6 +133,7 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, 
     text = get_verse_range(section, book, chapter, start_verse, end_verse, euphemise)
     await respond(ctx, text, post)
 
+@tree.command(name="cite", description="cite a passage from the translated text", guild=discord.Object(id=GUILD_ID))
 async def cite(ctx, citation: str, euphemise: bool=True, post: bool=False):
     verse_pattern = re.compile(r"(.*)\s+(\d+):(\d+)$")
     range_pattern = re.compile(r"(.*)\s+(\d+):(\d+)\-(\d+)$")
