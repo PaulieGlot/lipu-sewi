@@ -183,5 +183,6 @@ async def repo(ctx, post: bool=False):
 async def on_ready():
     await tree.sync(guild=discord.Object(id=GUILD_ID))
     print("ready!")
+    client.user.setActivity("enduring the torment of existence")
 
 client.run(TOKEN)
