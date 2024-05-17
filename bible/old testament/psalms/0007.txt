@@ -10,5 +10,6 @@
 10: ! ike pi jan ike o pini. o lon e jan pi lawa pona. sewi Elowin pi lawa pona li lukin sona e pilin jan e insa jan.
 11: ! ilo utala awen mi li tan sewi Elowin. ona li weka e jan pi pilin pona tawa awen.
 13: ! ona li kama ala sin la ona li pali sin e ilo utala kipisi ona. ona li linja e ilo alasa ona pi pana palisa, li pali open e ona.
+14: ! ona li pali open e ilo moli tawa ona. ona li pana wawa e palisa alasa ona lon nasin.
 16: ! ona li pali e lupa ma, li weka e ma tan ona. ona li pakala li tawa anpa, li tawa insa pi lupa pi pali ona.
 17: ! pali ona li kama sin lon lawa ona. pakala pi pana ona li kama anpa lon sewi pi lawa ona.
