@@ -10,6 +10,7 @@ def get_stats():
     for line in file.text.splitlines():
         pass
 
+    line = "as of " + line
     line = line.replace(',', ':', 1)
     line = line.replace(',', ' verses complete - ', 1)
     line = line.replace(',', ' sealed, ', 1)
