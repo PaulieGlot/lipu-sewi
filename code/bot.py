@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 def get_stats():
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/stats/completion.csv'
     file = requests.get(url)
-    for line in file:
+    for line in file.text.splitlines:
         pass
     return line
 
