@@ -9,6 +9,13 @@ def get_stats():
     file = requests.get(url)
     for line in file.text.splitlines():
         pass
+
+    line = line.replace(',', ':', 1)
+    line = line.replace(',', ' verses complete - ', 1)
+    line = line.replace(',', ' sealed, ', 1)
+    line += " cobwebs"
+    
+
     return line
 
 # pull a verse from a chapter file
