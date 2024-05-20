@@ -4,6 +4,13 @@ import requests
 from discord import app_commands
 from dotenv import load_dotenv
 
+def get_stats():
+    url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/stats/completion.csv'
+    file = requests.get(url)
+    for line in file:
+        pass
+    return line
+
 # pull a verse from a chapter file
 def get_verse(section: str, book: str, chapter: int, verse: int, euphemise: bool):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
@@ -177,6 +184,10 @@ async def help(ctx, command: str=None, post: bool=False):
 @tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=GUILD_ID))
 async def repo(ctx, post: bool=False):
     await respond(ctx, "https://github.com/PaulieGlot/lipu-sewi/tree/master", post)
+
+@tree.command(name="stats", description="get the latest count of completion", guild=discord.Object(id=GUILD_ID))
+async def stats(ctx, post: bool=False):
+    await respond(ctx, get_stats(), post)
 
 
 @client.event
