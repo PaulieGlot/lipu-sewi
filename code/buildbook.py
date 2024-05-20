@@ -63,7 +63,7 @@ for line in book_lines:
         continue
     print("Error: line %d: unrecognised format" % line_number)
 print("regenerated full.md, %d verses completed (%d sealed, %d cobwebs)." % (verse_count, sealed_count, cobweb_count))
-csv_summary = "%s, %d, %d, %d\n" % (datetime.now(), verse_count, sealed_count, cobweb_count)
+csv_summary = "%s, %d, %d, %d\n" % (date.today(), verse_count, sealed_count, cobweb_count)
 stats_file.writelines(csv_summary)
 for file in cobweb_files:
     cobweb_file.writelines("%s\n" % file)
