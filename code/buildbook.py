@@ -1,5 +1,6 @@
 import re
 import os
+from datetime import date, datetime
 
 line_number = 0
 verse_count = 0
@@ -11,6 +12,10 @@ cobweb_files = set()
 bible_dir = '../bible'
 books_file_path = '%s/chapters.txt' % bible_dir
 fulltext_file_path = '%s/full.md' % bible_dir
+stats_file_path = '../stats/completion.csv'
+cobweb_file_path = '../stats/cobwebs.txt'
+cobweb_file = open(cobweb_file_path, 'w')
+stats_file = open(stats_file_path, 'a')
 books_file = open(books_file_path, 'r')
 fulltext_file = open(fulltext_file_path, 'w')
 book_lines = books_file.readlines()
@@ -58,7 +63,7 @@ for line in book_lines:
         continue
     print("Error: line %d: unrecognised format" % line_number)
 print("regenerated full.md, %d verses completed (%d sealed, %d cobwebs)." % (verse_count, sealed_count, cobweb_count))
-if cobweb_count > 0:
-    print("the following files contain cobwebs:")
-    for file in cobweb_files:
-        print(file)
+csv_summary = "%s, %d, %d, %d\n" % (datetime.now(), verse_count, sealed_count, cobweb_count)
+stats_file.writelines(csv_summary)
+for file in cobweb_files:
+    cobweb_file.writelines("%s\n" % file)
