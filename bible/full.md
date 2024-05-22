@@ -1576,6 +1576,9 @@
 
 17: ! pali ona li kama sin lon lawa ona. pakala pi pana ona li kama anpa lon sewi pi lawa ona.
 ### psalms 8
+2: ! jan lawa mi Jawe o, nimi sina li suli a lon ale ma. sina pana e suli sina lon ale sewi.
+
+3: ! kepeken uta pi jan lili kepeken uta pi jan sin pi moku mama la sina pana open e wawa tan jan utala ike sina, tawa ni: sina pini e jan ike e jan pana pi utala jasima.
 ### psalms 9
 ### psalms 10
 ### psalms 11
@@ -1859,11 +1862,17 @@
 
 11: ! mi pali e ijo namako pi kiwen mani jelo tawa sina. ona li jo e nena pi kiwen mani walo.
 
+12: ! jan lawa suli li lon supa moku la kasi mi pi nena mute li pana e kon suwi ona.
+
 13: ! mi la jan olin mi li poki lili pi ko kasi pi kon suwi. ona li lape lon sijelo mi lon meso pi nena mama mi.
 
 14: ! jan olin mi li kulupu kili pi kasi kule lon ma kili pi ma En Kesi.
 
+15: ! jan poka meli mi o,lukin la sina pona a! lukin la sina pona. oko sina li waso walo lili.
+
 16: ! jan olin mije mi o, lukin la sina pona a! lon la sina suwi. kin la supa lape mi li sin.
+
+17: ! palisa pi tomo mi li tan kasi suli pi ma pi nena suli. supa sewi li tan kasi suli pi laso awen.
 ### song of songs 2
 ### song of songs 3
 ### song of songs 4
