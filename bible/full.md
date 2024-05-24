@@ -1579,6 +1579,10 @@
 2: ! jan lawa mi Jawe o, nimi sina li suli a lon ale ma. sina pana e suli sina lon ale sewi.
 
 3: ! kepeken uta pi jan lili kepeken uta pi jan sin pi moku mama la sina pana open e wawa tan jan utala ike sina, tawa ni: sina pini e jan ike e jan pana pi utala jasima.
+
+6: ! sina pali e ni: ona li anpa lili tawa sewi jan. sina pana namako e olin wile e suli tawa ona.
+
+10: ! jan lawa mi Jawe o, nimi sina li suli a lon ale ma.
 ### psalms 9
 ### psalms 10
 ### psalms 11

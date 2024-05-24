@@ -1,91 +1,91 @@
-bible/old testament/deuteronomy/0012.txt
-bible/old testament/joshua/0001.txt
-bible/new testament/matthew/0002.txt
-bible/old testament/leviticus/0026.txt
-bible/new testament/john/0003.txt
-bible/old testament/1 kings/0011.txt
-bible/old testament/2 kings/0002.txt
-bible/new testament/colossians/0001.txt
-bible/old testament/deuteronomy/0023.txt
-bible/old testament/job/0002.txt
-bible/old testament/esther/0004.txt
-bible/old testament/isaiah/0001.txt
-bible/old testament/leviticus/0020.txt
-bible/new testament/luke/0015.txt
-bible/new testament/luke/0023.txt
-bible/old testament/psalms/0119.txt
-bible/new testament/philemon/0001.txt
-bible/new testament/1 corinthians/0013.txt
-bible/apocrypha/tobit/0001.txt
-bible/new testament/mark/0001.txt
-bible/new testament/matthew/0001.txt
-bible/old testament/exodus/0002.txt
-bible/old testament/joshua/0002.txt
-bible/new testament/matthew/0022.txt
-bible/new testament/revelation/0021.txt
-bible/new testament/john/0001.txt
-bible/new testament/matthew/0013.txt
-bible/old testament/leviticus/0018.txt
-bible/old testament/joel/0001.txt
-bible/new testament/revelation/0001.txt
-bible/old testament/genesis/0006.txt
-bible/old testament/lamentations/0001.txt
-bible/old testament/esther/0001.txt
-bible/old testament/joshua/0003.txt
-bible/old testament/judges/0001.txt
-bible/new testament/acts/0001.txt
-bible/old testament/esther/0002.txt
-bible/old testament/lamentations/0002.txt
-bible/old testament/numbers/0019.txt
-bible/old testament/exodus/0001.txt
-bible/new testament/hebrews/0009.txt
-bible/old testament/genesis/0050.txt
-bible/old testament/ruth/0001.txt
-bible/new testament/matthew/0007.txt
-bible/old testament/jonah/0002.txt
 bible/new testament/1 corinthians/0015.txt
-bible/old testament/ruth/0002.txt
-bible/old testament/jonah/0001.txt
-bible/new testament/romans/0001.txt
-bible/new testament/john/0011.txt
-bible/old testament/genesis/0001.txt
-bible/old testament/esther/0003.txt
-bible/old testament/psalms/0051.txt
-bible/old testament/genesis/0004.txt
-bible/old testament/esther/0008.txt
-bible/old testament/genesis/0003.txt
-bible/old testament/lamentations/0003.txt
-bible/old testament/obadiah/0001.txt
-bible/new testament/1 corinthians/0003.txt
-bible/new testament/3 john/0001.txt
-bible/old testament/deuteronomy/0031.txt
-bible/new testament/mark/0014.txt
-bible/new testament/matthew/0027.txt
-bible/old testament/job/0001.txt
-bible/old testament/ecclesiastes/0001.txt
-bible/old testament/deuteronomy/0022.txt
-bible/old testament/deuteronomy/0017.txt
-bible/old testament/genesis/0002.txt
-bible/new testament/jude/0001.txt
-bible/new testament/1 john/0002.txt
-bible/old testament/jonah/0004.txt
-bible/new testament/romans/0004.txt
-bible/new testament/john/0019.txt
-bible/old testament/psalms/0018.txt
-bible/new testament/luke/0004.txt
-bible/new testament/mark/0015.txt
-bible/new testament/2 john/0001.txt
-bible/new testament/hebrews/0003.txt
-bible/new testament/acts/0004.txt
-bible/new testament/james/0001.txt
-bible/old testament/leviticus/0011.txt
-bible/old testament/jonah/0003.txt
-bible/old testament/leviticus/0017.txt
-bible/old testament/1 samuel/0001.txt
-bible/new testament/john/0014.txt
 bible/old testament/deuteronomy/0006.txt
-bible/new testament/revelation/0002.txt
+bible/old testament/jonah/0004.txt
 bible/old testament/joshua/0004.txt
+bible/old testament/genesis/0004.txt
+bible/new testament/luke/0015.txt
+bible/new testament/john/0014.txt
+bible/new testament/matthew/0013.txt
+bible/old testament/lamentations/0002.txt
+bible/old testament/genesis/0002.txt
+bible/new testament/romans/0001.txt
+bible/old testament/2 kings/0002.txt
+bible/old testament/psalms/0018.txt
+bible/new testament/jude/0001.txt
+bible/new testament/2 john/0001.txt
+bible/new testament/mark/0001.txt
+bible/old testament/genesis/0050.txt
+bible/old testament/joel/0001.txt
+bible/new testament/matthew/0027.txt
+bible/old testament/joshua/0002.txt
+bible/new testament/revelation/0002.txt
 bible/old testament/1 chronicles/0001.txt
+bible/old testament/ecclesiastes/0001.txt
+bible/new testament/acts/0004.txt
+bible/new testament/matthew/0022.txt
+bible/old testament/exodus/0002.txt
+bible/old testament/leviticus/0011.txt
+bible/new testament/matthew/0007.txt
+bible/old testament/1 samuel/0001.txt
+bible/new testament/colossians/0001.txt
+bible/new testament/mark/0014.txt
+bible/old testament/psalms/0119.txt
+bible/old testament/deuteronomy/0012.txt
+bible/old testament/deuteronomy/0031.txt
+bible/old testament/jonah/0002.txt
+bible/old testament/jonah/0001.txt
+bible/old testament/job/0002.txt
+bible/new testament/revelation/0021.txt
+bible/old testament/exodus/0001.txt
+bible/old testament/numbers/0019.txt
+bible/old testament/leviticus/0020.txt
+bible/old testament/genesis/0003.txt
+bible/new testament/john/0011.txt
+bible/old testament/obadiah/0001.txt
+bible/old testament/esther/0004.txt
+bible/new testament/philemon/0001.txt
 bible/old testament/psalms/0023.txt
+bible/new testament/mark/0015.txt
+bible/new testament/romans/0004.txt
+bible/old testament/genesis/0001.txt
+bible/apocrypha/tobit/0001.txt
+bible/old testament/job/0001.txt
+bible/new testament/matthew/0002.txt
+bible/new testament/acts/0001.txt
+bible/new testament/revelation/0001.txt
+bible/old testament/1 kings/0011.txt
+bible/old testament/joshua/0003.txt
+bible/new testament/james/0001.txt
+bible/old testament/isaiah/0001.txt
 bible/new testament/luke/0001.txt
+bible/new testament/matthew/0001.txt
+bible/old testament/genesis/0006.txt
+bible/old testament/jonah/0003.txt
+bible/old testament/esther/0001.txt
+bible/old testament/esther/0008.txt
+bible/old testament/leviticus/0018.txt
+bible/new testament/3 john/0001.txt
+bible/new testament/1 john/0002.txt
+bible/new testament/john/0019.txt
+bible/new testament/1 corinthians/0003.txt
+bible/old testament/deuteronomy/0017.txt
+bible/new testament/1 corinthians/0013.txt
+bible/old testament/deuteronomy/0022.txt
+bible/old testament/judges/0001.txt
+bible/old testament/ruth/0002.txt
+bible/old testament/deuteronomy/0023.txt
+bible/old testament/lamentations/0001.txt
+bible/old testament/joshua/0001.txt
+bible/new testament/john/0003.txt
+bible/old testament/leviticus/0026.txt
+bible/new testament/hebrews/0003.txt
+bible/old testament/esther/0002.txt
+bible/old testament/leviticus/0017.txt
+bible/new testament/hebrews/0009.txt
+bible/new testament/luke/0023.txt
+bible/old testament/esther/0003.txt
+bible/new testament/luke/0004.txt
+bible/old testament/lamentations/0003.txt
+bible/old testament/psalms/0051.txt
+bible/old testament/ruth/0001.txt
+bible/new testament/john/0001.txt
