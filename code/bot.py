@@ -132,7 +132,7 @@ async def verse(ctx, book: str, chapter: int, verse: int, euphemise: bool=True, 
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
-        await respond(ctx, section)
+        await respond(ctx, section, post)
         return
     text = get_verse(section, book, chapter, verse, euphemise)
     await respond(ctx, text, post)
@@ -143,7 +143,7 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, 
     book = book.lower()
     section = get_section_name(book)
     if section.startswith("error"):
-        await respond(ctx, section)
+        await respond(ctx, section, post)
         return
     text = get_verse_range(section, book, chapter, start_verse, end_verse, euphemise)
     await respond(ctx, text, post)
