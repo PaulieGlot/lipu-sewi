@@ -39,6 +39,10 @@
 1. *v.* To add something, especially a translated verse, to the GitHub repo for the lipu sewi project.
 2. *n.* The GitHub repo for the lipu sewi project.
 
+### yous
+
+1. *pn.* Second person plural pronoun.
+
 ## Grammatical peculiarities
 
 ### The ge- (-t) prefix
