@@ -2,6 +2,10 @@
 
 ## Lemmata
 
+### bump
+
+1. *v.* To reactivate a stalled thread or discussion by leaving a short message in its thread.
+
 ### cobweb
 
 1. *n.* An old verse in the thub, not up to the modern standard.
