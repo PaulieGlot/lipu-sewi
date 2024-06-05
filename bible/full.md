@@ -1208,7 +1208,7 @@
 
 11: ? o kama e jan lawa meli Wasi tawa jan lawa mije li len e ona kepeken len lawa pi jan lawa, tan ni: jan ale li ken lukin. ni li tan ni: jan Wasi li meli pi pona lukin.
 
-12: ? taso, toki pi jan lawa mije kepeken jan pi unpa ala la, jan lawa meli Wasi li kama ala. jan lawa mije li pilin ike suli tan ni, en pilin ni li seli.
+12: ! jan lawa li pana e toki ni kepeken jan pali ona pi unpa ala. taso, jan Wasi li wile ala kama, li kute ala, li kama ala. ni la jan lawa mije li kama pilin ike utala suli. pilin ona li kama seli a.
 
 13: ? jan lawa mije li toki e jan pi sona lawa, tan ni: nasin lawa li toki tawa jan pi sona lawa.
 
@@ -1888,6 +1888,13 @@
 
 17: ! palisa pi tomo mi li tan kasi suli pi ma pi nena suli. supa sewi li tan kasi suli pi laso awen.
 ### song of songs 2
+1: ! mi kasi lili pi ma Salon, mi kasi suwi pi ma anpa.
+
+2: ! kasi suwi lili li lon kasi pi ken kipisi la, sama la meli poka mi li lon meli lili.
+
+4: ! ona li kama e mi tawa tomo pi telo kili nasa. len sitelen ona li lon mi li olin.
+
+6: ! luka ona wan li lon anpa pi lawa mi. luka ona ante li luka olin e mi.
 ### song of songs 3
 ### song of songs 4
 ### song of songs 5
