@@ -2,7 +2,8 @@
 2: ! ona li open e uta ona li pana sona kepeken toki ni:
 3: ! jan ni li pona: ona li jo e ijo lili lon kon. ona li jo e ma lawa sewi.
 4: ! jan ni li pona: ona li pilin anpa. ona li kama pona a.
-5: ! jan ni li pona: ona li utala ala. ona li kama jo e ma sama tan mama
+5: ! jan ni li pona: ona li utala ala. ona li kama jo e ma sama tan mama.
+6: ! jan ni li pona: ona li wile moku e nasin pona. ona li kama jo.
 8: ! jan ni li pona: insa pilin ona li weka tan ike. ona li kama lukin e sewi.
 9: ! jan ni li pona: ona li weka e utala. jan li kama toki tawa ona: jan lili tan sewi.
 10: ! jan ni li pona: jan li alasa ike e ona tan nasin pona ona. ona li kama jo e ma lawa sewi.
