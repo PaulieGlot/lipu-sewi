@@ -5,3 +5,8 @@
 5: ? suno li suno lon pimeja. pimeja li anpa ala e ona.
 6: ? sewi Jawe li pana e jan tawa ma. nimi ona li jan Jowanan.
 7: ? jan pi toki lon la, ona li kama. ona li toki lon e suno tan ni: jan ale li sona pilin e suno.
+8: ! jan ni li suno ala. taso ona li toki lon e suno.
+9: ! suno lon li suno e jan ale. ona li kama lon ma.
+10: ! ona li lon ma. ma li kama lon tan ona. ma li sona ala e ona.
+11: ! ona li kama tawa jan ona. jan ona li kama ala jo e ona.
+12: ! taso jan li kama jo e ona la, ona li pana e ken ni: jan li ken kama jan sin sewi.
