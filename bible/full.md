@@ -2617,7 +2617,9 @@
 
 4: ! jan ni li pona: ona li pilin anpa. ona li kama pona a.
 
-5: ! jan ni li pona: ona li utala ala. ona li kama jo e ma sama tan mama
+5: ! jan ni li pona: ona li utala ala. ona li kama jo e ma sama tan mama.
+
+6: ! jan ni li pona: ona li wile moku e nasin pona. ona li kama jo.
 
 8: ! jan ni li pona: insa pilin ona li weka tan ike. ona li kama lukin e sewi.
 
@@ -2872,6 +2874,15 @@
 
 7: ? jan pi toki lon la, ona li kama. ona li toki lon e suno tan ni: jan ale li sona pilin e suno.
 
+8: ! jan ni li suno ala. taso ona li toki lon e suno.
+
+9: ! suno lon li suno e jan ale. ona li kama lon ma.
+
+10: ! ona li lon ma. ma li kama lon tan ona. ma li sona ala e ona.
+
+11: ! ona li kama tawa jan ona. jan ona li kama ala jo e ona.
+
+12: ! taso jan li kama jo e ona la, ona li pana e ken ni: jan li ken kama jan sin sewi.
 ### john 2
 ### john 3
 16: ? mama sewi li olin mute ni e ma la, ona li pana weka e mije sin taso ona, tawa ni: jan li kute e sona ona la, jan ni li kama ala moli, li kama jo e lon pi tenpo ale.
