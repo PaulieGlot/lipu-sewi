@@ -1572,9 +1572,13 @@
 
 14: ! ona li pali open e ilo moli tawa ona. ona li pana wawa e palisa alasa ona lon nasin.
 
+15: ! a! ona li pali mute tawa ike. ona li kama jo insa e pali ike, li kama mama e ijo pi lon ala.
+
 16: ! ona li pali e lupa ma, li weka e ma tan ona. ona li pakala li tawa anpa, li tawa insa pi lupa pi pali ona.
 
 17: ! pali ona li kama sin lon lawa ona. pakala pi pana ona li kama anpa lon sewi pi lawa ona.
+
+18: ! mi toki e pona tawa sewi Jawe tawa pona ona. mi kalama musi e nimi pi sewi Jawe pi sewi nanpa wan.
 ### psalms 8
 1: ! ni li kalama musi pi jan Tawi, tawa jan lawa pi kalama musi kepeken ilo Kisi.
 
