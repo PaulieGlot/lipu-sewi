@@ -1588,6 +1588,8 @@
 
 4: ! palisa lili luka sina li pali e sewi sina, sina pana lon awen e mun e mun lili, mi lukin e ona la
 
+5: ! jan li seme tawa sina la, sina awen e sona ona? jan pi jan ale li seme la, sina lukin sona e ona?
+
 6: ! sina pali e ni: ona li anpa lili tawa sewi jan. sina pana namako e olin wile e suli tawa ona.
 
 7: ! sina pali e ni: ona li kama lawa e ijo pali pi luka sina. sina pana e ale tawa anpa ona.
@@ -1896,9 +1898,15 @@
 
 2: ! kasi suwi lili li lon kasi pi ken kipisi la, sama la meli poka mi li lon meli lili.
 
+3: ! kasi suli kili li lon kasi suli lon ma kasi la, sama la mije olin mi li lon mije lili. lon pimeja ona la, mi wile supa monsi, kili ona li suwi tawa uta mi.
+
 4: ! ona li kama e mi tawa tomo pi telo kili nasa. len sitelen ona li lon mi li olin.
 
+5: ! o awen e mi kepeken pan suwi kili, o pali sin e supa lape mi kepeken kili, tan ni: mi wawa ala tan olin.
+
 6: ! luka ona wan li lon anpa pi lawa mi. luka ona ante li luka olin e mi.
+
+8: ! kalama pi jan olin mi li kama a! ona li kama, li tawa wawa lon nena suli, li tawa sewi wawa lon nena.
 ### song of songs 3
 ### song of songs 4
 ### song of songs 5
