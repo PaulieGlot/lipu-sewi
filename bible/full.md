@@ -39,7 +39,7 @@
 
 19: ? tenpo pimeja sin li kama lon tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi Jawe li pana e nimi "tenpo suno pi nanpa tu tu".
 
-20: ? sewi Jawe li toki e ni: mi wile e kala mute lon telo suli ale, mi wile e waso lon kon lon sewi ma.
+20: ! sewi Elowin li toki e ni: telo o mute e kulupu pi ijo pilin. kin la waso o tawa lon sewi ma lon selo sewi.
 
 21: ? sewi Jawe li pali e kala suli mute e akesi ale e waso lipu pi kipisi ona. kipisi ona la, akesi li tawa e telo ale. sewi Jawe li lukin e ni. sewi Jawe li pilin pona tan ni.
 
@@ -1600,6 +1600,7 @@
 
 10: ! jan lawa mi Jawe o, nimi sina li suli a lon ale ma.
 ### psalms 9
+3: ! mi pilin pona, mi musi suli lon sina. mi kalama musi e nimi sina, sewi nanpa wan o.
 ### psalms 10
 ### psalms 11
 ### psalms 12
