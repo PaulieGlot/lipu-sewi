@@ -1,11 +1,17 @@
+import requests
+
 class nimifier:
     def __init__(self):
-        name_file_path = "names/people-names.csv"
-        name_file = open(name_file_path, "r")
-        self.name_lines = name_file.readlines()
+        self.name_file_url = "https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/names/people-names.csv"
+        name_file = requests.get(self.name_file_url, "r")
+        self.name_lines = name_file.text.splitlines()
+
+    def update(self):
+        name_file = requests.get(self.name_file_url, "r")
+        self.name_lines = name_file.text.splitlines()
 
     def get_nimi(self, name):
-        pattern = ",%s\n" % name
+        pattern = ",%s" % name
         for name_line in self.name_lines:
             if name_line.endswith(pattern):
                 return name_line.split(",")[1]

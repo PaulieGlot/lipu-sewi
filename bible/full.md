@@ -1600,7 +1600,19 @@
 
 10: ! jan lawa mi Jawe o, nimi sina li suli a lon ale ma.
 ### psalms 9
+1: ! ni li kalama musi pi jan Tawi tawa jan lawa pi kalama musi kepeken ilo Mu Lapen.
+
+2: ! mi toki e pona tawa sewi Jawe kepeken pilin mi ale. mi toki sona e pona suli mute sina ale.
+
 3: ! mi pilin pona, mi musi suli lon sina. mi kalama musi e nimi sina, sewi nanpa wan o.
+
+4: ! jan ike mi li tawa sin monsi la ona li noka ike, li kama weka tan sinpin sina.
+
+6: ! sina toki suli ike e kulupu jan, sina weka e jan ike. sina weka e nimi ona tan lon tawa tenpo ale.
+
+7: ! jan ike li pini e utala tawa tenpo pi pini ala. sina weka e jan tan ma tomo, awen sona ona li weka.
+
+9: ! ona li lawa e ma lon nasin pona, li pali lawa tawa kulupu jan lon nasin palisa.
 ### psalms 10
 ### psalms 11
 ### psalms 12
@@ -1648,6 +1660,11 @@
 ### psalms 40
 ### psalms 41
 ### psalms 42
+4: ! tenpo suno en tenpo pimeja la, telo oko mi li pan mi. ale pi tenpo suno la, jan li toki e ni tawa mi: sewi sina li lon seme?
+
+7: ! sewi Elowin mi o, lon mi li pilin anpa lon mi. tan ni la, mi awen sona e sina lon ma pi telo tawa Jaten, lon nena ma mute Kelemon, lon nena ma Misa.
+
+9: ! tenpo suno la, sewi Jawe li lawa e olin pona awen ona. tenpo pimeja la, kalama musi ona li lon poka mi. ni li toki wile tawa sewi pi lon mi.
 ### psalms 43
 ### psalms 44
 ### psalms 45
@@ -1725,6 +1742,8 @@
 ### psalms 115
 ### psalms 116
 ### psalms 117
+1: ! kulupu jan ale o suli pona e sewi Jawe a! kulupu mama ale o toki e pona ona a!
+
 2: ! tan ni: pona ona li anpa e mi. sewi Jawe li nasin pona lon tenpo ale. o pana e pona sewi tawa sewi Jawe!
 
 ### psalms 118
@@ -1907,7 +1926,27 @@
 
 6: ! luka ona wan li lon anpa pi lawa mi. luka ona ante li luka olin e mi.
 
+7: ! meli lili pi ma Jelusalen o, mi toki lon e ni tawa sina lon soweli pi tawa wawa anu meli pi soweli pi palisa lawa pi ma kasi: o open ala e olin, taso o open e olin lon tenpo wile ona.
+
 8: ! kalama pi jan olin mi li kama a! ona li kama, li tawa wawa lon nena suli, li tawa sewi wawa lon nena.
+
+9: ! jan olin mi li sama soweli pi tawa wawa anu soweli pi mije sin pi palisa lawa. a! jan ni li awen lon monsi pi sinpin tomo mi, li lukin sona tan lupa sinpin, li pana lukin tan lupa lili.
+
+10: ! jan olin mi li kama toki li toki e ni tawa mi: o kama sewi, jan poka mi o, jan mi pi pona lukin o, o kama tawa.
+
+11: ! o lukin a! tenpo lete li weka, telo sewi li pini li kama weka.
+
+12: ! kasi lili kule li kama tawa lukin lon ma. tenpo pi waso pi kalama musi li kama? kalama pi waso mu lili li kama tawa kute lon ma mi.
+
+13: ! kasi suli pona li suli e kili sin ona. kasi linja li kama jo e nena kili li pana e kon pi pona nena. o kama sewi, jan poka mi o, jan mi pi pona lukin o, o kama tawa.
+
+14: ! lon lupa lili pi kiwen suli lon ma len pi sinpin nena la, waso walo lili mi o. o pana e sinpin lawa sina tawa oko mi, o pana e kalama uta sina tawa kute mi, tan ni: kalama sina li suwi, sinpin sina li pona lukin.
+
+15: ! soweli lanpan lili li pali ike e linja kasi mi la, o lanpan e soweli ni tawa mi tan ni: linja mi li jo e nena kili.
+
+16: ! jan olin mi li lon jo mi, mi lon jo ona. ona li lawa e kulupu soweli lon kasi suwi.
+
+17: ! tenpo suno li kama pana e kon sin la, pimeja li kama weka la, tawa tenpo kama ni la jan olin mi o, o tawa sike, o kama sama soweli pi tawa wawa anu sama soweli pi mije sin pi palisa wawa lon nena suli kiwen.
 ### song of songs 3
 ### song of songs 4
 ### song of songs 5
@@ -2659,6 +2698,9 @@
 21: ? ona li toki e ni tawa mi: lawa o, lawa o! ni la ona ale ala li tawa ma sewi. taso ona li pali e wile pi mama mi lon ma sewi la ona li tawa ma sewi.
 
 ### matthew 8
+2: ! a! jan pi sijelo pakala li kama li anpa tawa jan Jesu. jan pi sijelo pakala li toki e ni: jan lawa o. sina wile la, sina ken weka e pakala pi sijelo mi.
+
+4: ! jan Jesu li toki e ni tawa jan pi sijelo pakala ala: o lukin. o toki ala tawa jan ante. taso, o tawa o pana lukin e sina tawa jan pi pali sewi o pana e ijo pana tan toki lawa pi jan Mose. ni li tawa ni: jan li ken sona lon.
 ### matthew 9
 ### matthew 10
 ### matthew 11
