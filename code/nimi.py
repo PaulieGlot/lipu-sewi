@@ -19,7 +19,6 @@ class Nimifier:
         return name
 
     def replace_names(self, text):
-        print(text)
         res=""
         i = 0
         while i < len(text):
@@ -33,6 +32,3 @@ class Nimifier:
                 res += text[i]
             i += 1
         return res
-
-nimifier = Nimifier()
-print(nimifier.replace_names("#Gilead and #Joseph"))
