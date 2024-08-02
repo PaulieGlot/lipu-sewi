@@ -3,6 +3,9 @@ import discord
 import requests
 from discord import app_commands
 from dotenv import load_dotenv
+import nimi
+
+
 
 def get_stats():
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/stats/completion.csv'
@@ -119,9 +122,10 @@ intents = discord.Intents.default()
 intents.messages = True
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
-
+nimifier = nimi.Nimifier()
 
 def respond(ctx, text, post: bool):
+    text = nimifier.replace_names(text)
     if len(text) > 2000:
         text = text[:1996] + " ..."
     return ctx.response.send_message(text, ephemeral=not post)

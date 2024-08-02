@@ -1,14 +1,15 @@
 import requests
 
-class nimifier:
+class Nimifier:
     def __init__(self):
-        self.name_file_url = "https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/names/people-names.csv"
-        name_file = requests.get(self.name_file_url, "r")
-        self.name_lines = name_file.text.splitlines()
+        self.name_file_paths = ["names/place-names.csv", "names/people-names.csv"]
+        self.update()
 
     def update(self):
-        name_file = requests.get(self.name_file_url, "r")
-        self.name_lines = name_file.text.splitlines()
+        self.name_lines = []
+        for file_path in self.name_file_paths:
+            name_file = requests.get("https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s" % file_path, "r")
+            self.name_lines += name_file.text.splitlines()
 
     def get_nimi(self, name):
         pattern = ",%s" % name
@@ -31,3 +32,6 @@ class nimifier:
                 res += text[i]
             i += 1
         return res
+
+nimifier = Nimifier()
+print(nimifier.replace_names("#Gilead and #Joseph"))
