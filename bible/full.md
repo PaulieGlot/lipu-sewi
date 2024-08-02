@@ -1948,6 +1948,21 @@
 
 17: ! tenpo suno li kama pana e kon sin la, pimeja li kama weka la, tawa tenpo kama ni la jan olin mi o, o tawa sike, o kama sama soweli pi tawa wawa anu sama soweli pi mije sin pi palisa wawa lon nena suli kiwen.
 ### song of songs 3
+1: ! lon supa lape lon tenpo pimeja la, mi alasa e ona pi olin mi.  mi alasa e ona, taso mi kama ala lukin e ona.
+
+2: ! tenpo ni la mi tawa noka. mi tawa lon ma tomo, lon ma esun ona, lon nasin ona. mi alasa e ona pi olin mi. mi alasa e ona, taso mi kama ala lukin e ona.
+
+3: ! jan awen li tawa lon ma tomo la ona li kama lukin e mi. sina lukin ala lukin e ona pi olin mi?
+
+4: ! mi weka tan ona la tenpo lili pini la mi kama lukin e ona pi olin mi. mi kama jo luka e ona. mi pana ala weka e ona tawa tenpo ni: mi kama e ona lon tomo pi mama meli mi, lon tomo lili insa pi meli pi kama lon mi.
+
+5: ! meli lili pi ma Jelusalen o, mi toki lon e ni tawa sina lon soweli pi tawa wawa anu meli pi soweli pi palisa lawa pi ma kasi: o open ala e olin, taso o open e olin lon tenpo wile ona.
+
+7: ! o lukin a e supa lape pi jan Salomo! jan wawa 60 li sike e ona, li tan jan wawa pi ma Isale.
+
+9: ! jan lawa Salomo li pali e supa tawa tawa ona sama kepeken kiwen kasi pi ma Lepanon.
+
+10: ! ona li pali e palisa ona kepeken kiwen mani walo, e supa ona kepeken kiwen mani jelo, e supa monsi kepeken loje laso. insa ona li len kepeken olin tan meli lili pi ma Jelusalen.
 ### song of songs 4
 ### song of songs 5
 ### song of songs 6
