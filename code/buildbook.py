@@ -1,6 +1,7 @@
 import re
 import os
 from datetime import date, datetime
+import nimi
 
 line_number = 0
 verse_count = 0
@@ -20,6 +21,7 @@ books_file = open(books_file_path, 'r')
 fulltext_file = open(fulltext_file_path, 'w')
 book_lines = books_file.readlines()
 section = ""
+nimifier = nimi.Nimifier()
 
 for line in book_lines:
     line_number += 1
@@ -47,10 +49,12 @@ for line in book_lines:
             chapter_path = "%s/%s.txt" % (book_path, f'{chapter:04}')
             chapter_file = open(chapter_path, 'r')
             # append trailing newline to chapter file if nonexistent
-            fulltext_file.write("### %s %d\n" % (book, chapter))
+            title_line = "### %s %d\n" % (book, chapter)
+            fulltext_file.write(title_line)
             verses = chapter_file.readlines()
             for verse in verses:
                 if verse != "":
+                    verse = nimifier.replace_names(verse)
                     fulltext_file.write("%s\n" % verse)
                     verse_count += 1
                     if cobweb_pattern.match(verse):
