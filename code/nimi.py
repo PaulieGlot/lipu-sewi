@@ -19,6 +19,7 @@ class Nimifier:
         return name
 
     def replace_names(self, text):
+        print(text)
         res=""
         i = 0
         while i < len(text):
