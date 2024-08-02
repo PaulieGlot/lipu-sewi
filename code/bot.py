@@ -23,7 +23,7 @@ def get_stats():
     return line
 
 # pull a verse from a chapter file
-def get_verse(section: str, book: str, chapter: int, verse: int, euphemise: bool):
+def get_verse(section: str, book: str, chapter: int, verse: int):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
@@ -36,8 +36,6 @@ def get_verse(section: str, book: str, chapter: int, verse: int, euphemise: bool
             line = line.split(' | ', 1)[0]
             if not line.endswith('\n'):
                 line += '\n'
-            if euphemise:
-                line = re.sub(r"\bJawe\b", "**Nimi**", line)
             return line
     return "error fetching verse: chapter file `%s` contains no verse numbered %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that a translation has been supplied for the requested verse.*\n" % (filename, verse)
 
@@ -57,7 +55,7 @@ def get_chapter(section: str, book: str, chapter: int):
 
 
 # quickly pull all completed verses within a range
-def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int, euphemise: bool):
+def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end_verse: int):
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
@@ -77,8 +75,6 @@ def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end
             text += line
     if text == "":
         return "error fetching verse range: chapter file `%s` contains no verses within the range %i - %i.\n\n*jan Poli says: be sure you are using the same numbering system as this version, and that translations have been supplied for verses in the requested range.*\n" % (filename, start_verse, end_verse)
-    if euphemise:
-        text = re.sub(r"\bJawe\b", "**Nimi**", text)
     return text
 
 
@@ -124,8 +120,11 @@ client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 nimifier = nimi.Nimifier()
 
-def respond(ctx, text, post: bool):
+def respond(ctx, text, post: bool, euphemise: bool):
+    nimifier.update()
     text = nimifier.replace_names(text)
+    if euphemise:
+        text = re.sub(r"\bJawe\b", "**Nimi**", text)
     if len(text) > 2000:
         text = text[:1996] + " ..."
     return ctx.response.send_message(text, ephemeral=not post)
@@ -139,7 +138,7 @@ async def verse(ctx, book: str, chapter: int, verse: int, euphemise: bool=True, 
         await respond(ctx, section, post)
         return
     text = get_verse(section, book, chapter, verse, euphemise)
-    await respond(ctx, text, post)
+    await respond(ctx, text, post, euphemise)
 
 
 @tree.command(name="range", description="pull a range of verses from the translated text", guild=discord.Object(id=GUILD_ID))
@@ -150,7 +149,7 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, 
         await respond(ctx, section, post)
         return
     text = get_verse_range(section, book, chapter, start_verse, end_verse, euphemise)
-    await respond(ctx, text, post)
+    await respond(ctx, text, post, euphemise)
 
 @tree.command(name="cite", description="cite a passage from the translated text", guild=discord.Object(id=GUILD_ID))
 async def cite(ctx, citation: str, euphemise: bool=True, post: bool=False):
@@ -175,7 +174,7 @@ async def cite(ctx, citation: str, euphemise: bool=True, post: bool=False):
         text = get_verse_range(section, book, int(range_citation[2]), int(range_citation[3]), int(range_citation[4]), euphemise)
     else:
         text = "error parsing citation: `%s` does not seem to be formatted as a proper citation." % citation
-    await respond(ctx, text, post)
+    await respond(ctx, text, post, euphemise)
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None, post: bool=False):
