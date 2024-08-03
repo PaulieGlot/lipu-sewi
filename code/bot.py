@@ -137,7 +137,7 @@ async def verse(ctx, book: str, chapter: int, verse: int, euphemise: bool=True, 
     if section.startswith("error"):
         await respond(ctx, section, post)
         return
-    text = get_verse(section, book, chapter, verse, euphemise)
+    text = get_verse(section, book, chapter, verse)
     await respond(ctx, text, post, euphemise)
 
 
@@ -148,7 +148,7 @@ async def range(ctx, book: str, chapter: int, start_verse: int, end_verse: int, 
     if section.startswith("error"):
         await respond(ctx, section, post)
         return
-    text = get_verse_range(section, book, chapter, start_verse, end_verse, euphemise)
+    text = get_verse_range(section, book, chapter, start_verse, end_verse)
     await respond(ctx, text, post, euphemise)
 
 @tree.command(name="cite", description="cite a passage from the translated text", guild=discord.Object(id=GUILD_ID))
