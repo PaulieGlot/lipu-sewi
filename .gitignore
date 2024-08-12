@@ -2,3 +2,4 @@
 .venv
 .vscode
 styleguide.md
+code/__pycache__
