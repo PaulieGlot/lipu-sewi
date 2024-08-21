@@ -2,7 +2,9 @@
 2: ! mi toki e pona tawa sewi Jawe kepeken pilin mi ale. mi toki sona e pona suli mute sina ale.
 3: ! mi pilin pona, mi musi suli lon sina. mi kalama musi e nimi sina, sewi nanpa wan o.
 4: ! jan ike mi li tawa sin monsi la ona li noka ike, li kama weka tan sinpin sina.
+5: ! lon ni: sina pali e nasin pona mi e utala lawa mi. sina lon supa pi jan pi pana lawa lon nasin pona.
 6: ! sina toki suli ike e kulupu jan, sina weka e jan ike. sina weka e nimi ona tan lon tawa tenpo ale.
 7: ! jan ike li pini e utala tawa tenpo pi pini ala. sina weka e jan tan ma tomo, awen sona ona li weka.
 9: ! ona li lawa e ma lon nasin pona, li pali lawa tawa kulupu jan lon nasin palisa.
+10: ! sewi Jawe li kama tomo awen tawa jan anpa li kama tomo awen lon tenpo ike.
 11: ! jan li sona e nimi sina la, ona ni li pilin awen lon sina, tan ni: jan li lukin sona e sina la, sina tawa ala weka tan ona ni, sewi Jawe o.
