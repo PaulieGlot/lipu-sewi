@@ -1,4 +1,4 @@
-1: ? lon supa lape lon tenpo pimeja la, mi alasa e ona pi olin mi.  mi alasa e ona, taso mi kama ala lukin e ona.
+1: ! lon supa lape lon tenpo pimeja la, mi alasa e ona pi olin mi.  mi alasa e ona mije, taso mi kama ala lukin e ona.
 2: ! tenpo ni la mi tawa noka. mi tawa lon ma tomo, lon ma esun ona, lon nasin ona. mi alasa e ona pi olin mi. mi alasa e ona, taso mi kama ala lukin e ona.
 3: ! jan awen li tawa lon ma tomo la ona li kama lukin e mi. sina lukin ala lukin e ona pi olin mi?
 4: ! mi weka tan ona la tenpo lili pini la mi kama lukin e ona pi olin mi. mi kama jo luka e ona. mi pana ala weka e ona tawa tenpo ni: mi kama e ona lon tomo pi mama meli mi, lon tomo lili insa pi meli pi kama lon mi.
@@ -8,3 +8,4 @@
 8: ! ona ale li jo e ilo kipisi utala, li sona tan utala. jan ni li jo e ilo ona lon poka sijelo ona tan monsuta pi tenpo pimeja.
 9: ! jan lawa Salomo li pali e supa tawa tawa ona sama kepeken kiwen kasi pi ma Lepanon.
 10: ! ona li pali e palisa ona kepeken kiwen mani walo, e supa ona kepeken kiwen mani jelo, e supa monsi kepeken loje laso. insa ona li len kepeken olin tan meli lili pi ma Jelusalen.
+11: ! meli lili pi ma Sijon o tawa o lukin e jan lawa Salomo. ona li len kepeken len lawa suli ni. mama meli ona li pana e ni tawa ona lon tenpo suno pi kama wan ona lon tenpo suno pi musi pilin ona.
