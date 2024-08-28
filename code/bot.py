@@ -120,7 +120,7 @@ client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 nimifier = nimi.Nimifier()
 
-def respond(ctx, text, post: bool, euphemise: bool):
+def respond(ctx, text, post: bool, euphemise: bool = True):
     nimifier.update()
     text = nimifier.replace_names(text)
     if euphemise:
