@@ -1608,11 +1608,19 @@
 
 4: ! jan ike mi li tawa sin monsi la ona li noka ike, li kama weka tan sinpin sina.
 
+5: ! lon ni: sina pali e nasin pona mi e utala lawa mi. sina lon supa pi jan pi pana lawa lon nasin pona.
+
 6: ! sina toki suli ike e kulupu jan, sina weka e jan ike. sina weka e nimi ona tan lon tawa tenpo ale.
 
 7: ! jan ike li pini e utala tawa tenpo pi pini ala. sina weka e jan tan ma tomo, awen sona ona li weka.
 
+8: ! sewi Jawe li awen tawa tenpo ale. ona li pali open e supa monsi ona tawa pana lawa.
+
 9: ! ona li lawa e ma lon nasin pona, li pali lawa tawa kulupu jan lon nasin palisa.
+
+10: ! sewi Jawe li kama tomo awen tawa jan pi pakala anpa, li kama tomo awen lon tenpo ike.
+
+11: ! jan li sona e nimi sina la, ona ni li pilin awen lon sina, tan ni: jan li lukin sona e sina la, sina tawa ala weka tan ona ni, sewi Jawe o.
 ### psalms 10
 ### psalms 11
 ### psalms 12
@@ -1948,7 +1956,7 @@
 
 17: ! tenpo suno li kama pana e kon sin la, pimeja li kama weka la, tawa tenpo kama ni la jan olin mi o, o tawa sike, o kama sama soweli pi tawa wawa anu sama soweli pi mije sin pi palisa wawa lon nena suli kiwen.
 ### song of songs 3
-1: ! lon supa lape lon tenpo pimeja la, mi alasa e ona pi olin mi.  mi alasa e ona, taso mi kama ala lukin e ona.
+1: ! lon supa lape lon tenpo pimeja la, mi alasa e ona pi olin mi.  mi alasa e ona mije, taso mi kama ala lukin e ona.
 
 2: ! tenpo ni la mi tawa noka. mi tawa lon ma tomo, lon ma esun ona, lon nasin ona. mi alasa e ona pi olin mi. mi alasa e ona, taso mi kama ala lukin e ona.
 
@@ -1958,11 +1966,17 @@
 
 5: ! meli lili pi ma Jelusalen o, mi toki lon e ni tawa sina lon soweli pi tawa wawa anu meli pi soweli pi palisa lawa pi ma kasi: o open ala e olin, taso o open e olin lon tenpo wile ona.
 
+6: ! meli seme a li kama tan ma pi telo ala sama palisa suli pi kon seli? ona pi len kon li kepeken e ko kasi pi kon suwi, e ko kasi pi seli sewi, e ko ale pi jan esun.
+
 7: ! o lukin a e supa lape pi jan Salomo! jan wawa 60 li sike e ona, li tan jan wawa pi ma Isale.
+
+8: ! ona ale li jo e ilo kipisi utala, li sona tan utala. jan ni li jo e ilo ona lon poka sijelo ona tan monsuta pi tenpo pimeja.
 
 9: ! jan lawa Salomo li pali e supa tawa tawa ona sama kepeken kiwen kasi pi ma Lepanon.
 
 10: ! ona li pali e palisa ona kepeken kiwen mani walo, e supa ona kepeken kiwen mani jelo, e supa monsi kepeken loje laso. insa ona li len kepeken olin tan meli lili pi ma Jelusalen.
+
+11: ! meli lili pi ma Sijon o tawa o lukin e jan lawa Salomo. ona li len kepeken len lawa suli ni. mama meli ona li pana e ni tawa ona lon tenpo suno pi kama wan ona lon tenpo suno pi musi pilin ona.
 ### song of songs 4
 ### song of songs 5
 ### song of songs 6
@@ -2713,7 +2727,11 @@
 21: ? ona li toki e ni tawa mi: lawa o, lawa o! ni la ona ale ala li tawa ma sewi. taso ona li pali e wile pi mama mi lon ma sewi la ona li tawa ma sewi.
 
 ### matthew 8
-2: ! a! jan pi sijelo pakala li kama li anpa tawa jan Jesu. jan pi sijelo pakala li toki e ni: jan lawa o. sina wile la, sina ken weka e pakala pi sijelo mi.
+1: ! jan Jesu li kama tan nena suli la, kulupu jan suli li lon poka pi jan Jesu.
+
+2: ! a! jan pi selo pakala li kama li anpa tawa jan Jesu. jan pi sijelo pakala li toki e ni: jan lawa o. sina wile la, sina ken weka e pakala pi selo mi.
+
+3: ! ona li pana e luka li pilin e ona la, ona li toki e ni: mi wile. o sin! tenpo ni sama la, selo pakala ona li kama sin.
 
 4: ! jan Jesu li toki e ni tawa jan pi sijelo pakala ala: o lukin. o toki ala tawa jan ante. taso, o tawa o pana lukin e sina tawa jan pi pali sewi o pana e ijo pana tan toki lawa pi jan Mose. ni li tawa ni: jan li ken sona lon.
 ### matthew 9
