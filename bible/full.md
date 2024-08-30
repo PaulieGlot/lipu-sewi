@@ -1621,6 +1621,10 @@
 10: ! sewi Jawe li kama tomo awen tawa jan pi pakala anpa, li kama tomo awen lon tenpo ike.
 
 11: ! jan li sona e nimi sina la, ona ni li pilin awen lon sina, tan ni: jan li lukin sona e sina la, sina tawa ala weka tan ona ni, sewi Jawe o.
+
+12: ! o kalama musi tawa sewi Jawe, ona li awen lon ma Sijon. o toki sona e pali ona lon kulupu jan.
+
+15: ! tawa ni: mi o toki sona e pona sina ale lon lupa suli pi ma tomo pi meli lili Sijon. mi musi wawa lon awen pi pana sina.
 ### psalms 10
 ### psalms 11
 ### psalms 12
@@ -1724,6 +1728,17 @@
 ### psalms 89
 ### psalms 90
 ### psalms 91
+2: ! mi toki tawa sewi Jawe e ni: sina tomo mi pi ike kama ala. sina tomo wawa mi. ona li sewi Elowin mi. mi pilin awen lon ona.
+
+3: ! tan ni: ona li weka e sina tan ilo jo pi jan alasa tan moli wawa kulupu.
+
+4: ! ona li len e sina lon luka waso ona. sina awen lon anpa luka ona. lon ona li len utala kiwen li ilo utala.
+
+5: ! sina pilin monsuta ala tan monsuta lon tenpo pimeja. sina pilin monsuta ala tan palisa utala lon kon lon tenpo suno.
+
+6: ! sina pilin monsuta ala tan moli wawa kulupu. moli ni li tawa lon pimeja. sina pilin monsuta ala tan moli lon tenpo pi suno sewi.
+
+7: ! jan mute li moli lon poka wan sina la, jan mute mute li moli lon poka ante la, moli li kama ala tawa sina.
 ### psalms 92
 ### psalms 93
 ### psalms 94
@@ -1978,6 +1993,13 @@
 
 11: ! meli lili pi ma Sijon o tawa o lukin e jan lawa Salomo. ona li len kepeken len lawa suli ni. mama meli ona li pana e ni tawa ona lon tenpo suno pi kama wan ona lon tenpo suno pi musi pilin ona.
 ### song of songs 4
+1: ! jan poka meli mi o, lukin la sina pona a! lukin la sina pona. oko sina li waso walo lili lon monsi pi linja lawa sina. linja lawa sina li sama kulupu pi soweli mani lili, kulupu ni li tawa anpa tan ma nena Kileta.
+
+5: ! nena mama tu sina li sama soweli lili pi tu sama, mama ona li soweli pi tawa wawa. ona tu li alasa e moku lon kasi suwi.
+
+6: ! tenpo suno li kama pana e kon sin la, pimeja li kama weka la, tawa tenpo kama ni la, mi tawa e mi, tawa nena suli pi ko kasi pi kon suwi, tawa nena pi ko kasi pi seli sewi.
+
+7: ! jan poka meli mi o, ale sina li pona. ike sijelo li lon ala sina.
 ### song of songs 5
 ### song of songs 6
 ### song of songs 7
