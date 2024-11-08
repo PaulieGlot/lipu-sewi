@@ -2025,7 +2025,11 @@
 
 9: ! sina wawa e pilin mi, jan sama meli o, meli pi kama wan o. sina wawa e pilin mi, kepeken lukin wan pi oko sina, kepeken linja namako wan pi anpa lawa sina.
 
+10: ! olin sina li pona a, jan sama meli mi o, meli pi kama wan o. telo kili nasa la olin sina li suwi mute, kon namako la kon pi ko telo sijelo sina li pona mute.
+
 11: ! selo uta sina li pana telo e ko suwi sin, meli pi kama wan o. ko suwi en telo walo mama li lon anpa pi linja uta sina. kon pi len sina li sama kon pi kasi suli pi ma pi nena suli.
+
+12: ! jan sama meli mi o, meli pi kama wan o, ona li ma kasi suwi pi poki awen, li kulupu telo pi poki awen, li lupa ma ni pi telo sin: jan li ken ala tawa insa ni.
 ### song of songs 5
 ### song of songs 6
 ### song of songs 7
