@@ -1,5 +1,5 @@
-1: ? sewi Jawe li pali e kon sewi e ma kepeken nasin ni.
-2: ? tenpo luka tu la, sewi Jawe li pini e pali tan ona li pali e ale.
-4: ? sewi Jawe li pali e kon sewi e ma kepeken nasin ni. sewi Jawe li pali e kon sewi e ma.
+1: ? sewi #YHWH li pali e kon sewi e ma kepeken nasin ni.
+2: ? tenpo luka tu la, sewi #YHWH li pini e pali tan ona li pali e ale.
+4: ? sewi #YHWH li pali e kon sewi e ma kepeken nasin ni. sewi #YHWH li pali e kon sewi e ma.
 10: ! nasin telo li tawa tan ma Eten li pana e telo tawa ma kasi. ma ni la, ona li kama nasin telo lili 4.
 11: ! nimi pi nasin telo wan li Pison. ona li lon ma Awila ale. ma ni la, kiwen pi suli mute li lon.
