@@ -22,7 +22,7 @@ class Nimifier:
         res=""
         i = 0
         while i < len(text):
-            if text[i] == "#":
+            if text[i] == "&":
                 name = ""
                 while i+1 < len(text) and text[i+1].isalpha():
                     name += text[i+1]
