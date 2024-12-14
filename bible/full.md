@@ -721,7 +721,7 @@
 
 9: ? meli li toki e ni tawa jan tu: mi sona e ni: sewi Jawe li pana e ma ni tawa sina. wawa sina li lon mi mute. jan ale pi ma ni li weka tan sina.
 
-10: ? mi mute li kute e ni: sewi Jawe li lanpan e telo tan telo suli Su tan ni: sina tawa tan ma Misalin. mi mute li kute ale e ni: sina pali tawa jan lawa Emoli tu lon poka ante pi telo tawa Jaten. tawa jan lawa Sijon tawa jan lawa Oku. sina moli e ona.
+10: ? mi mute li kute e ni: sewi Jawe li lanpan e telo tan telo suli Su tan ni: sina tawa tan ma Misalin. mi mute li kute ale e ni: sina pali tawa jan lawa Amozli tu lon poka ante pi telo tawa Jaten. tawa jan lawa Sijon tawa jan lawa Oku. sina moli e ona.
 
 11: ? mi mute li kute e ni la, pilin mi li weka. jan ala li jo e pilin tan sina. tan sewi Jawe sina li sewi lon kon sewi, li sewi lon ma anpa.
 
@@ -762,7 +762,7 @@
 
 9: ? jan Jejosuwa li toki tawa kulupu jan Isale e ni: o kama o kute e toki pi sewi sina Jawe.
 
-10: ? jan Jejosuwa li toki e ni: ni la, sina li sona e ni: sewi li lon sina li pana tan sina e kulupu Kanan e kulupu Isim e kulupu Kiwi e kulupu Pelisi e kulupu Kikisi e kulupu Emoli e kulupu Jepusi.
+10: ? jan Jejosuwa li toki e ni: ni la, sina li sona e ni: sewi li lon sina li pana tan sina e kulupu Kanan e kulupu Isim e kulupu Kiwi e kulupu Pelisi e kulupu Kikisi e kulupu Amozli e kulupu Jepusi.
 
 11: ? o! poki pi toki wan. jan lawa pi ma ale li tawa lon sinpin sina lon telo tawa Jaten.
 
@@ -829,9 +829,9 @@
 ### judges 21
 ## ruth
 ### ruth 1
-1: ? tenpo ni li lon: jan lawa suli li lawa la, tenpo pi moku ala li lon ma. mije li tan ma tomo Petelen Juta li tawa ni: li lon ma Sete Mowa. ona en meli ona en jan lili tu ona li tawa.
+1: ? tenpo ni li lon: jan lawa suli li lawa la, tenpo pi moku ala li lon ma. mije li tan ma tomo Bethellen Juta li tawa ni: li lon ma Sete Mowa. ona en meli ona en jan lili tu ona li tawa.
 
-2: ? nimi pi mije ni li Elimele. nimi pi meli ona li Najomi. nimi po jan lili tu ona li Majalon li Kilijon. ona ale li tan kulupu jan Epulajem li tan ma tomo Peteleken Juta. ona li kama lon ma Sete Mowa li lon ma ni.
+2: ? nimi pi mije ni li Elimele. nimi pi meli ona li Najomi. nimi po jan lili tu ona li Majalon li Kilijon. ona ale li tan kulupu jan Epulajem li tan ma tomo Bethelleken Juta. ona li kama lon ma Sete Mowa li lon ma ni.
 
 3: ? jan Elimele pi meli Najomi li moli la, meli li lon, jan lili tu ona li lon.
 
@@ -865,20 +865,20 @@
 
 18: ? jan Najomi li kama sona e ni: jan Lu li wile tawa lon poka ona, la ona li awen ala wile wawa e ona.
 
-19: ? ona tu li tawa ma tomo Petelen. ona li kama lon ma tomo Petelen la, ma tomo li kalama tan ona, li toki e ni: ni li meli Najomi anu seme?
+19: ? ona tu li tawa ma tomo Bethellen. ona li kama lon ma tomo Bethellen la, ma tomo li kalama tan ona, li toki e ni: ni li meli Najomi anu seme?
 
 20: ? meli li toki tawa ona e ni: o pana ala tawa mi e nimi pi meli Najomi. o pana tawa mi e nimi Mala tan ni: sewi Sata li pakala mute e mi.
 
 21: ? mi tawa la, mi suli. sewi Jawe li kama sin e mi la, mi jo e ala. tan seme la sina pana tawa mi e nimi Najomi? sewi Jawe li pana e toki lon mi. sewi Sata li pakala e mi.
 
-22: ? ni la jan Najomi en meli Lu pi mije sin ona tan ma Sete Mowa li kama sin. ona li kama lon ma Petelen lon tenpo open pi alasa pan.
+22: ? ni la jan Najomi en meli Lu pi mije sin ona tan ma Sete Mowa li kama sin. ona li kama lon ma Bethellen lon tenpo open pi alasa pan.
 
 ### ruth 2
 1: ? meli Najomi li sona e jan tan mije ona. jan ni li jan wawa pona tan kulupu mama pi jan Elimele. nimi ona li jan Powa.
 
 3: ? ona li tawa li kama li alasa lon ma kasi lon monsi pi jan kipisi. ni li kama: ona li kama lon ma pi jan Powa tan kulupu mama pi jan Elimele.
 
-4: ? lon a la, jan Powa li kama tan ma Petelen li toki tawa jan kipisi e ni: sewi Jawe li lon ona. ni la, jan kipisi li toki tawa ona e ni: sewi Jawe o pona e sina.
+4: ? lon a la, jan Powa li kama tan ma Bethellen li toki tawa jan kipisi e ni: sewi Jawe li lon ona. ni la, jan kipisi li toki tawa ona e ni: sewi Jawe o pona e sina.
 
 5: ? jan pali ona li lukin lawa e jan kipisi la, jan Powa li toki tawa ona e ni: meli lili ni li tan jan seme?
 
@@ -912,13 +912,13 @@
 ### 1 samuel 1
 1: ? tenpo ni la jan mije pi ma Alamatawin Sopin lon nena mute pi ma Epelawin li lon. nimi ona li jan mije Elekana. jan mije Elekana li jan lili mije pi jan mije Jelowan. jan mije Jelowan li jan lili mije pi jan mije Eliju. jan mije Eliju li jan lili mije pi jan mije Toju. jan mije Toju li jan lili mije pi jan mije Supu. jan mije Supu li jan pi ma Epelawin.
 
-2: ? ona li jo e meli olin lawa tu. nimi pi meli nanpa wan li jan meli Ana. nimi pi meli nanpa tu li jan meli Panina. jan meli Panina li jo e jan lili mute. taso jan meli Ana li jo ala e jan lili.
+2: ? ona li jo e meli olin lawa tu. nimi pi meli nanpa wan li jan meli Hama. nimi pi meli nanpa tu li jan meli Panina. jan meli Panina li jo e jan lili mute. taso jan meli Hama li jo ala e jan lili.
 
-3: ? tenpo mute la jan mije ni li kama tan ma tomo ona. ni la ona li awen anpa li moli sewi tawa sewi Jawe Sepajo lon ma tomo Silo. ma ni la jan mije Apani en jan mije Pinawasa li jan lili mije tu pi jan Eli li jan pali sewi pi sewi Jawe.
+3: ? tenpo mute la jan mije ni li kama tan ma tomo ona. ni la ona li awen anpa li moli sewi tawa sewi Jawe Sabeansjo lon ma tomo Silo. ma ni la jan mije Apani en jan mije Pinawasa li jan lili mije tu pi jan Eli li jan pali sewi pi sewi Jawe.
 
 4: ? tenpo suno pi pana sewi la jan Elekana li pana e kipisi mute tawa meli olin lawa ona Panina tawa jan lili mije pi jan Panina tawa jan lili meli pi jan Panina.
 
-5: ? taso ona li pana e kipisi wan sin tawa jan Ana tan ni: jan Elekana li olin e jan Ana. taso tenpo pini la sewi Jawe li pini e insa mama meli ona.
+5: ? taso ona li pana e kipisi wan sin tawa jan Hama tan ni: jan Elekana li olin e jan Hama. taso tenpo pini la sewi Jawe li pini e insa mama meli ona.
 
 6: ? o alasa tawa ona e jan 12. jan 12 li jan wan tan kulupu lili wan li jan wan tan kulupu lili ante.
 
@@ -1042,7 +1042,7 @@
 
 4: ? jan mije Nowa, jan sin ona li jan mije Sen, li jan mije An, li jan mije Jepete.
 
-5: ? jan sin pi jan mije Jepete li jan mije Kome li jan mije Mokuku li jan mije Mate li jan mije Jawan li jan mije Tupa li jan mije Meseke li jan mije Silasa.
+5: ? jan sin pi jan mije Jepete li jan mije Kome li jan mije Mokuku li jan mije Mate li jan mije Jawan li jan mije Tupa li jan mije Meseke li jan mije Sirachsa.
 
 6: ? jan sin pi jan mije Kome li jan mije Asakanasa li jan mije Lipa li jan mije Tokama
 
@@ -1054,13 +1054,13 @@
 
 10: ? en jan mije Kusu li mama e jan lawa Ninlo. jan lawa Ninlo li jan suli e tenpo lon ma.
 
-11: ? jan mije Misilalin li mama e jan mije Lusin e jan mije Anamin e jan mije Lejapin e jan mije Napatuwin
+11: ? jan mije Misilalin li mama e jan mije Lusin e jan mije Hamamin e jan mije Lejapin e jan mije Napatuwin
 
 12: ? e kulupu Patalusin e kulupu Kasaluwin (ni li mama e kulupu Pilisiten) e kulupu Kapatolin.
 
 13: ? jan mije Kanan li mama e jan mije Siton (jan sin nanpa wan) e jan mije Kese, 
 
-14: ? e jan pi kulupu Japusi e jan pi kulupu Emoli e jan pi kulupu Kikasi,
+14: ? e jan pi kulupu Japusi e jan pi kulupu Amozli e jan pi kulupu Kikasi,
 
 15: ? e jan pi kulupu Iwi e jan pi kulupu Alaki e jan pi kulupu Sini
 
@@ -1072,7 +1072,7 @@
 
 19: ? jan Epe li mama e jan sin tu pi nimi ni: jan Pele [kipisi] en jan Jakatan. tenpo pi jan Pele la ma ale li kipisi. ni la jan Pele li jo e nimi ni.
 
-20: ? jan Jakatan li mama e jan Amotata e jan Salepe e jan Asamawete e jan Jala 
+20: ? jan Jakatan li mama e jan Amostata e jan Saraipe e jan Asamawete e jan Jala 
 
 21: ? e jan Etolan e jan Usa e jan Tekila 
 
@@ -1544,7 +1544,7 @@
 
 11: ! jan ike mi ale o pilin anpa o pilin monsuta mute. ona o tawa monsi, o pilin anpa, kepeken tenpo lili.
 ### psalms 7
-1: ! ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Pinjamin.
+1: ! ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Benjaminma tomo.
 
 2: ! sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
 
@@ -1943,7 +1943,7 @@
 
 13: ! mi la jan olin mi li poki lili pi ko kasi pi kon suwi. ona li lape lon sijelo mi lon meso pi nena mama mi.
 
-14: ! jan olin mi li kulupu kili pi kasi kule lon ma kili pi ma En Kesi.
+14: ! jan olin mi li kulupu kili pi kasi kule lon ma kili pi ma Ain Gedi.
 
 15: ! jan poka meli mi o,lukin la sina pona a! lukin la sina pona. oko sina li waso walo lili.
 
@@ -2021,7 +2021,7 @@
 
 7: ! jan poka meli mi o, ale sina li pona. ike sijelo li lon ala sina.
 
-8: ! lon poka mi la tan ma Lepanon la, meli pi kama wan o -- o kama tawa lon poka mi tan ma Lepanon. sina o lukin wawa tan sewi pi nena Amana, tan sewi pi nena Seni, tan sewi pi nena Kelemon, tan tomo ma pi soweli alasa suli, tan nena suli pi soweli alasa pi tawa wawa.
+8: ! lon poka mi la tan ma Lepanon la, meli pi kama wan o -- o kama tawa lon poka mi tan ma Lepanon. sina o lukin wawa tan sewi pi nena Amana, tan sewi pi nena Shemi, tan sewi pi nena Kelemon, tan tomo ma pi soweli alasa suli, tan nena suli pi soweli alasa pi tawa wawa.
 
 9: ! sina wawa e pilin mi, jan sama meli o, meli pi kama wan o. sina wawa e pilin mi, kepeken lukin wan pi oko sina, kepeken linja namako wan pi anpa lawa sina.
 
@@ -2036,7 +2036,7 @@
 ### song of songs 8
 ## isaiah
 ### isaiah 1
-1: ? mi jan Isajaju1 mi jan lili pi jan Amo2. tenpo lawa pi jan Jotan3, pi jan Asa4, pi jan Esekaja5 la, sewi Jawe li pana e lukin pi ma Jerusalen 6 e lukin pi ma ante ale lon ma Juta7  tawa mi.
+1: ? mi jan Isajaju1 mi jan lili pi jan Amo2. tenpo lawa pi jan Jotan3, pi jan Asa4, pi jan Estherkaja5 la, sewi Jawe li pana e lukin pi ma Jerusalen 6 e lukin pi ma ante ale lon ma Juta7  tawa mi.
 
 2: ? sewi o kute! ma ale o kute! sewi Jawe li toki: tenpo pini la mi mama li suli e jan lili. taso ona li weka tan mi. 
 
@@ -2052,7 +2052,7 @@
 
 8: ? ma tan nena Sijon li lon sama tomo lili lon ma pi kasi kili suwi li lon sama tomo lili pi jan lukin awen lon ma pi kasi kili laso li lon sama kulupu tomo suli pi lon ma pi jan ike.
 
-9: ? tenpo pini la sewi Jawe pi kulupu utala sewi li pana e kulupu lili tawa mi mute, sewi Jawe li pana ala e kulupu ni la, mi mute li sama ma Seton li sama ma Emowa
+9: ? tenpo pini la sewi Jawe pi kulupu utala sewi li pana e kulupu lili tawa mi mute, sewi Jawe li pana ala e kulupu ni la, mi mute li sama ma Seton li sama ma Amozwa
 
 11: ? sina li pana e ijo mute tawa sewi. tan seme? sewi Jawe li toki e ni: mi wile ala e pana sewi pi seli pi soweli pana linja e wawa tan soweli wawa. telo loje tan ni: soweli mani lili en soweli len lili en soweli pi noka kiwen. ni li pona ala tawa mi.
 
@@ -2526,7 +2526,7 @@
 
 8: ? sewi Jawe li toki e ni: “tenpo suno ni la mi pakala ala pakala e jan pi sona mute pi ma Aton e jan sona pi nena Esa?
 
-9: ? ma tomo Teman o! jan wawa sina li monsuta. jan ale pi nena pi jan Esa li moli.
+9: ? ma tomo Demasn o! jan wawa sina li monsuta. jan ale pi nena pi jan Esa li moli.
 
 10: ? sina kama pilin ike li kama pakala lon tenpo ale tan pakala sina tawa jan sama sina Jako.
 
@@ -2546,9 +2546,9 @@
 
 18: ? tenpo kama la jan pi jan Jako en jan pi jan Jose li sama seli. jan pi jan Esa li sama kasi linja pi telo ala. jan pi jan Jako li seli pakala e ona. jan ala pi jan Esa li moli ala.” sewi Jawe li toki e ni.
 
-19: ? jan pi ma seli Neke li kama jo e nena pi jan Esa. jan pi ma anpa li kama jo e ma Pilisin e ma kasi pi jan Epan e ma kasi pi ma Somelon. jan pi jan Pinjamin li kama jo e ma Kileja.
+19: ? jan pi ma seli Neke li kama jo e nena pi jan Esa. jan pi ma anpa li kama jo e ma Pilisin e ma kasi pi jan Epan e ma kasi pi ma Somelon. jan pi jan Benjaminma tomo li kama jo e ma Kileja.
 
-20: ? tenpo kama la jan Isale pi jo pi ma ante li kama jo e ma Kanan tawa ma tomo Sapa. jan pi ma tomo Jelusalen pi jo pi jan ante li lon ma tomo Sepala li kama jo e ma tomo pi ma seli Neke.
+20: ? tenpo kama la jan Isale pi jo pi ma ante li kama jo e ma Kanan tawa ma tomo Sapa. jan pi ma tomo Jelusalen pi jo pi jan ante li lon ma tomo Sabeansla li kama jo e ma tomo pi ma seli Neke.
 
 21: ? jan utala li tawa nena Sijon li kama jo e ona. [sewi Jawe li kama jo e ma pi jan lawa. / sewi Jawe li kama jan lawa.]
 
@@ -2715,9 +2715,9 @@
 
 8: ? jan Asa li mama pi jan Josapa. jan Josapa li mama pi jan Jolan. jan Jolan li mama pi jan Usaja.
 
-9: ? jan Usaja li mama pi jan Jotan. jan Jotan li mama pi jan A. jan A li mama pi jan Esekija.
+9: ? jan Usaja li mama pi jan Jotan. jan Jotan li mama pi jan A. jan A li mama pi jan Estherkija.
 
-10: ? jan Esekija li mama pi jan Manase. jan Manase li mama pi jan Amon. jan Amon li mama pi jan Josija.
+10: ? jan Estherkija li mama pi jan Manase. jan Manase li mama pi jan Amosn. jan Amosn li mama pi jan Josija.
 
 11: ? tenpo pi tawa wawa pi ma Papilon la, jan Josija li mama mama pi jan Jekonija li mama mama pi mije sama pi jan Jekonija.
 
@@ -2730,7 +2730,7 @@
 20: ? ona li lukin insa e ijo ni la jan toki sewi li suno lon lukin lape ona li toki e ni: mije Jose o! jan lili pi mama Tawi o! sina wan olin e sina tawa meli Malija la o pilin ala monsuta, tan ni: ijo sewi li kama lon ona tan kon.
 
 ### matthew 2
-1: ! jan Jesu li kama sin lon ma tomo Petelen pi ma Juta lon tenpo pi jan lawa Eloto la, o lukin! jan pi sona mute li kama tawa ma tomo Jelusalen tan ma pi suno kama.
+1: ! jan Jesu li kama sin lon ma tomo Bethellen pi ma Juta lon tenpo pi jan lawa Eloto la, o lukin! jan pi sona mute li kama tawa ma tomo Jelusalen tan ma pi suno kama.
 
 2: ! ona li toki e ni: ma seme la jan lawa sin pi kulupu Juta li kama lon. mi lukin e mun kama la mi kama mi wile anpa sewi tawa ona.
 
@@ -2738,11 +2738,11 @@
 
 4: ! ona li kulupu e jan pi pali sewi e jan sona pi lipu sewi li wile kama sona e ni: ma seme la jan pi telo sewi li kama lon.
 
-5: ? ona mute li toki tawa ona: lon ma tomo Petelen pi ma Juta. ni li sitelen tan jan toki pi ijo kama.
+5: ? ona mute li toki tawa ona: lon ma tomo Bethellen pi ma Juta. ni li sitelen tan jan toki pi ijo kama.
 
 6: ! ma tomo Betlehem pi ma Juta o! lili la sina nanpa wan ala lon ma tomo lawa pi ma Juta. tan sina la jan lawa li kama li awen e kulupu Isale mi.
 
-8: ! ona li pana e jan pi sona mute tawa ma tomo Petelen la, ona li toki e ni: o tawa o alasa e jan lili. sina lukin e ona la, o toki tawa mi. ni la mi ken anpa sewi tawa ona kin.
+8: ! ona li pana e jan pi sona mute tawa ma tomo Bethellen la, ona li toki e ni: o tawa o alasa e jan lili. sina lukin e ona la, o toki tawa mi. ni la mi ken anpa sewi tawa ona kin.
 
 9: ! ona li lukin e mun kama ni la mun ni li lawa e ona li awen lon sewi pi ma pi jan lili.
 
@@ -3312,7 +3312,7 @@
 ### hebrews 13
 ## james
 ### james 1
-1: ? mi jan Jakopo. mi jan pali pi jan sewi li jan pali pi jan Jesu. mi toki tawa kulupu luka luka tu. ona li lon ma weka mute. toki.
+1: ? mi jan Jacobpo. mi jan pali pi jan sewi li jan pali pi jan Jesu. mi toki tawa kulupu luka luka tu. ona li lon ma weka mute. toki.
 
 2: ? sina kama tawa utala la, jan sama mi o jo e pilin pona.
 
@@ -3448,7 +3448,7 @@
 # apocrypha
 ## tobit
 ### tobit 1
-1: ? lipu ni li jo e toki pi jan Topi. jan Topije li mama e ona. jan Ananije li mama pi jan Topije. jan Atuje li mama pi jan Ananije. jan Kapaje li mama pi jan Atuje. jan Lapaje li mama pi jan Kapaje. jan Lakuje li mama pi jan Lapaje. mama ale pi jan Lakuje li tan kulupu mama pu jan Asije. jan Asije li tan kulupu mama pi jan Napetali.
+1: ? lipu ni li jo e toki pi jan Topi. jan Topije li mama e ona. jan Hamanije li mama pi jan Topije. jan Atuje li mama pi jan Hamanije. jan Kapaje li mama pi jan Atuje. jan Lapaje li mama pi jan Kapaje. jan Lakuje li mama pi jan Lapaje. mama ale pi jan Lakuje li tan kulupu mama pu jan Asije. jan Asije li tan kulupu mama pi jan Napetali.
 
 2: ? jan Enemesalo li jan lawa pi ma Asu la ona li lanpan e jan Topi tan ma Tipe. ma Tipe li lon sewi pi ma Kitiso Netalen li lon anpa pi ma Asepe li lon sewi pi ma Poko. ma Kitiso Netalen li lon sewi pi ma Kalile.
 
