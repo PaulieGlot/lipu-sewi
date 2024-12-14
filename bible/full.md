@@ -11,7 +11,7 @@
 
 5: ? tawa suno la, sewi Jawe pana e nimi pi tenpo suno. tawa pimeja la, ona pana e nimi pi tenpo pimeja. lon tenpo lawa la, lon tenpo pini la, ni li tenpo pi nanpa wan.
 
-6: ? sewi Jawe toki e ni: "supa o lon insa pi telo tu, o awen e telo sewi tan telo anpa."
+6: ? sewi Jawe li toki e ni: "supa o lon insa pi telo tu, o awen e telo sewi tan telo anpa."
 
 7: ? supa li lon. tawa ni la, sewi Jawe li pana e nimi "kon".
 
@@ -1544,7 +1544,7 @@
 
 11: ! jan ike mi ale o pilin anpa o pilin monsuta mute. ona o tawa monsi, o pilin anpa, kepeken tenpo lili.
 ### psalms 7
-1: ! ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Benjaminma tomo.
+1: ! ni li kalama nasa pi jan Tawi. ona li kalama tawa sewi Jawe lon ijo toki pi jan Kusi pi kulupu jan Pinjamin.
 
 2: ! sewi mi Jawe o, mi alasa e awen lon sina. jan li alasa e mi la o awen e mi tan ona ale. o pana e awen mi.
 
@@ -2546,7 +2546,7 @@
 
 18: ? tenpo kama la jan pi jan Jako en jan pi jan Jose li sama seli. jan pi jan Esa li sama kasi linja pi telo ala. jan pi jan Jako li seli pakala e ona. jan ala pi jan Esa li moli ala.” sewi Jawe li toki e ni.
 
-19: ? jan pi ma seli Neke li kama jo e nena pi jan Esa. jan pi ma anpa li kama jo e ma Pilisin e ma kasi pi jan Epan e ma kasi pi ma Somelon. jan pi jan Benjaminma tomo li kama jo e ma Kileja.
+19: ? jan pi ma seli Neke li kama jo e nena pi jan Esa. jan pi ma anpa li kama jo e ma Pilisin e ma kasi pi jan Epan e ma kasi pi ma Somelon. jan pi jan Pinjamin li kama jo e ma Kileja.
 
 20: ? tenpo kama la jan Isale pi jo pi ma ante li kama jo e ma Kanan tawa ma tomo Sapa. jan pi ma tomo Jelusalen pi jo pi jan ante li lon ma tomo Sabeansla li kama jo e ma tomo pi ma seli Neke.
 
