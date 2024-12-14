@@ -1,5 +1,5 @@
 1: ! ni li kalama musi pi jan Tawi, tawa jan lawa pi kalama musi kepeken ilo Kisi.
-2: ! jan lawa mi Jawe o, nimi sina li suli a lon ale ma. sina pana e suli sina lon ale sewi.
+2: ! jan lawa mi &YHWH o, nimi sina li suli a lon ale ma. sina pana e suli sina lon ale sewi.
 3: ! kepeken uta pi jan lili kepeken uta pi jan sin pi moku mama la sina pana open e wawa tan jan utala ike sina, tawa ni: sina pini e jan ike e jan pana pi utala jasima.
 4: ! palisa lili luka sina li pali e sewi sina, sina pana lon awen e mun e mun lili, mi lukin e ona la
 5: ! jan li seme tawa sina la, sina awen e sona ona? jan pi jan ale li seme la, sina lukin sona e ona?
@@ -7,4 +7,4 @@
 7: ! sina pali e ni: ona li kama lawa e ijo pali pi luka sina. sina pana e ale tawa anpa ona.
 8: ! soweli len ale en soweli pali ale li lon ni, soweli pi ma moku li lon ni kin,
 9: ! waso pi ma sewi en kala pi telo suli li lon ni, ijo li tawa lon insa pi nasin pi telo suli la ijo ni li lon ni.
-10: ! jan lawa mi Jawe o, nimi sina li suli a lon ale ma.
+10: ! jan lawa mi &YHWH o, nimi sina li suli a lon ale ma.

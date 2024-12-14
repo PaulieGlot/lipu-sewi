@@ -1,4 +1,4 @@
-1: ! jan Jesu li lukin e mute jan la ona li tawa sewi nena. ona li anpa e monsi tawa ma la jan ona pi kama sona li tawa ona.
+1: ! jan &Jesus li lukin e mute jan la ona li tawa sewi nena. ona li anpa e monsi tawa ma la jan ona pi kama sona li tawa ona.
 2: ! ona li open e uta ona li pana sona kepeken toki ni:
 3: ! jan ni li pona: ona li jo e ijo lili lon kon. ona li jo e ma lawa sewi.
 4: ! jan ni li pona: ona li pilin anpa. ona li kama pona a.

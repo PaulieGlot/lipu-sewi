@@ -1,5 +1,5 @@
-1: ? tenpo suno ni la, jan Jesu li tawa weka tan tomo, li awen lon poka pi telo suli.
-2: ? jan mute li kama kulupu lon poka ona, tawa ni: jan Jesu li tawa insa pi ilo tawa telo, li anpa. jan ale kulupu li awen lon poka telo.
+1: ? tenpo suno ni la, jan &Jesus li tawa weka tan tomo, li awen lon poka pi telo suli.
+2: ? jan mute li kama kulupu lon poka ona, tawa ni: jan &Jesus li tawa insa pi ilo tawa telo, li anpa. jan ale kulupu li awen lon poka telo.
 3: ? ona li toki tawa kulupu e ijo mute lon toki sona, li toki e ni: o kute! jan pana pi kiwen lili kasi li open pana e kiwen lili kasi.
 4: ? ona li pana e kiwen lili kasi la, kiwen lili kasi li anpa tan luka ona tawa nasin. waso li kama li moku e kiwen lili kasi.
 5: ? kiwen lili kasi ante li anpa lon ma kiwen. ma ni la ko pi mute ala li lon. kiwen lili kasi li lon ala anpa ko la, ona li kama kepeken tenpo lili.
@@ -11,7 +11,7 @@
 11: ? ona li toki tawa jan poka ona e ni: sina ken sona e sona weka pi kulupu sewi li kama tawa sina. taso ona li ken ala sona e ni.
 12: ? jan li jo e ijo la, ijo li kama tawa ona. ni la ona li jo e ijo mute. taso jan li jo ala e ijo la, ijo jo ona kin li weka tan ona.
 13: ? ni la mi toki tawa ona kepeken toki sona lili. tan ni: ona li kute la, ona li kute ala. ona li lukin la, ona li lukin ala, li sona ala.
-14: ? ona la, toki pi jan Jesajaju li kama lon, li toki e ni: kute la, sina kute. taso sina sona ala e ijo lon kute sina. lukin la, sina lukin. taso sina sona ala e ijo lon lukin sina.
+14: ? ona la, toki pi jan &Isaiah li kama lon, li toki e ni: kute la, sina kute. taso sina sona ala e ijo lon kute sina. lukin la, sina lukin. taso sina sona ala e ijo lon lukin sina.
 15: ? pilin pi kulupu ni jan li kama wawa ala. kepeken kute ona la ona li kute e lili mute taso. lukin ona li pini. ni la ona li ken ala lukin. ona li kute kepeken kute, li lukin kepeken lukin, li pilin kepeken pilin, la ona li kama sin. ni la mi misikeke e ona.
 16: ? sina la, lukin li pona sewi, tan ni: ona li ken lukin. sina la, kute li pona sewi, tan ni: ona li ken kute.
 17: ? lon la mi toki tawa sina e ni: jan mute pi toki sewi en jan mute pona li wile lukin e ijo lon lukin sina, li wile kute e ijo lon kute sina, li lukin ala, li kute ala.
