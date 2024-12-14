@@ -9,7 +9,7 @@ sealed_count = 0
 sealed_pattern = re.compile(r"[0-9]+: !")
 cobweb_count = 0
 cobweb_pattern = re.compile(r"[0-9]+: \?")
-cobweb_files = set()
+cobweb_files = []
 bible_dir = 'bible'
 books_file_path = '%s/chapters.txt' % bible_dir
 fulltext_file_path = '%s/full.md' % bible_dir
@@ -59,7 +59,7 @@ for line in book_lines:
                     verse_count += 1
                     if cobweb_pattern.match(verse):
                         cobweb_count += 1
-                        cobweb_files.add(chapter_path)
+                        cobweb_files.append(chapter_path)
                     elif sealed_pattern.match(verse):
                         sealed_count += 1
                     else:
@@ -69,5 +69,8 @@ for line in book_lines:
 print("regenerated full.md, %d verses completed (%d sealed, %d cobwebs)." % (verse_count, sealed_count, cobweb_count))
 csv_summary = "%s, %d, %d, %d\n" % (date.today(), verse_count, sealed_count, cobweb_count)
 stats_file.writelines(csv_summary)
+seen = []
 for file in cobweb_files:
-    cobweb_file.writelines("%s\n" % file)
+    if file not in seen:
+        cobweb_file.writelines("%s\n" % file)
+        seen.append(file)
