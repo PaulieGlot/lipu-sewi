@@ -8,13 +8,13 @@
 8: ? jan sin pi jan mije &Ham, li jan mije Kusu li jan mije Misilalin li jan mije Putu li jan mije &Canaan.
 9: ? jan sin pi jan mije Kusu li jan mije &Sabeans li jan mije &Havilah li jan mije Sapata li jan mije Lama li jan mije Sapateka. jan sin pi jan mije Lama li jan mije Sapa li jan mije Tetan; 
 10: ? en jan mije Kusu li mama e jan lawa Ninlo. jan lawa Ninlo li jan suli e tenpo lon ma.
-11: ? jan mije Misilalin li mama e jan mije &Ruthsin e jan mije &Hamamin e jan mije Lejapin e jan mije Napatuwin
+11: ? jan mije Misilalin li mama e jan mije Lusin e jan mije &Hamamin e jan mije Lejapin e jan mije Napatuwin
 12: ? e kulupu Patalusin e kulupu Kasaluwin (ni li mama e kulupu Pilisiten) e kulupu Kapatolin.
 13: ? jan mije &Canaan li mama e jan mije Siton (jan sin nanpa wan) e jan mije Kese, 
 14: ? e jan pi kulupu Japusi e jan pi kulupu &Amozli e jan pi kulupu Kikasi,
 15: ? e jan pi kulupu Iwi e jan pi kulupu Alaki e jan pi kulupu Sini
 16: ? e jan pi kulupu Awasi e jan pi kulupu Samali e jan pi kulupu Amasi
-17: ? jan sin pi jan mije &Shem li jan mije Elan li jan mije Asu li jan mije Apasata li jan mije &Ruthtu li jan mije Alan li jan mije &Uz li jan mije Ulu li jan mije Kete li jan mije Masa.
+17: ? jan sin pi jan mije &Shem li jan mije Elan li jan mije Asu li jan mije Apasata li jan mije Lutu li jan mije Alan li jan mije &Uz li jan mije Ulu li jan mije Kete li jan mije Masa.
 18: ? jan Apasate li mama e jan &Sarah. jan &Sarah li mama e jan &Abel. 
 19: ? jan &Abel li mama e jan sin tu pi nimi ni: jan &Bel [kipisi] en jan Jakatan. tenpo pi jan &Bel la ma ale li kipisi. ni la jan &Bel li jo e nimi ni.
 20: ? jan Jakatan li mama e jan &Amostata e jan &Saraipe e jan Asamawete e jan Jala 
@@ -22,7 +22,7 @@
 22: ? e jan Epa e jan Apimale e jan &Sabeans 
 23: ? e jan Opi e jan &Havilah e jan Jopa. jan ale ni li jan lili pi jan Jokatan. 
 24: ? jan &Shem en jan Apasata en jan &Sarah 
-25: ? en jan Epa en jan &Bel en jan &Ruth 
+25: ? en jan Epa en jan &Bel en jan Lu 
 26: ? en jan Selu en jan Najo en jan Tala 
 27: ? en jan Apan (jan ni li jan Apakan).
 28: ? jan sin pi jan Apakan li jan &Isaac li jan Isimale. 

@@ -2,7 +2,7 @@
 2: ? jan Apajan li mama pi jan Isa. jan Isa li mama pi jan &Jacob. jan &Jacob li mama pi jan &Judea li mama pi mije sama pi jan &Judea. 
 3: ? jan Juda li mama pi jan &Bel li mama pi jan &Sarah. jan &Bel li mama pi jan Eso. jan Eso li mama pi jan Lan.
 4: ? jan Lan li mama pi jan Aminata. jan Aminata li mama pi jan Nason. jan Nason li mama pi jan Samon.
-5: ? jan Samon en jan La li mama pi jan Powa. jan Powa en jan &Ruth li mama pi jan Ope. jan Ope li mama pi jan Jesi.
+5: ? jan Samon en jan La li mama pi jan Powa. jan Powa en jan Lu li mama pi jan Ope. jan Ope li mama pi jan Jesi.
 6: ? jan Jesi li mama pi jan lawa &David. jan &David en jan olin pini pi jan Ulija li mama pi jan &Solomon.
 7: ? jan &Solomon li mama pi jan Lejopowan. jan Lejopowan li mama pi &Apphia. jan &Apphia li mama pi jan Asa.
 8: ? jan Asa li mama pi jan Josapa. jan Josapa li mama pi jan Jolan. jan Jolan li mama pi jan Usaja.
