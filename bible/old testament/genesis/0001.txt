@@ -3,9 +3,9 @@
 3: ! sewi &Elohim li toki. suno o lon. la suno li lon.
 4: ! sewi &Elohim li lukin e suno: ona li pona. suno en pimeja la, sewi &Elohim li tu e ona.
 5: ! sewi &Elohim li nimi Tenpo Suno e suno, li nimi Tenpo Pimeja e pimeja. tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 1.
-6: ? sewi &Elohim li toki e ni: "supa o lon insa pi telo tu, o awen e telo sewi tan telo anpa."
-7: ? supa li lon. tawa ni la, sewi &YHWH li pana e nimi "kon".
-8: ? tenpo pimeja sin li kama lon tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi &YHWH li pana e nimi "tenpo suno pi nanpa tu".
+6: ! sewi &Elohim li toki: selo o lon insa telo. telo en telo la, selo o tu e ona.
+7: ! sewi &Elohim li pali e selo. telo pi anpa selo, en telo pi sewi selo la, sewi &Elohim li tu e ona. ni li lon.
+8: ! sewi &Elohim li nimi Sewi e selo. tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa tu.
 9: ? sewi &YHWH li toki e ni: "mi wile e ni: telo anpa ale li kama lon wan la ma kiwen li kama li kama lon sewi pi telo anpa." ma kiwen li lon.
 10: ? sewi &YHWH li pana e nimi "ma" tawa ma kiwen li pana e nimi "telo mute" tawa telo anpa. ma en telo mute li pona tawa sewi &YHWH.
 11: ? sewi &YHWH li toki e ni: "ma o pana e kasi mute. kasi mute o pana e kasi lili. kasi mute li pana e kili. kasi ale o jo e kili ante."
