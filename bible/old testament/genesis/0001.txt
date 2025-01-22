@@ -10,10 +10,10 @@
 10: ! sewi &Elohim li nimi Ma e ma pi telo ala, li nimi Telo Suli e kulupu telo. sewi &Elohim li lukin e ona: ona li pona.
 11: ! sewi &Elohim li toki: ma o pana e kasi lili ma, e kasi lili moku, e kasi suli kili lon ma. kasi lili moku li pana e sike mama. kasi suli kili li pali e kili pi nasin ona. sike mama pi kili ni li lon insa pi kili ona. ni li lon.
 12: ! ma li pana e kasi lili ma, e kasi lili moku, e kasi suli. kasi lili moku li pana e sike mama pi nasin ona. kasi suli li pali e kili pi nasin ona. sike mama pi kili ni li lon insa pi kili ona. sewi &Elohim li lukin e ona: ona li pona.
-13: ? tenpo pimeja sin li kama lon tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi &YHWH li pana e nimi "tenpo suno pi nanpa tu wan".
+13: ! tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 3.
 14: ? sewi &YHWH li toki e ni: "mi wile e ni: telo sewi li jo e suno e mun e suno lili. tenpo suno la suno li lon. tenpo pimeja la mun en suno lili li lon. lukin pi ona mute li toki e tenpo seli ante e tenpo musi e tenpo suno sin e tenpo sike sin.
-15: ? mi wile e ni: kin la ona o sama ni: suno li suno e ma" suno li lon.
-16: ? tan sewi &YHWH la suno tu li suli. tenpo suno la suno suli mute li lon. ni li "suno". tenpo pimeja la suno suli li suno lili tawa suno suli mute. ni li "mun". kin la ona pana e suno lili.
+15: ! ona o pana e suno lon selo sewi, o suno tawa ma.  ni li lon.
+16: ! sewi &Elohim li pali e suno suli tu, li pali e suno suli ni e suno lili ni, li pali e mun mute. suno suli li lawa pi tenpo suno. suno lili li lawa pi tenpo pimeja.
 17: ? tan sewi &YHWH la ona mute li kama lon telo sewi li suno tawa ma,
 18: ? li lawa e tenpo suno e tenpo pimeja, li ante e suno pi tenpo suno e pimeja pi tenpo pimeja. sewi &YHWH li pilin pona tan ni.
 19: ? tenpo pimeja sin li kama lon tenpo ante la tenpo suno sin li kama. tawa tenpo ni la sewi &YHWH li pana e nimi "tenpo suno pi nanpa tu tu".
