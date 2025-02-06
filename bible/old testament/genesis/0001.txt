@@ -1,5 +1,5 @@
 1: ! open la, sewi &Elohim li lon e sewi e ma.
-2: ? ma li pimeja pi insa ala. kon pi sewi &Elohim li tawa lon sewi telo.
+2: ! ma li nasa li ala. pimeja li lon selo pi telo nasa pi anpa suli. kon pi sewi &Elohim li awen sewi lon telo.
 3: ! sewi &Elohim li toki. suno o lon. la suno li lon.
 4: ! sewi &Elohim li lukin e suno: ona li pona. suno en pimeja la, sewi &Elohim li tu e ona.
 5: ! sewi &Elohim li nimi Tenpo Suno e suno, li nimi Tenpo Pimeja e pimeja. tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 1.
@@ -11,7 +11,7 @@
 11: ! sewi &Elohim li toki: ma o pana e kasi lili ma, e kasi lili moku, e kasi suli kili lon ma. kasi lili moku li pana e sike mama. kasi suli kili li pali e kili pi nasin ona. sike mama pi kili ni li lon insa pi kili ona. ni li lon.
 12: ! ma li pana e kasi lili ma, e kasi lili moku, e kasi suli. kasi lili moku li pana e sike mama pi nasin ona. kasi suli li pali e kili pi nasin ona. sike mama pi kili ni li lon insa pi kili ona. sewi &Elohim li lukin e ona: ona li pona.
 13: ! tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 3.
-14: ? sewi &YHWH li toki e ni: "mi wile e ni: telo sewi li jo e suno e mun e suno lili. tenpo suno la suno li lon. tenpo pimeja la mun en suno lili li lon. lukin pi ona mute li toki e tenpo seli ante e tenpo musi e tenpo suno sin e tenpo sike sin.
+14: ! sewi &Elohim li toki: suno o lon selo sewi tawa ni: tenpo suno en tenpo pimeja la, suno o tu e ona. ona o lon tawa ni: sona pi ijo kama, en nasin tenpo, en tenpo suno, en tenpo sike suno.
 15: ! ona o pana e suno lon selo sewi, o suno tawa ma.  ni li lon.
 16: ! sewi &Elohim li pali e suno suli tu, li pali e suno suli ni e suno lili ni, li pali e mun mute. suno suli li lawa pi tenpo suno. suno lili li lawa pi tenpo pimeja.
 17: ! sewi &Elohim li pana e ona lon selo sewi tawa ni: ona li suno tawa ma,
