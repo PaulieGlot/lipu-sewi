@@ -1,6 +1,7 @@
 import os, sys, re
 import discord
 import requests
+import csv
 from discord import app_commands
 from dotenv import load_dotenv
 import nimi
@@ -99,8 +100,16 @@ def check_verse_range(section: str, book: str, chapter: int, start_verse: int, e
 
 # get section name for a book
 def get_section_name(book: str):
-    try: file = open("bible/chapters.txt")
-    except FileNotFoundError: return "error finding section name: chapters.txt file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n" % filename
+
+    try: file = open('bible/chapters.csv', 'r')
+    except FileNotFoundError: return "error finding section name: chapters.csv file does not exist.\n\n*jan Poli says: make sure that it is properly named and located!*\n" % filename
+    csvreader = csv.reader(file)
+    next(csvreader)
+    for row in csvreader:
+        if row[1] == book:
+            return row[0]
+    return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!*" % book
+    '''
     section = ""
     for line in file:
         if line.startswith("#"):
@@ -108,6 +117,7 @@ def get_section_name(book: str):
         if line.startswith("%s," % book):
             return section.removesuffix("\n")
     return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!*" % book
+    '''
 
 
 load_dotenv()
