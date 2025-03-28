@@ -1,0 +1,87 @@
+section,book,chapters,lang
+old testament,genesis,50,hebrew
+old testament,exodus,40,hebrew
+old testament,leviticus,27,hebrew
+old testament,numbers,36,hebrew
+old testament,deuteronomy,34,hebrew
+old testament,joshua,24,hebrew
+old testament,judges,21,hebrew
+old testament,ruth,4,hebrew
+old testament,1 samuel,31,hebrew
+old testament,2 samuel,24,hebrew
+old testament,1 kings,22,hebrew
+old testament,2 kings,25,hebrew
+old testament,1 chronicles,29,hebrew
+old testament,2 chronicles,36,hebrew
+old testament,ezra,10,hebrew
+old testament,nehemiah,13,hebrew
+old testament,esther,10,hebrew
+old testament,job,42,hebrew
+old testament,psalms,150,hebrew
+old testament,proverbs,31,hebrew
+old testament,ecclesiastes,12,hebrew
+old testament,song of songs,8,hebrew
+old testament,isaiah,66,hebrew
+old testament,jeremiah,52,hebrew
+old testament,lamentations,5,hebrew
+old testament,ezekiel,48,hebrew
+old testament,daniel,12,aramaic
+old testament,hosea,14,hebrew
+old testament,joel,3,hebrew
+old testament,amos,9,hebrew
+old testament,obadiah,1,hebrew
+old testament,jonah,4,hebrew
+old testament,micah,7,hebrew
+old testament,nahum,3,hebrew
+old testament,habakkuk,3,hebrew
+old testament,zephaniah,3,hebrew
+old testament,haggai,2,hebrew
+old testament,zechariah,14,hebrew
+old testament,malachi,4,hebrew
+new testament,matthew,28,greek
+new testament,mark,16,greek
+new testament,luke,24,greek
+new testament,john,21,greek
+new testament,acts,28,greek
+new testament,romans,16,greek
+new testament,1 corinthians,16,greek
+new testament,2 corinthians,13,greek
+new testament,galatians,6,greek
+new testament,ephesians,6,greek
+new testament,philippians,4,greek
+new testament,colossians,4,greek
+new testament,1 thessalonians,5,greek
+new testament,2 thessalonians,3,greek
+new testament,1 timothy,6,greek
+new testament,2 timothy,4,greek
+new testament,titus,3,greek
+new testament,philemon,1,greek
+new testament,hebrews,13,greek
+new testament,james,5,greek
+new testament,1 peter,5,greek
+new testament,2 peter,3,greek
+new testament,1 john,5,greek
+new testament,2 john,1,greek
+new testament,3 john,1,greek
+new testament,jude,1,greek
+new testament,revelation,22,greek
+apocrypha,tobit,14,hebrew
+apocrypha,judith,16,greek
+apocrypha,esther additions,7,hebrew
+apocrypha,wisdom of solomon,19,hebrew
+apocrypha,sirach,51,hebrew
+apocrypha,baruch,5,hebrew
+apocrypha,epistle of jeremiah,1,hebrew
+apocrypha,azariah,1,hebrew
+apocrypha,susanna,1,greek
+apocrypha,bel and the dragon,1,greek
+apocrypha,1 maccabees,16,hebrew
+apocrypha,2 maccabees,15,hebrew
+apocrypha,1 esdras,9,greek
+apocrypha,prayer of manasseh,1,hebrew
+apocrypha,enoch,108,hebrew
+apocrypha,psalm 151,1,hebrew
+apocrypha,3 maccabees,7,hebrew
+apocrypha,2 esdras,16,greek
+apocrypha,4 maccabees,18,hebrew
+apocrypha,jubilees,50,geez

@@ -1,4 +1,3 @@
-bible/old testament/genesis/0002.txt
 bible/old testament/genesis/0003.txt
 bible/old testament/genesis/0004.txt
 bible/old testament/genesis/0006.txt
