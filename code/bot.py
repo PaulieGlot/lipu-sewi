@@ -29,7 +29,7 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
-        return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
+        return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.csv to see if it should!*\n" % filename
     
     for line in file.text.splitlines():
         prefix = "%i: " % verse
@@ -45,7 +45,7 @@ def get_verse(section: str, book: str, chapter: int, verse: int):
 def get_chapter(section: str, book: str, chapter: int): 
     filename = f"bible/{section}/{book}/{chapter:04}.txt"
     try: file = open(filename)
-    except FileNotFoundError: return "error fetching chapter: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
+    except FileNotFoundError: return "error fetching chapter: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.csv to see if it should!*\n" % filename
     text = ""
     for line in file:
         line = line.split(' | ', 1)[0]
@@ -61,7 +61,7 @@ def get_verse_range(section: str, book: str, chapter: int, start_verse: int, end
     url = 'https://raw.githubusercontent.com/PaulieGlot/lipu-sewi/master/%s' % filename
     file = requests.get(url)
     if file.status_code != requests.codes.ok:
-        return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.txt to see if it should!*\n" % filename
+        return "error fetching verse: chapter file `%s` does not exist.\n\n*jan Poli says: check chapters.csv to see if it should!*\n" % filename
     
     text = ""
     current_verse = start_verse
@@ -108,17 +108,7 @@ def get_section_name(book: str):
     for row in csvreader:
         if row[1] == book:
             return row[0]
-    return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!*" % book
-    '''
-    section = ""
-    for line in file:
-        if line.startswith("#"):
-            section = line.removeprefix("#")
-        if line.startswith("%s," % book):
-            return section.removesuffix("\n")
-    return "error finding section name: book `%s` is not listed in chapters.txt.\n\n*jan Poli says: make sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!*" % book
-    '''
-
+    return "error finding section name: book `%s` is not listed in chapters.csv.\n\n*jan Poli says: make sure you're using the same book names as this version, and that you have all planned books listed along with their chapter lengths!*" % book
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
