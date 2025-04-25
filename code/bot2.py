@@ -111,10 +111,12 @@ def respond(ctx, text, post: bool):
     if len(text) > 2000:
         text = text[:1996] + " ..."
     return ctx.response.send_message(text, ephemeral=not post)
+
 @tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=GUILD_ID))
-async def cite( ctx, citation:str, euphemise: bool=True, post: bool=False):
+async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
     text = engine.cite(citation, euphemise)
     await respond(ctx, text, post)
+
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None, post: bool=False):
     if command is None:
