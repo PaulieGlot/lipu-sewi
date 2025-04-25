@@ -6,7 +6,6 @@ import discord
 from discord import app_commands
 from dotenv import load_dotenv
 
-
 class Engine:
     def __init__(self, repo):
         self.rawurl = "https://raw.githubusercontent.com/%s" % repo
@@ -74,10 +73,9 @@ class Engine:
 
         if euphemise:
             text = text.replace("&YHWH", "**Nimi**")
-
+        self.nimifier.update()
         return self.nimifier.replace_names(text)
 
-    
     def get_section_name(self, book: str) -> str:
         try:
             file = open('bible/chapters.csv', 'r')
@@ -89,11 +87,6 @@ class Engine:
             if row[1] == book:
                 return row[0]
         raise ValueError
-
-
-
-
-
 
 
 load_dotenv()
@@ -142,7 +135,5 @@ async def stats(ctx, post: bool=False):
 async def on_ready():
     await tree.sync(guild=discord.Object(id=GUILD_ID))
     print("ready!")
-
-
 
 client.run(TOKEN)
