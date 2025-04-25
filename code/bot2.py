@@ -48,13 +48,13 @@ class Engine:
         try:
             section = self.get_section_name(book)
         except FileNotFoundError:
-            pass
+            return "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
 
         url = self.rawurl + f"bible/{section}/{book}/{chapter:04}.txt"
         file = requests.get(url)
 
         if file.status_code != requests.codes.ok:
-            raise FileNotFoundError
+            return "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
  
         text = ""
         current_verse = start_verse
@@ -113,10 +113,7 @@ def respond(ctx, text, post: bool):
 
 @tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=GUILD_ID))
 async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
-    try:
-        text = engine.cite(citation, euphemise)
-    except FileNotFoundError:
-        text = "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
+    text = engine.cite(citation, euphemise)
     await respond(ctx, text, post)
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
