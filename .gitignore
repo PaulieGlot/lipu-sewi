@@ -5,3 +5,4 @@ styleguide.md
 code/__pycache__
 ignore
 bible/nonames.md
+code/toc.py
