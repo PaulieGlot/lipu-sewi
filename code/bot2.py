@@ -115,8 +115,8 @@ def respond(ctx, text, post: bool):
 async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
     try:
         text = engine.cite(citation, euphemise)
-    except ValueError("Incorrect citation format"):
-        text = "hmm... `%s` doesn't look like a proper Biblical citation to me."
+    except ValueError:
+        text = "hmm... `%s` doesn't quite look right." % (citation)
     await respond(ctx, text, post)
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
