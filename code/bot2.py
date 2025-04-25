@@ -49,7 +49,8 @@ class Engine:
             section = self.get_section_name(book)
         except FileNotFoundError:
             return "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
-
+        except ValueError:
+            return "hmm... `%s` doesn't seem to be on the master list of books. check for typos!" % (citation)
         url = self.rawurl + f"bible/{section}/{book}/{chapter:04}.txt"
         file = requests.get(url)
 
@@ -87,7 +88,7 @@ class Engine:
         for row in csvreader:
             if row[1] == book:
                 return row[0]
-        return "hmm... `%s` doesn't seem to be on the master list of books. check for typos!" % (citation)
+        raise ValueError
 
 
 
