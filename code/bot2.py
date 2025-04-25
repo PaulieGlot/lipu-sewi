@@ -115,6 +115,8 @@ def respond(ctx, text, post: bool):
 async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
     try:
         text = engine.cite(citation, euphemise)
+    except FileNotFoundError:
+        text = "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
     except ValueError:
         text = "hmm... `%s` doesn't quite look right." % (citation)
     await respond(ctx, text, post)
