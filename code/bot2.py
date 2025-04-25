@@ -118,12 +118,12 @@ class Bot:
         return ctx.response.send_message(text, ephemeral=not post)
 
 
-    @self.tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=self.GUILD_ID))
+    @tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=self.GUILD_ID))
     async def cite(self, ctx, citation:str, euphemise: bool=True, post: bool=False):
         text = self.engine.cite(citation, euphemise)
         await respond(ctx, text, post)
 
-    @self.tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=self.GUILD_ID))
+    @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=self.GUILD_ID))
     async def help(ctx, command: str=None, post: bool=False):
         if command is None:
             await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses\ncite - use a biblical citation\n/repo - get a link to the repo\n/stats - get some quick stats", post)
@@ -141,15 +141,15 @@ class Bot:
             await respond(ctx, "get the recorded stats from the last time buildbook was run.", post)
 
 
-    @self.tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=self.GUILD_ID))
+    @tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=self.GUILD_ID))
     async def repo(ctx, post: bool=False):
         await respond(ctx, "https://github.com/PaulieGlot/lipu-sewi/tree/master", post)
 
-    @self.tree.command(name="stats", description="get the latest count of completion", guild=discord.Object(id=self.GUILD_ID))
+    @tree.command(name="stats", description="get the latest count of completion", guild=discord.Object(id=self.GUILD_ID))
     async def stats(ctx, post: bool=False):
         await respond(ctx, engine.get_stats(), post)
 
-    @self.client.event
+    @client.event
     async def on_ready():
         await tree.sync(guild=discord.Object(id=self.GUILD_ID))
         print("ready!")
