@@ -55,7 +55,7 @@ class Engine:
         file = requests.get(url)
 
         if file.status_code != requests.codes.ok:
-            return "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
+            return "oh fuck! serious problem! chapter file is missing. get jan Poli immediately!"
  
         text = ""
         current_verse = start_verse
