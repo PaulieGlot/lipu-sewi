@@ -115,7 +115,7 @@ def respond(ctx, text, post: bool):
 async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
     try:
         text = engine.cite(citation, euphemise)
-    except: ValueError("Incorrect citation format")
+    except ValueError("Incorrect citation format"):
         text = "hmm... `%s` doesn't look like a proper Biblical citation to me."
     await respond(ctx, text, post)
 
