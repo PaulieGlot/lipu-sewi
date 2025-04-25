@@ -95,68 +95,51 @@ class Engine:
 
 
 
+load_dotenv()
+TOKEN = os.getenv('DISCORD_TOKEN')
+GUILD_ID = os.getenv('GUILD_ID')
+engine = Engine(repo)
+intents = discord.Intents.default()
+intents.messages = True
+client = discord.Client(intents=intents)
+tree = app_commands.CommandTree(client)
+client.run(TOKEN)
 
 
+def respond(ctx, text, post: bool):
+    if len(text) > 2000:
+        text = text[:1996] + " ..."
+    return ctx.response.send_message(text, ephemeral=not post)
+@tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=GUILD_ID))
+async def cite( ctx, citation:str, euphemise: bool=True, post: bool=False):
+    text = engine.cite(citation, euphemise)
+    await respond(ctx, text, post)
+@tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
+async def help(ctx, command: str=None, post: bool=False):
+    if command is None:
+        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses\ncite - use a biblical citation\n/repo - get a link to the repo\n/stats - get some quick stats", post)
+    elif command == "help":
+        await respond(ctx, "what... what more do you need?", post)
+    elif command == "verse":
+        await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!", post)
+    elif command == "range":
+        await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post)
+    elif command == "cite":
+        await respond(ctx, "specify a verse or range using the traditional biblical citation format. make sure you're using the same book names as this version!", post)
+    elif command == "repo":
+        await respond(ctx, "get a link to the repo from which this bot is pulling verses.", post)
+    elif command == "stats":
+        await respond(ctx, "get the recorded stats from the last time buildbook was run.", post)
 
-class Bot:
-    def __init__(self, repo):
-        load_dotenv()
-        self.TOKEN = os.getenv('DISCORD_TOKEN')
-        self.GUILD_ID = os.getenv('GUILD_ID')
+@tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=GUILD_ID))
+async def repo(ctx, post: bool=False):
+    await respond(ctx, "https://github.com/PaulieGlot/lipu-sewi/tree/master", post)
 
-        self.intents = discord.Intents.default()
-        self.intents.messages = True
-        self.client = discord.Client(intents=self.intents)
-        self.engine = Engine(repo)
-        self.client.run(self.TOKEN)
+@tree.command(name="stats", description="get the latest count of completion", guild=discord.Object(id=GUILD_ID))
+async def stats(ctx, post: bool=False):
+    await respond(ctx, engine.get_stats(), post)
 
-
-    tree = app_commands.CommandTree(self.client)
-
-
-    def respond(self, ctx, text, post: bool):
-        if len(text) > 2000:
-            text = text[:1996] + " ..."
-        return ctx.response.send_message(text, ephemeral=not post)
-
-
-    @tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=self.GUILD_ID))
-    async def cite(self, ctx, citation:str, euphemise: bool=True, post: bool=False):
-        text = self.engine.cite(citation, euphemise)
-        await respond(ctx, text, post)
-
-    @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=self.GUILD_ID))
-    async def help(ctx, command: str=None, post: bool=False):
-        if command is None:
-            await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses\ncite - use a biblical citation\n/repo - get a link to the repo\n/stats - get some quick stats", post)
-        elif command == "help":
-            await respond(ctx, "what... what more do you need?", post)
-        elif command == "verse":
-            await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!", post)
-        elif command == "range":
-            await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post)
-        elif command == "cite":
-            await respond(ctx, "specify a verse or range using the traditional biblical citation format. make sure you're using the same book names as this version!", post)
-        elif command == "repo":
-            await respond(ctx, "get a link to the repo from which this bot is pulling verses.", post)
-        elif command == "stats":
-            await respond(ctx, "get the recorded stats from the last time buildbook was run.", post)
-
-
-    @tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=self.GUILD_ID))
-    async def repo(ctx, post: bool=False):
-        await respond(ctx, "https://github.com/PaulieGlot/lipu-sewi/tree/master", post)
-
-    @tree.command(name="stats", description="get the latest count of completion", guild=discord.Object(id=self.GUILD_ID))
-    async def stats(ctx, post: bool=False):
-        await respond(ctx, engine.get_stats(), post)
-
-    @client.event
-    async def on_ready():
-        await tree.sync(guild=discord.Object(id=self.GUILD_ID))
-        print("ready!")
-
-
-
-repo = "PaulieGlot/lipu-sewi/master/"
-bot = Bot(repo)
+@client.event
+async def on_ready():
+    await tree.sync(guild=discord.Object(id=GUILD_ID))
+    print("ready!")
