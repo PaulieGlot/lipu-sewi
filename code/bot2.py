@@ -96,6 +96,7 @@ class Engine:
 
 
 load_dotenv()
+repo = "PaulieGlot/lipu-sewi/master/"
 TOKEN = os.getenv('DISCORD_TOKEN')
 GUILD_ID = os.getenv('GUILD_ID')
 engine = Engine(repo)
