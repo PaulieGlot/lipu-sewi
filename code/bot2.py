@@ -118,11 +118,11 @@ async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
     except FileNotFoundError:
         text = "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
     except ValueError as error:
-        if error == "Incorrect citation format":
+        if {error} == "Incorrect citation format":
             text = "hmm... `%s` doesn't quite look like a biblical citation to me." % (citation)
-        elif error == "Book not listed":
+        elif {error} == "Book not listed":
             text = "hmm... `%s` doesn't quite look like a biblical citation to me." % (citation)
-        elif error == "No verses in range":
+        elif {error} == "No verses in range":
             text = "hmm... `%s` doesn't seem to be on the master list of books. check for typos!" % (citation)
     await respond(ctx, text, post)
 
