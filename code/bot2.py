@@ -43,7 +43,7 @@ class Engine:
             start_verse = int(range_citation[3])
             end_verse   = int(range_citation[4])
         else:
-            raise ValueError("Incorrect citation format")
+            return "hmm... `%s` doesn't quite look like a biblical citation to me." % (citation)
 
         try:
             section = self.get_section_name(book)
@@ -68,7 +68,7 @@ class Engine:
                     line += '\n'
                 text += line
         if text == "":
-            raise ValueError("No verses in range")
+            return "hmm... `%s` doesn't seem to contain any verses - not yet, anyway." % (citation)
 
 
         if euphemise:
@@ -87,7 +87,7 @@ class Engine:
         for row in csvreader:
             if row[1] == book:
                 return row[0]
-        raise ValueError("Book not listed")
+        return "hmm... `%s` doesn't seem to be on the master list of books. check for typos!" % (citation)
 
 
 
@@ -118,12 +118,7 @@ async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
     except FileNotFoundError:
         text = "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
     except ValueError as error:
-        if {error} == "Incorrect citation format":
-            text = "hmm... `%s` doesn't quite look like a biblical citation to me." % (citation)
-        elif {error} == "Book not listed":
-            text = "hmm... `%s` doesn't quite look like a biblical citation to me." % (citation)
-        elif {error} == "No verses in range":
-            text = "hmm... `%s` doesn't seem to be on the master list of books. check for typos!" % (citation)
+            return "hmm... `%s` doesn't quite look like a biblical citation to me." % (citation)
     await respond(ctx, text, post)
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
