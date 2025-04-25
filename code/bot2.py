@@ -113,19 +113,18 @@ def respond(ctx, text, post: bool):
 
 @tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=GUILD_ID))
 async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
-    text = engine.cite(citation, euphemise)
+    try:
+        text = engine.cite(citation, euphemise)
+    except: ValueError("Incorrect citation format")
+        text = "hmm... `%s` doesn't look like a proper Biblical citation to me."
     await respond(ctx, text, post)
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
 async def help(ctx, command: str=None, post: bool=False):
     if command is None:
-        await respond(ctx, "/help - display this help text\n/verse - fetch a specified verse\n/range - fetch a specified range of verses\ncite - use a biblical citation\n/repo - get a link to the repo\n/stats - get some quick stats", post)
+        await respond(ctx, "/help - display this help text\ncite - use a biblical citation\n/repo - get a link to the repo\n/stats - get some quick stats", post)
     elif command == "help":
         await respond(ctx, "what... what more do you need?", post)
-    elif command == "verse":
-        await respond(ctx, "specify a verse using the command parameters. make sure you're using the same book names as this version!", post)
-    elif command == "range":
-        await respond(ctx, "specify a range of verses using the command parameters. make sure you're using the same book names as this version!", post)
     elif command == "cite":
         await respond(ctx, "specify a verse or range using the traditional biblical citation format. make sure you're using the same book names as this version!", post)
     elif command == "repo":
@@ -135,7 +134,7 @@ async def help(ctx, command: str=None, post: bool=False):
 
 @tree.command(name="repo", description="get a link to the repo from which this bot is pulling verses", guild=discord.Object(id=GUILD_ID))
 async def repo(ctx, post: bool=False):
-    await respond(ctx, "https://github.com/PaulieGlot/lipu-sewi/tree/master", post)
+    await respond(ctx, "https://github.com/" + repo, post)
 
 @tree.command(name="stats", description="get the latest count of completion", guild=discord.Object(id=GUILD_ID))
 async def stats(ctx, post: bool=False):
