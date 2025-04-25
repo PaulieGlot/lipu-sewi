@@ -107,7 +107,7 @@ class Bot:
         self.intents = discord.Intents.default()
         self.intents.messages = True
         self.client = discord.Client(intents=self.intents)
-        self.tree = app_commands.CommandTree(self.client)
+        tree = app_commands.CommandTree(self.client)
         self.engine = Engine(repo)
         self.client.run(self.TOKEN)
 
