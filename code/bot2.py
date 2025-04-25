@@ -117,8 +117,6 @@ async def cite(ctx, citation:str, euphemise: bool=True, post: bool=False):
         text = engine.cite(citation, euphemise)
     except FileNotFoundError:
         text = "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
-    except ValueError as error:
-            return "hmm... `%s` doesn't quite look like a biblical citation to me." % (citation)
     await respond(ctx, text, post)
 
 @tree.command(name="help", description="stop it. get some help", guild=discord.Object(id=GUILD_ID))
