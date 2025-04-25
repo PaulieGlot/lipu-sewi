@@ -89,11 +89,6 @@ class Engine:
                 return row[0]
         raise ValueError("Book not listed")
 
-engine = Engine("PaulieGlot/lipu-sewi/master/")
-citation = "Genesis 1:4-9"
-
-print(engine.cite(citation))
-print(engine.get_stats())
 
 
 
@@ -158,3 +153,8 @@ class Bot:
     async def on_ready():
         await tree.sync(guild=discord.Object(id=self.GUILD_ID))
         print("ready!")
+
+
+
+repo = "PaulieGlot/lipu-sewi/master/"
+bot = Bot(repo)
