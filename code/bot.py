@@ -104,7 +104,6 @@ intents = discord.Intents.default()
 intents.messages = True
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
-client.run(TOKEN)
 
 
 def respond(ctx, text, post: bool):
@@ -146,3 +145,7 @@ async def stats(ctx, post: bool=False):
 async def on_ready():
     await tree.sync(guild=discord.Object(id=GUILD_ID))
     print("ready!")
+
+
+
+client.run(TOKEN)
