@@ -147,9 +147,10 @@ class Bot:
                 return
 
             book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
-            link = self.toc[(book, chapter, verse)]
-            print(link)
-            await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {link}", post)
+            try:
+                await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
+            except KeyError:
+                await self.respond(ctx, f"{book} {chapter}:{verse} has no recorded bookmark.", post)
 
 
 
