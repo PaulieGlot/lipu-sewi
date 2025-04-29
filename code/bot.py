@@ -127,7 +127,7 @@ class Bot:
         @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
         async def flag(ctx, citation: str):
             if self.engine.citation_is_verse(citation):
-                bookmark = ctx.response.send_message("")
+                bookmark = await ctx.response.send_message("")
                 print(bookmark)
 
 
