@@ -84,6 +84,8 @@ class Bot:
         self.repo = "PaulieGlot/lipu-sewi/master/"
         self.engine = Engine(self.repo)
 
+        self.toc: [(str, int, int), str]= {}
+
         self.TOKEN = os.getenv('DISCORD_TOKEN')
         self.GUILD_ID = os.getenv('GUILD_ID')
 
@@ -128,11 +130,26 @@ class Bot:
                 await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
                 return
 
+            book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
+
             await ctx.response.defer()
             msg = await ctx.followup.send(f"🏁\n# {citation}")
             bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
-
             print(f"Bookmark URL: {bookmark_url}")
+            self.toc[(book, chapter, verse)] = bookmark_url
+
+
+        @self.tree.command(name="toc", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
+        async def toc(ctx, citation: str, post: bool = False):
+            verse_citation = self.engine.verse_pattern.match(citation)
+            if not verse_citation:
+                await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
+                return
+
+            book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
+
+            await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
+
 
 
 
