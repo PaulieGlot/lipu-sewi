@@ -126,9 +126,19 @@ class Bot:
 
         @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
         async def flag(ctx, citation: str):
-            if self.engine.citation_is_verse(citation):
-                bookmark = await ctx.response.send_message(f"🏁\n# {citation}")
-                print(bookmark)
+            if not self.engine.citation_is_verse(citation):
+                await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
+                return
+
+            await ctx.response.defer()  # Required to acknowledge the interaction early
+
+            # Send the message as a follow-up so we can get the Message object
+            msg = await ctx.followup.send(f"🏁\n# {citation}")
+
+            # Construct the URL
+            bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
+
+            print(f"Bookmark URL: {bookmark_url}")
 
 
     async def respond(self, ctx, text, post: bool):
