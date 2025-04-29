@@ -120,6 +120,22 @@ class Bot:
         async def stats(ctx, post: bool = False):
             await self.respond(ctx, self.engine.get_stats(), post)
 
+
+        @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
+        async def flag(ctx, citation: str):
+            verse_citation = self.engine.verse_pattern.match(citation)
+            if not verse_citation:
+                await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
+                return
+
+            await ctx.response.defer()
+            msg = await ctx.followup.send(f"🏁\n# {citation}")
+            bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
+
+            print(f"Bookmark URL: {bookmark_url}")
+
+
+
     async def respond(self, ctx, text, post: bool):
         if len(text) > 2000:
             text = text[:1996] + " ..."
