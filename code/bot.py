@@ -31,10 +31,10 @@ class Engine:
         return self.range_pattern.match(citation)
 
     def cite(self, citation: str, euphemise: bool) -> str:
-        if citation_is_verse(citation):
+        if self.citation_is_verse(citation):
             book, chapter, start_verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
             end_verse = start_verse
-        elif citation_is_range(citation):
+        elif self.citation_is_range(citation):
             book, chapter = range_citation[1].lower(), int(range_citation[2])
             start_verse, end_verse = int(range_citation[3]), int(range_citation[4])
         else:
@@ -130,12 +130,8 @@ class Bot:
                 await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
                 return
 
-            await ctx.response.defer()  # Required to acknowledge the interaction early
-
-            # Send the message as a follow-up so we can get the Message object
+            await ctx.response.defer()
             msg = await ctx.followup.send(f"🏁\n# {citation}")
-
-            # Construct the URL
             bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
 
             print(f"Bookmark URL: {bookmark_url}")
