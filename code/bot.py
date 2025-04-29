@@ -24,17 +24,13 @@ class Engine:
         line += " cobwebs"
         return line
 
-    def citation_is_verse(self, citation: str) -> bool:
-        return self.verse_pattern.match(citation)
-
-    def citation_is_range(self, citation: str) -> bool:
-        return self.range_pattern.match(citation)
-
     def cite(self, citation: str, euphemise: bool) -> str:
-        if self.citation_is_verse(citation):
+        verse_citation = self.verse_pattern.match(citation)
+        range_citation = self.range_pattern.match(citation)
+        if verse_citation:
             book, chapter, start_verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
             end_verse = start_verse
-        elif self.citation_is_range(citation):
+        elif range_citation:
             book, chapter = range_citation[1].lower(), int(range_citation[2])
             start_verse, end_verse = int(range_citation[3]), int(range_citation[4])
         else:
@@ -123,23 +119,6 @@ class Bot:
         @self.tree.command(name="stats", description="get the latest count of completion", guild=discord.Object(id=self.GUILD_ID))
         async def stats(ctx, post: bool = False):
             await self.respond(ctx, self.engine.get_stats(), post)
-
-        @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
-        async def flag(ctx, citation: str):
-            verse_citation = self.verse_pattern.match(citation)
-            range_citation = self.range_pattern.match(citation)
-            book, chapter, start_verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
-            end_verse = start_verse
-            if not self.engine.citation_is_verse(citation):
-                await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
-                return
-
-            await ctx.response.defer()
-            msg = await ctx.followup.send(f"🏁\n# {citation}")
-            bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
-            
-            print(f"Bookmark URL: {bookmark_url}")
-
 
     async def respond(self, ctx, text, post: bool):
         if len(text) > 2000:
