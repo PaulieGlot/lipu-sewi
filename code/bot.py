@@ -122,7 +122,7 @@ class Bot:
         async def stats(ctx, post: bool = False):
             await self.respond(ctx, self.engine.get_stats(), post)
 
-
+        """
         @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
         async def flag(ctx, citation: str):
             verse_citation = self.engine.verse_pattern.match(citation)
@@ -151,7 +151,7 @@ class Bot:
                 await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
             except KeyError:
                 await self.respond(ctx, f"{book} {chapter}:{verse} has no recorded bookmark.", post)
-
+        """
 
 
 
