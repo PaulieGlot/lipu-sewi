@@ -139,8 +139,8 @@ class Bot:
             self.toc[(book, chapter, verse)] = bookmark_url
 
 
-        @self.tree.command(name="toc", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
-        async def toc(ctx, citation: str, post: bool = False):
+        @self.tree.command(name="goto", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
+        async def goto(ctx, citation: str, post: bool = False):
             verse_citation = self.engine.verse_pattern.match(citation)
             if not verse_citation:
                 await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
