@@ -24,13 +24,17 @@ class Engine:
         line += " cobwebs"
         return line
 
+    def citation_is_verse(self, citation: str) -> bool:
+        return self.verse_pattern.match(citation)
+
+    def citation_is_range(self, citation: str) -> bool:
+        return self.range_pattern.match(citation)
+
     def cite(self, citation: str, euphemise: bool) -> str:
-        verse_citation = self.verse_pattern.match(citation)
-        range_citation = self.range_pattern.match(citation)
-        if verse_citation:
+        if citation_is_verse(citation):
             book, chapter, start_verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
             end_verse = start_verse
-        elif range_citation:
+        elif citation_is_range(citation):
             book, chapter = range_citation[1].lower(), int(range_citation[2])
             start_verse, end_verse = int(range_citation[3]), int(range_citation[4])
         else:
