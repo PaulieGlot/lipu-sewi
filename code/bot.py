@@ -145,7 +145,7 @@ class Bot:
 
         @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
         async def flag(ctx, citation: str):
-            if ctx.thread is None:
+            if not isinstance(ctx.channel, discord.Thread):
                 await self.respond(ctx, "This command must be run inside a thread.", post=False)
                 return
 
@@ -158,7 +158,7 @@ class Bot:
 
             await ctx.response.defer()
             msg = await ctx.followup.send(f"🏁\n# {citation}")
-            thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.id}/{ctx.thread.id}"
+            thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.id}"
             self.toc[(book, chapter, verse)] = thread_url
             self.save_toc()
 
