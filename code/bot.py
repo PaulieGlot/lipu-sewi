@@ -155,7 +155,6 @@ class Bot:
             await ctx.response.defer()
             msg = await ctx.followup.send(f"🏁\n# {citation}")
             bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
-            print(f"Bookmark URL: {bookmark_url}")
             self.toc[(book, chapter, verse)] = bookmark_url
             self.save_toc()
 
