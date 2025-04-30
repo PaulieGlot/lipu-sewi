@@ -105,17 +105,18 @@ class Bot:
             with open(self.TOC_FILE, 'r', newline='', encoding='utf-8') as f:
                 reader = csv.reader(f)
                 for row in reader:
-                    if len(row) == 4:
-                        book, chapter, verse, url = row
-                        toc[(book, int(chapter), int(verse))] = url
+                    if len(row) >= 4:
+                        book, chapter, verse, url = row[:4]
+                        proofreaders = row[4].split('|') if len(row) > 4 and row[4] else []
+                        toc[(book, int(chapter), int(verse))] = (url, proofreaders)
         return toc
 
     def save_toc(self):
         with open(self.TOC_FILE, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
-            for (book, chapter, verse), url in self.toc.items():
-                writer.writerow([book, chapter, verse, url])
-
+            for (book, chapter, verse), (url, proofreaders) in self.toc.items():
+                proofreader_str = '|'.join(proofreaders)
+                writer.writerow([book, chapter, verse, url, proofreader_str])
 
 
     def setup_commands(self):
@@ -172,6 +173,61 @@ class Bot:
                 await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
             except KeyError:
                 await self.respond(ctx, f"{book} {chapter}:{verse} has no recorded bookmark.", post)
+
+        @self.tree.command(name="pr", description="proofread and approve a verse", guild=discord.Object(id=self.GUILD_ID))
+        async def pr(ctx, citation: str):
+            verse_citation = self.engine.verse_pattern.match(citation)
+            if not verse_citation:
+                await self.respond(ctx, f"`{citation}` doesn't look like a valid single-verse citation.", post=False)
+                return
+
+            book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
+            key = (book, chapter, verse)
+
+            if key not in self.toc:
+                await self.respond(ctx, f"{citation} is not flagged/bookmarked yet. use `/flag {citation}` first.", post=False)
+                return
+
+            user = ctx.user.id
+            url, proofreaders = self.toc[key]
+
+            if user in proofreaders:
+                await self.respond(ctx, f"you've already approved {citation}.", post=False)
+                return
+
+            proofreaders.append(user)
+            self.toc[key] = (url, proofreaders)
+            self.save_toc()
+
+            await self.respond(ctx, f"✅ approved {citation} as {user}", post=True)
+
+        @self.tree.command(name="unpr", description="remove your proofreading approval for a verse", guild=discord.Object(id=self.GUILD_ID))
+        async def unpr(ctx, citation: str):
+            verse_citation = self.engine.verse_pattern.match(citation)
+            if not verse_citation:
+                await self.respond(ctx, f"`{citation}` doesn't look like a valid single-verse citation.", post=False)
+                return
+
+            book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
+            key = (book, chapter, verse)
+
+            if key not in self.toc:
+                await self.respond(ctx, f"{citation} is not flagged/bookmarked yet. use `/flag {citation}` first.", post=False)
+                return
+
+            user = ctx.user.id
+            url, proofreaders = self.toc[key]
+
+            if user not in proofreaders:
+                await self.respond(ctx, f"you haven't approved {citation} yet.", post=False)
+                return
+
+            # Remove the user from the proofreader list
+            proofreaders.remove(user)
+            self.toc[key] = (url, proofreaders)
+            self.save_toc()
+
+            await self.respond(ctx, f"✅ removed approval for {citation}", post=True)
 
 
 
