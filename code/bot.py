@@ -222,7 +222,6 @@ class Bot:
                 await self.respond(ctx, f"you haven't approved {citation} yet.", post=False)
                 return
 
-            # Remove the user from the proofreader list
             proofreaders.remove(user)
             self.toc[key] = (url, proofreaders)
             self.save_toc()
