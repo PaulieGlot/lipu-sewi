@@ -145,6 +145,10 @@ class Bot:
 
         @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
         async def flag(ctx, citation: str):
+            if ctx.thread is None:
+                await self.respond(ctx, "This command must be run inside a thread.", post=False)
+                return
+
             verse_citation = self.engine.verse_pattern.match(citation)
             if not verse_citation:
                 await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
@@ -154,8 +158,8 @@ class Bot:
 
             await ctx.response.defer()
             msg = await ctx.followup.send(f"🏁\n# {citation}")
-            bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
-            self.toc[(book, chapter, verse)] = bookmark_url
+            thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.id}/{ctx.thread.id}"
+            self.toc[(book, chapter, verse)] = thread_url
             self.save_toc()
 
         @self.tree.command(name="goto", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
