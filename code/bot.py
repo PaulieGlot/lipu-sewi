@@ -158,7 +158,7 @@ class Bot:
 
             await ctx.response.defer()
             msg = await ctx.followup.send(f"🏁\n# {citation}")
-            thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.id}"
+            thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.parent_id}/{ctx.channel.id}"
             self.toc[(book, chapter, verse)] = thread_url
             self.save_toc()
 
