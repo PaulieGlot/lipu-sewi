@@ -157,6 +157,7 @@ class Bot:
             bookmark_url = f"https://discord.com/channels/{ctx.guild.id}/{msg.channel.id}/{msg.id}"
             print(f"Bookmark URL: {bookmark_url}")
             self.toc[(book, chapter, verse)] = bookmark_url
+            self.save_toc()
 
 
         @self.tree.command(name="goto", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
