@@ -79,12 +79,14 @@ class Engine:
 
 
 class Bot:
+    TOC_FILE = "toc.csv"
+    
     def __init__(self):
         load_dotenv()
         self.repo = "PaulieGlot/lipu-sewi/master/"
         self.engine = Engine(self.repo)
 
-        self.toc: [(str, int, int), str]= {}
+        self.toc: [(str, int, int), str]= self.load_toc()
 
         self.TOKEN = os.getenv('DISCORD_TOKEN')
         self.GUILD_ID = os.getenv('GUILD_ID')
@@ -96,6 +98,25 @@ class Bot:
 
         self.setup_commands()
         self.client.event(self.on_ready)
+
+    def load_toc(self):
+        toc = {}
+        if os.path.exists(self.TOC_FILE):
+            with open(self.TOC_FILE, 'r', newline='', encoding='utf-8') as f:
+                reader = csv.reader(f)
+                for row in reader:
+                    if len(row) == 4:
+                        book, chapter, verse, url = row
+                        toc[(book, int(chapter), int(verse))] = url
+        return toc
+
+    def save_toc(self):
+        with open(self.TOC_FILE, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            for (book, chapter, verse), url in self.toc.items():
+                writer.writerow([book, chapter, verse, url])
+
+
 
     def setup_commands(self):
         @self.tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=self.GUILD_ID))
@@ -122,7 +143,6 @@ class Bot:
         async def stats(ctx, post: bool = False):
             await self.respond(ctx, self.engine.get_stats(), post)
 
-        """
         @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
         async def flag(ctx, citation: str):
             verse_citation = self.engine.verse_pattern.match(citation)
@@ -151,7 +171,6 @@ class Bot:
                 await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
             except KeyError:
                 await self.respond(ctx, f"{book} {chapter}:{verse} has no recorded bookmark.", post)
-        """
 
 
 
