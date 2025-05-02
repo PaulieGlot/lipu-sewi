@@ -162,19 +162,47 @@ class Bot:
             self.toc[(book, chapter, verse)] = thread_url
             self.save_toc()
 
-        @self.tree.command(name="goto", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
-        async def goto(ctx, citation: str, post: bool = False):
-            verse_citation = self.engine.verse_pattern.match(citation)
-            if not verse_citation:
-                await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
-                return
+    @self.tree.command(name="goto", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
+    async def goto(ctx, citation: str, post: bool = False):
+        verse_citation = self.engine.verse_pattern.match(citation)
+        if not verse_citation:
+            await self.respond(ctx, f"`{citation}` doesn't look like a single-verse citation.", post=False)
+            return
 
-            book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
+        book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
+
+        try:
+            thread_url = self.toc[(book, chapter, verse)]
+        except KeyError:
+            await self.respond(ctx, f"{book} {chapter}:{verse} has no recorded bookmark.", post)
+            return
+
+        message = f"{book} {chapter}:{verse} was last bookmarked at: {thread_url}"
+
+        # strip thread ID from URL
+        try:
+            thread_id = int(thread_url.rstrip('/').split("/")[-1])
+            thread = await ctx.guild.fetch_channel(thread_id)
+        except Exception as e:
+            await self.respond(ctx, message + "\nhmm... could not access the thread to check for proofread status.", post)
+            return
+
+        # check for 🔍 from pr
+        if isinstance(thread, discord.Thread):
             try:
-                await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
-            except KeyError:
-                await self.respond(ctx, f"{book} {chapter}:{verse} has no recorded bookmark.", post)
+                starter_message = await thread.fetch_message(thread.starter_message_id)
+                reaction = discord.utils.get(starter_message.reactions, emoji="🔍")
+                if reaction:
+                    users = await reaction.users().flatten()
+                    for user in users:
+                        member = await ctx.guild.fetch_member(user.id)
+                        if any(role.name == "Proofread/lukin-sitelen" for role in member.roles):
+                            message += "\n🔍 this verse has been **proofread** by **real tokiponists.**"
+                            break
+            except Exception:
+                message += "\nhmm... could not verify proofreader reaction."
 
+        await self.respond(ctx, message, post)
 
 
     async def respond(self, ctx, text, post: bool):
