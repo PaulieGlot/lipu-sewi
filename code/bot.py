@@ -103,6 +103,7 @@ class Bot:
         self.engine = Engine(self.repo)
 
         self.toc: [(str, int, int), str]= self.load_toc()
+        self.normalize_existing_bookmarks
 
         self.TOKEN = os.getenv('DISCORD_TOKEN')
         self.GUILD_ID = os.getenv('GUILD_ID')
@@ -132,7 +133,16 @@ class Bot:
             for (book, chapter, verse), url in self.toc.items():
                 writer.writerow([book, chapter, verse, url])
 
+    def normalize_existing_bookmarks(self):
+        updated_toc = {}
+        for (book, chapter, verse), url in self.toc.items():
+            # Normalize the book name
+            normalized_book = self.engine.normalize_book_name(book)
+            updated_toc[(normalized_book, chapter, verse)] = url
 
+        # Replace the old toc with the updated one
+        self.toc = updated_toc
+        self.save_toc()  # Save the updated ToC with normalized keys
 
     def setup_commands(self):
         @self.tree.command(name="cite", description="cite a passage of the translated text", guild=discord.Object(id=self.GUILD_ID))
