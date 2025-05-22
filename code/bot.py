@@ -29,12 +29,12 @@ class Engine:
     def normalize_book_name(self, name: str) -> str:
         name = name.strip().lower().replace(".", "")
         name_no_space = name.replace(" ", "")
-        return self.book_aliases.get(name_no_space, name)
+        return self.aliases.get(name_no_space, name)
 
     def cite(self, citation: str, euphemise: bool) -> str:
         verse_citation = self.verse_pattern.match(citation)
         range_citation = self.range_pattern.match(citation)
-    
+
         if verse_citation:
             raw_book = verse_citation[1]
             chapter = int(verse_citation[2])
@@ -48,22 +48,21 @@ class Engine:
         else:
             return f"hmm... `{citation}` doesn't quite look like a biblical citation to me."
     
-        # Normalize book name
         book = self.normalize_book_name(raw_book)
-    
+
         try:
             section = self.get_section_name(book)
         except FileNotFoundError:
             return "oh fuck! serious problem! book listing file is missing. get jan Poli immediately!"
         except ValueError:
             return f"hmm... `{citation}` doesn't seem to be on the master list of books. check for typos!"
-    
+
         url = self.rawurl + f"bible/{section}/{book}/{chapter:04}.txt"
         file = requests.get(url)
-    
+
         if file.status_code != requests.codes.ok:
             return "oh fuck! serious problem! chapter file is missing. get jan Poli immediately!"
-    
+
         text = ""
         for line in file.text.splitlines():
             prefix = int(line.split(":")[0])
@@ -74,13 +73,13 @@ class Engine:
                 if not line.endswith('\n'):
                     line += '\n'
                 text += line
-    
+
         if not text:
             return f"hmm... `{citation}` doesn't seem to contain any verses - not yet, anyway."
-    
+
         if euphemise:
             text = text.replace("&YHWH", "**Nimi**")
-    
+
         self.nimifier.update()
         return self.nimifier.replace_names(text)
 
