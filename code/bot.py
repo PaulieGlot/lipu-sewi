@@ -171,11 +171,11 @@ class Bot:
                 return
 
             book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
-
+            normalized_book = self.engine.normalize_book_name(book)
             await ctx.response.defer()
             msg = await ctx.followup.send(f"🏁\n# {citation}")
             thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.parent_id}/{ctx.channel.id}"
-            self.toc[(book, chapter, verse)] = thread_url
+            self.toc[(normalized_book, chapter, verse)] = thread_url
             self.save_toc()
 
         @self.tree.command(name="goto", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
@@ -186,10 +186,11 @@ class Bot:
                 return
 
             book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
+            normalized_book = self.engine.normalize_book_name(book)
             try:
-                await self.respond(ctx, f"{book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
+                await self.respond(ctx, f"{normalized_book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
             except KeyError:
-                await self.respond(ctx, f"{book} {chapter}:{verse} has no recorded bookmark.", post)
+                await self.respond(ctx, f"{normalized_book} {chapter}:{verse} has no recorded bookmark.", post)
 
 
 
