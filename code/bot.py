@@ -198,7 +198,7 @@ class Bot:
             book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
             normalized_book = self.engine.normalize_book_name(book)
             try:
-                await self.respond(ctx, f"{normalized_book} {chapter}:{verse} was last bookmarked at: {self.toc[(book, chapter, verse)]}", post)
+                await self.respond(ctx, f"{normalized_book} {chapter}:{verse} was last bookmarked at: {self.toc[(normalized_book, chapter, verse)]}", post)
             except KeyError:
                 await self.respond(ctx, f"{normalized_book} {chapter}:{verse} has no recorded bookmark.", post)
 
