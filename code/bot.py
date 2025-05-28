@@ -222,7 +222,7 @@ class Bot:
 
             # passed all checks. safe to flag
             await ctx.response.defer()
-            await ctx.followup.send(f"🏁 Flagged verse: **{normalized_book} {chapter}:{verse}**")
+            await ctx.followup.send(f"🏁 flagged verse: **{normalized_book} {chapter}:{verse}** is at {thread_url}")
             self.toc[(normalized_book, chapter, verse)] = thread_url
             self.save_toc()
 
