@@ -170,7 +170,7 @@ class Bot:
             await self.respond(ctx, self.engine.get_stats(), post)
 
         @self.tree.command(name="flag", description="updates the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
-        async def flag(ctx, citation: str):
+        async def flag(ctx, citation: str, confirm: bool = False):
             if not isinstance(ctx.channel, discord.Thread):
                 await self.respond(ctx, "This command must be run inside a thread.", post=False)
                 return
@@ -182,11 +182,50 @@ class Bot:
 
             book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
             normalized_book = self.engine.normalize_book_name(book)
-            await ctx.response.defer()
-            msg = await ctx.followup.send(f"🏁\n# {citation}")
             thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.parent_id}/{ctx.channel.id}"
+
+            # check for conflicts
+            existing_url = self.toc.get((normalized_book, chapter, verse))
+            thread_is_used = None
+            for (b, c, v), url in self.toc.items():
+                if url == thread_url and (b, c, v) != (normalized_book, chapter, verse):
+                    thread_is_used = (b, c, v)
+                    break
+                
+            if existing_url and existing_url != thread_url:
+                if not confirm:
+                    await self.respond(
+                        ctx,
+                        f"⚠️ `{normalized_book} {chapter}:{verse}` is already flagged in another thread:\n{existing_url}\n\nif this is intentional, please re-run the command with `confirm: true`.",
+                        post=False
+                    )
+                    return
+
+            if thread_is_used:
+                if not confirm:
+                    b, c, v = thread_is_used
+                    await self.respond(
+                        ctx,
+                        f"⚠️ this thread is already linked to another verse: `{b} {c}:{v}`\n\nif this is intentional, please re-run the command with `confirm: true`.",
+                        post=False
+                    )
+                    return
+
+            # prevent unnecessary confirmations - lazy humans!
+            if confirm and not existing_url and not thread_is_used:
+                await self.respond(
+                    ctx,
+                    f"⚠️ there's no conflict here — you don't need to confirm anything.\n\nplease re-run without `confirm: True`.",
+                    post=False
+                )
+                return
+
+            # passed all checks. safe to flag
+            await ctx.response.defer()
+            await ctx.followup.send(f"🏁 Flagged verse: **{normalized_book} {chapter}:{verse}**")
             self.toc[(normalized_book, chapter, verse)] = thread_url
             self.save_toc()
+
 
         @self.tree.command(name="goto", description="fetches the ToC link for the specified verse", guild=discord.Object(id=self.GUILD_ID))
         async def goto(ctx, citation: str, post: bool = False):
