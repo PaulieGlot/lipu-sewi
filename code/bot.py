@@ -1,5 +1,3 @@
-"""the central bot for the lipu sewi pi toki pona discord server, used to browse and log translation of verses."""
-
 import csv
 import os
 import re
@@ -13,9 +11,10 @@ from dotenv import load_dotenv
 
 
 class Engine:
+    """"""
 
     def __init__(self, repo):
-        self.rawurl = "https://raw.githubusercontent.com/%s" % repo
+        self.rawurl = f"https://raw.githubusercontent.com/{repo}"
         self.verse_pattern = re.compile(r"(.*)\s+(\d+):(\d+)$")
         self.range_pattern = re.compile(r"(.*)\s+(\d+):(\d+)\-(\d+)$")
         self.nimifier = nimi.Nimifier()
@@ -91,7 +90,7 @@ class Engine:
         return self.nimifier.replace_names(text)
 
     def get_section_name(self, book: str) -> str:
-        with open('bible/chapters.csv', 'r') as file:
+        with open('bible/chapters.csv', 'r', encoding="utf-8") as file:
             csvreader = csv.reader(file)
             next(csvreader)
             for row in csvreader:
