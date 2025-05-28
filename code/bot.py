@@ -215,7 +215,7 @@ class Bot:
             if confirm and not existing_url and not thread_is_used:
                 await self.respond(
                     ctx,
-                    f"⚠️ there's no conflict here — you don't need to confirm anything.\n\nplease re-run without `confirm: True`.",
+                    f"⚠️ there's no conflict here - you don't need to confirm anything.\n\nplease re-run without `confirm: True`.",
                     post=False
                 )
                 return
