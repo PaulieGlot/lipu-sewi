@@ -11,8 +11,6 @@ from dotenv import load_dotenv
 
 
 class Engine:
-    """"""
-
     def __init__(self, repo):
         self.rawurl = f"https://raw.githubusercontent.com/{repo}"
         self.verse_pattern = re.compile(r"(.*)\s+(\d+):(\d+)$")
