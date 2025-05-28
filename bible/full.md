@@ -206,6 +206,66 @@
 ### genesis 36
 ### genesis 37
 ### genesis 38
+1: ! tenpo ni la jan Judah li tawa anpa tan poka pi jan sama ona. ona li kama tawa jan pi kulupu Adullamite. nimi ona li Hirah.
+
+2: ! ma ni la jan Judah li lukin e meli lili pi jan pi kulupu Canaanite. nimi jan li Shua. ona li kama jo lawa e meli li unpa e meli.
+
+3: ! ona li kama jo insa e jan lili, li pana weka e ona. ona li mije. mama mije li pana e nimi Er tawa ona.
+
+4: ! ona li kama jo insa sin e jan lili, li pana weka e ona. ona li mije. mama meli li pana e nimi Onan tawa ona.
+
+5: ! ona li ni sin a li pana weka e jan lili. ona li mije. mama meli li pana e nimi Shelah tawa ona. ona li lon ma Chezip lon tenpo pi pana weka.
+
+6: ! jan Judah li kama jo e meli tawa jan lili ona nanpa wan. nimi ona li Tamar.
+
+7: ! jan Er li jan nanpa wan pi jan Judah. ona li ike tawa lukin pi sewi Jawe. sewi Jawe li moli e ona.
+
+8: ! jan Judah li toki tawa jan Onan. o unpa e meli pi jan sama sina. lawa o kama wan e sina tu. o kama e jan kama tawa jan sama sina, sama kili.
+
+9: ! jan Onan li sona e ni: ona li kama ala jo e jan kama, sama kili. ni la ona li unpa e meli pi jan sama ona, la ona li weka li pana e ko walo lon ma, tan ni: ona li wile ala pana e jan kama tawa jan sama ona, sama kili.
+
+10: ! taso pali ni li ike tawa lukin pi sewi Jawe. ni la sewi li moli e ona kin.
+
+11: ! jan Judah li toki tawa jan Tamar pi mije moli. o awen jo ala e mije lon tomo pi mama sina tawa tenpo ni: jan Shelah mi li kama suli. ona li toki: ni ala la ona li moli sama jan sama ona. la jan Tamar li kama awen lon tomo pi mama ona.
+
+12: ! suno li kama mute. meli kama pi jan Shua li moli. ona li meli pi jan Judah. pilin pi jan Judah li kama pona tan ni: ona en jan Hirah poka pi kulupu Adullamite li tawa sewi li tawa jan pi linja suwi soweli li tawa ma Timnah.
+
+13: ! ijo li toki e ni tawa jan Tamar li toki. o sona: mama pi mije sina li tawa sewi tawa ma Timnah li wile weka e ko tan selo pi soweli ona.
+
+14: ! ona meli li weka e len tenpo pi moli mije tan ona li len e ona sama kepeken len sin li len e selo ale ona li kama monsi e ma lon open pi ma Enaim ni: ona li lon nasin tawa ma Timnah. tan ni: ona li lukin la jan Shelah li kama suli. ijo li pana ala lawa e meli ni tawa ona.
+
+15: ! jan Judah li lukin e ona. ona li pilin e ni: ona li meli pi pali unpa. tan ni: ona li len e sinpin ona.
+
+16: ! ona li lukin tawa ona meli lon nasin li toki: o kama e ni: mi o ken unpa e sina. ona li sona ala e ni: ni li meli pi jan lili ona. ona meli li toki. sina esun e unpa mi e seme sina?
+
+17: ! ona mije li toki. mi pana a e soweli lili tan kulupu soweli. ona meli li toki. o pana e ijo. sina pana e soweli la ijo ni li ken kama sin lon sina.
+
+18: ! ona mije li toki. mi o pana e ijo seme tawa sina? ona meli li toki. sike luka sina en linja sina en palisa sina. la mije li pana e ijo tawa meli li unpa e ona li kama e jan sin tawa insa ona.
+
+19: ! ona meli li kama sewi li tawa li weka poka e len ona li kama sin e len tenpo pi moli mije.
+
+20: ! jan Judah li pana e soweli lili kepeken jan poka pi kulupu Adullamite tawa ni: ona li kama jo sin e ijo tan meli. taso ona li kama ala lukin e meli.
+
+21: ! ona li toki e ni tawa mije pi ma pi ona meli. meli pi pali unpa li lon seme? ona li lon ma Enaim lon nasin. mije mute li toki. meli pi pali unpa li lon ala ni.
+
+22: ! ona li kama sin tawa jan Judah li toki. mi ken ala kama lukin e ona. kin, mije ma li toki e ni: meli pi pali unpa li lon ala ni.
+
+23: ! jan Judah li toki. meli o ken kama jo. ante, la kulupu li anpa e mi. o sona: mi pana e soweli ni, taso sina kama ala lukin e ona.
+
+24: ! tenpo mun 3 li kama li weka la jan li kama e sona lon jan Judah li toki e ni: jan Tamar ni li pali unpa: lawa li wan e ona e jan lili sina. kin, o sona: ona li jo sijelo e jan lili tan pali unpa. jan Judah li toki. o kama e ona tan insa. ona o kama seli.
+
+25: ! ona li kama weka tan insa, la ona li pana e sona ni tawa mama pi mije ona: mi kama jo e jan insa tan mije pi ijo ni. ona li awen toki: o kama sona e ni: sike luka en linja en palisa li tawa jan seme?
+
+26: ! jan Judah li lukin li sona e ijo li toki: mi, la meli ni li pona sewi, tan ni: mi pana ala e ona tawa mije lili mi Shelah. ona mije li kama ala sona sin e ona meli.
+
+27: ! ni ale la, lon tenpo pi pana jan, la o sona: jan tu li lon insa ona!
+
+28: ! meli li pana e jan la jan lili li pana e luka. meli poka li kama jo e luka ni, li awen e linja loje lon ona, li toki. jan ni li kama weka lon tenpo nanpa wan.
+
+29: ! jan lili ni li kama sin e luka ona tawa insa meli, la o sona! jan sama ona li kama a tan insa a! meli poka li toki. nasin seme la sina kama? sina utala pi wile weka, ni la nimi ona li Perez.
+
+30: ! ni li pini la jan sama ona li kama la luka ona li jo e linja loje. nimi ona li Zerah.
+
 ### genesis 39
 ### genesis 40
 ### genesis 41
@@ -363,7 +423,7 @@
 
 19: ! jan tawa sewi pi sewi Elowin li tawa, li tawa monsi lon monsi ona. kin la, palisa pi kon telo li tawa tan sinpin ona tawa monsi ona.
 
-20: ! ona li kama lon meso pi ni tu: ma lape Misalin en ma lape Isale. kon telo en pimeja li lon la, ona li suno e tenpo pimeja. kulupu wan li kama ala lon poka pi kulupu ante lon tenpo pimeja ale.
+20: ! ona li kama lon insa pi ni tu: ma lape Misalin en ma lape Isale. kon telo en pimeja li lon la, ona li suno e tenpo pimeja. kulupu wan li kama ala lon poka pi kulupu ante lon tenpo pimeja ale.
 
 21: ! jan Mose li palisa e luka ona lon telo suli. sewi Jawe li tawa e telo suli kepeken kon wawa tan poka pi kama suno lon ale pi tenpo pimeja, li pana e telo tawa ma pi telo ala. telo li kama tu.
 
@@ -956,6 +1016,19 @@
 ### 1 samuel 31
 ## old testament: 2 samuel
 ### 2 samuel 1
+1: ! moli pini pi jan Saul la, jan David li utala e kulupu Amalekite la, ona li kama sin tan utala ni.  jan David li awen lon ma Ziklag. tenpo suno tu la, ona li awen.
+
+2: ! tenpo suno nanpa 3 la, jan wan li kama tan kulupu pi tomo len pi jan Saul. len jan ona li kipisi. ko ma li lon lawa ona. ona li kama tawa jan David la, ona li kama anpa. sinpin ona li tawa ma.
+
+3: ! jan David li toki tawa ona. sina kama tan seme? ona li toki tawa ona. mi weka tan kulupu pi jan Saul.
+
+4: ! jan David li toki tawa ona: seme li lon? o toki e ni tawa mi. ona li toki e ni: jan li lukin weka tan utala. kin la, jan mute li anpa. ona li moli. kin la, jan Saul en jan lili ona Jonathan li moli.
+
+5: ! jan li pana e sona tawa ona la jan David li toki tawa jan utala lili ni: seme la sina sona e ni: jan Saul en jan lili ona Jonathan li moli?
+
+6: ! jan lili ni li toki: tenpo la, mi lon nena Gilboa. a! jan Saul li awen lon noka ona kepeken ilo palisa utala ona. a! tomo tawa soweli en jan utala soweli li kama wawa tawa ona.
+
+8: ! ona li toki tawa mi: sina jan seme. mi toki tawa sina: mi jan Amalekite.
 ### 2 samuel 2
 ### 2 samuel 3
 ### 2 samuel 4
