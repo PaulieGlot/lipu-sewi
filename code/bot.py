@@ -81,12 +81,14 @@ class Engine:
         if not text:
             return f"hmm... `{citation}` doesn't seem to contain any verses - not yet, anyway."
 
-        if euphemise:
-            text = text.replace("&YHWH", "**Nimi**")
-
         self.nimifier.update()
-        return self.nimifier.replace_names(text)
+        text = self.nimifier.replace_names(text)
 
+        if euphemise:
+            text = text.replace("Jawe", "**Nimi**")
+            
+        return text
+        
     def get_section_name(self, book: str) -> str:
         with open('bible/chapters.csv', 'r', encoding="utf-8") as file:
             csvreader = csv.reader(file)
