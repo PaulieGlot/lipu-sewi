@@ -17,6 +17,7 @@ class Engine:
         self.verse_pattern = re.compile(r"(.*)\s+(\d+):(\d+)$")
         self.range_pattern = re.compile(r"(.*)\s+(\d+):(\d+)\-(\d+)$")
         self.nimifier = nimi.Nimifier()
+        await self.nimifier.update()
         self.aliases = bookaliases.BOOK_ALIASES
 
     async def get_stats(self) -> str:
