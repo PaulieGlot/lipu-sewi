@@ -24,7 +24,7 @@ class Engine:
         async with aiohttp.ClientSession() as session:
             async with session.get(url) as resp:
                 if resp.status != 200:
-                    return "Error fetching stats."
+                    return "error fetching stats."
                 text = await resp.text()
                 for line in text.splitlines():
                     pass
@@ -206,20 +206,20 @@ class Bot:
 
             if existing_url and existing_url != thread_url and not confirm:
                 await self.respond(ctx,
-                                   f"⚠️ `{normalized_book} {chapter}:{verse}` is already flagged elsewhere:\n{existing_url}\n\nRe-run with `confirm: true` to override.",
+                                   f"⚠️ `{normalized_book} {chapter}:{verse}` is already flagged elsewhere:\n{existing_url}\n\nre-run with `confirm: true` to override.",
                                    post=False)
                 return
 
             if thread_is_used and not confirm:
                 b, c, v = thread_is_used
                 await self.respond(ctx,
-                                   f"⚠️ this thread is already linked to `{b} {c}:{v}`.\n\nRe-run with `confirm: true` to override.",
+                                   f"⚠️ this thread is already linked to `{b} {c}:{v}`.\n\nre-run with `confirm: true` to override.",
                                    post=False)
                 return
 
             if confirm and not existing_url and not thread_is_used:
                 await self.respond(ctx,
-                                   "⚠️ There's no conflict here - no need to confirm.\nRe-run without `confirm: True`.",
+                                   "⚠️ there's no conflict here - no need to confirm.\nre-run without `confirm: True`.",
                                    post=False)
                 return
 
