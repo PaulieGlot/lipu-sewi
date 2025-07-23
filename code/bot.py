@@ -89,7 +89,7 @@ class Engine:
         if not text:
             return f"hmm... `{citation}` doesn't seem to contain any verses - not yet, anyway."
 
-        self.nimifier.update()
+        await self.nimifier.update()
         text = self.nimifier.replace_names(text)
 
         if euphemise:
