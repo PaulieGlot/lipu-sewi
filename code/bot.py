@@ -19,7 +19,7 @@ class Engine:
         self.aliases = bookaliases.BOOK_ALIASES
 
     async def get_stats(self) -> str:
-        url = self.rawurl + "stats/completion.csv"
+        url = self.rawurl + "/stats/completion.csv"
         async with aiohttp.ClientSession() as session:
             async with session.get(url) as resp:
                 if resp.status != 200:
