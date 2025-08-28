@@ -68,7 +68,7 @@ class Engine:
         except ValueError:
             return f"hmm... `{citation}` doesn't seem to be on the master list of books. check for typos!"
 
-        url = self.rawurl + f"bible/{section}/{book}/{chapter:04}.txt"
+        url = self.rawurl + f"/bible/{section}/{book}/{chapter:04}.txt"
 
         async with aiohttp.ClientSession() as session:
             async with session.get(url) as file:
