@@ -112,7 +112,7 @@ class Bot:
 
     def __init__(self):
         load_dotenv()
-        self.repo = "PaulieGlot/lipu-sewi/master/"
+        self.repo = "PaulieGlot/lipu-sewi/refs/heads/master/"
         self.engine = Engine(self.repo)
         self.toc = self.load_toc()
         self.normalize_existing_bookmarks()
