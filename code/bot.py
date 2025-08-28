@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 class Engine:
     def __init__(self, repo):
-        self.rawurl = f"https://raw.githubusercontent.com/{repo}"
+        self.rawurl = f"https://raw.githubusercontent.com/{repo}/refs/heads/master"
         self.verse_pattern = re.compile(r"(.*)\s+(\d+):(\d+)$")
         self.range_pattern = re.compile(r"(.*)\s+(\d+):(\d+)\-(\d+)$")
         self.nimifier = nimi.Nimifier()
@@ -112,7 +112,7 @@ class Bot:
 
     def __init__(self):
         load_dotenv()
-        self.repo = "PaulieGlot/lipu-sewi/refs/heads/master"
+        self.repo = "PaulieGlot/lipu-sewi"
         self.engine = Engine(self.repo)
         self.toc = self.load_toc()
         self.normalize_existing_bookmarks()
