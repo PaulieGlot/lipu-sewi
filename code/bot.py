@@ -69,7 +69,6 @@ class Engine:
             return f"hmm... `{citation}` doesn't seem to be on the master list of books. check for typos!"
 
         url = self.rawurl + f"/bible/{section}/{book}/{chapter:04}.txt"
-        url = url.replace(" ", "%20")
 
         print("DEBUG /cite")
         print(f"raw citation: {citation}")
