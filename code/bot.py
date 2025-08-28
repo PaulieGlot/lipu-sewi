@@ -70,6 +70,15 @@ class Engine:
 
         url = self.rawurl + f"/bible/{section}/{book}/{chapter:04}.txt"
 
+        print("DEBUG /cite")
+        print(f"raw citation: {citation}")
+        print(f"resolved book: {book}")
+        print(f"chapter: {chapter}")
+        print(f"verse range: {start_verse}-{end_verse}")
+        print(f"section: {section}")
+        print(f"URL: {url}")
+
+
         async with aiohttp.ClientSession() as session:
             async with session.get(url) as file:
                 if file.status != 200:
