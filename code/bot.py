@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 class Engine:
     def __init__(self, repo):
-        self.rawurl = f"https://raw.githubusercontent.com/{repo}/refs/heads/master"
+        self.rawurl = f"https://raw.githubusercontent.com/{repo}/master"
         self.verse_pattern = re.compile(r"(.*)\s+(\d+):(\d+)$")
         self.range_pattern = re.compile(r"(.*)\s+(\d+):(\d+)\-(\d+)$")
         self.nimifier = nimi.Nimifier()
