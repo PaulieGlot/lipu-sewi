@@ -202,18 +202,18 @@ class Bot:
 
             book, chapter, verse = verse_citation[1].lower(), int(verse_citation[2]), int(verse_citation[3])
             normalized_book = self.engine.normalize_book_name(book)
-            thread_url = f"https://discord.com/channels/{ctx.guild.id}/{ctx.channel.parent_id}/{ctx.channel.id}"
+            thread = f"{ctx.channel.parent_id}/{ctx.channel.id}"
 
-            existing_url = self.toc.get((normalized_book, chapter, verse))
+            existing_thread = self.toc.get((normalized_book, chapter, verse))
             thread_is_used = None
             for (b, c, v), url in self.toc.items():
-                if url == thread_url and (b, c, v) != (normalized_book, chapter, verse):
+                if url == thread and (b, c, v) != (normalized_book, chapter, verse):
                     thread_is_used = (b, c, v)
                     break
 
-            if existing_url and existing_url != thread_url and not confirm:
+            if existing_thread and existing_thread != thread and not confirm:
                 await self.respond(ctx,
-                                   f"⚠️ `{normalized_book} {chapter}:{verse}` is already flagged elsewhere:\n{existing_url}\n\nre-run with `confirm: true` to override.",
+                                   f"⚠️ `{normalized_book} {chapter}:{verse}` is already flagged elsewhere:\nhttps://discord.com/channels/{ctx.guild.id}/{existing_thread}\n\nre-run with `confirm: true` to override.",
                                    post=False)
                 return
 
@@ -224,7 +224,7 @@ class Bot:
                                    post=False)
                 return
 
-            if confirm and not existing_url and not thread_is_used:
+            if confirm and not existing_thread and not thread_is_used:
                 await self.respond(ctx,
                                    "⚠️ there's no conflict here - no need to confirm.\nre-run without `confirm: True`.",
                                    post=False)
@@ -232,8 +232,8 @@ class Bot:
 
             await ctx.response.defer()
             await ctx.followup.send(
-                f"🏁 flagged verse: **{normalized_book} {chapter}:{verse}** is at {thread_url}")
-            self.toc[(normalized_book, chapter, verse)] = thread_url
+                f"🏁 flagged verse: **{normalized_book} {chapter}:{verse}** is at https://discord.com/channels/{ctx.guild.id}/{thread}")
+            self.toc[(normalized_book, chapter, verse)] = thread
             self.save_toc()
 
         @self.tree.command(name="goto", description="fetches the ToC link for the specified verse",
@@ -248,7 +248,7 @@ class Bot:
             normalized_book = self.engine.normalize_book_name(book)
             try:
                 await self.respond(ctx,
-                                   f"{normalized_book} {chapter}:{verse} was last bookmarked at: {self.toc[(normalized_book, chapter, verse)]}",
+                                   f"{normalized_book} {chapter}:{verse} was last bookmarked at: https://discord.com/channels/{ctx.guild.id}/{self.toc[(normalized_book, chapter, verse)]}",
                                    post)
             except KeyError:
                 await self.respond(ctx,
