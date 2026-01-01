@@ -2,6 +2,7 @@
 .venv
 .vscode
 styleguide.md
+__pycache__
 code/__pycache__
 ignore
 bible/nonames.md
