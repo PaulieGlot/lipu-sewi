@@ -7,7 +7,7 @@
 7: ! sewi &YHWH &Elohim li pali e jan kepeken ko ma, li kon e kon sijelo tawa nena sinpin ona. jan li kama ijo pi kon sijelo.
 8: ! sewi &YHWH &Elohim li pali e ma kasi suwi lon ma &Eden, lon nasin pi kama suno. ona li pana e jan pi pali ona tawa ma ni.
 9: ! sewi &YHWH &Elohim li kama suli e kasi suli ale pi pona lukin pi pona moku tan ma. kasi suli pi moli ala en kasi suli pi sona pi ijo pona pi ijo ike li lon insa pi ma kasi suwi.
-10: ! nasin telo li tawa tan ma &Eden tawa ni: ona li telo e ma kasi. lon ni la, ona li  kipisi, li kama nasin 4.
+10: ! nasin telo li tawa tan ma &Eden tawa ni: ona li telo e ma kasi. lon ni la, ona li kipisi, li kama nasin 4.
 11: ! nimi pi nasin nanpa wan li nimi &Pishon. ona li lon poka ale pi ma &Havilah. kiwen jelo li lon ma ni.
 12: ! kiwen jelo pi ma ni li pona. kiwen &Bdellium en kiwen &Shoham li lon ni.
 13: ! nimi pi nasin telo nanpa 2 li nasin &Gihon. ona li lon poka ale pi ma &Cush.
@@ -21,3 +21,4 @@
 21: ! sewi &YHWH &Elohim li anpa pi lape wawa e jan. ona li lape. ona sewi li kama jo e poka wan pi sijelo ona, li pini e sijelo pi poka ni.
 22: ! ona li kama jo e poka tan jan la, sewi @YHWH &Elohim li pali e ni: poka li kama jan meli. ona sewi li tawa e ona tawa jan.
 23: ! jan li toki: tenpo ni la, ni li kiwen sijelo tan kiwen sijelo mi, li sijelo tan sijelo mi. nimi ona li nimi Meli tan ni: ona li kama tan mije.
+24: ! tan ni la, mije li kama weka tan mama mije ona tan mama meli ona, li kama awen lon poka pi meli ona. ona tu li kama sijelo wan.
