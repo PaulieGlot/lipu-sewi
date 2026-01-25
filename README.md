@@ -9,6 +9,8 @@ For security reasons we will not be accepting pull requests outside of a few tru
 # I'm just looking to read...
 No problem! All chapter files and the fulltext file are in the directory `/bible/`. Also check out <a href="https://www.tengg-online.at/blog/">jan Pilipu's blog</a>, where you can find additional commentary and notes on the translation process.
 
+You can also check out our reading webapp here: <a href="https://lipu-sewi.github.io">lipu-sewi.github.io</a>. It will automatically update based on additions. Feel free to come talk about it and make suggestions on the discord!
+
 # Our method
 Members of our team are classed into roles:
 <table>
