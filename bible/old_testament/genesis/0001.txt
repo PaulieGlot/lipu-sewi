@@ -1,6 +1,6 @@
 1: ! open la, sewi &Elohim li lon e sewi e ma.
 2: ! ma li nasa li ala. pimeja li lon selo pi telo nasa pi anpa suli. kon pi sewi &Elohim li awen sewi lon telo.
-3: ! sewi &Elohim li toki. suno o lon. la suno li lon.
+3: ! sewi &Elohim li toki: suno o lon. la suno li lon.
 4: ! sewi &Elohim li lukin e suno: ona li pona. suno en pimeja la, sewi &Elohim li tu e ona.
 5: ! sewi &Elohim li nimi Tenpo Suno e suno, li nimi Tenpo Pimeja e pimeja. tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 1.
 6: ! sewi &Elohim li toki: selo o lon insa telo. telo en telo la, selo o tu e ona.
