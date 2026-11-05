@@ -1,0 +1,31 @@
+1: ! open la, sewi &Elohim li lon e sewi e ma.
+2: ! ma li nasa li ala. pimeja li lon selo pi telo nasa pi anpa suli. kon pi sewi &Elohim li awen sewi lon telo.
+3: ! sewi &Elohim li toki: suno o lon. suno li lon.
+4: ! sewi &Elohim li lukin e suno: ona li pona. suno en pimeja la, sewi &Elohim li tu e ona.
+5: ! sewi &Elohim li nimi Tenpo Suno e suno, li nimi Tenpo Pimeja e pimeja. tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 1.
+6: ! sewi &Elohim li toki: selo o lon insa telo. telo en telo la, selo o tu e ona.
+7: ! sewi &Elohim li pali e selo. telo pi anpa selo, en telo pi sewi selo la, sewi &Elohim li tu e ona. ni li lon.
+8: ! sewi &Elohim li nimi Sewi e selo. tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa tu.
+9: ! sewi &Elohim li toki: telo pi anpa sewi o kulupu tawa ma wan. ma pi telo ala o kama tawa lukin. ni li lon.
+10: ! sewi &Elohim li nimi Ma e ma pi telo ala, li nimi Telo Suli e kulupu telo. sewi &Elohim li lukin e ona: ona li pona.
+11: ! sewi &Elohim li toki: ma o pana e kasi lili ma, e kasi lili moku, e kasi suli kili lon ma. kasi lili moku li pana e sike mama. kasi suli kili li pali e kili pi nasin ona. sike mama pi kili ni li lon insa pi kili ona. ni li lon.
+12: ! ma li pana e kasi lili ma, e kasi lili moku, e kasi suli. kasi lili moku li pana e sike mama pi nasin ona. kasi suli li pali e kili pi nasin ona. sike mama pi kili ni li lon insa pi kili ona. sewi &Elohim li lukin e ona: ona li pona.
+13: ! tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 3.
+14: ! sewi &Elohim li toki: suno o lon selo sewi tawa ni: tenpo suno en tenpo pimeja la, suno o tu e ona. ona o lon tawa ni: sona pi ijo kama, en nasin tenpo, en tenpo suno, en tenpo sike suno.
+15: ! ona o pana e suno lon selo sewi, o suno tawa ma.  ni li lon.
+16: ! sewi &Elohim li pali e suno suli tu, li pali e suno suli ni e suno lili ni, li pali e mun mute. suno suli li lawa pi tenpo suno. suno lili li lawa pi tenpo pimeja.
+17: ! sewi &Elohim li pana e ona lon selo sewi tawa ni: ona li suno tawa ma,
+18: ! li lawa e tenpo suno, e tenpo pimeja. ni la, suno en pimeja la, ona li tu e ona. sewi &Elohim li lukin e ona: ona li pona.
+19: ! tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 4.
+20: ! sewi &Elohim li toki: telo o mute e kulupu ijo pi kon sijelo. waso o tawa sewi lon sewi ma lon selo sewi.
+21: ! sewi &Elohim li lon e kala monsuta suli, e ijo ale pi kon sijelo pi tawa akesi, e waso ale pi luka waso pi nasin ona. telo li mute e ijo ni pi nasin ona. sewi &Elohim li lukin e ona: ona li pona.
+22: ! sewi &Elohim li pana pona sewi lon ona, li toki tawa ona: o kili, o mute, o mute tawa ale telo lon telo suli. waso o mute lon ma.
+23: ! tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 5.
+24: ! sewi &Elohim li toki: soweli mani en akesi en soweli ma pi nasin ona la, ma o pana e ijo pi kon sijelo pi nasin ona. ni li lon.
+25: ! sewi &Elohim li pali e soweli ma pi nasin ona, e soweli mani pi nasin ona, e akesi ma ale pi nasin ona. sewi &Elohim li lukin e ona: ona li pona.
+26: ! sewi &Elohim li toki: mi o pali e jan.  sitelen en nasin la, jan ni li sama mi. ona o lawa e kala pi telo suli, e waso sewi, e soweli, e ma ale, e akesi ale pi tawa lili ma.
+27: ! sitelen pi sama ona la, sewi &Elohim li lon e jan. sitelen pi sama pi sewi &Elohim la, ona li lon e ona. mije en meli la, ona li lon e ona.
+28: ! sewi &Elohim li pana pona sewi lon ona, li toki tawa ona: o kili, o mute, o mute tawa ale ma, o anpa e ona, o lawa e kala pi telo suli, e waso sewi, e ijo sijelo ale pi tawa ma.
+29: ! sewi &Elohim li toki: o lukin. mi pana e kasi lili moku ale tawa sina, e kasi suli ale. kasi lili ni li pana e sike mama, li lon ale ma. kili li lon kasi suli ni, li pana e sike mama. ni li moku tawa sina.
+30: ! tawa moku la, mi pana e kasi laso moku ale tawa soweli ma ale, tawa waso sewi ale, tawa ijo ale pi tawa akesi, tawa ijo ale pi kon sijelo. ni li lon.
+31: ! sewi &Elohim li lukin e pali ali ona: a. ona li pona mute. tenpo pi pini suno li kama. tenpo pi open suno li kama. ni li tenpo suno nanpa 6.

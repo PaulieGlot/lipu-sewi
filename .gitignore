@@ -1,0 +1,10 @@
+.env
+.venv
+.vscode
+styleguide.md
+__pycache__
+code/__pycache__
+ignore
+bible/nonames.md
+code/toc.py
+code/bot2.py
